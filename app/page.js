@@ -11,6 +11,7 @@ export default function Home() {
   const [events, setEvents] = useState([]);
   const [ageFilter, setAgeFilter] = useState('all');
   const [timeFilter, setTimeFilter] = useState('all');
+  const [categoryFilter, setCategoryFilter] = useState('all');
 
   useEffect(() => {
     let filtered = eventsData || [];
@@ -18,6 +19,11 @@ export default function Home() {
     // Age Filter
     if (ageFilter !== 'all') {
       filtered = filtered.filter(e => e.age_category === ageFilter || e.age_category.includes(ageFilter) || e.age_category === 'family');
+    }
+
+    // Taxonomy Category Filter
+    if (categoryFilter !== 'all') {
+      filtered = filtered.filter(e => e.category === categoryFilter);
     }
 
     // Timeframe Filter
@@ -40,7 +46,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-slate-50 font-sans pb-10">
-      <header className="bg-white px-6 pt-16 pb-6 shadow-[0_2px_15px_rgba(0,0,0,0.03)] sticky top-0 z-10 w-full rounded-b-3xl border-b border-slate-100">
+      <header className="bg-white/80 backdrop-blur-xl px-6 pt-16 pb-6 shadow-[0_8px_30px_rgb(0,0,0,0.04)] sticky top-0 z-20 w-full rounded-b-[2.5rem] border-b border-white/20">
         <div className="flex items-center justify-between mb-2">
           <h1 className="text-3xl font-extrabold text-slate-900 tracking-tight">
             Gia Đình & <span className="text-indigo-600">Sự Kiện</span>
@@ -93,6 +99,19 @@ export default function Home() {
           >
             <Users size={18} /> 6+ tuổi
           </button>
+        </div>
+
+        {/* Dynamic Taxonomy Filter */}
+        <div className="flex gap-2 mt-4 overflow-x-auto hide-scrollbar pb-1">
+          {['all', 'Workshop & Kỹ năng', 'Nghệ thuật & Biểu diễn', 'Vui chơi & Dã ngoại', 'Lễ hội & Sự kiện', 'Triển lãm & Trưng bày'].map(cat => (
+            <button key={cat}
+              onClick={() => setCategoryFilter(cat)}
+              className={`px-3 py-1.5 rounded-full whitespace-nowrap text-[11px] font-extrabold uppercase tracking-wide transition-all border ${categoryFilter === cat ? 'bg-teal-600 text-white border-teal-600 shadow-md shadow-teal-200' : 'bg-white text-slate-500 border-slate-200 hover:border-teal-300 hover:text-teal-600'
+                }`}
+            >
+              {cat === 'all' ? 'Tất cả chủ đề' : cat}
+            </button>
+          ))}
         </div>
       </header>
 
