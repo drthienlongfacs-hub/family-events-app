@@ -9,16 +9,16 @@
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T07:45:18.904Z",
-      "provider": "Ticketbox Family HCMC",
-      "issue": "HTTP 404",
-      "context": "AxiosError: Request failed with status code 404\n    at settle (file:///home/runner/work/family-events-app/family-events-app/node_modules/axios/lib/core/settle.js:20:7)\n    at IncomingMessage.handleStreamEnd (file:///home/runner/work/family-events-app/family-events-app/node_modules/axios/lib/adapters/http.js:847:13)\n    at IncomingMessage.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/runner/work/family-events-app/family-events-app/node_modules/axios/lib/core/Axios.js:46:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchAndParse (file:///home/runner/work/family-events-app/family-events-app/lib/scraper-github.mjs:90:26)\n    at async Promise.all (index 1)\n    at async enterpriseHarvest (file:///home/runner/work/family-events-app/family-events-app/lib/scraper-github.mjs:107:21)",
+      "timestamp": "2026-04-06T07:48:30.010Z",
+      "provider": "Unknown",
+      "issue": "getaddrinfo ENOTFOUND api.hcmc.gov.vn",
+      "context": "",
       "status": "action_required"
     }
   ],
   "last_audit": {
-    "date": "2026-04-06T07:45:18.905Z",
-    "processed": 4,
+    "date": "2026-04-06T07:48:30.011Z",
+    "processed": 0,
     "failed": 1,
     "health": "DEGRADED"
   }
