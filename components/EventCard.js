@@ -1,4 +1,4 @@
-import { CalendarDays, MapPin, Baby, Users, ShieldCheck, Star, CheckCircle2, Globe } from "lucide-react";
+import { CalendarDays, MapPin, Baby, Users, ShieldCheck, Star, CheckCircle2, Globe, Tags } from "lucide-react";
 
 export function EventCard({ event }) {
     const isToddler = event.age_category === '16mo';
@@ -42,6 +42,13 @@ export function EventCard({ event }) {
                         <Globe size={12} />
                         {platformLabel}
                     </span>
+
+                    {event.category && (
+                        <span className="flex items-center gap-1 text-[10px] uppercase tracking-wider font-bold text-teal-700 bg-teal-50 border border-teal-100 px-2 py-1 rounded-full">
+                            <Tags size={12} />
+                            {event.category}
+                        </span>
+                    )}
 
                     <span className="flex items-center gap-1 text-[10px] uppercase tracking-wider font-bold text-slate-700 bg-slate-100 px-2 py-1 rounded-full">
                         <ShieldCheck size={12} className="text-emerald-500" />
