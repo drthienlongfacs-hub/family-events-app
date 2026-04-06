@@ -46,77 +46,79 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-slate-50 font-sans pb-10">
-      <header className="bg-white/80 backdrop-blur-xl px-6 pt-16 pb-6 shadow-[0_8px_30px_rgb(0,0,0,0.04)] sticky top-0 z-20 w-full rounded-b-[2.5rem] border-b border-white/20">
-        <div className="flex items-center justify-between mb-2">
-          <h1 className="text-3xl font-extrabold text-slate-900 tracking-tight">
-            Gia Đình & <span className="text-indigo-600">Sự Kiện</span>
-          </h1>
-          <div className="bg-rose-50 text-rose-600 text-[10px] font-bold px-3 py-1.5 rounded-full flex items-center gap-1.5 shadow-sm">
-            <MapPin size={12} /> TPHCM
+      <header className="bg-white/80 backdrop-blur-xl pt-16 pb-6 shadow-[0_8px_30px_rgb(0,0,0,0.04)] sticky top-0 z-20 w-full rounded-b-[2.5rem] border-b border-white/20">
+        <div className="max-w-2xl mx-auto px-6">
+          <div className="flex items-center justify-between mb-2">
+            <h1 className="text-3xl font-extrabold text-slate-900 tracking-tight">
+              Gia Đình & <span className="text-indigo-600">Sự Kiện</span>
+            </h1>
+            <div className="bg-rose-50 text-rose-600 text-[10px] font-bold px-3 py-1.5 rounded-full flex items-center gap-1.5 shadow-sm">
+              <MapPin size={12} /> TPHCM
+            </div>
           </div>
-        </div>
 
-        <p className="text-slate-500 font-medium tracking-wide text-xs mb-6 max-w-sm">
-          Phân tích theo thời gian thực (Real-Data Driven). Nguồn: Cultural Centers & NGOs.
-        </p>
+          <p className="text-slate-500 font-medium tracking-wide text-xs mb-6 max-w-sm">
+            Phân tích theo thời gian thực (Real-Data Driven). Nguồn: Cultural Centers & NGOs.
+          </p>
 
-        {/* Timeframe Chips */}
-        <div className="flex gap-2 overflow-x-auto hide-scrollbar pb-4 border-b border-slate-100 mb-4">
-          <CalendarDays size={18} className="text-slate-400 mt-0.5 mr-1" />
-          {['all', 'today', 'week', 'month'].map(frame => (
-            <button key={frame}
-              onClick={() => setTimeFilter(frame)}
-              className={`px-4 py-1.5 rounded-full whitespace-nowrap text-sm font-bold transition-all ${timeFilter === frame ? 'bg-indigo-600 text-white shadow-md shadow-indigo-200' : 'bg-slate-100 text-slate-500 hover:bg-slate-200'
+          {/* Timeframe Chips */}
+          <div className="flex gap-2 overflow-x-auto hide-scrollbar pb-4 border-b border-slate-100 mb-4">
+            <CalendarDays size={18} className="text-slate-400 mt-0.5 mr-1" />
+            {['all', 'today', 'week', 'month'].map(frame => (
+              <button key={frame}
+                onClick={() => setTimeFilter(frame)}
+                className={`px-4 py-1.5 rounded-full whitespace-nowrap text-sm font-bold transition-all ${timeFilter === frame ? 'bg-indigo-600 text-white shadow-md shadow-indigo-200' : 'bg-slate-100 text-slate-500 hover:bg-slate-200'
+                  }`}
+              >
+                {frame === 'all' ? 'Mọi lúc' : frame === 'today' ? 'Hôm nay' : frame === 'week' ? 'Tuần này' : 'Tháng này'}
+              </button>
+            ))}
+          </div>
+
+          {/* Age Filters */}
+          <div className="flex gap-3 mt-4 overflow-x-auto hide-scrollbar pb-1">
+            <button
+              onClick={() => setAgeFilter('all')}
+              className={`flex items-center gap-2 px-4 py-2.5 rounded-2xl whitespace-nowrap font-bold transition-all ${ageFilter === 'all' ? 'bg-slate-900 text-white shadow-md' : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
                 }`}
             >
-              {frame === 'all' ? 'Mọi lúc' : frame === 'today' ? 'Hôm nay' : frame === 'week' ? 'Tuần này' : 'Tháng này'}
+              <Filter size={18} /> Tất cả độ tuổi
             </button>
-          ))}
-        </div>
 
-        {/* Age Filters */}
-        <div className="flex gap-3 mt-4 overflow-x-auto hide-scrollbar pb-1">
-          <button
-            onClick={() => setAgeFilter('all')}
-            className={`flex items-center gap-2 px-4 py-2.5 rounded-2xl whitespace-nowrap font-bold transition-all ${ageFilter === 'all' ? 'bg-slate-900 text-white shadow-md' : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-              }`}
-          >
-            <Filter size={18} /> Tất cả độ tuổi
-          </button>
-
-          <button
-            onClick={() => setAgeFilter('16mo')}
-            className={`flex items-center gap-2 px-4 py-2.5 rounded-2xl whitespace-nowrap font-bold transition-all ${ageFilter === '16mo' ? 'bg-orange-500 text-white shadow-md shadow-orange-200' : 'bg-orange-50 text-orange-700 hover:bg-orange-100'
-              }`}
-          >
-            <Baby size={18} /> 16+ tháng
-          </button>
-
-          <button
-            onClick={() => setAgeFilter('6yo')}
-            className={`flex items-center gap-2 px-4 py-2.5 rounded-2xl whitespace-nowrap font-bold transition-all ${ageFilter === '6yo' ? 'bg-blue-500 text-white shadow-md shadow-blue-200' : 'bg-blue-50 text-blue-700 hover:bg-blue-100'
-              }`}
-          >
-            <Users size={18} /> 6+ tuổi
-          </button>
-        </div>
-
-        {/* Dynamic Taxonomy Filter */}
-        <div className="flex gap-2 mt-4 overflow-x-auto hide-scrollbar pb-1">
-          {['all', 'Workshop & Kỹ năng', 'Nghệ thuật & Biểu diễn', 'Vui chơi & Dã ngoại', 'Lễ hội & Sự kiện', 'Triển lãm & Trưng bày', 'Cộng đồng & Mặc định'].map(cat => (
-            <button key={cat}
-              onClick={() => setCategoryFilter(cat)}
-              className={`px-3 py-1.5 rounded-full whitespace-nowrap text-[11px] font-extrabold uppercase tracking-wide transition-all border ${categoryFilter === cat ? 'bg-teal-600 text-white border-teal-600 shadow-md shadow-teal-200' : 'bg-white text-slate-500 border-slate-200 hover:border-teal-300 hover:text-teal-600'
+            <button
+              onClick={() => setAgeFilter('16mo')}
+              className={`flex items-center gap-2 px-4 py-2.5 rounded-2xl whitespace-nowrap font-bold transition-all ${ageFilter === '16mo' ? 'bg-orange-500 text-white shadow-md shadow-orange-200' : 'bg-orange-50 text-orange-700 hover:bg-orange-100'
                 }`}
             >
-              {cat === 'all' ? 'Tất cả chủ đề' : cat}
+              <Baby size={18} /> 16+ tháng
             </button>
-          ))}
+
+            <button
+              onClick={() => setAgeFilter('6yo')}
+              className={`flex items-center gap-2 px-4 py-2.5 rounded-2xl whitespace-nowrap font-bold transition-all ${ageFilter === '6yo' ? 'bg-blue-500 text-white shadow-md shadow-blue-200' : 'bg-blue-50 text-blue-700 hover:bg-blue-100'
+                }`}
+            >
+              <Users size={18} /> 6+ tuổi
+            </button>
+          </div>
+
+          {/* Dynamic Taxonomy Filter */}
+          <div className="flex gap-2 mt-4 overflow-x-auto hide-scrollbar pb-1">
+            {['all', 'Workshop & Kỹ năng', 'Nghệ thuật & Biểu diễn', 'Vui chơi & Dã ngoại', 'Lễ hội & Sự kiện', 'Triển lãm & Trưng bày', 'Cộng đồng & Mặc định'].map(cat => (
+              <button key={cat}
+                onClick={() => setCategoryFilter(cat)}
+                className={`px-3 py-1.5 rounded-full whitespace-nowrap text-[11px] font-extrabold uppercase tracking-wide transition-all border ${categoryFilter === cat ? 'bg-teal-600 text-white border-teal-600 shadow-md shadow-teal-200' : 'bg-white text-slate-500 border-slate-200 hover:border-teal-300 hover:text-teal-600'
+                  }`}
+              >
+                {cat === 'all' ? 'Tất cả chủ đề' : cat}
+              </button>
+            ))}
+          </div>
         </div>
       </header>
 
       {/* Main Container */}
-      <main className="px-5 pt-8 max-w-lg mx-auto">
+      <main className="px-5 pt-8 max-w-2xl mx-auto">
         {events.length > 0 ? (
           <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
             {events.map((evt) => (
