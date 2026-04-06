@@ -1,360 +1,360 @@
 {
-  "runs": 5,
+  "runs": 6,
   "exceptions": [
     {
-      "timestamp": "2026-04-06T08:06:21.215Z",
+      "timestamp": "2026-04-06T08:07:46.497Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.215Z",
+      "timestamp": "2026-04-06T08:07:46.497Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.498Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.498Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.215Z",
+      "timestamp": "2026-04-06T08:07:46.498Z",
       "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.216Z",
+      "timestamp": "2026-04-06T08:07:46.499Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.499Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.500Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.216Z",
+      "timestamp": "2026-04-06T08:07:46.500Z",
       "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "issue": "Semantic Drop: No_Age_Tag, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.216Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.216Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.216Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.217Z",
+      "timestamp": "2026-04-06T08:07:46.500Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.217Z",
+      "timestamp": "2026-04-06T08:07:46.501Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.217Z",
+      "timestamp": "2026-04-06T08:07:46.501Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.502Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.502Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.218Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.218Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.218Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.218Z",
+      "timestamp": "2026-04-06T08:07:46.503Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.219Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.219Z",
+      "timestamp": "2026-04-06T08:07:46.503Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.219Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.219Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.220Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.220Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.220Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.220Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.220Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.221Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.221Z",
+      "timestamp": "2026-04-06T08:07:46.503Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.222Z",
+      "timestamp": "2026-04-06T08:07:46.504Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.222Z",
+      "timestamp": "2026-04-06T08:07:46.504Z",
       "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.222Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.223Z",
+      "timestamp": "2026-04-06T08:07:46.505Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.223Z",
+      "timestamp": "2026-04-06T08:07:46.506Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.223Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.224Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.224Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.224Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.224Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.224Z",
+      "timestamp": "2026-04-06T08:07:46.507Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.225Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.225Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.225Z",
+      "timestamp": "2026-04-06T08:07:46.509Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.225Z",
+      "timestamp": "2026-04-06T08:07:46.510Z",
       "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.225Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.225Z",
+      "timestamp": "2026-04-06T08:07:46.510Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.226Z",
+      "timestamp": "2026-04-06T08:07:46.511Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.226Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.226Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.226Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.226Z",
-      "provider": "Google News Crawler",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:06:21.227Z",
+      "timestamp": "2026-04-06T08:07:46.514Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:06:21.227Z",
+      "timestamp": "2026-04-06T08:07:46.515Z",
       "provider": "Google News Crawler",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.516Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.516Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.517Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.517Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.518Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.518Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.519Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.520Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.520Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.521Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.521Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.522Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.522Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.523Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.523Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.524Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.524Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.525Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.525Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.526Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.526Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:07:46.527Z",
+      "provider": "Google News Crawler",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     }
   ],
   "last_audit": {
-    "date": "2026-04-06T08:06:21.228Z",
-    "processed": 7,
+    "date": "2026-04-06T08:07:46.528Z",
+    "processed": 5,
     "failed": 0,
     "health": "PASSED"
   }
