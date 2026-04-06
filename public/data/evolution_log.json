@@ -1,359 +1,359 @@
 {
-  "runs": 7,
+  "runs": 8,
   "exceptions": [
     {
-      "timestamp": "2026-04-06T08:56:11.210Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.866Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.866Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.867Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.867Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.210Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "timestamp": "2026-04-06T08:57:07.868Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.210Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "timestamp": "2026-04-06T08:57:07.868Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.210Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.868Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.869Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.869Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.869Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.870Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.870Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.871Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.211Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.871Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.871Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.872Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.872Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.873Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.211Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.873Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.211Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.873Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.211Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Location",
+      "timestamp": "2026-04-06T08:57:07.874Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.211Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.874Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.875Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.876Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.877Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.877Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.877Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.878Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.878Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.878Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.879Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.879Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.880Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.880Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.880Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.881Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.881Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.882Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.882Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.882Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.883Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.883Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.884Z",
+      "provider": "q_thaocamvien",
+      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T08:57:07.884Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.211Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.212Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.212Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.212Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.212Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.212Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.885Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.212Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.213Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.885Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.213Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.886Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.213Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.213Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.213Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.213Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.213Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.214Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.214Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.214Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.215Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.215Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.215Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.215Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.215Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.216Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.216Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.217Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.886Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.217Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.217Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.218Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.218Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.887Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     },
     {
-      "timestamp": "2026-04-06T08:56:11.218Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.218Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.218Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.219Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.219Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.219Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.220Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.220Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.220Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.220Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.220Z",
-      "provider": "q_ve",
-      "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-04-06T08:56:11.221Z",
-      "provider": "q_ve",
+      "timestamp": "2026-04-06T08:57:07.887Z",
+      "provider": "q_thaocamvien",
       "issue": "Semantic Drop: No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
       "context": "",
       "status": "action_required"
     }
   ],
   "last_audit": {
-    "date": "2026-04-06T08:56:11.221Z",
+    "date": "2026-04-06T08:57:07.888Z",
     "processed": 5,
     "failed": 0,
     "health": "PASSED"
