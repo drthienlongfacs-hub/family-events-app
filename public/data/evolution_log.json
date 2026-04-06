@@ -1,5 +1,5 @@
 {
-  "runs": 2,
+  "runs": 3,
   "exceptions": [
     {
       "timestamp": "2026-04-06T07:42:46.166Z",
@@ -14,10 +14,17 @@
       "issue": "getaddrinfo ENOTFOUND api.hcmc.gov.vn",
       "context": "",
       "status": "action_required"
+    },
+    {
+      "timestamp": "2026-04-06T07:49:22.213Z",
+      "provider": "Unknown",
+      "issue": "getaddrinfo ENOTFOUND api.hcmc.gov.vn",
+      "context": "",
+      "status": "action_required"
     }
   ],
   "last_audit": {
-    "date": "2026-04-06T07:48:30.011Z",
+    "date": "2026-04-06T07:49:22.214Z",
     "processed": 0,
     "failed": 1,
     "health": "DEGRADED"
