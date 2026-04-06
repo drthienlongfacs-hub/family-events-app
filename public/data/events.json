@@ -1,24 +1,47 @@
 [
   {
-    "id": "goethe-1775460213502",
-    "title": "Science Film Festival for Kids",
-    "description": "A wonderful science film screening with interactive activities for kids.",
-    "source_entity": "Goethe-Institut Hanoi",
-    "source_url": "https://www.goethe.de/ins/vn/vi/ver.html?event_id=123",
-    "event_date": "2026-04-08T07:23:33.502Z",
-    "location": "56-58 Nguyen Thai Hoc, Ba Dinh, Hanoi",
-    "image_url": "https://images.unsplash.com/photo-1540306121852-5beeedcfb0b0",
-    "age_category": "6yo"
+    "id": "idecaf-1775461042165",
+    "title": "French Weekend Storytelling & Arts (Kể chuyện tiếng Pháp)",
+    "description": "Sân chơi văn hóa nghệ thuật cho tuổi thơ, giúp rèn luyện khả năng tư duy và cảm thụ nghệ thuật.",
+    "source_entity": "IDECAF (Viện Trao đổi Văn hóa với Pháp)",
+    "source_url": "https://idecaf.gov.vn/events/kids",
+    "event_date": "2026-04-08T07:37:22.165Z",
+    "location": "Q1, TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb",
+    "age_category": "6yo",
+    "quality_score": {
+      "rating": 5,
+      "label": "Verified Premium"
+    }
   },
   {
-    "id": "amcenter-1775460213502",
-    "title": "Storytelling Hour: American Literature (Toddlers)",
-    "description": "Giờ đọc truyện phát âm tiếng Anh chuẩn dành cho các bé mầm non.",
-    "source_entity": "US Embassy American Center",
-    "source_url": "https://vn.usembassy.gov/american-center-hanoi/event-1234",
-    "event_date": "2026-04-10T07:23:33.502Z",
-    "location": "170 Ngoc Khanh, Hanoi",
-    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
-    "age_category": "16mo"
+    "id": "thehive-1775461042166",
+    "title": "The Hive Thao Dien: Kids Wellness & Sensory Play",
+    "description": "Hoạt động phát triển giác quan và tinh thần cho bé mầm non, an toàn và sáng tạo.",
+    "source_entity": "The Hive Thao Dien",
+    "source_url": "https://thehive.vn/events",
+    "event_date": "2026-04-11T07:37:22.166Z",
+    "location": "Thảo Điền, TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74",
+    "age_category": "16mo",
+    "quality_score": {
+      "rating": 4.5,
+      "label": "Trusted Community"
+    }
+  },
+  {
+    "id": "botanical-1775461042166",
+    "title": "Tuần lễ Văn hóa Quốc tế Thiếu nhi",
+    "description": "Lễ hội văn hóa, trò chơi vận động ngoài trời, học làm quen với thiên nhiên động thực vật.",
+    "source_entity": "Thảo Cầm Viên Sài Gòn",
+    "source_url": "https://saigonzoo.net",
+    "event_date": "2026-04-21T07:37:22.166Z",
+    "location": "Q1, TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1472653816316-3ad6f10a6592",
+    "age_category": "family",
+    "quality_score": {
+      "rating": 4,
+      "label": "Local Program"
+    }
   }
 ]
