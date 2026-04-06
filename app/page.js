@@ -2,37 +2,23 @@
 
 import { useEffect, useState } from 'react';
 import { EventCard } from '../components/EventCard';
-import { Compass, Baby, Users, Loader2 } from 'lucide-react';
-import axios from 'axios';
+import { Compass, Baby, Users } from 'lucide-react';
+import eventsData from '../public/data/events.json';
 
 export default function Home() {
   const [events, setEvents] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState('all');
 
   useEffect(() => {
-    fetchEvents(filter);
-  }, [filter]);
-
-  const fetchEvents = async (selectedFilter) => {
-    setLoading(true);
-    try {
-      const { data } = await axios.get('./data/events.json');
-      // local filtering logic
-      let filtered = data;
-      if (selectedFilter !== 'all') {
-        filtered = data.filter(e => e.age_category === selectedFilter || e.age_category.includes(selectedFilter) || e.age_category === 'family');
-      }
-      // sort by date ascending (closest events first)
-      filtered.sort((a, b) => new Date(a.event_date) - new Date(b.event_date));
-      setEvents(filtered);
-    } catch (error) {
-      console.error('Error fetching events:', error);
-      setEvents([]); // fallback
-    } finally {
-      setLoading(false);
+    // local filtering logic with imported JSON
+    let filtered = eventsData;
+    if (filter !== 'all') {
+      filtered = eventsData.filter(e => e.age_category === filter || e.age_category.includes(filter) || e.age_category === 'family');
     }
-  };
+    // sort by date ascending (closest events first)
+    filtered.sort((a, b) => new Date(a.event_date) - new Date(b.event_date));
+    setEvents(filtered);
+  }, [filter]);
 
   return (
     <div className="min-h-screen bg-slate-50 font-sans pb-24">
@@ -75,18 +61,13 @@ export default function Home() {
 
       {/* Main Feed */}
       <main className="px-5 pt-8 max-w-lg mx-auto">
-        {loading ? (
-          <div className="flex flex-col items-center justify-center mt-20 text-slate-400">
-            <Loader2 className="animate-spin mb-4" size={40} />
-            <p className="font-medium animate-pulse">Đang rà soát nguồn thông tin...</p>
-          </div>
-        ) : events.length > 0 ? (
+        {events.length > 0 ? (
           <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
             {events.map((evt) => (
               <EventCard key={evt.id} event={evt} />
             ))}
             <div className="text-center mt-8 text-slate-400 font-medium text-sm">
-              Bạn đã xem hết sự kiện trong ngày
+              Trang web tự động cập nhật mỗi ngày.
             </div>
           </div>
         ) : (
