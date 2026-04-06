@@ -25,7 +25,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-73",
+    "id": "rss-q_ngayhoi-72",
     "title": "Vietnam Airlines đồng hành Ngày hội Du lịch TP.HCM 2026, thúc đẩy liên kết hàng không",
     "description": "Vietnam Airlines đồng hành Ngày hội Du lịch TP.HCM 2026, thúc đẩy liên kết hàng không - du lịch&nbsp;&nbsp;Tạp chí Gia đình Việt Nam...",
     "source_entity": "Tạp chí Gia đình Việt Nam",
@@ -50,11 +50,11 @@
   },
   {
     "id": "curated-0",
-    "title": "Workshop Kỹ năng cho bé - IDECAF",
-    "description": "Ngày hội đọc sách và phát triển kỹ năng cho trẻ mầm non và thiếu nhi (từ 16 tháng tuổi đến 6 tuổi). Phụ huynh tham gia cùng bé tại Sảnh IDECAF, Quận 1 TPHCM. Sự kiện diễn ra ngày 20/04.",
+    "title": "Workshop Làm Gốm Nghệ Thuật Cho Bé",
+    "description": "Ngày hội trải nghiệm làm gốm và nặn đất sét dành cho thiếu nhi từ 2 tuổi đến 6 tuổi. Không gian học tập giúp bé phát triển xúc giác và sáng tạo. Bố mẹ có thể tham gia cùng. Tổ chức tại Thảo Điền, Quận 2, TPHCM. Thời gian: 22/04/2026.",
     "source_entity": "Facebook Authorized",
-    "source_url": "https://www.facebook.com/idecaf.hcmc/posts/workshop-ky-nang",
-    "event_date": "2026-04-20T00:00:00.000Z",
+    "source_url": "https://www.facebook.com/gomthucong/workshop",
+    "event_date": "2026-04-21T17:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
     "age_category": "family",
@@ -72,11 +72,103 @@
   },
   {
     "id": "curated-1",
-    "title": "Thảo Cầm Viên: Khám phá động vật hoang dã",
-    "description": "Hoạt động trải nghiệm thiên nhiên cuối tuần này tại Thảo Cầm Viên Sài Gòn. Phù hợp cho gia đình có trẻ em khám phá thế giới tự nhiên. Ngày 15/04.",
+    "title": "Thảo Cầm Viên: Lớp Học Khám Phá Thú Non",
+    "description": "Hoạt động trải nghiệm thiên nhiên cuối tuần này tại Thảo Cầm Viên Sài Gòn, Quận 1. Hướng dẫn viên sẽ giới thiệu cho các bé thiếu nhi về cách chăm sóc thú sơ sinh. Đặc biệt phù hợp cho gia đình có trẻ em (từ 16 tháng tuổi trở lên) khám phá thế giới tự nhiên. Ngày 25/04/2026.",
     "source_entity": "TikTok Authorized",
     "source_url": "https://www.tiktok.com/@thaocamviensaigon/video/kham-pha",
-    "event_date": "2026-04-15T00:00:00.000Z",
+    "event_date": "2026-04-24T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "TikTok"
+    }
+  },
+  {
+    "id": "curated-2",
+    "title": "Goethe Institut: Lớp Vẽ Nghệ Thuật Sáng Tạo Mầm Non",
+    "description": "Lớp học vẽ bằng màu tay và sáng tạo mỹ thuật dành cho trẻ em mầm non. Tại trung tâm văn hóa Đức Goethe, Quận 3, TPHCM. Lớp học miễn phí vào Chủ nhật 26/04/2026.",
+    "source_entity": "X Authorized",
+    "source_url": "https://x.com/Goethe_VN/status/lop-hoc-nghe-thuat",
+    "event_date": "2026-04-25T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 80,
+      "failures": [
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "X"
+    }
+  },
+  {
+    "id": "curated-3",
+    "title": "Nhà Hát Thành Phố: Kịch Rối Nước Ước Mơ",
+    "description": "Biểu diễn kịch rối nước truyền thống kết hợp âm nhạc hiện đại dành cho thiếu nhi và gia đình. Câu chuyện nhẹ nhàng, giáo dục nhân cách. Tại Nhà Hát TPHCM, Quận 1. Ngày 28/04/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/idecaf.hcmc/posts/kich-roi",
+    "event_date": "2026-04-27T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Nghệ thuật & Biểu diễn",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 80,
+      "failures": [
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-4",
+    "title": "Hội Thảo Nuôi Dạy Con Thuận Tự Nhiên",
+    "description": "Sự kiện hội thảo dành cho ba mẹ và khu vui chơi thả ga dành cho các bé (16 tháng - 6 tuổi) được giám sát bởi giáo viên mầm non. Tại L'Espace Viện Pháp, Quận 1. Ngày 01/05/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/ifvietnam/hoithao",
+    "event_date": "2026-04-30T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-5",
+    "title": "Trại Hè Quân Đội Nhí 1 Ngày - Quận 7",
+    "description": "Chương trình dã ngoại cuối tuần tại Quận 7, TPHCM. Bé trải nghiệm trò chơi vận động vượt chướng ngại vật ngoài trời. An toàn và cực kỳ thú vị cho thiếu nhi. Thời gian: 02/05/2026.",
+    "source_entity": "TikTok Authorized",
+    "source_url": "https://www.tiktok.com/@traihetphcm/video/quan-doi",
+    "event_date": "2026-05-01T17:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
     "age_category": "family",
@@ -93,16 +185,170 @@
     }
   },
   {
-    "id": "curated-2",
-    "title": "Goethe Institut: Lớp học nghệ thuật",
-    "description": "Lớp học vẽ và sáng tạo nghệ thuật dành cho trẻ em 6 tuổi. Tại trung tâm văn hóa Đức Goethe, TPHCM. Thời gian: 25/04",
-    "source_entity": "X Authorized",
-    "source_url": "https://x.com/Goethe_VN/status/lop-hoc-nghe-thuat",
-    "event_date": "2026-04-25T00:00:00.000Z",
+    "id": "curated-6",
+    "title": "Triển Lãm Đồ Chơi Gỗ Phương Tây",
+    "description": "Không gian trưng bày và cho bé tương tác thực tế với hơn 100 loại đồ chơi gỗ thông minh, không độc hại. Thích hợp cho gia đình có bé nhỏ mầm non rèn luyện trí não. Địa chỉ: Bảo tàng Phụ Nữ Nam Bộ, TPHCM. 03/05/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/trienlamgo/hcm",
+    "event_date": "2026-05-02T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Triển lãm & Trưng bày",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-7",
+    "title": "Ngày Hội Gia Đình - The Crescent Mall",
+    "description": "Sự kiện vui chơi có thưởng dịp cuối tuần tại sảnh Crescent Mall Quận 7 TPHCM. Xiếc thú ảo thuật, phát bóng bay cho trẻ em và các gia đình tham quan. Ngày 04/05/2026.",
+    "source_entity": "TikTok Authorized",
+    "source_url": "https://www.tiktok.com/@crescentmall/ngayhoi",
+    "event_date": "2026-05-03T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Nghệ thuật & Biểu diễn",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "TikTok"
+    }
+  },
+  {
+    "id": "curated-8",
+    "title": "Lớp Học Nấu Ăn Kỹ Năng Nhí (Bé 3 - 6 tuổi)",
+    "description": "Khoá học làm bánh quy hình thú cực kỳ dễ thương dành riêng cho trẻ em. Phụ huynh ngồi quan sát và thưởng thức. TPHCM, Quận 1. Ngày 05/05/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/nauan/kid",
+    "event_date": "2026-05-04T17:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
     "age_category": "family",
     "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-9",
+    "title": "Công Viên Cá Koi - Trải Nghiệm Cho Cá Ăn",
+    "description": "Khu vui chơi sinh thái mới mở rộng tại Hóc Môn, TPHCM. Trẻ em từ 16 tháng tuổi trở lên được tự tay cho đàn cá Koi khổng lồ ăn và dã ngoại. Thời gian mở cửa xuyên tuần tới 30/05/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/cakoirin/hcmc",
+    "event_date": "2026-05-29T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-10",
+    "title": "Chương Trình Đọc Sách Sáng Tạo Cắm Trại",
+    "description": "Một buổi tối cắm trại trong thư viện, giảng viên đọc kể chuyện Cổ tích tiếng Anh cho bé mầm non nghe. Tại Thư viện Tổng hợp TPHCM. Sự kiện diễn ra ngày 06/05/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/thuvientonghop/reading",
+    "event_date": "2026-05-05T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Nghệ thuật & Biểu diễn",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-11",
+    "title": "Triển lãm Dino Park Khủng Long Tương Tác",
+    "description": "Khu trưng bày mô hình Khủng Long chuyển động thực tế ảo. Gia đình được hòa mình vào Thế Giới Kỷ Jura. Địa chỉ Gigamall Thủ Đức, TPHCM. Phù hợp 100% thiếu nhi. Tới hết ngày 10/05/2026.",
+    "source_entity": "TikTok Authorized",
+    "source_url": "https://www.tiktok.com/@dinopark/hcm",
+    "event_date": "2026-05-09T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Triển lãm & Trưng bày",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "TikTok"
+    }
+  },
+  {
+    "id": "curated-12",
+    "title": "Workshop Trồng Cây Cùng Mẹ",
+    "description": "Kỹ năng trồng cây xanh mini trong chậu gốm. Bé học yêu thiên nhiên, tay lấm lem đất rất vui. Tại Family Garden Thảo Điền, Quận 2 TPHCM. Dành cho bé từ 3 tuổi trở lên. Vào 12/05/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/familygarden/trongcay",
+    "event_date": "2026-05-11T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-13",
+    "title": "Nhạc Hội Tuổi Thơ IDECAF - Vị Thần Của Biển",
+    "description": "Show diễn kịch thiếu nhi với siêu quy mô, âm nhạc vui tươi tại Nhà Hát IDECAF Quận 1 TPHCM. Dẫn các bé đến xem kịch và gặp gỡ diễn viên. Buổi diễn lúc 19:00 ngày 20/05/2026.",
+    "source_entity": "Facebook Authorized",
+    "source_url": "https://www.facebook.com/idecaf/kichtreem",
+    "event_date": "2026-05-19T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Nghệ thuật & Biểu diễn",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": true,
@@ -113,6 +359,28 @@
       "failures": [
         "Not_an_Interactive_Event"
       ],
+      "platform": "Facebook"
+    }
+  },
+  {
+    "id": "curated-14",
+    "title": "Khoá Rèn Hát Tiếng Anh - Little Choir",
+    "description": "Workshop hát tập thể miễn phí dành cho bé từ 4-6 tuổi do giáo viên Anh Quốc đứng lớp tại TPHCM (Quận Phú Nhuận). Phát triển kỹ năng nghe và nhịp điệu. Đăng ký cho ngày 15/05/2026.",
+    "source_entity": "X Authorized",
+    "source_url": "https://x.com/littlechoir/hcm",
+    "event_date": "2026-06-03T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?w=800&q=80",
+    "age_category": "family",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 100,
+      "failures": [],
       "platform": "X"
     }
   }
