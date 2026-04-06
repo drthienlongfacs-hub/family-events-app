@@ -287,7 +287,7 @@
     "description": "Tết Thanh minh thường bắt đầu từ ngày 4-5/4 dương lịch, là một trong 24 tiết khí quan trọng, đánh dấu thời điểm vượng khí nhất trong năm....",
     "source_entity": "Cách sắm lễ và cúng, tảo mộ Tết Thanh minh",
     "source_url": "https://vnexpress.net/cach-sam-le-va-cung-tao-mo-tiet-thanh-minh-5057417.html",
-    "event_date": "2026-05-03T17:00:00.000Z",
+    "event_date": "2026-05-04T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -313,7 +313,7 @@
     "description": "Giải chạy \"Vì trẻ sống chung với bệnh hiếm\" trên vRace kéo dài đến 30/6, để cộng đồng tiếp tục tham gia, chung tay hỗ trợ các bệnh nhi khó khăn....",
     "source_entity": "Gia hạn đăng ký giải chạy vì trẻ mắc bệnh hiếm đến 30/6",
     "source_url": "https://vnexpress.net/gia-han-dang-ky-giai-chay-vi-tre-mac-benh-hiem-den-30-6-5056552.html",
-    "event_date": "2026-06-29T17:00:00.000Z",
+    "event_date": "2026-06-30T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -494,7 +494,7 @@
     "description": "Những nỗi lo ấy không có đáp án đúng sai. Mỗi gia đình một hoàn cảnh, mỗi người mẹ một suy nghĩ....",
     "source_entity": "Tôi chọn làm mẹ toàn thời gian nhưng nếu bạn không thể ở bên con 24/7, bạn không phải người mẹ không tốt",
     "source_url": "https://afamily.vn/toi-chon-lam-me-toan-thoi-gian-nhung-neu-ban-khong-the-o-ben-con-24-7-ban-khong-phai-nguoi-me-khong-tot-236260402213343946.chn",
-    "event_date": "2026-07-23T17:00:00.000Z",
+    "event_date": "2026-07-24T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -540,12 +540,38 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-0",
+    "id": "rss-tuoitre_giaoduc-1",
+    "title": "Bộ Giáo dục và Đào tạo dự kiến quyền hạn của Đại học Quốc gia Hà Nội và TP.HCM",
+    "description": "Bộ Giáo dục và Đào tạo vừa công bố dự thảo nghị định quy định chức năng, nhiệm vụ và quyền hạn của đại học quốc gia....",
+    "source_entity": "Bộ Giáo dục và Đào tạo dự kiến quyền hạn của Đại học Quốc gia Hà Nội và TP.HCM",
+    "source_url": "https://tuoitre.vn/bo-giao-duc-va-dao-tao-du-kien-quyen-han-cua-dai-hoc-quoc-gia-ha-noi-va-tp-hcm-20260406163825615.htm",
+    "event_date": "2026-04-09T10:30:27.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-2",
     "title": "Thiếu chỗ gửi trẻ, lao động nữ khó quay lại khu công nghiệp",
     "description": "Thông tin được đưa ra tại hội thảo “Hướng tới mục tiêu nâng cao chất lượng giáo dục mầm non” do Viện Khoa học giáo dục Việt Nam phối hợp với Vụ Giáo dục mầm non (Bộ GD-ĐT), Ngân hà...",
     "source_entity": "Thiếu chỗ gửi trẻ, lao động nữ khó quay lại khu công nghiệp",
     "source_url": "https://tuoitre.vn/thieu-cho-gui-tre-lao-dong-nu-kho-quay-lai-khu-cong-nghiep-20260406160435256.htm",
-    "event_date": "2026-04-05T17:00:00.000Z",
+    "event_date": "2026-04-06T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -562,7 +588,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-1",
+    "id": "rss-tuoitre_giaoduc-3",
     "title": "Trường đại học Kinh tế",
     "description": "So với phương án tuyển sinh dự kiến, Trường đại học Kinh tế, Đại học Quốc gia Hà Nội xét tuyển trở lại 3 tổ hợp: A01, D09, D10. Đồng thời công bố chi tiết các mức điểm thưởng, xét ...",
     "source_entity": "ĐHQG Hà Nội thêm tổ hợp, siết điểm thưởng",
@@ -588,12 +614,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-2",
+    "id": "rss-tuoitre_giaoduc-4",
     "title": "Những nhà giáo nào thuộc diện được nghỉ hưu muộn từ 5-10 năm?",
     "description": "Theo quy định mới, có nhóm nhà giáo được kéo dài thời gian làm việc tối đa là 10 năm sau khi tới tuổi nghỉ hưu....",
     "source_entity": "Những nhà giáo nào thuộc diện được nghỉ hưu muộn từ 5-10 năm?",
     "source_url": "https://tuoitre.vn/nhung-nha-giao-nao-thuoc-dien-duoc-nghi-huu-muon-tu-5-10-nam-20260406132946064.htm",
-    "event_date": "2026-10-04T17:00:00.000Z",
+    "event_date": "2026-10-05T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -614,7 +640,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-3",
+    "id": "rss-tuoitre_giaoduc-5",
     "title": "'Tôi ân hận vì chưa đưa con đi… nhặt rác'",
     "description": "Nhà nghiên cứu lịch sử đô thị - cựu nhà báo Trần Hữu Phúc Tiến tâm sự như vậy trong cuộc giao lưu mới đây với sinh viên về chủ đề 'TP.HCM sau hợp nhất: Cơ hội từ kinh đô sông nước'...",
     "source_entity": "'Tôi ân hận vì chưa đưa con đi… nhặt rác'",
@@ -640,12 +666,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-4",
+    "id": "rss-tuoitre_giaoduc-6",
     "title": "Tư vấn trực tuyến: Chọn trường lớp 10, chuẩn bị tuyển sinh lớp 1 và 6 tại TP.HCM",
     "description": "Chuyên gia tư vấn trực tuyến về tuyển sinh lớp 1, 6, 10 và cách chọn nguyện vọng lớp 10 tại TP.HCM trên Tuổi Trẻ Online từ 9h ngày 9-4....",
     "source_entity": "Tư vấn trực tuyến: Chọn trường lớp 10, chuẩn bị tuyển sinh lớp 1 và 6 tại TP.HCM",
     "source_url": "https://tuoitre.vn/tu-van-truc-tuyen-chon-truong-lop-10-chuan-bi-tuyen-sinh-lop-1-va-6-tai-tp-hcm-20260406111705292.htm",
-    "event_date": "2026-04-08T17:00:00.000Z",
+    "event_date": "2026-04-09T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -665,7 +691,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-5",
+    "id": "rss-tuoitre_giaoduc-7",
     "title": "Phát động cuộc thi hackathon về môi trường, tổng giải thưởng hơn 600 triệu đồng",
     "description": "Cuộc thi khuyến khích các ý tưởng liên ngành, kết hợp nhiều lĩnh vực: công nghệ, môi trường, kinh tế và khoa học xã hội, tạo ra các giải pháp vừa đổi mới, vừa khả thi và có giá trị...",
     "source_entity": "Phát động cuộc thi hackathon về môi trường, tổng giải thưởng hơn 600 triệu đồng",
@@ -691,12 +717,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-6",
+    "id": "rss-tuoitre_giaoduc-8",
     "title": "Gần 250 bộ đội Đà Nẵng được lệnh tăng cường lên vùng cao hỗ trợ xây dựng trường nội trú biên giới",
     "description": "Sáng 6-4, Bộ Chỉ huy Quân sự TP Đà Nẵng tổ chức Hội nghị giao nhiệm vụ cho lực lượng tham gia hỗ trợ đẩy nhanh tiến độ xây dựng trường phổ thông nội trú liên cấp tiểu học và THCS t...",
     "source_entity": "Gần 250 bộ đội Đà Nẵng được lệnh tăng cường lên vùng cao hỗ trợ xây dựng trường nội trú biên giới",
     "source_url": "https://tuoitre.vn/gan-250-bo-doi-da-nang-duoc-lenh-tang-cuong-len-vung-cao-ho-tro-xay-dung-truong-noi-tru-bien-gioi-20260406113215195.htm",
-    "event_date": "2026-04-05T17:00:00.000Z",
+    "event_date": "2026-04-06T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -715,7 +741,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-8",
+    "id": "rss-tuoitre_giaoduc-10",
     "title": "Ngôi trường tên dài nhất Nhật Bản đóng cửa vì chỉ còn 9 học sinh",
     "description": "Ngôi trường có tên gọi tắt 'Trường tiểu học và trung học Sasayama' nổi tiếng vì tên dài kỷ lục tại Nhật Bản, chính thức đóng cửa khi chỉ còn 9 học sinh....",
     "source_entity": "Ngôi trường tên dài nhất Nhật Bản đóng cửa vì chỉ còn 9 học sinh",
@@ -740,7 +766,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-9",
+    "id": "rss-tuoitre_giaoduc-11",
     "title": "Gia đình có trẻ tự kỷ phải ‘giao tiếp’ với xã hội bằng nhiều ánh mắt",
     "description": "Người tự kỷ thường hạn chế giao tiếp bằng mắt, nhưng chính gia đình của họ lại phải “giao tiếp” với xã hội bằng rất nhiều ánh mắt - có ánh mắt cảm thông, có ánh mắt thương hại, có ...",
     "source_entity": "Gia đình có trẻ tự kỷ phải ‘giao tiếp’ với xã hội bằng nhiều ánh mắt",
@@ -766,7 +792,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-10",
+    "id": "rss-tuoitre_giaoduc-12",
     "title": "Gia Lai: 6 học sinh lớp 12 đi tắm biển, một em bị mất tích",
     "description": "Nhóm 6 học sinh lớp 12 tại Gia Lai đi tắm biển sau kỳ thi đánh giá năng lực, 2 em bị đuối nước, trong đó 1 em còn mất tích....",
     "source_entity": "Gia Lai: 6 học sinh lớp 12 đi tắm biển, một em bị mất tích",
@@ -792,7 +818,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-15",
+    "id": "rss-tuoitre_giaoduc-17",
     "title": "Hàng ngàn học sinh trải nghiệm, nghe gỡ rối tại ngày hội ‘Tự tin vào lớp 10’",
     "description": "Ngày hội giải đáp thắc mắc tuyển sinh lớp 10 TP.HCM, giúp học sinh nhận diện điểm mạnh, điểm yếu và định hướng phù hợp....",
     "source_entity": "Hàng ngàn học sinh trải nghiệm, nghe gỡ rối tại ngày hội ‘Tự tin vào lớp 10’",
@@ -817,7 +843,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-16",
+    "id": "rss-tuoitre_giaoduc-18",
     "title": "Voi rừng phá rào thép, 'đột nhập' trường học ở Sơn La",
     "description": "Một con voi rừng bất ngờ phá hàng rào, đi vào khu bán trú của Trường phổ thông dân tộc bán trú THCS Huổi Một (Sơn La)....",
     "source_entity": "Voi rừng phá rào thép, 'đột nhập' trường học ở Sơn La",
@@ -843,7 +869,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-17",
+    "id": "rss-tuoitre_giaoduc-19",
     "title": "Hà Nội công bố hơn 81.000 chỉ tiêu lớp 10 công lập",
     "description": "124 trường trung học phổ thông công lập và công lập chất lượng cao ở Hà Nội được giao tổng cộng 1.830 lớp 10 với 81.448 học sinh....",
     "source_entity": "Hà Nội công bố hơn 81.000 chỉ tiêu lớp 10 công lập",
@@ -869,7 +895,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-18",
+    "id": "rss-tuoitre_giaoduc-20",
     "title": "Phụ huynh đổ xô cho con học chữ trước lớp 1",
     "description": "Trước năm học 2026 - 2027, nhiều phụ huynh tìm lớp tiền tiểu học cho con, trong khi chuyên gia khuyên nên ưu tiên chuẩn bị tâm lý....",
     "source_entity": "Phụ huynh đổ xô cho con học chữ trước lớp 1",
@@ -895,12 +921,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-21",
+    "id": "rss-tuoitre_giaoduc-23",
     "title": "Trung Quốc săn nhân tài công nghệ từ bậc trung học",
     "description": "Tháng 3-2026, giới công nghệ xôn xao khi tỉ phú Elon Musk khen ngợi báo cáo kỹ thuật của \"kỳ lân\" Moonshot AI (Bắc Kinh)....",
     "source_entity": "Trung Quốc săn nhân tài công nghệ từ bậc trung học",
     "source_url": "https://tuoitre.vn/trung-quoc-san-nhan-tai-cong-nghe-tu-bac-trung-hoc-20260404233210718.htm",
-    "event_date": "2027-08-02T17:00:00.000Z",
+    "event_date": "2027-08-03T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -921,12 +947,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-23",
+    "id": "rss-tuoitre_giaoduc-25",
     "title": "Nữ sinh Ngoại thương đạt GPA 3.99/4.0, được ngân hàng tuyển dụng trước tốt nghiệp 5 tháng",
     "description": "Vũ Lương Ngọc Anh - lớp Anh 2, ngành kinh tế đối ngoại chất lượng cao, Trường đại học Ngoại thương - tốt nghiệp sớm nửa năm với GPA 3.99/4.0. Trước ngày nhận bằng 5 tháng, cô được ...",
     "source_entity": "Nữ sinh Ngoại thương đạt GPA 3.99/4.0, được ngân hàng tuyển dụng trước tốt nghiệp 5 tháng",
     "source_url": "https://tuoitre.vn/nu-sinh-ngoai-thuong-dat-gpa-3-99-4-0-duoc-ngan-hang-tuyen-dung-truoc-tot-nghiep-5-thang-20260404205353936.htm",
-    "event_date": "2026-07-07T17:00:00.000Z",
+    "event_date": "2026-07-08T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -946,7 +972,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-25",
+    "id": "rss-tuoitre_giaoduc-27",
     "title": "TS Đặng Anh Tuấn làm Hiệu trưởng Trường đại học Đồng Nai",
     "description": "UBND tỉnh Đồng Nai vừa có quyết định bổ nhiệm TS Đặng Anh Tuấn, Phó hiệu trưởng phụ trách Trường đại học Đồng Nai, giữ chức vụ Hiệu trưởng nhà trường....",
     "source_entity": "TS Đặng Anh Tuấn làm Hiệu trưởng Trường đại học Đồng Nai",
@@ -972,7 +998,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-26",
+    "id": "rss-tuoitre_giaoduc-28",
     "title": "Sẽ có chuẩn mới về trường cao đẳng chất lượng cao",
     "description": "Thứ trưởng Bộ Giáo dục và Đào tạo Lê Quân cho biết sẽ tiếp tục đánh giá, công nhận với mục tiêu đến năm 2030 sẽ hình thành mạng lưới khoảng 70 trường cao đẳng chất lượng cao....",
     "source_entity": "Sẽ có chuẩn mới về trường cao đẳng chất lượng cao",
@@ -998,7 +1024,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-27",
+    "id": "rss-tuoitre_giaoduc-29",
     "title": "Trường đại học Trà Vinh thành Đại học Trà Vinh",
     "description": "Thủ tướng Chính phủ vừa có quyết định chuyển Trường đại học Trà Vinh thành Đại học Trà Vinh, với 5 trường thành viên....",
     "source_entity": "Trường đại học Trà Vinh thành Đại học Trà Vinh",
@@ -1024,7 +1050,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-28",
+    "id": "rss-tuoitre_giaoduc-30",
     "title": "Vụ 300 tấn heo bệnh: Sẽ công khai các đơn vị cung cấp thực phẩm cho trường học để giám sát",
     "description": "Bộ Giáo dục và Đào tạo cho biết sẽ công khai tất cả đơn vị cung cấp suất ăn, thực phẩm cho các cơ sở giáo dục trên các trang thông tin điện tử....",
     "source_entity": "Vụ 300 tấn heo bệnh: Sẽ công khai các đơn vị cung cấp thực phẩm cho trường học để giám sát",
@@ -1050,7 +1076,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-32",
+    "id": "rss-tuoitre_giaoduc-34",
     "title": "Chuẩn bị nhân lực cho Trung tâm Tài chính quốc tế tại TP.HCM",
     "description": "TS Majo George đề xuất gắn kết giáo dục, công nghệ và doanh nghiệp để đào tạo nhân lực trẻ, hướng tới trung tâm tài chính quốc tế....",
     "source_entity": "Chuẩn bị nhân lực cho Trung tâm Tài chính quốc tế tại TP.HCM",
@@ -1076,7 +1102,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-33",
+    "id": "rss-tuoitre_giaoduc-35",
     "title": "ĐH Quốc gia TP.HCM siết kỷ luật, ứng dụng công nghệ cho kỳ thi đánh giá năng lực 2026",
     "description": "Sau sự cố kỳ thi 2025, ĐH Quốc gia TP.HCM tăng giám sát, hoàn thiện quy trình và dùng công nghệ để đảm bảo công bằng cho thí sinh....",
     "source_entity": "ĐH Quốc gia TP.HCM siết kỷ luật, ứng dụng công nghệ cho kỳ thi đánh giá năng lực 2026",
@@ -1102,7 +1128,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-34",
+    "id": "rss-tuoitre_giaoduc-36",
     "title": "Kiểm tra đột xuất nhiều bếp ăn trường học, có nơi tạm 'đóng băng' bán trú",
     "description": "Sở Giáo dục và Đào tạo Bắc Ninh nêu rõ thủ trưởng các cơ sở giáo dục, chủ cơ sở cung cấp suất ăn phải chịu trách nhiệm trước giám đốc sở, chủ tịch UBND địa phương và pháp luật nếu ...",
     "source_entity": "Kiểm tra đột xuất nhiều bếp ăn trường học, có nơi tạm 'đóng băng' bán trú",
@@ -1128,12 +1154,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-35",
+    "id": "rss-tuoitre_giaoduc-37",
     "title": "Đăng ký dự thi năng khiếu Trường đại học Kiến trúc TP.HCM đến 29-4",
     "description": "Trường đại học Kiến trúc TP.HCM nhận đăng ký dự thi các môn năng khiếu phục vụ tuyển sinh năm 2026 đến hết ngày 29-4, với kỳ thi dự kiến diễn ra cuối tháng 5-2026....",
     "source_entity": "Đăng ký dự thi năng khiếu Trường đại học Kiến trúc TP.HCM đến 29-4",
     "source_url": "https://tuoitre.vn/dang-ky-du-thi-nang-khieu-truong-dai-hoc-kien-truc-tphcm-den-29-4-20260403154233025.htm",
-    "event_date": "2026-04-28T17:00:00.000Z",
+    "event_date": "2026-04-29T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -1153,7 +1179,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-36",
+    "id": "rss-tuoitre_giaoduc-38",
     "title": "Phát hiện 26 ca thủy đậu trong trường học, Đắk Lắk khẩn trương dập dịch",
     "description": "Trung tâm Kiểm soát bệnh tật tỉnh Đắk Lắk phối hợp cơ quan chức năng các địa phương để kiểm soát ổ dịch thủy đậu tại trường học....",
     "source_entity": "Phát hiện 26 ca thủy đậu trong trường học, Đắk Lắk khẩn trương dập dịch",
@@ -1179,7 +1205,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-37",
+    "id": "rss-tuoitre_giaoduc-39",
     "title": "Đồng kiến tạo tri thức: Bí quyết bảo vệ nền tảng tư tưởng trong thời đại số",
     "description": "Nhiều chuyên gia, cán bộ quản lý giáo dục tại các cơ sở đào tạo chính trị cả nước cho rằng trong thời đại mới cần phát triển mô hình 'đồng kiến tạo tri thức' trong tích hợp bảo vệ ...",
     "source_entity": "Đồng kiến tạo tri thức: Bí quyết bảo vệ nền tảng tư tưởng trong thời đại số",
@@ -1205,12 +1231,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-38",
+    "id": "rss-tuoitre_giaoduc-40",
     "title": "Gia Lai giảm 346 điểm trường lẻ, nhập 32 trường mầm non và phổ thông",
     "description": "Từ năm học 2026-2027, tỉnh Gia Lai bắt đầu sắp xếp cơ sở giáo dục, giảm 346 điểm trường lẻ, sáp nhập 32 trường mầm non và phổ thông thành 15 trường....",
     "source_entity": "Gia Lai giảm 346 điểm trường lẻ, nhập 32 trường mầm non và phổ thông",
     "source_url": "https://tuoitre.vn/giai-lai-giam-346-diem-truong-le-nhap-32-truong-mam-non-va-pho-thong-20260403101632744.htm",
-    "event_date": "2027-08-25T17:00:00.000Z",
+    "event_date": "2027-08-26T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -1229,7 +1255,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-40",
+    "id": "rss-tuoitre_giaoduc-42",
     "title": "Tràn lan tin giả 'thịt heo bệnh vào bữa ăn bán trú', doanh nghiệp, nhà trường 'cầu cứu' công an",
     "description": "Thông tin giả về thịt heo bệnh lan truyền nhanh trên mạng xã hội và qua tin nhắn đến phụ huynh khiến nhiều doanh nghiệp suất ăn và nhà trường lao đao....",
     "source_entity": "Tràn lan tin giả 'thịt heo bệnh vào bữa ăn bán trú', doanh nghiệp, nhà trường 'cầu cứu' công an",
@@ -1255,7 +1281,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-42",
+    "id": "rss-tuoitre_giaoduc-44",
     "title": "Thịt bẩn vào trường học: Ai là nạn nhân?",
     "description": "Không chỉ có học sinh, đối tượng bị ảnh hưởng trực tiếp bởi vụ thịt heo bẩn đưa vào trường học đang gây xôn xao dư luận, còn có nhiều người khác cũng nhận mình là nạn nhân....",
     "source_entity": "Thịt bẩn vào trường học: Ai là nạn nhân?",
@@ -1281,7 +1307,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-43",
+    "id": "rss-tuoitre_giaoduc-45",
     "title": "TP.HCM xét tuyển lớp 6, phụ huynh vẫn đổ xô cho con luyện thi, săn chứng chỉ",
     "description": "Dù TP.HCM tuyển sinh lớp 6 theo hình thức xét tuyển, nhiều phụ huynh TP.HCM vẫn cho con học thêm, luyện đề và thi chứng chỉ ngoại ngữ để tăng cơ hội trúng tuyển....",
     "source_entity": "TP.HCM xét tuyển lớp 6, phụ huynh vẫn đổ xô cho con luyện thi, săn chứng chỉ",
@@ -1307,7 +1333,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-44",
+    "id": "rss-tuoitre_giaoduc-46",
     "title": "Đồng bộ giữa phòng học và đội ngũ giáo viên",
     "description": "Trong những ngày gần đây, chuyện TP.HCM nỗ lực xây dựng thêm trường học để phát triển giáo dục một lần nữa trở thành tâm điểm của dư luận....",
     "source_entity": "Đồng bộ giữa phòng học và đội ngũ giáo viên",
@@ -1333,12 +1359,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-45",
+    "id": "rss-tuoitre_giaoduc-47",
     "title": "Miễn phí sách giáo khoa: Đồng thuận cao, nhưng lo 'sách cũ, quản lý khó'",
     "description": "Chủ trương miễn phí sách giáo khoa từ năm học 2029-2030 nhận được nhiều sự đồng tình từ bạn đọc. Tuy nhiên không ít ý kiến bày tỏ băn khoăn về cách triển khai, đặc biệt là mô hình ...",
     "source_entity": "Miễn phí sách giáo khoa: Đồng thuận cao, nhưng lo 'sách cũ, quản lý khó'",
     "source_url": "https://tuoitre.vn/mien-phi-sach-giao-khoa-dong-thuan-cao-nhung-lo-sach-cu-quan-ly-kho-2026040217524185.htm",
-    "event_date": "2027-08-28T17:00:00.000Z",
+    "event_date": "2027-08-29T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -1359,12 +1385,12 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-46",
+    "id": "rss-tuoitre_giaoduc-48",
     "title": "Thi đánh giá năng lực: Mang theo gì để không ‘rớt’ từ cổng?",
     "description": "Kỳ thi đánh giá năng lực Đại học Quốc gia TP.HCM đợt 1-2026 được tổ chức với quy mô lớn và quy định chặt chẽ. Thí sinh phải chuẩn bị kỹ từ giấy tờ đến thời gian có mặt để tránh sai...",
     "source_entity": "Thi đánh giá năng lực: Mang theo gì để không ‘rớt’ từ cổng?",
     "source_url": "https://tuoitre.vn/thi-danh-gia-nang-luc-mang-theo-gi-de-khong-rot-tu-cong-20260402165234282.htm",
-    "event_date": "2027-07-31T17:00:00.000Z",
+    "event_date": "2027-08-01T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -2005,7 +2031,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-44",
+    "id": "rss-q_sukien-45",
     "title": "Khởi động hành trình “Mở sách – Mở tương lai” đến với trường tiểu học",
     "description": "Khởi động hành trình “Mở sách – Mở tương lai” đến với trường tiểu học&nbsp;&nbsp;Báo Công an Thành Phố Hồ Chí Minh...",
     "source_entity": "Báo Công an Thành Phố Hồ Chí Minh",
@@ -2035,7 +2061,7 @@
     "description": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị - Hành chính tại Thủ Thiêm&nbsp;&nbsp;Báo Lâm Đồng...",
     "source_entity": "Báo Lâm Đồng",
     "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2lWUlFMam9sZzVxNGJuaFJobUh1TEY4eE5CSzBwTXl1V1E3d0NOdjBDWVNKOFlqSWVncW1HeEI5TWxvUzdSeEtGNkw4UDZWVjdySlB2QlExWkpqYmhtRUo0a3JidWJqQUItUXA1TGVCVFAtZktOckZGWVZxaFdTV3A3SmxKYzA4UUcyOGlMOUc3MDl3SkE3MjhGYVJBaU5vLWpXbVNRc0VZN3NTTUpv?oc=5",
-    "event_date": "2030-01-31T17:00:00.000Z",
+    "event_date": "2030-02-01T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -2055,7 +2081,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-25",
+    "id": "rss-q_ngayhoi-24",
     "title": "Đi chơi lễ 30.4",
     "description": "Đi chơi lễ 30.4 - 1.5, săn tour hè giá tốt tại Ngày hội Du lịch TP.HCM&nbsp;&nbsp;Thanh Niên...",
     "source_entity": "Thanh Niên",
@@ -2080,10 +2106,10 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-30",
+    "id": "rss-q_ngayhoi-29",
     "title": "Ngày hội Du lịch 2026: Doanh thu 120 tỷ đồng tạo đà cho mùa hè bùng nổ",
-    "description": "Ngày hội Du lịch 2026: Doanh thu 120 tỷ đồng tạo đà cho mùa hè bùng nổ&nbsp;&nbsp;tcdulichtphcm.vn...",
-    "source_entity": "tcdulichtphcm.vn",
+    "description": "Ngày hội Du lịch 2026: Doanh thu 120 tỷ đồng tạo đà cho mùa hè bùng nổ&nbsp;&nbsp;TẠP CHÍ DU LỊCH TP. HỒ CHÍ MINH...",
+    "source_entity": "TẠP CHÍ DU LỊCH TP. HỒ CHÍ MINH",
     "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXBHdkRDbXpfNDk4b2F2ZVd2akxWa3JmSi1CUU9iQkk1ekgyTHBFNUMzRThnWWhsSXhIaS1CeVY3cHN3Ykx3Y2J2elJXaGdkalNOZFNEdWg2UUM5eS1HNWtCNlFtWHU2bTBvZE9OeXR0UnVDM0FaNFA3Nzllc1J1aEZuZDJRZHlQaVhydEtqbG9jZHoxQXhWYkhqTHFzU0FmZ2hyUjlLR2hMOHVERlhtdWJnc0VRbWY4am9aenBLUQ?oc=5",
     "event_date": "2026-04-09T07:05:29.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -2106,10 +2132,10 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-47",
+    "id": "rss-q_ngayhoi-45",
     "title": "Ngày hội Du lịch TP.HCM: Hàng nghìn người săn tour trong và ngoài nước giá sốc bất ngờ",
-    "description": "Ngày hội Du lịch TP.HCM: Hàng nghìn người săn tour trong và ngoài nước giá sốc bất ngờ&nbsp;&nbsp;danviet.vn...",
-    "source_entity": "danviet.vn",
+    "description": "Ngày hội Du lịch TP.HCM: Hàng nghìn người săn tour trong và ngoài nước giá sốc bất ngờ&nbsp;&nbsp;Báo Dân Việt...",
+    "source_entity": "Báo Dân Việt",
     "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUG9HcmZnM2VaYWRBeU9nMFJJY3AtcldwdWxGdU1URTRrb0tzaTR1NHhlbk5aRHZ3aWdZM1ViZk9YeHd4c0Q5NEMzQkE5dG1LZW50QUhFRXhKbWxqVW0xemd0VGtzeGxtNkh2ckVyaXpwSTdpT2w0TFVxekotcWlyMzZ3MkdXZnJxOThndHNWVG1ITnQ3RnBfLUJWdmdpTWtnQU9rck9rUzUtdFlFSUlPZ3JscE4wWm94?oc=5",
     "event_date": "2026-04-06T03:43:40.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -2131,7 +2157,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-49",
+    "id": "rss-q_ngayhoi-47",
     "title": "Sinh viên TPHCM tìm cơ hội việc làm ngay tại sân trường",
     "description": "Sinh viên TPHCM tìm cơ hội việc làm ngay tại sân trường&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -2159,8 +2185,8 @@
   {
     "id": "rss-q_ngayhoi-59",
     "title": "Bán tour vài ngày thu 120 tỷ đồng, du lịch TP.HCM sẵn sàng bước vào mùa hè sôi động",
-    "description": "Bán tour vài ngày thu 120 tỷ đồng, du lịch TP.HCM sẵn sàng bước vào mùa hè sôi động&nbsp;&nbsp;danviet.vn...",
-    "source_entity": "danviet.vn",
+    "description": "Bán tour vài ngày thu 120 tỷ đồng, du lịch TP.HCM sẵn sàng bước vào mùa hè sôi động&nbsp;&nbsp;Báo Dân Việt...",
+    "source_entity": "Báo Dân Việt",
     "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2RqaC1FUURpOFlIWkdHX1VmYm00aU5abER3d3lWU3lXWHQ2NmstalYzdTVNbThiRXFDUDNXRmFPM29jSU04TXhwMWY4ODV4Z1F5TElYLTk3c1o3Sm9GMlowcXI1UDZMcEN5MjVqdGVtaEdOQTBuV0JqZGwyVFN2RzlDaUpZLWpjbS1uUzlFaHY1V3JTNnBRSmN1MFNIc3dsekFqTEFqNXMyYmtESm45dm9PV3A?oc=5",
     "event_date": "2026-04-09T03:37:24.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -2208,32 +2234,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-66",
-    "title": "Ngày hội Du lịch TP.HCM: Khách thích thú xem xiếc, hát quan họ, làm tranh Đông Hồ",
-    "description": "Ngày hội Du lịch TP.HCM: Khách thích thú xem xiếc, hát quan họ, làm tranh Đông Hồ&nbsp;&nbsp;danviet.vn...",
-    "source_entity": "danviet.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGp0SGNpcFB3SjNSbXdyNjAzZzFMNVJpYlZCR1pQeU13a21IQl9CaTJxRVhwRnU4WXhKZjV1YVVhSlQ4WTQtRG43TkRlQjg3b3c4eFM2VUNTbHFhamNkRk5DN1FCT0lFZ01LM29TRVJWRkt6czRxUjFiS3ViM2kyYUQ2cElsMzNlN3dRcUNmQWZpUms4NXFnQjJST1VzUGs?oc=5",
-    "event_date": "2026-04-07T08:42:29.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Nghệ thuật & Biểu diễn",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-74",
+    "id": "rss-q_ngayhoi-73",
     "title": "Vietnam Airlines đồng hành Ngày hội Du lịch TP.HCM 2026, thúc đẩy liên kết hàng không",
     "description": "Vietnam Airlines đồng hành Ngày hội Du lịch TP.HCM 2026, thúc đẩy liên kết hàng không - du lịch&nbsp;&nbsp;Tạp chí Gia đình Việt Nam...",
     "source_entity": "Tạp chí Gia đình Việt Nam",
@@ -2257,7 +2258,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-32",
+    "id": "rss-q_thaocamvien-33",
     "title": "Thảo Cầm Viên nhắc nhở du khách vì loạt clip lan truyền MXH",
     "description": "Thảo Cầm Viên nhắc nhở du khách vì loạt clip lan truyền MXH&nbsp;&nbsp;Znews...",
     "source_entity": "Znews",
@@ -2309,7 +2310,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-46",
+    "id": "rss-q_thaocamvien-45",
     "title": "Trào lưu leo tượng chụp ảnh sống ảo: Thảo Cầm Viên Sài Gòn lên tiếng",
     "description": "Trào lưu leo tượng chụp ảnh sống ảo: Thảo Cầm Viên Sài Gòn lên tiếng&nbsp;&nbsp;Tin tức 24h...",
     "source_entity": "Tin tức 24h",
@@ -2335,10 +2336,10 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-52",
+    "id": "rss-q_thaocamvien-51",
     "title": "Khởi tố người trộm thiên nga trắng ở Thảo Cầm Viên",
-    "description": "Khởi tố người trộm thiên nga trắng ở Thảo Cầm Viên&nbsp;&nbsp;doisongphapluat.com.vn...",
-    "source_entity": "doisongphapluat.com.vn",
+    "description": "Khởi tố người trộm thiên nga trắng ở Thảo Cầm Viên&nbsp;&nbsp;Tạp chí Đời sống & Pháp luật...",
+    "source_entity": "Tạp chí Đời sống & Pháp luật",
     "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVmJmamR6eGZiMVdPNnVYTC1ZbXhOc09nU012dHVTOUxYVkxCUDJYc18zUFZrcVpKT01VdDNIV1Z6b1NMdk1ET3ExTmVXb0xVWnF2UUhMMFg1NF9NTFVmLW8ybzdxV29jTDFhOXpnMXlyZld2M2hUWER2c1ZFWE54R3Y2Zy03R0ptQUVrcGlzMU9pS0FLeUdmLXlR0gGfAUFVX3lxTE9NT0tzaHZjRjZZMnZEUnRQcUJMNVVMZlQyQ0p0TFlaZmpDWkxIaEV5OERLbWFQQks0N3VFSld6SnlnbjZSZFBJUmlVZ2JkNnVKYVNWSlVKc0JsbjdCZmw5T3lMQ3o1NGwtQ1M4S1BrdzdaOVJkMzNKSGIzV2hnX3dKRUVwN25DbS1fcjBoWDVEOXBadW96Qy1CUnN1N2poWQ?oc=5",
     "event_date": "2026-04-05T13:21:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -2363,8 +2364,8 @@
   {
     "id": "rss-q_thaocamvien-66",
     "title": "Thảo Cầm Viên Sài Gòn: Cảnh báo du khách không trèo lên tượng hươu cao cổ để chụp hình",
-    "description": "Thảo Cầm Viên Sài Gòn: Cảnh báo du khách không trèo lên tượng hươu cao cổ để chụp hình&nbsp;&nbsp;htv.vn...",
-    "source_entity": "htv.vn",
+    "description": "Thảo Cầm Viên Sài Gòn: Cảnh báo du khách không trèo lên tượng hươu cao cổ để chụp hình&nbsp;&nbsp;Đài Phát thanh và Truyền hình TP.HCM...",
+    "source_entity": "Đài Phát thanh và Truyền hình TP.HCM",
     "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONnU4YlJoRmQ2Z0Z5aHF4dzRKRjdUUFlrd3VGelowVWF3WGxnaUQ2V1dxTzVoWGJwaVVkRjVaMUpVdUlsZzA5SkhnUWRNZGl4M293bEdzQXZtekpoWGU1RDhMQ1VkYVRudmFDZm9IdUV0SVI1RnRsanZrTk5XcEtTdUR0RWRXSVpvcktzSVBVRkx2aWt3T3VVZVQxOFp1dTc1RzdFc0stMTJ4YkQzUHd4RTlFNldXcXVndlczR1REQUs?oc=5",
     "event_date": "2026-04-07T03:15:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -2387,7 +2388,7 @@
     }
   },
   {
-    "id": "rss-q_britishcouncil-5",
+    "id": "rss-q_britishcouncil-7",
     "title": "TPHCM: Trường Mầm non Hoa Lư thông tin sự việc giáo viên, bảo mẫu có hành vi không chuẩn mực",
     "description": "TPHCM: Trường Mầm non Hoa Lư thông tin sự việc giáo viên, bảo mẫu có hành vi không chuẩn mực&nbsp;&nbsp;aFamily...",
     "source_entity": "aFamily",
@@ -2514,7 +2515,7 @@
     }
   },
   {
-    "id": "rss-q_gigamall-17",
+    "id": "rss-q_gigamall-18",
     "title": "Báo Người Lao Động long trọng khai mạc Lễ hội Tôn vinh Cà phê",
     "description": "Báo Người Lao Động long trọng khai mạc Lễ hội Tôn vinh Cà phê - Trà Việt lần 4 - năm 2026&nbsp;&nbsp;Chuyển động Thị trường...",
     "source_entity": "Chuyển động Thị trường",
@@ -2539,7 +2540,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-28",
+    "id": "rss-q_chaybogiadinh-33",
     "title": "Hơn 1.000 người tham gia chạy bộ đồng hành tại phường Vũng Tàu",
     "description": "Hơn 1.000 người tham gia chạy bộ đồng hành tại phường Vũng Tàu&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -2565,7 +2566,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-30",
+    "id": "rss-q_chaybogiadinh-35",
     "title": "Hơn 500 người tham gia chạy bộ",
     "description": "Hơn 500 người tham gia chạy bộ - đi bộ Ngày Gia đình Formosa Hà Tĩnh&nbsp;&nbsp;Báo Giáo dục và Thời đại Online...",
     "source_entity": "Báo Giáo dục và Thời đại Online",
