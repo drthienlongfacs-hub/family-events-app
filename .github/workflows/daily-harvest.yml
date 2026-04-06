@@ -28,18 +28,18 @@ jobs:
         run: npm ci
 
       - name: 🚀 Run Autonomous Harvester (Scraping & Verification)
-        run: node lib/scraper-github.js
+        run: node lib/scraper-github.mjs
         
       - name: Verify methodology logs
         run: |
           cat public/data/events.json || echo "No data generated"
           
-      - name: Commit Fresh Data (If any)
+      - name: Commit Fresh Data & Evolution Logs
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add public/data/events.json
-          git commit -m "chore: auto harvest daily family events" || exit 0
+          git add public/data/events.json public/data/evolution_log.json
+          git commit -m "chore: auto harvest daily family events & logs" || exit 0
           git push
 
       - name: Build Next.js Static Export

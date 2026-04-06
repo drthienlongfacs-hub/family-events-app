@@ -1,47 +1,62 @@
 [
   {
-    "id": "idecaf-1775461083928",
-    "title": "French Weekend Storytelling & Arts (Kể chuyện tiếng Pháp)",
-    "description": "Sân chơi văn hóa nghệ thuật cho tuổi thơ, giúp rèn luyện khả năng tư duy và cảm thụ nghệ thuật.",
-    "source_entity": "IDECAF (Viện Trao đổi Văn hóa với Pháp)",
-    "source_url": "https://idecaf.gov.vn/events/kids",
-    "event_date": "2026-04-08T07:38:03.928Z",
-    "location": "Q1, TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb",
-    "age_category": "6yo",
-    "quality_score": {
-      "rating": 5,
-      "label": "Verified Premium"
-    }
-  },
-  {
-    "id": "thehive-1775461083928",
-    "title": "The Hive Thao Dien: Kids Wellness & Sensory Play",
-    "description": "Hoạt động phát triển giác quan và tinh thần cho bé mầm non, an toàn và sáng tạo.",
-    "source_entity": "The Hive Thao Dien",
-    "source_url": "https://thehive.vn/events",
-    "event_date": "2026-04-11T07:38:03.928Z",
-    "location": "Thảo Điền, TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74",
-    "age_category": "16mo",
-    "quality_score": {
-      "rating": 4.5,
-      "label": "Trusted Community"
-    }
-  },
-  {
-    "id": "botanical-1775461083928",
-    "title": "Tuần lễ Văn hóa Quốc tế Thiếu nhi",
-    "description": "Lễ hội văn hóa, trò chơi vận động ngoài trời, học làm quen với thiên nhiên động thực vật.",
-    "source_entity": "Thảo Cầm Viên Sài Gòn",
-    "source_url": "https://saigonzoo.net",
-    "event_date": "2026-04-21T07:38:03.928Z",
-    "location": "Q1, TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1472653816316-3ad6f10a6592",
+    "id": "rss-vnexpress_family-1",
+    "title": "Vì sao nhiều người mắc kẹt trong mối quan hệ mập mờ?",
+    "description": "Sự thiếu ổn định trong cảm xúc và tiếc nuối thời gian đã bỏ ra khiến nhiều người mắc kẹt trong \"situationship\" - những mối quan hệ mập mờ, không có định hướng tương lai.",
+    "source_entity": "VnExpress Góc Gia Đình",
+    "source_url": "https://vnexpress.net/vi-sao-nhieu-nguoi-mac-ket-trong-moi-quan-he-map-mo-5058643.html",
+    "event_date": "2026-04-06T19:42:46.017Z",
+    "location": "TP. Hồ Chí Minh (Global)",
+    "image_url": "",
     "age_category": "family",
     "quality_score": {
       "rating": 4,
-      "label": "Local Program"
+      "label": "News Feed"
+    }
+  },
+  {
+    "id": "rss-vnexpress_family-2",
+    "title": "Làn sóng chuyển sang xe máy điện ở Hà Nội",
+    "description": "Gần đến thời điểm hạn chế xe máy xăng tại Vành đai 1 kèm với giá xăng tăng thúc đẩy nhiều gia đình Thủ đô mạnh dạn chuyển sang xe điện.",
+    "source_entity": "VnExpress Góc Gia Đình",
+    "source_url": "https://vnexpress.net/lan-song-chuyen-sang-xe-may-dien-o-ha-noi-5057765.html",
+    "event_date": "2026-04-07T07:42:46.017Z",
+    "location": "TP. Hồ Chí Minh (Global)",
+    "image_url": "",
+    "age_category": "family",
+    "quality_score": {
+      "rating": 4,
+      "label": "News Feed"
+    }
+  },
+  {
+    "id": "rss-vnexpress_family-3",
+    "title": "Lý do giới trung lưu Trung Quốc đi thuê thay vì mua nhà",
+    "description": "Thay vì gánh nợ mua những căn hộ chật chội, nhiều gia đình trung lưu quyết định dùng khoản tiền đó thuê biệt thự dài hạn để hưởng thụ không gian sống cao cấp.",
+    "source_entity": "VnExpress Góc Gia Đình",
+    "source_url": "https://vnexpress.net/ly-do-gioi-trung-luu-trung-quoc-di-thue-thay-vi-mua-nha-5058574.html",
+    "event_date": "2026-04-07T19:42:46.017Z",
+    "location": "TP. Hồ Chí Minh (Global)",
+    "image_url": "",
+    "age_category": "family",
+    "quality_score": {
+      "rating": 4,
+      "label": "News Feed"
+    }
+  },
+  {
+    "id": "fallback-1775461365820",
+    "title": "IDECAF: Ngày hội đọc sách tiếng Pháp và Kỹ năng",
+    "description": "Fallback system event. Đã áp dụng Circuit Breaker đảm bảo UI không sập khi mất liên lạc APIs.",
+    "source_entity": "IDECAF French Center (Reliable Baseline)",
+    "source_url": "https://idecaf.gov.vn",
+    "event_date": "2026-04-09T07:42:45.820Z",
+    "location": "Q1, TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb",
+    "age_category": "family",
+    "quality_score": {
+      "rating": 5,
+      "label": "Trusted Community"
     }
   }
 ]
