@@ -11,6 +11,38 @@ export function EventCard({ event }) {
             platformLabel === 'X' ? 'bg-slate-800 text-white' :
                 'bg-emerald-50 text-emerald-700';
 
+    // 🌟 Visual Entity Recognition Engine (CDMS Enterprise UI)
+    // Map crude RSS / Google tags into beautiful recognizable brands for TPHCM
+    const resolveEntityVisual = (evt) => {
+        const textToScan = `${evt.title} ${evt.source_entity} ${evt.source_url}`.toLowerCase();
+        if (textToScan.includes('idecaf')) return { name: 'Kịch IDECAF', icon: '🎭', color: 'text-purple-600' };
+        if (textToScan.includes('takashimaya') || textToScan.includes('saigon centre')) return { name: 'Takashimaya', icon: '🏬', color: 'text-rose-600' };
+        if (textToScan.includes('l\'espace') || textToScan.includes('viện pháp')) return { name: 'L\'Espace (Viện Pháp)', icon: '🇫🇷', color: 'text-blue-600' };
+        if (textToScan.includes('goethe')) return { name: 'Viện Goethe', icon: '🇩🇪', color: 'text-yellow-600' };
+        if (textToScan.includes('british council') || textToScan.includes('hội đồng anh')) return { name: 'British Council', icon: '🇬🇧', color: 'text-indigo-600' };
+        if (textToScan.includes('american center') || textToScan.includes('lãnh sự')) return { name: 'American Center', icon: '🇺🇸', color: 'text-red-600' };
+        if (textToScan.includes('aeon mall')) return { name: 'AEON Mall', icon: '🏬', color: 'text-fuchsia-600' };
+        if (textToScan.includes('vincom')) return { name: 'Vincom', icon: '🏬', color: 'text-red-600' };
+        if (textToScan.includes('crescent mall')) return { name: 'Crescent Mall', icon: '🏬', color: 'text-orange-500' };
+        if (textToScan.includes('gigamall') || textToScan.includes('vạn hạnh')) return { name: 'TTTM Gigamall / Vạn Hạnh', icon: '🏬', color: 'text-teal-600' };
+        if (textToScan.includes('tiniworld')) return { name: 'TiniWorld', icon: '🎪', color: 'text-pink-500' };
+        if (textToScan.includes('rối nước')) return { name: 'Múa Rối Nước', icon: '🎭', color: 'text-amber-700' };
+        if (textToScan.includes('thảo cầm viên')) return { name: 'Thảo Cầm Viên', icon: '🦒', color: 'text-emerald-600' };
+        if (textToScan.includes('đường sách') || textToScan.includes('nguyễn văn bình')) return { name: 'Đường sách TPHCM', icon: '📚', color: 'text-stone-600' };
+        if (textToScan.includes('chạy bộ') || textToScan.includes('marathon')) return { name: 'Giải Chạy Bộ', icon: '🏃‍♂️', color: 'text-blue-500' };
+
+        // News sites fallback
+        if (textToScan.includes('vnexpress')) return { name: 'VnExpress', icon: '📰', color: 'text-red-700' };
+        if (textToScan.includes('tuoitre') || textToScan.includes('tuổi trẻ')) return { name: 'Báo Tuổi Trẻ', icon: '📰', color: 'text-red-600' };
+        if (textToScan.includes('thanhnien') || textToScan.includes('thanh niên')) return { name: 'Báo Thanh Niên', icon: '📰', color: 'text-sky-600' };
+        if (textToScan.includes('afamily')) return { name: 'AFamily', icon: '📰', color: 'text-pink-600' };
+        if (textToScan.includes('phunu') || textToScan.includes('phụ nữ')) return { name: 'Báo Phụ Nữ', icon: '📰', color: 'text-rose-500' };
+
+        return { name: evt.source_entity, icon: '📍', color: 'text-slate-800' };
+    };
+
+    const visualEntity = resolveEntityVisual(event);
+
     return (
         <div className="bg-white rounded-3xl shadow-[0_2px_12px_rgba(0,0,0,0.04)] border border-slate-100 overflow-hidden mb-6 transition-transform hover:-translate-y-1 hover:shadow-lg">
             {event.image_url && (
@@ -89,7 +121,7 @@ export function EventCard({ event }) {
                         <div className="bg-rose-50 w-8 h-8 rounded-full flex items-center justify-center">
                             <MapPin size={16} className="text-rose-600" />
                         </div>
-                        <span className="truncate group">{event.location} - <strong>{event.source_entity}</strong></span>
+                        <span className="truncate group">{event.location} - <strong className={visualEntity.color}>{visualEntity.icon} {visualEntity.name}</strong></span>
                     </div>
                 </div>
 

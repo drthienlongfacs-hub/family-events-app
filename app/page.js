@@ -103,7 +103,7 @@ export default function Home() {
 
         {/* Dynamic Taxonomy Filter */}
         <div className="flex gap-2 mt-4 overflow-x-auto hide-scrollbar pb-1">
-          {['all', 'Workshop & Kỹ năng', 'Nghệ thuật & Biểu diễn', 'Vui chơi & Dã ngoại', 'Lễ hội & Sự kiện', 'Triển lãm & Trưng bày'].map(cat => (
+          {['all', 'Workshop & Kỹ năng', 'Nghệ thuật & Biểu diễn', 'Vui chơi & Dã ngoại', 'Lễ hội & Sự kiện', 'Triển lãm & Trưng bày', 'Cộng đồng & Mặc định'].map(cat => (
             <button key={cat}
               onClick={() => setCategoryFilter(cat)}
               className={`px-3 py-1.5 rounded-full whitespace-nowrap text-[11px] font-extrabold uppercase tracking-wide transition-all border ${categoryFilter === cat ? 'bg-teal-600 text-white border-teal-600 shadow-md shadow-teal-200' : 'bg-white text-slate-500 border-slate-200 hover:border-teal-300 hover:text-teal-600'
