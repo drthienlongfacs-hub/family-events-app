@@ -1,34 +1,34 @@
 [
   {
-    "id": "rss-q_sukien-14",
-    "title": "Ông Trump đưa thông điệp chiến tranh trong sự kiện thiếu nhi",
-    "description": "Ông Trump đưa thông điệp chiến tranh trong sự kiện thiếu nhi&nbsp;&nbsp;Znews...",
-    "source_entity": "Znews",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGlqelRkTkZ3RTVhM3h1Z3NtMno3ZnE3R19XaGRqeVB1OTg5cVZVX21nNFlOd3MzekZmc3JEdXVXWGVnbmFoQ3dEcFZyUGRwam16eG52M2pDaWR6U3FvemVEaC1wV0xwa3JialdhSmJvS1F0Si1KMElHdTRjMlk5RVBiX0pQUmNrT0tBSEJGVEk4U0c4N1dUWUhR?oc=5",
-    "event_date": "2026-04-10T02:10:22.000Z",
+    "id": "rss-vne_giadinh-7",
+    "title": "Trường Giang lần thứ tư liên tiếp đồng hành Kun runners Huế",
+    "description": "Nghệ sĩ Trường Giang cùng dàn KOL góp mặt tại Kun Marathon Huế 2026, đồng hành 2.500 VĐV nhí tham gia đường chạy và các hoạt động trải nghiệm bảo vệ môi trường....",
+    "source_entity": "Trường Giang lần thứ tư liên tiếp đồng hành Kun runners Huế",
+    "source_url": "https://vnexpress.net/truong-giang-lan-thu-tu-lien-tiep-dong-hanh-kun-runners-hue-5060805.html",
+    "event_date": "2026-04-13T09:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
+      "hasLocation": true,
       "isInteractive": true,
       "score": 60,
       "failures": [
-        "Missing_Date",
-        "Missing_Location"
+        "No_Age_Tag",
+        "Missing_Date"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_sukien-44",
+    "id": "rss-q_sukien-51",
     "title": "Trẻ em yếu thế kể chuyện Thanh niên xung phong TP.HCM bằng tranh",
-    "description": "Trẻ em yếu thế kể chuyện Thanh niên xung phong TP.HCM bằng tranh&nbsp;&nbsp;Thanh Niên...",
-    "source_entity": "Thanh Niên",
+    "description": "Trẻ em yếu thế kể chuyện Thanh niên xung phong TP.HCM bằng tranh&nbsp;&nbsp;Báo Thanh Niên...",
+    "source_entity": "Báo Thanh Niên",
     "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZMZVM1UmRSS0pSb2o2NHlmYW9TS2VQZU13YVZDa1Z0NURKbElWc050bmhaNmlZTTF5ZTV4bjdZOFZrMVVqRGhOX2tHVmZvbWVGa1Z1cDNfOWMyTHpOSEg2djJuVzJmVjZXbkVRVGNNUG02aG5RTldoT2xoWUlsXzNaYzVDOGQzdGtFZ1N6Y05qLTJCSTRBWm9QUU5EZ1ktUjcxZTNsSE9XQjQ?oc=5",
     "event_date": "2026-04-10T22:30:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -50,84 +50,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-54",
-    "title": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị",
-    "description": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị - Hành chính tại Thủ Thiêm&nbsp;&nbsp;Báo Lâm Đồng...",
-    "source_entity": "Báo Lâm Đồng",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2lWUlFMam9sZzVxNGJuaFJobUh1TEY4eE5CSzBwTXl1V1E3d0NOdjBDWVNKOFlqSWVncW1HeEI5TWxvUzdSeEtGNkw4UDZWVjdySlB2QlExWkpqYmhtRUo0a3JidWJqQUItUXA1TGVCVFAtZktOckZGWVZxaFdTV3A3SmxKYzA4UUcyOGlMOUc3MDl3SkE3MjhGYVJBaU5vLWpXbVNRc0VZN3NTTUpv?oc=5",
-    "event_date": "2030-02-01T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-34",
-    "title": "Ngày hội Du lịch 2026: Doanh thu 120 tỷ đồng tạo đà cho mùa hè bùng nổ",
-    "description": "Ngày hội Du lịch 2026: Doanh thu 120 tỷ đồng tạo đà cho mùa hè bùng nổ&nbsp;&nbsp;TẠP CHÍ DU LỊCH TP. HỒ CHÍ MINH...",
-    "source_entity": "TẠP CHÍ DU LỊCH TP. HỒ CHÍ MINH",
-    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXBHdkRDbXpfNDk4b2F2ZVd2akxWa3JmSi1CUU9iQkk1ekgyTHBFNUMzRThnWWhsSXhIaS1CeVY3cHN3Ykx3Y2J2elJXaGdkalNOZFNEdWg2UUM5eS1HNWtCNlFtWHU2bTBvZE9OeXR0UnVDM0FaNFA3Nzllc1J1aEZuZDJRZHlQaVhydEtqbG9jZHoxQXhWYkhqTHFzU0FmZ2hyUjlLR2hMOHVERlhtdWJnc0VRbWY4am9aenBLUQ?oc=5",
-    "event_date": "2026-04-09T07:05:29.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-57",
-    "title": "Bán tour vài ngày thu 120 tỷ đồng, du lịch TP.HCM sẵn sàng bước vào mùa hè sôi động",
-    "description": "Bán tour vài ngày thu 120 tỷ đồng, du lịch TP.HCM sẵn sàng bước vào mùa hè sôi động&nbsp;&nbsp;Báo Dân Việt...",
-    "source_entity": "Báo Dân Việt",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2RqaC1FUURpOFlIWkdHX1VmYm00aU5abER3d3lWU3lXWHQ2NmstalYzdTVNbThiRXFDUDNXRmFPM29jSU04TXhwMWY4ODV4Z1F5TElYLTk3c1o3Sm9GMlowcXI1UDZMcEN5MjVqdGVtaEdOQTBuV0JqZGwyVFN2RzlDaUpZLWpjbS1uUzlFaHY1V3JTNnBRSmN1MFNIc3dsekFqTEFqNXMyYmtESm45dm9PV3A?oc=5",
-    "event_date": "2026-04-09T03:37:24.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-69",
+    "id": "rss-q_ngayhoi-70",
     "title": "Lan tỏa tính nhân văn trong ngày hội hiến máu",
     "description": "Lan tỏa tính nhân văn trong ngày hội hiến máu&nbsp;&nbsp;Tiin.vn...",
     "source_entity": "Tiin.vn",
@@ -153,7 +76,7 @@
     }
   },
   {
-    "id": "rss-q_idecaf-4",
+    "id": "rss-q_idecaf-3",
     "title": "Nhà hát Blue Waves Theatre 5.000 chỗ tại Cần Giờ: Biểu tượng văn hóa mới của TP.HCM",
     "description": "Nhà hát Blue Waves Theatre 5.000 chỗ tại Cần Giờ: Biểu tượng văn hóa mới của TP.HCM&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -205,7 +128,58 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-9",
+    "id": "rss-q_vienbaotang-11",
+    "title": "4 điểm vui chơi gần Hà Nội thú vị dành cho gia đình dịp lễ 30.4",
+    "description": "4 điểm vui chơi gần Hà Nội thú vị dành cho gia đình dịp lễ 30.4 - 1.5&nbsp;&nbsp;Laodong.vn...",
+    "source_entity": "Laodong.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMkhsQ1N2QzM4SjhEQzh1SnVDOXZHemVVLUxzd3ZMWGRzOU9GQ2VrM0pHc1FqbV84M3RYTGpJb2N4cmlfNFRCdFhxOGF3a1dqeHRwOVRWUkVsYTAxNWV3Q0poUXg1MWdrNm1DdThDWGp6VElDWjlZUGI0elZZUHRDSkhLNEthZnNXTm0tSVJmeVpiYnhqYlVXN2dLN0lzR2NRMkd4VlJOdk9QdzlHMkJ6RTNB?oc=5",
+    "event_date": "2026-04-13T10:13:17.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_takashimaya-7",
+    "title": "Keppel Singapore bán vốn loạt dự án Saigon Centre, Palm City… tại Việt Nam, thu về 6,56 nghìn tỷ đồng",
+    "description": "Keppel Singapore bán vốn loạt dự án Saigon Centre, Palm City… tại Việt Nam, thu về 6,56 nghìn tỷ đồng&nbsp;&nbsp;cafeland.vn...",
+    "source_entity": "cafeland.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNME5rbE4xU294VTJrWS1YZTQ0MDZPbFVvRDJmY2kwR01WRTV4dHRfcERfYnNqNUV4OE8wZWdNWm9jU1R3elZSOVY5THJBRjZNM2d3N1YtZmg3Z2lqNDlXUTRyaUR1NW5ZSEJMc2cyMzJzRkVxZndUR0swaVBZazNRcE91WlJaaGZxZFI0dUh6czR0RUdzMnVaUHdUTUJOOXNOSGNGZWVCeUxRUnhqc2ZnT01ad19HRUpaLWVSZ3VUanEzYmRLbWFuZ0l6QkdHTUdSSnh3?oc=5",
+    "event_date": "2026-04-13T14:42:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_takashimaya-10",
     "title": "Cửa hàng Louis Vuitton nam đầu tiên tại Việt Nam",
     "description": "Cửa hàng Louis Vuitton nam đầu tiên tại Việt Nam&nbsp;&nbsp;Esquire Vietnam...",
     "source_entity": "Esquire Vietnam",
@@ -226,6 +200,31 @@
         "No_Age_Tag",
         "Missing_Date",
         "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_gigamall-9",
+    "title": "Trung tâm thương mại Gigamall: Một điểm đến, nhiều trải nghiệm",
+    "description": "Trung tâm thương mại Gigamall: Một điểm đến, nhiều trải nghiệm&nbsp;&nbsp;Chuyển động Thị trường...",
+    "source_entity": "Chuyển động Thị trường",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjdDeUY2ZWVvdXFFMkVFYk5WMHUxYkdXZWFUZjQ3TXR5U2lfM1JRR254b1lST05NRmVLVDlCVHBLemRRNFVMc3FaTnJ5eGVuOE5kU18wZW1vZERIZFZnSVQ3OVRfQlZvN0tPb1VubzdDVmtxMDluTkFETDgtRXpnbzAxMmZ1ZmlvZlZZMzVkMF9rUnctdW82X3F3clJtM2pfR0M2VUxB?oc=5",
+    "event_date": "2026-04-13T21:23:53.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
       ],
       "platform": "Web"
     }
@@ -276,31 +275,6 @@
       "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-19",
-    "title": "Nữ sinh Ams trúng tuyển loạt trường nghệ thuật danh giá top đầu nước Mỹ",
-    "description": "Nữ sinh Ams trúng tuyển loạt trường nghệ thuật danh giá top đầu nước Mỹ&nbsp;&nbsp;Gia đình & Xã hội...",
-    "source_entity": "Gia đình & Xã hội",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUcyb2ZqZER6cWswZDYzN3o4enNwdWEtY1B0dTlia3l3Y3lMcFp2Q2tGTExkNFRmN0lfd0dzRHdaZ1E3bEU0SVFkUjc4SW9kWWFvY05KWERIWWphemYwZ0Zad2JydkdOVHJBQlpJazVNRGZIS2l5UmRTYXBQUUZXSjRDWTlhY3RnRU11NngwX2Z3aE9wd1c4ajFoUFpEMjdCSnp2aEExeS16U1VQcnZ4THZUT1BqZWJVejZsUkdLVDdpX29UakZN?oc=5",
-    "event_date": "2026-04-09T23:26:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
         "Missing_Date",
         "Not_an_Interactive_Event"
       ],
