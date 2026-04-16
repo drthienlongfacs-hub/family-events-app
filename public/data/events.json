@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-afamily_mebe-23",
+    "id": "rss-afamily_mebe-32",
     "title": "\"Out trình\": Tham dự ngày hội thể thao ở trường con trai, mẹ bỉm sở hữu 8 Huy chương Olympic cho dàn phụ huynh \"hít khói\"",
     "description": "Tham gia ngày hội thể thao trường con, mẹ bỉm \"giản dị\" khiến netizen ngỡ ngàng với đẳng cấp huyền thoại 8 HCV Olympic....",
     "source_entity": "\"Out trình\": Tham dự ngày hội thể thao ở trường con trai, mẹ bỉm sở hữu 8 Huy chương Olympic cho dàn phụ huynh \"hít khói\"",
@@ -25,7 +25,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-5",
+    "id": "rss-tuoitre_giaoduc-20",
     "title": "Hành trình đỏ Việt Nam",
     "description": "Từ những nghi thức, câu chuyện đời thường đến trải nghiệm thực tế, việc nuôi dưỡng 'gen đỏ' cho thiếu nhi Việt - Trung đang được tiếp cận theo hướng tự nhiên, gần gũi hơn....",
     "source_entity": "Trung Quốc: Đến để hiểu và kể chuyện lịch sử theo cách của mình",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-22",
+    "id": "rss-tuoitre_giaoduc-37",
     "title": "Trung Quốc 'tái thiết' giáo dục đại học thời AI",
     "description": "Trung Quốc tái cấu trúc đại học, cắt nhiều ngành truyền thống khi AI phát triển mạnh, thị trường lao động chuyển sang ưu tiên kỹ năng liên ngành....",
     "source_entity": "Trung Quốc 'tái thiết' giáo dục đại học thời AI",
@@ -75,7 +75,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-11",
+    "id": "rss-thanhnien_gioitre-20",
     "title": "Nắng n&oacute;ng l&agrave; &#039;cơ hội v&agrave;ng&#039;: Xe nước thu 7 triệu/ng&agrave;y, c&ocirc;ng vi&ecirc;n nước đ&oacute;n 3.000 kh&aacute;ch",
     "description": "Khi nhiệt độ ngo&agrave;i trời chạm ngưỡng 40 độ C, người d&acirc;n TP.HCM đổ x&ocirc; t&igrave;m đủ mọi c&aacute;ch để giải nhiệt, v&ocirc; t&igrave;nh tạo n&ecirc;n một thị trườn...",
     "source_entity": "Nắng n&oacute;ng l&agrave; &#039;cơ hội v&agrave;ng&#039;: Xe nước thu 7 triệu/ng&agrave;y, c&ocirc;ng vi&ecirc;n nước đ&oacute;n 3.000 kh&aacute;ch",
@@ -100,7 +100,33 @@
     }
   },
   {
-    "id": "rss-q_sukien-21",
+    "id": "rss-q_sukien-12",
+    "title": "Hội đồng Đội các phường xã, đặc khu chung tay tổ chức hoạt động hè vui, khỏe, an toàn cho thiếu nhi",
+    "description": "Hội đồng Đội các phường xã, đặc khu chung tay tổ chức hoạt động hè vui, khỏe, an toàn cho thiếu nhi&nbsp;&nbsp;muctim.tuoitre.vn...",
+    "source_entity": "muctim.tuoitre.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQjhEMmNVNUtaQmlQNzNpay1yd1MzVGFzanBsOGVQdXJzSnA5U1ZoN1ktUkJQRklhVlRHY283QzJZX09FNXg3QzRmeWhxbmJVc3I1NEgtZjNySzltNklHdnVLclk2S0hjNFRtbHJadFp4bmVRUWVWcl9QMXdNbEV1NjRVMWRhcGJVTWdlbUFVR2RBQ3ltdGFjS3VoRTdyaW9PMmV5ZUpWbE56VEFSbmJiWGlSQVBHTURTVnRHd3JCUENYN2RhdnRqWUhvd3JYcGpuak9hNUVVeGxJbkkteWc?oc=5",
+    "event_date": "2026-04-18T09:30:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-23",
     "title": "Mang truyện tranh Việt đến Hội sách Thiếu nhi Bologna",
     "description": "Mang truyện tranh Việt đến Hội sách Thiếu nhi Bologna&nbsp;&nbsp;Znews...",
     "source_entity": "Znews",
@@ -126,7 +152,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-30",
+    "id": "rss-q_sukien-35",
     "title": "Ngày Sách 2026 tại TP.HCM lan tỏa văn hóa đọc trong không gian đô thị",
     "description": "Ngày Sách 2026 tại TP.HCM lan tỏa văn hóa đọc trong không gian đô thị&nbsp;&nbsp;TẠP CHÍ DU LỊCH TP. HỒ CHÍ MINH...",
     "source_entity": "TẠP CHÍ DU LỊCH TP. HỒ CHÍ MINH",
@@ -152,32 +178,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-54",
-    "title": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị",
-    "description": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị - Hành chính tại Thủ Thiêm&nbsp;&nbsp;Báo Lâm Đồng...",
-    "source_entity": "Báo Lâm Đồng",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGNZb3VCaFE4YW5TUFNPQVhaWnZxQVNXbkxxOUg4Y3g2ZUZWWTF1YUhyVTU0bTQ1U3pZTDZBdzRhcnZhXzB4QVA4c0tjb3NOOGsxM2JnU3F5bU1RSURjSi1GQW5iOEhUbl9qT000aGRWQXBDaGNVZ20tY0p3Z040TjNuR3RLc2hhSHdNRTRpSDNQN2RzU3BrV0dVeDRELS11eW5fZmdfM3M4OW5YTHFZRg?oc=5",
-    "event_date": "2030-02-01T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_sukien-62",
+    "id": "rss-q_sukien-46",
     "title": "Trải nghiệm công nghệ VR, Thư viện người tại Ngày Sách và Văn hóa đọc",
     "description": "Trải nghiệm công nghệ VR, Thư viện người tại Ngày Sách và Văn hóa đọc&nbsp;&nbsp;Znews...",
     "source_entity": "Znews",
@@ -202,12 +203,12 @@
     }
   },
   {
-    "id": "rss-q_idecaf-3",
-    "title": "Toàn cảnh công trình nhà hát Opera hơn 12.000 tỷ hiện đại bậc nhất Thủ đô",
-    "description": "Toàn cảnh công trình nhà hát Opera hơn 12.000 tỷ hiện đại bậc nhất Thủ đô&nbsp;&nbsp;Tin tức 24h...",
-    "source_entity": "Tin tức 24h",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODlwUGhkRWZaa3o4ZE5RYnEySHB5VEdmNU5ITkhYd3NPakxMUlBKRU1QSU9PWnFUZjZiUmVqR0FZZVhnTWdOOEd0WklUQ0lmQlE1SGtrbl93RnpTZUljbF95QkdhZjdJOF9jRjNZUHJCNWJBNEV6Y0N0Z2xqQlJGdnNDVnJCalgwTVJ4bGZROTBVZTZobnVwaTlzV2RBUnl0VURBMmlTSFBCaXUxRFBFUlJnLWhzX1o5TkRPSEl6MC0?oc=5",
-    "event_date": "2026-04-16T01:50:00.000Z",
+    "id": "rss-q_sukien-61",
+    "title": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị",
+    "description": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị - Hành chính tại Thủ Thiêm&nbsp;&nbsp;Báo Lâm Đồng...",
+    "source_entity": "Báo Lâm Đồng",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGNZb3VCaFE4YW5TUFNPQVhaWnZxQVNXbkxxOUg4Y3g2ZUZWWTF1YUhyVTU0bTQ1U3pZTDZBdzRhcnZhXzB4QVA4c0tjb3NOOGsxM2JnU3F5bU1RSURjSi1GQW5iOEhUbl9qT000aGRWQXBDaGNVZ20tY0p3Z040TjNuR3RLc2hhSHdNRTRpSDNQN2RzU3BrV0dVeDRELS11eW5fZmdfM3M4OW5YTHFZRg?oc=5",
+    "event_date": "2030-02-01T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -215,13 +216,12 @@
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": false,
+      "hasTemporal": true,
       "hasLocation": true,
       "isInteractive": false,
-      "score": 40,
+      "score": 60,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
@@ -252,7 +252,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-20",
+    "id": "rss-q_thaocamvien-16",
     "title": "Ngựa lùn Cacao Thảo cầm viên ra mắt, “khai hoa bắt miếng” tại tiệc đầy tháng",
     "description": "Ngựa lùn Cacao Thảo cầm viên ra mắt, “khai hoa bắt miếng” tại tiệc đầy tháng&nbsp;&nbsp;muctim.tuoitre.vn...",
     "source_entity": "muctim.tuoitre.vn",
@@ -278,7 +278,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-22",
+    "id": "rss-q_thaocamvien-19",
     "title": "Ngựa lùn Cacao khỏe mạnh sau 1 tháng tuổi tại Thảo Cầm Viên",
     "description": "Ngựa lùn Cacao khỏe mạnh sau 1 tháng tuổi tại Thảo Cầm Viên&nbsp;&nbsp;Báo Người Lao Động...",
     "source_entity": "Báo Người Lao Động",
@@ -304,59 +304,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-26",
-    "title": "Khách đổ đến dự sinh nhật ngựa lùn 'Ca Cao' ở Thảo Cầm Viên",
-    "description": "Khách đổ đến dự sinh nhật ngựa lùn 'Ca Cao' ở Thảo Cầm Viên&nbsp;&nbsp;VnExpress...",
-    "source_entity": "VnExpress",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzhsbjVvZEYzREw3eU5taDdERE55N19zR1JUQ1NzT1h6TDRwTUtMcG4tZ1VyWHZJQ1pXc3NfTS1yYVdlZHBraFBwVjFmMV9VT0FaTmxfOFhKaDNkOWJwaEFscmNrUzJ2aTZHdjAta2puSXh3ZnZyLW9wUkJfR1ZwcmpLbzNTejRMWlNSTVhSR2JmVWZDUUxZ?oc=5",
-    "event_date": "2026-04-15T10:59:06.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-38",
-    "title": "'Nàng' ngựa lùn Ca Cao siêu tinh nghịch trong tiệc đầy tháng ở Thảo Cầm Viên",
-    "description": "'Nàng' ngựa lùn Ca Cao siêu tinh nghịch trong tiệc đầy tháng ở Thảo Cầm Viên&nbsp;&nbsp;Báo Thanh Niên...",
-    "source_entity": "Báo Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUFXTzRYemhmaVRuTG15QkhTd1paci0xU0NfZDkzaFJzanR3R1RkSUc0d2p2YjlIODlrd0IweE9vYXdRTEJRV0tFdUhuLUZNaEFKLXEtSjhNUXJHRnZCS3Fpb2lGTlJScFcwdDlvZFVsOEdjQUFwVVp0VWZxZVJiSW1KR0x3U3ZHc0NmdVNvYzFESlQ1Smo5WndGM3RtTHE2T0RmQW9MVVRmM0MyUjVMeXQ5YjFZU3dES1E?oc=5",
-    "event_date": "2026-04-15T07:24:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-39",
+    "id": "rss-q_thaocamvien-23",
     "title": "Ngựa lùn Cacao 1 tháng tuổi ở Thảo Cầm Viên chưa hết 'hot'",
     "description": "Ngựa lùn Cacao 1 tháng tuổi ở Thảo Cầm Viên chưa hết 'hot'&nbsp;&nbsp;Znews...",
     "source_entity": "Znews",
@@ -382,7 +330,84 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-57",
+    "id": "rss-q_thaocamvien-28",
+    "title": "Khách đổ đến dự sinh nhật ngựa lùn 'Ca Cao' ở Thảo Cầm Viên",
+    "description": "Khách đổ đến dự sinh nhật ngựa lùn 'Ca Cao' ở Thảo Cầm Viên&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzhsbjVvZEYzREw3eU5taDdERE55N19zR1JUQ1NzT1h6TDRwTUtMcG4tZ1VyWHZJQ1pXc3NfTS1yYVdlZHBraFBwVjFmMV9VT0FaTmxfOFhKaDNkOWJwaEFscmNrUzJ2aTZHdjAta2puSXh3ZnZyLW9wUkJfR1ZwcmpLbzNTejRMWlNSTVhSR2JmVWZDUUxZ?oc=5",
+    "event_date": "2026-04-15T10:59:06.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-33",
+    "title": "'Nàng' ngựa lùn Ca Cao siêu tinh nghịch trong tiệc đầy tháng ở Thảo Cầm Viên",
+    "description": "'Nàng' ngựa lùn Ca Cao siêu tinh nghịch trong tiệc đầy tháng ở Thảo Cầm Viên&nbsp;&nbsp;Báo Thanh Niên...",
+    "source_entity": "Báo Thanh Niên",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUFXTzRYemhmaVRuTG15QkhTd1paci0xU0NfZDkzaFJzanR3R1RkSUc0d2p2YjlIODlrd0IweE9vYXdRTEJRV0tFdUhuLUZNaEFKLXEtSjhNUXJHRnZCS3Fpb2lGTlJScFcwdDlvZFVsOEdjQUFwVVp0VWZxZVJiSW1KR0x3U3ZHc0NmdVNvYzFESlQ1Smo5WndGM3RtTHE2T0RmQW9MVVRmM0MyUjVMeXQ5YjFZU3dES1E?oc=5",
+    "event_date": "2026-04-15T07:24:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-34",
+    "title": "Sắp diễn ra Lễ hội Sắc màu văn hóa lần 2 tái hiện không gian Việt phục giữa lòng TP.HCM",
+    "description": "Sắp diễn ra Lễ hội Sắc màu văn hóa lần 2 tái hiện không gian Việt phục giữa lòng TP.HCM&nbsp;&nbsp;Báo Pháp Luật TP. Hồ Chí Minh...",
+    "source_entity": "Báo Pháp Luật TP. Hồ Chí Minh",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDRFUzdsaERudXpvUmF6RGdnUUVDOE5NdHhhT1N1T3VJU2VjbzJHaElrOXVXdlNyX08tcGFjcW5LRDNkUmVaOG9aWG1IUkVPcDBoeHAxb2pPTWRpTldlM211Y0YxUmVENnMwSFBwV2NOcmE5NWo1LVBnUzR1MUN3OVhMeE1ZX2toSFVMdDJYZGFHMFJoazlxWTJoNmV2Z3o4WWpDUlZBTHFJYlR0OGZWV25tbmlVQnds?oc=5",
+    "event_date": "2026-04-18T21:42:10.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-50",
     "title": "Khách đổ đến dự sinh nhật ngựa lùn 'Ca Cao' ở Thảo Cầm Viên",
     "description": "Khách đổ đến dự sinh nhật ngựa lùn 'Ca Cao' ở Thảo Cầm Viên&nbsp;&nbsp;Netlife.vn...",
     "source_entity": "Netlife.vn",
@@ -434,38 +459,38 @@
     }
   },
   {
-    "id": "rss-q_vienbaotang-9",
-    "title": "Công nghệ là nền tảng để trẻ em Việt Nam hội nhập",
-    "description": "Công nghệ là nền tảng để trẻ em Việt Nam hội nhập&nbsp;&nbsp;VOH...",
-    "source_entity": "VOH",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnlKV3dnUWRhVmRUOXFmUEVGSV81MmRIcm1pNDdMX01FdHZoV0xXT1NqUDNYQW9iOTlXZE4tRzZoVDVqb0xrVWRUNE1OWXd3SW13bmdhUlVHNTduZlJlS2dMbXFScllnR3Vxd1FSX0lMUlVxSEtmcW9PWGVTamxmUGsxcHh1M2pXeml5MmhUU2liUQ?oc=5",
-    "event_date": "2026-04-17T00:15:33.000Z",
+    "id": "rss-q_vienbaotang-8",
+    "title": "Bảo tàng TP.HCM đón hơn 1,38 triệu lượt khách trong quý I.2026",
+    "description": "Bảo tàng TP.HCM đón hơn 1,38 triệu lượt khách trong quý I.2026&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzRLMnQ2U09fZXRUdENGb2ZDX3pXdVgwWWpNc0FPVmZPc2dZM2dPSU90WEFRcUhuTDRjWFQ3VWhlVE9RSm41SU5tOTJIdWJLdUEyVWxxS2MwZFJiaE5MeW9DMldkZ3dQRXE5N2VJT3lBMWFHdG5zcUxZd3NwcDd0am1MUTVtRnhKNWlJSDlR?oc=5",
+    "event_date": "2026-04-16T12:49:39.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Triển lãm & Trưng bày",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
+      "hasLocation": true,
       "isInteractive": false,
       "score": 40,
       "failures": [
+        "No_Age_Tag",
         "Missing_Date",
-        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_duongsach-6",
-    "title": "Sách thiếu nhi trước sức ép từ nền tảng số",
-    "description": "Sách thiếu nhi trước sức ép từ nền tảng số&nbsp;&nbsp;Báo Quân đội nhân dân...",
-    "source_entity": "Báo Quân đội nhân dân",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXZwaEpBY3JGQTJhUEJDUG9DQzNSd3dHTl9GeWZRMzNsMF96czlYc3dpbHdEOGEyVVhna0NKRlNVWWVET3N4eEM1NGthUW1BTFNGS003bTNiY0Q2MzlISWltY1NFMkhSMzdIZ1FUbHo1NWxZbFRwYU9wQTRMMTlSSjVpcndtY1Y5a3NZ?oc=5",
-    "event_date": "2026-04-14T22:31:42.000Z",
+    "id": "rss-q_vienbaotang-11",
+    "title": "Công nghệ là nền tảng để trẻ em Việt Nam hội nhập",
+    "description": "Công nghệ là nền tảng để trẻ em Việt Nam hội nhập&nbsp;&nbsp;VOH...",
+    "source_entity": "VOH",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnlKV3dnUWRhVmRUOXFmUEVGSV81MmRIcm1pNDdMX01FdHZoV0xXT1NqUDNYQW9iOTlXZE4tRzZoVDVqb0xrVWRUNE1OWXd3SW13bmdhUlVHNTduZlJlS2dMbXFScllnR3Vxd1FSX0lMUlVxSEtmcW9PWGVTamxmUGsxcHh1M2pXeml5MmhUU2liUQ?oc=5",
+    "event_date": "2026-04-17T00:15:33.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -512,32 +537,6 @@
     }
   },
   {
-    "id": "rss-q_lespace-2",
-    "title": "Tiếng Pháp là ngoại ngữ được học nhiều thứ hai tại Việt Nam",
-    "description": "Tiếng Pháp là ngoại ngữ được học nhiều thứ hai tại Việt Nam&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXdmR3NuV21OWVZfWi1DYllISjZfUmZTV2l6TzVGWHdwaGlMblpSWDVPSFFYbHdwZGxZVEVjaTFrcmhBdFBqNENpWWFhdUJQMkM1d2RWQ3VUYWFwNURWeWRBUEF5a2Y5ZGFqTXNJRlJpWURQY1N2a0VmWk0tZWF0dUV5ZGlRX0ZLcFE?oc=5",
-    "event_date": "2026-04-14T08:23:12.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
     "id": "rss-q_takashimaya-19",
     "title": "BEAT Network công bố chiến lược 'Social Community Solutions' tại sự kiện kỷ niệm 10 năm",
     "description": "BEAT Network công bố chiến lược 'Social Community Solutions' tại sự kiện kỷ niệm 10 năm - BEAT X-Tend&nbsp;&nbsp;thethaovanhoa.vn...",
@@ -563,61 +562,11 @@
     }
   },
   {
-    "id": "rss-q_gigamall-8",
-    "title": "Trung tâm thương mại Gigamall: Một điểm đến, nhiều trải nghiệm",
-    "description": "Trung tâm thương mại Gigamall: Một điểm đến, nhiều trải nghiệm&nbsp;&nbsp;Chuyển động Thị trường...",
-    "source_entity": "Chuyển động Thị trường",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXBOdnB5czFMS1p5ZXh4S1hxU2M5QzV3dmVMMWJOU2ZlQnd0WEdhNUd4Mm5MN0x1aTVhSTFoWlhHajJJRThuS0lZbk90UHJIdWV3OTJQV0pxR21kcU5qY3JKbGFmX2huaS0xSjNZUFhXM1h0R2U3ZGt3cDBzMlBSQVVrSVdPMXpJQVBublNCY2c0X0ktbXBoMnhqY2JFTDhfdklxbFZR?oc=5",
-    "event_date": "2026-04-16T22:01:24.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-26",
-    "title": "Từ giải đi bộ đến “thiên đường sống xanh” cho gia đình đa thế hệ tại nơi có chất lượng không khí tốt nhất TP.HCM",
-    "description": "Từ giải đi bộ đến “thiên đường sống xanh” cho gia đình đa thế hệ tại nơi có chất lượng không khí tốt nhất TP.HCM&nbsp;&nbsp;Thời Báo Ngân Hàng...",
-    "source_entity": "Thời Báo Ngân Hàng",
-    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeW1GaVZmRXdVSWZrNDd4OWNEYWx6dHRyYWhFcWRQTGw0ZkJ3cnh6eFM4Q3AwYWh2bGYyXy1ha3Etak44WEdaR1IyenNmaXQzalRxdUVzcHhiN0FBQk56RWlMQjNyaTV2bHV5WURnSDZDTzhMbHdXVmpGZ1dOY2ZRRjg3a1ZOMmNaR25BbkhxTmJQM2RhWElhaGJxaEVJQWdta3gzOExFTS11ZEdBUWp6Mk5BZDVYT2xfb1Q5RmlNcXhHY0hfVVFFT284S2g4OXpBTWdsckRSb2l2WWpIWmpxNE1B?oc=5",
-    "event_date": "2026-04-14T11:26:32.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-29",
+    "id": "rss-q_chaybogiadinh-19",
     "title": "Loạt trải nghiệm cho gia đình dịp lễ 30/4 tại Cần Giờ",
-    "description": "Loạt trải nghiệm cho gia đình dịp lễ 30/4 tại Cần Giờ&nbsp;&nbsp;SkyDoor News...",
-    "source_entity": "SkyDoor News",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmNsWkdaQTlhaGJXVEtHRC1DSElJNWJFREhVVGpkVS0xYnFJcTg0TVhNZmh4czloNThXX1JoTWdjQ1JmMmh5cXhZaVdxN0ZPLXotMldWclV6RFRaWHRraC0wMnZfSU9VQmt1TE9MaGJUd2lOVXFJYUhzV1pnQVEzckFQQVhSLXNiQUZmUW1YRXN2TGc?oc=5",
+    "description": "Loạt trải nghiệm cho gia đình dịp lễ 30/4 tại Cần Giờ&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFI5NC1WNUlVeC15VmdNbmEyN2Zmc2R0U0FCR0pZZkswZ0gzcWtzLVpfQ05vSDBLYzdyZWN2Z3RHQmlYazBnZXJlaWFUNlBHUkZNMUhXRlU1SFAyMUt0QjMtRHlmQVdKT2tPQUtiVG5CVlQ3NHYxVXY3WjQwTzhvRUlVdE0xTUY1bFl2cW13cHQ2Zw?oc=5",
     "event_date": "2026-04-30T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
@@ -635,12 +584,12 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-5",
-    "title": "Học sinh TP.HCM tự tạo chatbot, học bằng AI",
-    "description": "Học sinh TP.HCM tự tạo chatbot, học bằng AI&nbsp;&nbsp;VOV...",
-    "source_entity": "VOV",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUlpsOFkwYVBxUnM1dkZIQWpOa1Rrb2pCMjI5X2FlLUZJZllvbWpQSkFqNkpGM0dsWVVoTVhSQ2I1VERwQlpPeU9SNXBMZHZDbERTX2F5X2gxa0dOaGF3UkhiX2pIczE3MV9IdmQ2N011b052d3FHbDJSMVA2WXNxaVN0dFkxQQ?oc=5",
-    "event_date": "2026-04-14T13:33:40.000Z",
+    "id": "rss-q_lopnghethuat-4",
+    "title": "Xây trường lớp ở TPHCM: Chậm trễ phải làm rõ trách nhiệm",
+    "description": "Xây trường lớp ở TPHCM: Chậm trễ phải làm rõ trách nhiệm&nbsp;&nbsp;Báo Người Lao Động...",
+    "source_entity": "Báo Người Lao Động",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVVnRzlDS2VsZnoxSXlRMmc1dGprVFNncjNQMkNTRHhRWlVINmlxX2ZMdkdFQ21KRTJNRV9WaEYycUpldHItQlJ1QnZlTE1qVHVxcVhyTjRVaFZmRXFIN211dnpvMHgtNzNrV3JhQ25Hblp2X3ZoX0xqQ0Jhc24wcVQ3MGk2bkRKbk5rNHh2UEE4RUN4blVLZ1ZudFE?oc=5",
+    "event_date": "2026-04-18T13:34:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -655,6 +604,32 @@
       "failures": [
         "No_Age_Tag",
         "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lopnghethuat-18",
+    "title": "Giáo viên tiểu học ở TPHCM phạt học sinh tự chích kim tiêm vào tay",
+    "description": "Giáo viên tiểu học ở TPHCM phạt học sinh tự chích kim tiêm vào tay&nbsp;&nbsp;Báo VietNamNet...",
+    "source_entity": "Báo VietNamNet",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPel9MYVBsRFpjaWVGaU1jeTAtLXZNR2tJenJCSXBneHVfSmRDQm9WdTJLWmNibVQ4NzlvNWNrd0lsN2lLdTdNcHNGVk1Qc2NXUHNoUklIWlRjd2cxYkktUTNZZXk4RVRENmxPazdGRkRYTUQweFVONGhTbXdPT0E4M3FGVVctMHhWR2dQTE0wbGFJdjQ4WHBxRkdMbzlIYzM1M3ZR?oc=5",
+    "event_date": "2026-04-18T13:18:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
