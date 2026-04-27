@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-tuoitre_giaoduc-0",
+    "id": "rss-tuoitre_giaoduc-1",
     "title": "Các trường nghề Quảng Tây tăng hợp tác, mở cơ hội trao đổi và du học nghề",
     "description": "Trao đổi sinh viên, liên kết đào tạo, học kỳ trải nghiệm và các mô hình du học nghề gắn với thực tập doanh nghiệp là những nội dung hợp tác được các trường nghề Quảng Tây thúc đẩy ...",
     "source_entity": "Các trường nghề Quảng Tây tăng hợp tác, mở cơ hội trao đổi và du học nghề",
@@ -25,7 +25,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-35",
+    "id": "rss-q_sukien-36",
     "title": "3 ngành đặc thù của Phân hiệu Học viện Thanh thiếu niên VN tại TP.HCM: Gắn thực tiễn, sát nhu cầu",
     "description": "3 ngành đặc thù của Phân hiệu Học viện Thanh thiếu niên VN tại TP.HCM: Gắn thực tiễn, sát nhu cầu&nbsp;&nbsp;Giáo dục Việt Nam...",
     "source_entity": "Giáo dục Việt Nam",
@@ -51,7 +51,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-74",
+    "id": "rss-q_sukien-73",
     "title": "Khánh thành “Sala Thai” tại TP.HCM: Nhịp cầu tri thức hướng tới phát triển bền vững Việt",
     "description": "Khánh thành “Sala Thai” tại TP.HCM: Nhịp cầu tri thức hướng tới phát triển bền vững Việt - Thái&nbsp;&nbsp;Tạp chí Gia đình Việt Nam...",
     "source_entity": "Tạp chí Gia đình Việt Nam",
@@ -76,33 +76,31 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-61",
-    "title": "Nghỉ lễ Giỗ tổ, 30.4",
-    "description": "Nghỉ lễ Giỗ tổ, 30.4 - 1.5 ở TP.HCM: Đi chơi đâu vừa rẻ vừa vui?&nbsp;&nbsp;Báo Thanh Niên...",
-    "source_entity": "Báo Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjQ0MjN6dldHY0trTGsteW9NenQ3RXBNQTB0OGs0MzlsTDFnbUhvbHJTOTVJTEJYaDNEUFVVQWdjcDN0QTh2ZnEzRVdCbmVwb280aUo2dlZLM3VtazdENlpOWlJ2UW1Oc095TC1Cc2dqNmRIQWxiMzJIaXlMeThpVFNTSTNuSHhqbUNGSmszVFVYRVBoTXdFUVpsd25tUVN3enc?oc=5",
-    "event_date": "2026-04-25T05:11:00.000Z",
+    "id": "rss-q_lehoi-30",
+    "title": "Từ 6-8/3: Lễ hội Áo dài TP.HCM lần thứ 12 năm 2026",
+    "description": "Từ 6-8/3: Lễ hội Áo dài TP.HCM lần thứ 12 năm 2026&nbsp;&nbsp;vanhoanghethuat.vn...",
+    "source_entity": "vanhoanghethuat.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFh3NnV1UU81SVJYWTNxVkVsTlFWRDJGQlRpTWN1Vm5ZV21xLTYxcjB3WUoxR0pCNm1IQVNZM2tQdUdjOGVfTG4xQTZfTkYzTGZhTGNPM1Ridk1ES1AwU2F0Mm95ZklfNU53NjB1MWt2MnFORGFneEdCcDlLWFNDR0pTSkdPbEtvcVNBbUZ3N3A1b3RB?oc=5",
+    "event_date": "2026-08-06T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Lễ hội & Sự kiện",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": false,
+      "hasTemporal": true,
       "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
+      "isInteractive": true,
+      "score": 80,
       "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
+        "No_Age_Tag"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_lehoi-51",
+    "id": "rss-q_lehoi-62",
     "title": "Sân khấu tung vở mới dịp giỗ Tổ Hùng Vương, lễ 30-4",
     "description": "Sân khấu tung vở mới dịp giỗ Tổ Hùng Vương, lễ 30-4&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -128,37 +126,38 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-3",
-    "title": "Giỗ Tổ Hùng Vương: Thảo cầm viên miễn phí khu lễ hội theo khung giờ mỗi ngày",
-    "description": "Giỗ Tổ Hùng Vương: Thảo cầm viên miễn phí khu lễ hội theo khung giờ mỗi ngày&nbsp;&nbsp;Tuổi Trẻ...",
-    "source_entity": "Tuổi Trẻ",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEdadUVvMWZnbV9ZMllyYVJ2MUliazFSbGVYOXlreEhsR0hvWUZjVmd2aE9wSXFaeU5SdmwweTdCMXZYWnVpb1hoMEtIX2QwaFB5aEJqVlRqRHRPa1BVS2NGWFFzQ3F3d1FPMjdaNW9iQ2E4TjhQU29iSUNfT3dPcXV5aG1FVVdfRjVTS0x1UllBMkRLMlJ6Y3hQUDhCN2ZYcTNjX0hEZXpKZ3dsMEpvY1EyYnd5cVU?oc=5",
-    "event_date": "2026-04-25T05:48:00.000Z",
+    "id": "rss-q_lehoi-63",
+    "title": "Dày đặc chương trình giải trí, bắn pháo hoa, lễ hội âm nhạc trong kỳ nghỉ lễ",
+    "description": "Dày đặc chương trình giải trí, bắn pháo hoa, lễ hội âm nhạc trong kỳ nghỉ lễ&nbsp;&nbsp;Việt Báo...",
+    "source_entity": "Việt Báo",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHRMQnFiVWZyNXF4TmxWNlNNRUY1bUVMYVZPcWZfUHZGNzR1Y2Q4NnVmSFJwTmRFQXd4MkU2UTlYWUFPMFZBR1UxdGxnQzk2QXZaVEp5SDZZRmpMd2dWZWZQUlRGZVVtNVU4UFBFNmU3ZDk4RmVKb2IxZDR6RDhzelVQbWVEcmFmOW9TNC1weUpEdDVCRFU2SHJjUkVWSHBrendhemw2Z2c?oc=5",
+    "event_date": "2026-04-28T10:11:39.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
+    "category": "Nghệ thuật & Biểu diễn",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": true,
+      "hasLocation": false,
       "isInteractive": true,
-      "score": 60,
+      "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date"
+        "Missing_Date",
+        "Missing_Location"
       ],
       "platform": "Web"
     }
   },
   {
     "id": "rss-q_thaocamvien-4",
-    "title": "Khai mạc Lễ hội sắc màu văn hóa lần 2 tại Thảo Cầm Viên Sài Gòn",
-    "description": "Khai mạc Lễ hội sắc màu văn hóa lần 2 tại Thảo Cầm Viên Sài Gòn&nbsp;&nbsp;Báo Nhân Dân điện tử...",
-    "source_entity": "Báo Nhân Dân điện tử",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0NMUjBFc2RxVUdoNVF3TW1KREVyaUY2Nkh0QVdtTHBXTGpRMnJBNXdoVUZQQUNFdncwcXFsZktQbWZ5NThDazRZa3JXakh2N2pDeTlHaHo0WXpaMkROTU5fbHlZS3U4MktoUW1MRVQ1WGEta1ZNdlZDdk93Z0ZIdWM3NzJDcWM3clRhRXpKNjNkazYyTkJsSXhLUlk2dGs?oc=5",
-    "event_date": "2026-04-25T09:51:00.000Z",
+    "title": "Giới trẻ mặc giáp binh thời Lý",
+    "description": "Giới trẻ mặc giáp binh thời Lý - Trần diễu hành tại Thảo Cầm Viên&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVZlMUVaZGY3S29SMGMxU2hhTWxtTnBMaC1yY21VX2hZYWpLWngzWU5ybUx1aC1ZRjJNRTdMRUl4VXBCOTdqZVBGaTZfOWNGaUJlSEJvSWhwS3JsWUFZYXpzNkhPUDZ4X2RmZHhEVWNvR2V4bXFBZFY5czNFOF9kZkh6MDBzeEZfOFhkczRaRWpaakIzMl9wbHRKRUZvSms?oc=5",
+    "event_date": "2026-04-28T07:16:44.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -168,17 +167,18 @@
       "isAgeAppropriate": false,
       "hasTemporal": false,
       "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
+      "isInteractive": false,
+      "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date"
+        "Missing_Date",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_thaocamvien-9",
+    "id": "rss-q_thaocamvien-7",
     "title": "Hơn 500 người mặc cổ phục diễu hành tại Thảo Cầm Viên Sài Gòn",
     "description": "Hơn 500 người mặc cổ phục diễu hành tại Thảo Cầm Viên Sài Gòn&nbsp;&nbsp;Báo Sức khỏe & Đời sống...",
     "source_entity": "Báo Sức khỏe & Đời sống",
@@ -204,57 +204,33 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-11",
-    "title": "Ăn gì, chơi gì tại Lễ hội Sắc màu Văn hóa ở Thảo cầm viên Sài Gòn?",
-    "description": "Ăn gì, chơi gì tại Lễ hội Sắc màu Văn hóa ở Thảo cầm viên Sài Gòn?&nbsp;&nbsp;muctim.tuoitre.vn...",
-    "source_entity": "muctim.tuoitre.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTdVWEFIajlROVpCNzc2dnZiWE9CQmcydWt0RFdFeUlLTWpOTENYWmx0SEZNSWpJaU9CbUlNNm5TWDJCQkplT0pOMXlEV0taN2dMNjdpNFlMbzIydlE2Q0w5bXp5bjJTSk40U3Q5NklJS01FRzduSHF2VEFTNFVLZUlLUXpOVXlwWnplZm9aV24wSl92SHdnMTdPZlVLOXpmazlVbVh3bjU4d1JXQTV2X0U4dw?oc=5",
-    "event_date": "2026-04-25T13:35:00.000Z",
+    "id": "rss-q_thaocamvien-13",
+    "title": "Sôi động các hoạt động văn hóa, vui chơi giải trí trong dịp Lễ Giỗ Tổ Hùng Vương",
+    "description": "Sôi động các hoạt động văn hóa, vui chơi giải trí trong dịp Lễ Giỗ Tổ Hùng Vương&nbsp;&nbsp;Báo Nhân Dân điện tử...",
+    "source_entity": "Báo Nhân Dân điện tử",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakkzRTZkMy05ZGFURC1ESHFDV0tXN01qZnNPMEVvQ05tY2tvS2RTa2gyb3pMS3AxWVZrUFBabEZuWjFZa3lrZENrRXJ3eHlRSkF0c1JDcENjOVl1ZzRPMG5TNVNXQnhwdjdwUXdUbzJMX05lM3FSNU5GNjlpc2l4cXBQclZXUnI3T0xxVEdaYlBiRHdVZG9tdHA0amQzUGpJc1IzUmR6U2NwMGY2S2p5dDVxb1k?oc=5",
+    "event_date": "2026-04-29T10:25:16.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": true,
+      "hasLocation": false,
       "isInteractive": true,
-      "score": 60,
+      "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date"
+        "Missing_Date",
+        "Missing_Location"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_thaocamvien-12",
-    "title": "Khai mạc lễ hội “Bách Việt Thăng Hoa” tại Thảo Cầm Viên",
-    "description": "Khai mạc lễ hội “Bách Việt Thăng Hoa” tại Thảo Cầm Viên&nbsp;&nbsp;Báo Người Lao Động...",
-    "source_entity": "Báo Người Lao Động",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQnd3WG9nOUNRcmFDeWFNMEVBbWU1LUctZUhyLUVwTXlyd0NHQ28tM19jZDB3c1NPeV9ZS2pxTmppUU1CbFJPMUx4b2FwaWp0STJUckd0QTVlMl9IM2hHTEdEZElvaTR5NVE3WEhJem1fVDdkeUR2eUpqTWpwUVViMkRMTVkwNTE4dVlrSWZ1ZU5lNVBqY2pJNVhwaw?oc=5",
-    "event_date": "2026-04-25T06:32:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-15",
+    "id": "rss-q_thaocamvien-16",
     "title": "Giỗ tổ Hùng Vương: 600 người mặc Việt phục diễu hành ở Thảo Cầm Viên Sài Gòn",
     "description": "Giỗ tổ Hùng Vương: 600 người mặc Việt phục diễu hành ở Thảo Cầm Viên Sài Gòn&nbsp;&nbsp;Báo Thanh Niên...",
     "source_entity": "Báo Thanh Niên",
@@ -304,7 +280,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-25",
+    "id": "rss-q_thaocamvien-22",
     "title": "Ghé Thảo cầm viên, thử làm gốm, làm bánh tại Lễ hội Sắc màu Văn hóa",
     "description": "Ghé Thảo cầm viên, thử làm gốm, làm bánh tại Lễ hội Sắc màu Văn hóa&nbsp;&nbsp;muctim.tuoitre.vn...",
     "source_entity": "muctim.tuoitre.vn",
@@ -329,59 +305,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-26",
-    "title": "Giới trẻ mặc giáp binh thời Lý",
-    "description": "Giới trẻ mặc giáp binh thời Lý - Trần diễu hành tại Thảo Cầm Viên&nbsp;&nbsp;VnExpress...",
-    "source_entity": "VnExpress",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVZlMUVaZGY3S29SMGMxU2hhTWxtTnBMaC1yY21VX2hZYWpLWngzWU5ybUx1aC1ZRjJNRTdMRUl4VXBCOTdqZVBGaTZfOWNGaUJlSEJvSWhwS3JsWUFZYXpzNkhPUDZ4X2RmZHhEVWNvR2V4bXFBZFY5czNFOF9kZkh6MDBzeEZfOFhkczRaRWpaakIzMl9wbHRKRUZvSms?oc=5",
-    "event_date": "2026-04-28T07:16:44.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-27",
-    "title": "VIDEO: Cầm 100.000 đồng hoá thân “làm tướng” tại Thảo Cầm Viên",
-    "description": "VIDEO: Cầm 100.000 đồng hoá thân “làm tướng” tại Thảo Cầm Viên&nbsp;&nbsp;Báo Người Lao Động...",
-    "source_entity": "Báo Người Lao Động",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjJVblI4UDktLVNab0stT01EYTl6ZTdmZzh3NWZrejZ5NHJnTHZGbktHTUs3dUM0eEhZX29VZ1lwc2ZrSTZPMDlDOGJpQVdQLW5lMy1OR0Y4SnFhQkl1ZGotNl91WmpwcURJZ1lpWDJVbzhfSGRpcUpZaUdwVkFqRGwwamI3RDJFckdWVFBER1J3eUNYSWl0R01TdDlzaWo1aEE?oc=5",
-    "event_date": "2026-04-25T11:04:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-33",
+    "id": "rss-q_thaocamvien-24",
     "title": "Sôi động hoạt động văn hóa dịp Giỗ Tổ Hùng Vương tại TP. HCM",
     "description": "Sôi động hoạt động văn hóa dịp Giỗ Tổ Hùng Vương tại TP. HCM&nbsp;&nbsp;VOV...",
     "source_entity": "VOV",
@@ -407,7 +331,32 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-39",
+    "id": "rss-q_thaocamvien-30",
+    "title": "Người dân TP.HCM đổ về các khu vui chơi dịp lễ Giỗ Tổ Hùng Vương",
+    "description": "Người dân TP.HCM đổ về các khu vui chơi dịp lễ Giỗ Tổ Hùng Vương&nbsp;&nbsp;Báo Pháp Luật TP. Hồ Chí Minh...",
+    "source_entity": "Báo Pháp Luật TP. Hồ Chí Minh",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTV6TUdZZXpPLUlZODBRNjNHaWpNM3JJVGxzemtnT2RvaDBlQkw4VUtUX3BRVUJMVmZ6c0lvZnpwWnA4U0JHWEFheUszaEZrbVZxdDlGeEZCYlZhSlpJNy1JVE1DSEJmbFg5OWRiX0RyWWcyMWxuNHA1MWFYOTZWOE9oQmtVT3pVelZZRzhSckFyZEZLQVFpMGNB?oc=5",
+    "event_date": "2026-04-29T07:43:38.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-31",
     "title": "Cả ngàn người trình diễn cổ phục lễ Quốc Tổ Hùng Vương ở Thảo cầm viên",
     "description": "Cả ngàn người trình diễn cổ phục lễ Quốc Tổ Hùng Vương ở Thảo cầm viên&nbsp;&nbsp;ttbc-hcm.gov.vn...",
     "source_entity": "ttbc-hcm.gov.vn",
@@ -417,6 +366,58 @@
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_vienbaotang-7",
+    "title": "Đa dạng các hoạt động văn hóa",
+    "description": "Đa dạng các hoạt động văn hóa - giáo dục dịp Giỗ Tổ Hùng Vương tại TP Hồ Chí Minh&nbsp;&nbsp;Báo Sức khỏe & Đời sống...",
+    "source_entity": "Báo Sức khỏe & Đời sống",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkc5TmdJSDU5ekxyclhuMFdHYmxEMTBUcFdEeEdYcGhMaWFOcURoRnNpanpyMXp4UlptUmhuQ2ZnM2NlVEE0NGJ6TGx4UG1qam1leWpuZ3pOc1FscTdEZHVOUFZTa3k4aGpGMWp5bWJOc0RwWmRCemYweVh2eWdTSTBBNzZwWEhBUl9pb0lfMTFVZFc1ZmxZb2NiQUJJcENWclNMWEpMaUtWMjF4UUFuS0lHSC1NVVlYZXJWVkJCSXdDa2wxZGNn?oc=5",
+    "event_date": "2026-04-28T11:51:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-44",
+    "title": "Hướng về cội nguồn, du lịch TP.HCM thêm sức hút dịp Giỗ Tổ Hùng Vương",
+    "description": "Hướng về cội nguồn, du lịch TP.HCM thêm sức hút dịp Giỗ Tổ Hùng Vương&nbsp;&nbsp;ttbc-hcm.gov.vn...",
+    "source_entity": "ttbc-hcm.gov.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2VWY0RkMEtsRHFHZ0xscWxHbnU1ZWRtMjllT09WVVB0VVpNQVh4Z1VyRy1aNXdkTi02MXFTOHRSQmg1WVhfT2I1Y3A4SnJyTUZDb3dFNWp4TzlnVUZkZGtDaG9rQzVOYmgyX2g3ZVRLcUJscTNKRl82eHluZkF2LTJnV2ZSY3NPQjNkbldyWTYwRmlqcWloTzc5TDBQaUV4czl4VTZSejY?oc=5",
+    "event_date": "2026-04-30T00:34:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -457,7 +458,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-48",
+    "id": "rss-q_thaocamvien-49",
     "title": "Vào Thảo Cầm Viên ăn \"gà chín cựa\" trong truyền thuyết Sơn Tinh",
     "description": "Vào Thảo Cầm Viên ăn \"gà chín cựa\" trong truyền thuyết Sơn Tinh - Thuỷ Tinh&nbsp;&nbsp;Báo Phụ Nữ...",
     "source_entity": "Báo Phụ Nữ",
@@ -483,33 +484,7 @@
     }
   },
   {
-    "id": "rss-q_vienbaotang-6",
-    "title": "Đa dạng các hoạt động văn hóa",
-    "description": "Đa dạng các hoạt động văn hóa - giáo dục dịp Giỗ Tổ Hùng Vương tại TP Hồ Chí Minh&nbsp;&nbsp;Báo Sức khỏe & Đời sống...",
-    "source_entity": "Báo Sức khỏe & Đời sống",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkc5TmdJSDU5ekxyclhuMFdHYmxEMTBUcFdEeEdYcGhMaWFOcURoRnNpanpyMXp4UlptUmhuQ2ZnM2NlVEE0NGJ6TGx4UG1qam1leWpuZ3pOc1FscTdEZHVOUFZTa3k4aGpGMWp5bWJOc0RwWmRCemYweVh2eWdTSTBBNzZwWEhBUl9pb0lfMTFVZFc1ZmxZb2NiQUJJcENWclNMWEpMaUtWMjF4UUFuS0lHSC1NVVlYZXJWVkJCSXdDa2wxZGNn?oc=5",
-    "event_date": "2026-04-28T11:51:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-59",
+    "id": "rss-q_thaocamvien-58",
     "title": "TP.HCM: Lễ hội Sắc màu Văn hóa lần 2 mở cửa miễn phí từ 17h–20h30, diễn ra 22–27/4",
     "description": "TP.HCM: Lễ hội Sắc màu Văn hóa lần 2 mở cửa miễn phí từ 17h–20h30, diễn ra 22–27/4&nbsp;&nbsp;vanhoavaphattrien.vn...",
     "source_entity": "vanhoavaphattrien.vn",
@@ -533,7 +508,32 @@
     }
   },
   {
-    "id": "rss-q_vienbaotang-1",
+    "id": "rss-q_thaocamvien-59",
+    "title": "TP Hồ Chí Minh: Sôi nổi hoạt động Giỗ Tổ Hùng Vương, khu vui chơi hút khách",
+    "description": "TP Hồ Chí Minh: Sôi nổi hoạt động Giỗ Tổ Hùng Vương, khu vui chơi hút khách&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGdqM3VDeGpENkRRTldPdUtYbV9UWTNIQjVFTlkwczE0R0JsLWV5enhobTMzX1J4WFNJZHV6ZUJ6T3RPdXpLM3hkaUs1cGFFMjh1d1JLUUFSR3VLVnY0OU9aRERDTGhQUHh2WWhBWkdaaEJwaTlncXk2Rl9ibjJFNFNkS204Ym51MXAyUFE3NUtvdG02V1dPY2xOSGI?oc=5",
+    "event_date": "2026-04-29T07:34:32.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_vienbaotang-2",
     "title": "10 bảo tàng lịch sử bạn nên ghé thăm dịp lễ 30/4 – 1/5",
     "description": "10 bảo tàng lịch sử bạn nên ghé thăm dịp lễ 30/4 – 1/5&nbsp;&nbsp;ELLE...",
     "source_entity": "ELLE",
@@ -611,32 +611,6 @@
     }
   },
   {
-    "id": "rss-q_goethe-0",
-    "title": "KTSG số 12-2026: Cuộc bầu cử khép lại, nhiệm kỳ mới mở ra",
-    "description": "KTSG số 12-2026: Cuộc bầu cử khép lại, nhiệm kỳ mới mở ra&nbsp;&nbsp;Tạp chí Kinh tế Sài Gòn...",
-    "source_entity": "Tạp chí Kinh tế Sài Gòn",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3ptOGVyU0VyUU5GZEl1NVlYZjVKWmJIUllxUzA1cHYyTC1xWjcweENoejdpb3RsMzgwUXVvSk5rSVUyelpGMTRiREpjcS1WZ1AxNUJkNlI1cnZiRWQwb0VsVDZtS01CSHpsZWZNdnpHU1VObmRCdDdkWDJDYjA0MzMzcEppUE9VSVE?oc=5",
-    "event_date": "2027-08-12T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
     "id": "rss-q_aeonmall-1",
     "title": "Kompa.ai: Top 10 sự kiện thương hiệu phủ sóng mạng xã hội tuần 19/1-25/1/2026",
     "description": "Kompa.ai: Top 10 sự kiện thương hiệu phủ sóng mạng xã hội tuần 19/1-25/1/2026&nbsp;&nbsp;Brands Vietnam...",
@@ -662,7 +636,7 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-13",
+    "id": "rss-q_takashimaya-14",
     "title": "Cần lưu ý gì khi đi xem diễu binh, diễu hành 30/4 ở TP.HCM?",
     "description": "Cần lưu ý gì khi đi xem diễu binh, diễu hành 30/4 ở TP.HCM?&nbsp;&nbsp;Báo điện tử VTC News...",
     "source_entity": "Báo điện tử VTC News",
@@ -687,7 +661,7 @@
     }
   },
   {
-    "id": "rss-q_gigamall-16",
+    "id": "rss-q_gigamall-17",
     "title": "Địa điểm vui chơi cực hot dịp lễ 2026: Công nghệ bay siêu thực 12D+ xuyên đại dương tại Gigamall",
     "description": "Địa điểm vui chơi cực hot dịp lễ 2026: Công nghệ bay siêu thực 12D+ xuyên đại dương tại Gigamall&nbsp;&nbsp;Báo Người Lao Động...",
     "source_entity": "Báo Người Lao Động",
@@ -712,10 +686,10 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-10",
+    "id": "rss-q_chaybogiadinh-12",
     "title": "Runner VnExpress Marathon Green Paradise Cần Giờ nhận Bib ngay trung tâm TP.HCM",
-    "description": "Runner VnExpress Marathon Green Paradise Cần Giờ nhận Bib ngay trung tâm TP.HCM&nbsp;&nbsp;Tuổi Trẻ...",
-    "source_entity": "Tuổi Trẻ",
+    "description": "Runner VnExpress Marathon Green Paradise Cần Giờ nhận Bib ngay trung tâm TP.HCM&nbsp;&nbsp;Báo Tuổi Trẻ...",
+    "source_entity": "Báo Tuổi Trẻ",
     "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzNoX1cxV1lMWXc3XzNSaEVvZzVzdmVkc0w5RDM3aWtGcVQ3TzcxY3k0eG9DbVZCYWhSU3AxX05RUzI2Y1hBbHpaaEVwcmJUbkpYaWJteXNUNVlNUHY4c3U5N3MxQkMwdElJM2FVTTdVTi1nSDJGVHZ3UTZOUVVSemU1RFl6RzExNDBxX1Y0NkQtMXRGczFNcjJYeHBtdmhvOTItemJKQmlHQmZNcVBlQXgwVl93MmsyM0VISw?oc=5",
     "event_date": "2026-04-27T07:22:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -738,7 +712,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-18",
+    "id": "rss-q_chaybogiadinh-20",
     "title": "Điểm đến xanh liền kề TP HCM cho dịp lễ 30/4",
     "description": "Điểm đến xanh liền kề TP HCM cho dịp lễ 30/4&nbsp;&nbsp;VnExpress...",
     "source_entity": "VnExpress",
@@ -764,7 +738,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-24",
+    "id": "rss-q_chaybogiadinh-27",
     "title": "Loạt trải nghiệm thú vị của VinFast tại VnExpress Marathon Green Paradise Cần Giờ 2026 dịp 30/4",
     "description": "Loạt trải nghiệm thú vị của VinFast tại VnExpress Marathon Green Paradise Cần Giờ 2026 dịp 30/4&nbsp;&nbsp;whatcar.vn...",
     "source_entity": "whatcar.vn",
@@ -788,7 +762,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-29",
+    "id": "rss-q_chaybogiadinh-31",
     "title": "“Chốt lịch” xuống Cần Giờ, người dân TP.HCM háo hức lái thử xe điện VinFast dịp lễ",
     "description": "“Chốt lịch” xuống Cần Giờ, người dân TP.HCM háo hức lái thử xe điện VinFast dịp lễ&nbsp;&nbsp;Tạp chí Gia Đình Mới...",
     "source_entity": "Tạp chí Gia Đình Mới",
