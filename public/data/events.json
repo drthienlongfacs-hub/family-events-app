@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-vne_giadinh-5",
+    "id": "rss-vne_giadinh-12",
     "title": "Nhiều gia đình nắm tay nhau về đích tại VM Green Paradise Cần Giờ",
     "description": "Bố mẹ chạy bộ cùng con, có người mang theo thú cưng, biến VM Green Paradise Cần Giờ thành ngày hội thể thao của các gia đình....",
     "source_entity": "Nhiều gia đình nắm tay nhau về đích tại VM Green Paradise Cần Giờ",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": "rss-vne_giadinh-21",
+    "id": "rss-vne_giadinh-28",
     "title": "Ca sĩ Bảo Anh trao bàn ghế, khu vui chơi cho học sinh vùng cao",
     "description": "Ca sĩ Bảo Anh cùng 247Express trao tặng bàn ghế, tủ học cụ, nhà bóng cùng 125 suất quà cho học sinh mầm non Khuất Xá và Tam Gia ở vùng cao Lạng Sơn....",
     "source_entity": "Ca sĩ Bảo Anh trao bàn ghế, khu vui chơi cho học sinh vùng cao",
@@ -49,7 +49,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-2",
+    "id": "rss-thanhnien_gioitre-11",
     "title": "Trường học lịch sử &#039;kh&ocirc;ng v&aacute;ch ngăn&#039;",
     "description": "Giữa thủ đ&ocirc; H&agrave; Nội, Trung t&acirc;m Gi&aacute;o dục truyền thống v&agrave; lịch sử của &ocirc;ng L&ecirc; Xu&acirc;n Ni&ecirc;m, một người l&iacute;nh gi&agrave;, đ&at...",
     "source_entity": "Trường học lịch sử &#039;kh&ocirc;ng v&aacute;ch ngăn&#039;",
@@ -74,7 +74,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-13",
+    "id": "rss-thanhnien_gioitre-22",
     "title": "Xem hươu cao cổ &#039;l&agrave;m đ&aacute;m cưới&#039;: Đ&ocirc;ng k&iacute;n người tại Thảo Cầm Vi&ecirc;n S&agrave;i G&ograve;n",
     "description": "Dịp nghỉ lễ 30.4 &ndash; 1.5, sự kiện &ldquo;đ&aacute;m cưới&rdquo; của cặp hươu cao cổ tại Thảo Cầm Vi&ecirc;n S&agrave;i G&ograve;n (P.S&agrave;i G&ograve;n, TP.HCM) thu h&uacute...",
     "source_entity": "Xem hươu cao cổ &#039;l&agrave;m đ&aacute;m cưới&#039;: Đ&ocirc;ng k&iacute;n người tại Thảo Cầm Vi&ecirc;n S&agrave;i G&ograve;n",
@@ -99,7 +99,33 @@
     }
   },
   {
-    "id": "rss-q_sukien-24",
+    "id": "rss-q_nhathieunhi-20",
+    "title": "Tổng hợp thông tin báo chí liên quan đến TP. Hồ Chí Minh ngày 2/2/2026",
+    "description": "Tổng hợp thông tin báo chí liên quan đến TP. Hồ Chí Minh ngày 2/2/2026&nbsp;&nbsp;ttbc-hcm.gov.vn...",
+    "source_entity": "ttbc-hcm.gov.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRC14aU9IZlI5OUJlQlZpRW5kMHdVcmJnYUxPWEJsMzF5ZFlTeHBHM1B1S1RuNnhNdmQ5QmJpcFozNHpOYVhYQk9BMEJJaHVjSUJpVWJnTEh1M1E2TkJGQVowdEVacXMzUGMyTWhXSHJwdjd3YnR4TndMVWtWYzdmS2o4ZDRPelIzSTVFLVdjOFlPWVFZMW1ZRTJCNmd5R1YyYzBtQXE3Y2Zxdw?oc=5",
+    "event_date": "2027-02-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-25",
     "title": "TP. Hồ Chí Minh: Hoạt động hè 2026 cho thiếu nhi phải thực chất, tránh hình thức",
     "description": "TP. Hồ Chí Minh: Hoạt động hè 2026 cho thiếu nhi phải thực chất, tránh hình thức&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -125,31 +151,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-15",
-    "title": "Xã Xuân Thới Sơn khánh thành khu vui chơi thiếu nhi",
-    "description": "Xã Xuân Thới Sơn khánh thành khu vui chơi thiếu nhi&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjZTN290TkRqQVpSbUxRNUdHMUZZUS1yYVQ3TWxqZ0c3bUp0NEM3Q0RtQ3ZQdFNhYzhhSkNnaVdVWkFwNVBmNlFzQ0F2OF9fcXdxY3J2TENxZjdOaW1uanZySFI2Snczc2xMTzNhMmxsNWg3Q0M0OXBsZzlZR1ZFcDhEdzRrUVJQbzJOdDBTX3o2NGlBRFE?oc=5",
-    "event_date": "2026-05-02T00:58:28.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_nhathieunhi-16",
+    "id": "rss-q_nhathieunhi-15",
     "title": "Ngày 3-5, Nhà thiếu nhi TP.HCM công diễn vở 'Nhạc kịch",
     "description": "Ngày 3-5, Nhà thiếu nhi TP.HCM công diễn vở 'Nhạc kịch - Huyền thoại tuổi thiếu niên'&nbsp;&nbsp;muctim.tuoitre.vn...",
     "source_entity": "muctim.tuoitre.vn",
@@ -197,7 +199,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-21",
+    "id": "rss-q_thaocamvien-19",
     "title": "Lần đầu tổ chức 'đám cưới' hươu cao cổ, Thảo Cầm Viên đông nghẹt người xem",
     "description": "Lần đầu tổ chức 'đám cưới' hươu cao cổ, Thảo Cầm Viên đông nghẹt người xem&nbsp;&nbsp;Báo Thanh Niên...",
     "source_entity": "Báo Thanh Niên",
@@ -223,59 +225,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-22",
-    "title": "Khách đổ đến đám cưới cặp hươu cao cổ đầu tiên ở Thảo Cầm Viên",
-    "description": "Khách đổ đến đám cưới cặp hươu cao cổ đầu tiên ở Thảo Cầm Viên&nbsp;&nbsp;VnExpress...",
-    "source_entity": "VnExpress",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUE1YcVdwSXVIaHhjU2RSN09iMGRWRTZvU09DQnpqSGhpUllMSFhfU2JTOG5oQ3ZNQk5BbmdXVS0xNER0UHYyaGp6MXNjU1BzckUtUnVhWnA5WFVTMDZ1VDhfY1VaakJhemcxVmRaRFNUcmxxdmZ2OC1jSG9IcHpCc1AxOW00dTBUQnFVT2J0anZNb1BKMUpOd0EyTnZ6QQ?oc=5",
-    "event_date": "2026-05-03T10:24:53.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-25",
-    "title": "Phi Phi rước dâu, Thảo Em \"theo chồng về dinh\" tại Thảo Cầm Viên",
-    "description": "Phi Phi rước dâu, Thảo Em \"theo chồng về dinh\" tại Thảo Cầm Viên&nbsp;&nbsp;Báo Người Lao Động...",
-    "source_entity": "Báo Người Lao Động",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0tkLUtiRHpUOFNCX0oxNjY1YmNaTVJ0VVNENlU5VHZHSzZhTGgycTd5UlNyN1ZDSE9ReEVTUFdlNlQ4c05ZSU5DbjMyd2RfbHBVZEhfUjNDdnRXMDhWWHpjVjBnUXN2R3ZPZGJTY3NVbUE4UUlIdVJGZGNSOFVSZHQzVXlzVDJMcUY5UjZJX1ZQY0JoMi1zdDM2Q0k4YjcyZEM3bmFn?oc=5",
-    "event_date": "2026-05-03T06:02:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-27",
+    "id": "rss-q_thaocamvien-26",
     "title": "Xem hươu cao cổ 'làm đám cưới': Đông kín người tại Thảo Cầm Viên Sài Gòn",
     "description": "Xem hươu cao cổ 'làm đám cưới': Đông kín người tại Thảo Cầm Viên Sài Gòn&nbsp;&nbsp;Báo Thanh Niên...",
     "source_entity": "Báo Thanh Niên",
@@ -301,7 +251,59 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-42",
+    "id": "rss-q_thaocamvien-27",
+    "title": "Phi Phi rước dâu, Thảo Em \"theo chồng về dinh\" tại Thảo Cầm Viên",
+    "description": "Phi Phi rước dâu, Thảo Em \"theo chồng về dinh\" tại Thảo Cầm Viên&nbsp;&nbsp;Báo Người Lao Động...",
+    "source_entity": "Báo Người Lao Động",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0tkLUtiRHpUOFNCX0oxNjY1YmNaTVJ0VVNENlU5VHZHSzZhTGgycTd5UlNyN1ZDSE9ReEVTUFdlNlQ4c05ZSU5DbjMyd2RfbHBVZEhfUjNDdnRXMDhWWHpjVjBnUXN2R3ZPZGJTY3NVbUE4UUlIdVJGZGNSOFVSZHQzVXlzVDJMcUY5UjZJX1ZQY0JoMi1zdDM2Q0k4YjcyZEM3bmFn?oc=5",
+    "event_date": "2026-05-03T06:02:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-40",
+    "title": "Khách đổ đến đám cưới cặp hươu cao cổ đầu tiên ở Thảo Cầm Viên",
+    "description": "Khách đổ đến đám cưới cặp hươu cao cổ đầu tiên ở Thảo Cầm Viên&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUE1YcVdwSXVIaHhjU2RSN09iMGRWRTZvU09DQnpqSGhpUllMSFhfU2JTOG5oQ3ZNQk5BbmdXVS0xNER0UHYyaGp6MXNjU1BzckUtUnVhWnA5WFVTMDZ1VDhfY1VaakJhemcxVmRaRFNUcmxxdmZ2OC1jSG9IcHpCc1AxOW00dTBUQnFVT2J0anZNb1BKMUpOd0EyTnZ6QQ?oc=5",
+    "event_date": "2026-05-03T10:24:53.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-43",
     "title": "Lỡ hẹn đám cưới hươu cao cổ ở Thảo Cầm Viên, khách được xem voi \"nhún nhảy\"",
     "description": "Lỡ hẹn đám cưới hươu cao cổ ở Thảo Cầm Viên, khách được xem voi \"nhún nhảy\"&nbsp;&nbsp;Báo điện tử Tiền Phong...",
     "source_entity": "Báo điện tử Tiền Phong",
@@ -327,59 +329,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-43",
-    "title": "“Đám cưới” hươu cao cổ hot nhất Thảo Cầm Viên: Khách đông như trẩy hội, dàn bê tráp cùng xe hoa chiếm trọn spotlight!",
-    "description": "“Đám cưới” hươu cao cổ hot nhất Thảo Cầm Viên: Khách đông như trẩy hội, dàn bê tráp cùng xe hoa chiếm trọn spotlight!&nbsp;&nbsp;aFamily...",
-    "source_entity": "aFamily",
-    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVWRWQm1iUldZY3N2ZVlBM1NsSXgyaWZEU0U4Q3N4TzBIOEFPM2dtTHB3M19yMTFlX3JPRFNVMWZROWlKMW5qT0syRVhCaUZ6RDdBWGdXSmRzcExxdkxYUHFJY1gzOHlKeEpERVpjMGRpZ1hoRno1WkZyRFhmQkJMdEtIMi12aTJFbS1XaTMySElEYXFoQ3B2RzVUTWNOelpNMk5hUVl2N2NoenBHUXhsdnB2WkVUaC1tSlZvZWFHMDg4MXlRS3VrN2pDU0JVM2lrZFZ0ZUZ2MVhmQWxDdGYwWl9iNGpvSU1WM2c?oc=5",
-    "event_date": "2026-05-03T13:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-47",
-    "title": "ĐỘC LẠ NGÀY LỄ: Biển người đổ bộ Thảo Cầm Viên từ sớm chỉ để... dự đám cưới hươu cao cổ!",
-    "description": "ĐỘC LẠ NGÀY LỄ: Biển người đổ bộ Thảo Cầm Viên từ sớm chỉ để... dự đám cưới hươu cao cổ!&nbsp;&nbsp;Kenh14.vn...",
-    "source_entity": "Kenh14.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTU1SQnFFN3UxZ3pvSFhoc2w0eDVYejdHSnJwSURmU2Y5OGMyMDRUUHhCVzA4NFIwcUx5dldZLWVZT1BlckRDelBsNnEwMzYzS2NEU0FzVWdqcDZ3ZnFhdzFmenpxMFc4OGlRX2RvdTNqckZCeENyUUlXVTJERVhNN0RRTEZGYkNGR0JYb0dBRnhFNXFFZHl4bUxFZ1BOb2YwZnlDa2luNzVVZW91aFNfdFp1b1JtdWpEX2lJek03eTBtZw?oc=5",
-    "event_date": "2026-05-03T11:58:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-49",
+    "id": "rss-q_thaocamvien-45",
     "title": "Trung tâm TPHCM nhộn nhịp trong ngày lễ 30.4",
     "description": "Trung tâm TPHCM nhộn nhịp trong ngày lễ 30.4&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -405,7 +355,85 @@
     }
   },
   {
+    "id": "rss-q_thaocamvien-46",
+    "title": "Gợi ý lịch trình tận hưởng trọn vẹn 4 nghỉ lễ tại TP.HCM",
+    "description": "Gợi ý lịch trình tận hưởng trọn vẹn 4 nghỉ lễ tại TP.HCM&nbsp;&nbsp;muctim.tuoitre.vn...",
+    "source_entity": "muctim.tuoitre.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVFNS1U3VGVsVm9WZHVRay12Qk1ZNkFoU0JTLWtmU0pfR0F1SVgyZUhWVHdERTZ3TlpzSHRaSkNCc0NZcUZfREdMeHV4UnpSOUlFLTFidGl3ZW9rX3U2dEtxOEVlWWhBdFNxLWNXbWd0bm1OMkhKX0lpX0IyNEx5Qk5JLXNwbXhHRjNlT205VkotUldFSWNWV0xaVElYZGlpWXFZODdNaw?oc=5",
+    "event_date": "2026-05-03T00:03:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-48",
+    "title": "ĐỘC LẠ NGÀY LỄ: Biển người đổ bộ Thảo Cầm Viên từ sớm chỉ để... dự đám cưới hươu cao cổ!",
+    "description": "ĐỘC LẠ NGÀY LỄ: Biển người đổ bộ Thảo Cầm Viên từ sớm chỉ để... dự đám cưới hươu cao cổ!&nbsp;&nbsp;Kenh14.vn...",
+    "source_entity": "Kenh14.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTU1SQnFFN3UxZ3pvSFhoc2w0eDVYejdHSnJwSURmU2Y5OGMyMDRUUHhCVzA4NFIwcUx5dldZLWVZT1BlckRDelBsNnEwMzYzS2NEU0FzVWdqcDZ3ZnFhdzFmenpxMFc4OGlRX2RvdTNqckZCeENyUUlXVTJERVhNN0RRTEZGYkNGR0JYb0dBRnhFNXFFZHl4bUxFZ1BOb2YwZnlDa2luNzVVZW91aFNfdFp1b1JtdWpEX2lJek03eTBtZw?oc=5",
+    "event_date": "2026-05-03T11:58:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
     "id": "rss-q_thaocamvien-53",
+    "title": "“Đám cưới” hươu cao cổ hot nhất Thảo Cầm Viên: Khách đông như trẩy hội, dàn bê tráp cùng xe hoa chiếm trọn spotlight!",
+    "description": "“Đám cưới” hươu cao cổ hot nhất Thảo Cầm Viên: Khách đông như trẩy hội, dàn bê tráp cùng xe hoa chiếm trọn spotlight!&nbsp;&nbsp;Kenh14.vn...",
+    "source_entity": "Kenh14.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVpFWmd3SHRORkVnTl9SNGY5SXMtX1dnZFlWaW04aEVVYU52Tm80YWlOLXpYZ2hpZXJZWTRuMzc4WWFzd0RzZkRZUVZuRTR6VkFBUjctamFSR09SZHhCNnQ5c2JjSjRudU5NUlRVRVAwSkxIenhudnZoN05HNW9UZmNnQnhidnpxOGZ0dVBNQXlWTTZvWEtrU1JHb0lfclU1a1ZNU2tkSE9weHZ4UTdpaEQ5eGFzRFplbVB5R3pZM0hRSHUtSGV5WmpnUjZyeVYzOGN3eDgyMmkwdXMyckluUEFWWWkwX0k?oc=5",
+    "event_date": "2026-05-03T08:15:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-54",
     "title": "ĐỘC LẠ NGÀY LỄ: Biển người đổ bộ Thảo Cầm Viên từ sớm chỉ để... dự đám cưới hươu cao cổ!",
     "description": "ĐỘC LẠ NGÀY LỄ: Biển người đổ bộ Thảo Cầm Viên từ sớm chỉ để... dự đám cưới hươu cao cổ!&nbsp;&nbsp;Phụ nữ Mới...",
     "source_entity": "Phụ nữ Mới",
@@ -431,10 +459,10 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-54",
+    "id": "rss-q_thaocamvien-56",
     "title": "“Đám cưới” hươu cao cổ đầu tiên tại Thảo Cầm Viên hút nghìn khách tham dự",
-    "description": "“Đám cưới” hươu cao cổ đầu tiên tại Thảo Cầm Viên hút nghìn khách tham dự&nbsp;&nbsp;Đài Phát thanh và Truyền hình TP.HCM...",
-    "source_entity": "Đài Phát thanh và Truyền hình TP.HCM",
+    "description": "“Đám cưới” hươu cao cổ đầu tiên tại Thảo Cầm Viên hút nghìn khách tham dự&nbsp;&nbsp;htv.vn...",
+    "source_entity": "htv.vn",
     "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORi1POUZIaGdqSjBfbzFGNUJZbGJGMUY1YWJBcVUwVGdOalE3ZEJ4SUs2TjdsblBfVVVCVUlFR1hPVFdfQm56d0s5dmNGRmhIbERmYVJ2M2pBRU5iMjZEazNkVktXdkRJTFJZS0JEd2VOVHZPRUgyY2xvNDJ0b2ZCZVJBZk55aVRab0dZeklsXy1kNzBwQnlEeFFMNnBOQkw4M1pjcTgxUDdYRU0ydGc?oc=5",
     "event_date": "2026-05-04T11:12:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -457,7 +485,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-56",
+    "id": "rss-q_thaocamvien-59",
     "title": "Thảo Cầm Viên: Lễ Thành Hôn Độc Đáo Của Đôi Hươu Cao Cổ",
     "description": "Thảo Cầm Viên: Lễ Thành Hôn Độc Đáo Của Đôi Hươu Cao Cổ&nbsp;&nbsp;motthegioi.vn...",
     "source_entity": "motthegioi.vn",
@@ -483,33 +511,7 @@
     }
   },
   {
-    "id": "rss-q_vienbaotang-1",
-    "title": "TP.HCM sẽ điều chỉnh phí tham quan di tích và bảo tàng",
-    "description": "TP.HCM sẽ điều chỉnh phí tham quan di tích và bảo tàng&nbsp;&nbsp;Báo Văn Hóa...",
-    "source_entity": "Báo Văn Hóa",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkZZM3Vmd3Z0c0R4ak5WQmQzYnFvYlpFQ2M1MlNMM2l2SGlxT0thcEJiWmE1REl0OW9zMXZiWlF4ZXFOckgxRTdKR0wxdzYwYl9hVmMtYlFkeE1rRDh0bV9lWEl1cVJwaFFwSWlScWJldGZuRmMyZkFqRWJpRm1NZWxIRnV1bnBFTldUcUlvcGVTSHRsZFkteUhn?oc=5",
-    "event_date": "2026-05-01T05:27:20.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Triển lãm & Trưng bày",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_duongsach-6",
+    "id": "rss-q_duongsach-7",
     "title": "Nhiều hoạt động hướng đến Ngày sách và văn hoá đọc Việt Nam lần 5-2026",
     "description": "Nhiều hoạt động hướng đến Ngày sách và văn hoá đọc Việt Nam lần 5-2026&nbsp;&nbsp;Phụ nữ Mới...",
     "source_entity": "Phụ nữ Mới",
@@ -535,38 +537,12 @@
     }
   },
   {
-    "id": "rss-q_gigamall-27",
-    "title": "Kỷ niệm 10 năm tại Việt Nam, MINISO ra mắt cửa hàng chủ đề MINISO FRIENDS đầu tiên tại TP. Hồ Chí Minh",
-    "description": "Kỷ niệm 10 năm tại Việt Nam, MINISO ra mắt cửa hàng chủ đề MINISO FRIENDS đầu tiên tại TP. Hồ Chí Minh&nbsp;&nbsp;Kenh14.vn...",
-    "source_entity": "Kenh14.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOREdCU2FMRkNXVDNMS1gyU3VvLW5adEw0dVhfVnhrVDE5ZlRZZ1RnVFNVUndFVzhERlJNMGpRREhJYjhYeFRVenBBdGNtbkFVSHZnWmMyVW9xaktJOHlWVDRFVnNPbmhOUVdJVFNpMGt2RXBiSzFQTHp5T3BHdFI0LXdFV3REekFfWl9mOVVJMVh3OUJkVFczYTJNUHB5bjFsMUdPdmtmN1huNUN2UkhzRDdvMEpGVnNxWWpvck5UclFZbnM2MDZwMlpLRGpyYmdhZEZFZnhGX1I?oc=5",
-    "event_date": "2026-05-01T12:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_gigamall-29",
-    "title": "Đánh dấu 10 năm tại Việt Nam, MINISO khai trương cửa hàng MINISO FRIENDS đầu tiên tại Thành phố Hồ Chí Minh",
-    "description": "Đánh dấu 10 năm tại Việt Nam, MINISO khai trương cửa hàng MINISO FRIENDS đầu tiên tại Thành phố Hồ Chí Minh&nbsp;&nbsp;Vietnam+ (VietnamPlus)...",
-    "source_entity": "Vietnam+ (VietnamPlus)",
-    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT3RfX0pDbnRsaXczM0NGWWV6SFZLY0lKZEt1ZFg0MzR2djZWUVc4VmJKaXd6SEhUSGNlRTdQVDZZZ0hLVUJHMndHNXdOWGJvUm9ET3dfUkNYVXZCMVUwZWZBTWo4c3hyZ0JKLXdGRFhmTXM2UTV3bnRHUnhOWG5IN0xyVDhuNFpVZktmVGNiM2pLYkFTMHBiMjBBSS1FVkpncDdweEduMXhOcTRuQUVRZm1lZEgwc3M3aWNjdGF1Q19YVzhXZUF2dlM2WndLQ05FV1k1djVqTW1CRUhDaDluNHRhaw?oc=5",
-    "event_date": "2026-05-02T16:04:02.000Z",
+    "id": "rss-q_gigamall-16",
+    "title": "Gigaversal Bowling Cup 2026 chính thức khởi tranh tại Gigamall, tổng giải thưởng đến 60 triệu đồng",
+    "description": "Gigaversal Bowling Cup 2026 chính thức khởi tranh tại Gigamall, tổng giải thưởng đến 60 triệu đồng&nbsp;&nbsp;Báo Người Lao Động...",
+    "source_entity": "Báo Người Lao Động",
+    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjZ1YzI0MHJGZ1NwNWQ5TVh4dkUxWUFCamdMNF9IbXlzNnZsTFh1bm5MT2NjWmNtSG9pMlI0ZjJGYTR1NnlJdnU5VXlNdmRwQ2ZqOHZPbU9OQlMxakpjMW5CV2lmeHdKSmJNWV94NUxSRFdYcXFScms3OFlhQmg3QTJSNkdUdEJTbk4zWnAtVFAyWWNacFRzcFl4SHF2STdBdlNad2k4LUxGMk42TFk1YW16NFQ0M0dNME9IU1hxU0dfT0RPaFlNQzAySVpIWTU5Q0NzanR3?oc=5",
+    "event_date": "2026-05-05T03:24:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
