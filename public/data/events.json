@@ -1,30 +1,31 @@
 [
   {
-    "id": "rss-vne_giadinh-27",
-    "title": "Nhiều gia đình nắm tay nhau về đích tại VM Green Paradise Cần Giờ",
-    "description": "Bố mẹ chạy bộ cùng con, có người mang theo thú cưng, biến VM Green Paradise Cần Giờ thành ngày hội thể thao của các gia đình....",
-    "source_entity": "Nhiều gia đình nắm tay nhau về đích tại VM Green Paradise Cần Giờ",
-    "source_url": "https://vnexpress.net/nhieu-gia-dinh-nam-tay-nhau-ve-dich-tai-vm-green-paradise-can-gio-5068617.html",
-    "event_date": "2026-05-05T00:30:00.000Z",
+    "id": "rss-tuoitre_giaoduc-5",
+    "title": "'Long lanh sắc màu' qua ống kính học trò tại triển lãm ảnh Tuổi Xanh 2026",
+    "description": "Những lát cắt đời sống nơi làng chài, ánh sáng buổi sớm trên bến cá hay nhịp lao động tất bật… qua ống kính học sinh tạo nên không gian triển lãm giàu cảm xúc mà mỗi khung hình đều...",
+    "source_entity": "'Long lanh sắc màu' qua ống kính học trò tại triển lãm ảnh Tuổi Xanh 2026",
+    "source_url": "https://tuoitre.vn/long-lanh-sac-mau-qua-ong-kinh-hoc-tro-tai-trien-lam-anh-tuoi-xanh-2026-20260505111432018.htm",
+    "event_date": "2026-05-08T06:48:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
+    "category": "Triển lãm & Trưng bày",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
       "hasLocation": true,
       "isInteractive": true,
-      "score": 80,
+      "score": 60,
       "failures": [
+        "No_Age_Tag",
         "Missing_Date"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-16",
+    "id": "rss-tuoitre_giaoduc-27",
     "title": "Cô gái Trung Quốc kể chuyện bằng tiếng Việt",
     "description": "Làm việc tại Đài truyền hình trung ương Trung Quốc, chị Hạ Vy đã đồng thời xây dựng kênh video du lịch bằng tiếng Việt, hướng đến khán giả Việt Nam qua những câu chuyện đời sống và...",
     "source_entity": "Cô gái Trung Quốc kể chuyện bằng tiếng Việt",
@@ -49,7 +50,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-4",
+    "id": "rss-thanhnien_gioitre-11",
     "title": "C&ugrave;ng tấm bằng đại học, v&igrave; sao người c&oacute; trải nghiệm dễ t&igrave;m việc l&agrave;m hơn?",
     "description": "Những sinh vi&ecirc;n chủ động t&iacute;ch lũy kinh nghiệm từ hoạt động ngoại kh&oacute;a, việc l&agrave;m th&ecirc;m, thực tập&hellip; khi c&ograve;n tr&ecirc;n ghế nh&agrave; trư...",
     "source_entity": "C&ugrave;ng tấm bằng đại học, v&igrave; sao người c&oacute; trải nghiệm dễ t&igrave;m việc l&agrave;m hơn?",
@@ -74,7 +75,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-6",
+    "id": "rss-thanhnien_gioitre-13",
     "title": "Xu hướng lạ: Nhiều người l&agrave;m thử việc v&agrave;i th&aacute;ng rồi nghỉ",
     "description": "Kh&ocirc;ng thiếu cơ hội việc l&agrave;m, nhưng nhiều người trẻ lại li&ecirc;n tục rời bỏ c&ocirc;ng việc chỉ sau v&agrave;i th&aacute;ng. C&oacute; kh&ocirc;ng &iacute;t trường hợ...",
     "source_entity": "Xu hướng lạ: Nhiều người l&agrave;m thử việc v&agrave;i th&aacute;ng rồi nghỉ",
@@ -99,12 +100,12 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-31",
-    "title": "Trường học lịch sử &#039;kh&ocirc;ng v&aacute;ch ngăn&#039;",
-    "description": "Giữa thủ đ&ocirc; H&agrave; Nội, Trung t&acirc;m Gi&aacute;o dục truyền thống v&agrave; lịch sử của &ocirc;ng L&ecirc; Xu&acirc;n Ni&ecirc;m, một người l&iacute;nh gi&agrave;, đ&at...",
-    "source_entity": "Trường học lịch sử &#039;kh&ocirc;ng v&aacute;ch ngăn&#039;",
-    "source_url": "https://thanhnien.vn/truong-hoc-lich-su-khong-vach-ngan-185260501152922712.htm",
-    "event_date": "2026-05-04T09:16:00.000Z",
+    "id": "rss-q_sukien-55",
+    "title": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị",
+    "description": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị - Hành chính tại Thủ Thiêm&nbsp;&nbsp;Báo Lâm Đồng...",
+    "source_entity": "Báo Lâm Đồng",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGNZb3VCaFE4YW5TUFNPQVhaWnZxQVNXbkxxOUg4Y3g2ZUZWWTF1YUhyVTU0bTQ1U3pZTDZBdzRhcnZhXzB4QVA4c0tjb3NOOGsxM2JnU3F5bU1RSURjSi1GQW5iOEhUbl9qT000aGRWQXBDaGNVZ20tY0p3Z040TjNuR3RLc2hhSHdNRTRpSDNQN2RzU3BrV0dVeDRELS11eW5fZmdfM3M4OW5YTHFZRg?oc=5",
+    "event_date": "2030-02-01T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -112,19 +113,19 @@
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": false,
+      "hasTemporal": true,
       "hasLocation": true,
-      "isInteractive": true,
+      "isInteractive": false,
       "score": 60,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date"
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_ngayhoi-73",
+    "id": "rss-q_ngayhoi-70",
     "title": "TPHCM thí điểm chương trình giáo dục mầm non mới từ năm học 2026-2027",
     "description": "TPHCM thí điểm chương trình giáo dục mầm non mới từ năm học 2026-2027&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -173,58 +174,6 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-58",
-    "title": "“Đám cưới” hươu cao cổ đầu tiên tại Thảo Cầm Viên hút nghìn khách tham dự",
-    "description": "“Đám cưới” hươu cao cổ đầu tiên tại Thảo Cầm Viên hút nghìn khách tham dự&nbsp;&nbsp;Đài Phát thanh và Truyền hình TP.HCM...",
-    "source_entity": "Đài Phát thanh và Truyền hình TP.HCM",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORi1POUZIaGdqSjBfbzFGNUJZbGJGMUY1YWJBcVUwVGdOalE3ZEJ4SUs2TjdsblBfVVVCVUlFR1hPVFdfQm56d0s5dmNGRmhIbERmYVJ2M2pBRU5iMjZEazNkVktXdkRJTFJZS0JEd2VOVHZPRUgyY2xvNDJ0b2ZCZVJBZk55aVRab0dZeklsXy1kNzBwQnlEeFFMNnBOQkw4M1pjcTgxUDdYRU0ydGc?oc=5",
-    "event_date": "2026-05-04T11:12:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-62",
-    "title": "Thảo Cầm Viên: Lễ Thành Hôn Độc Đáo Của Đôi Hươu Cao Cổ",
-    "description": "Thảo Cầm Viên: Lễ Thành Hôn Độc Đáo Của Đôi Hươu Cao Cổ&nbsp;&nbsp;motthegioi.vn...",
-    "source_entity": "motthegioi.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXQwRmNCUHRYY1NHajVEZFh0T3ZjUlhYcU5sVE40cW5ONE5tYkROQndTVHdfcnoxcHhZN0FlOGtWeGlRZDJRSWlSRUhubEpURlNDRXhYVk9zbG10SGY1eVc1MFlJbDR2MEhvY0JQLTV0QVczSllpM3NYS1pDT3FwX29sbw?oc=5",
-    "event_date": "2026-05-04T09:30:05.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
     "id": "rss-q_duongsach-7",
     "title": "Nhiều hoạt động hướng đến Ngày sách và văn hoá đọc Việt Nam lần 5-2026",
     "description": "Nhiều hoạt động hướng đến Ngày sách và văn hoá đọc Việt Nam lần 5-2026&nbsp;&nbsp;Phụ nữ Mới...",
@@ -251,33 +200,7 @@
     }
   },
   {
-    "id": "rss-q_gigamall-15",
-    "title": "Gigaversal Bowling Cup 2026 chính thức khởi tranh tại Gigamall, tổng giải thưởng đến 60 triệu đồng",
-    "description": "Gigaversal Bowling Cup 2026 chính thức khởi tranh tại Gigamall, tổng giải thưởng đến 60 triệu đồng&nbsp;&nbsp;Báo Người Lao Động...",
-    "source_entity": "Báo Người Lao Động",
-    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjZ1YzI0MHJGZ1NwNWQ5TVh4dkUxWUFCamdMNF9IbXlzNnZsTFh1bm5MT2NjWmNtSG9pMlI0ZjJGYTR1NnlJdnU5VXlNdmRwQ2ZqOHZPbU9OQlMxakpjMW5CV2lmeHdKSmJNWV94NUxSRFdYcXFScms3OFlhQmg3QTJSNkdUdEJTbk4zWnAtVFAyWWNacFRzcFl4SHF2STdBdlNad2k4LUxGMk42TFk1YW16NFQ0M0dNME9IU1hxU0dfT0RPaFlNQzAySVpIWTU5Q0NzanR3?oc=5",
-    "event_date": "2026-05-05T03:24:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-46",
+    "id": "rss-q_chaybogiadinh-47",
     "title": "Khoảnh khắc đáng nhớ của xe điện VinFast tại Green Marathon Cần Giờ",
     "description": "Khoảnh khắc đáng nhớ của xe điện VinFast tại Green Marathon Cần Giờ&nbsp;&nbsp;Chuyển động Thị trường...",
     "source_entity": "Chuyển động Thị trường",
