@@ -1,6 +1,56 @@
 [
   {
+    "id": "rss-afamily_mebe-2",
+    "title": "Hà Nội: Bé trai 5 tuổi đứt lìa 2 ngón tay khi chơi xe điện tự chế",
+    "description": "Thông qua trường hợp bé trai 5 tuổi đứt lìa hai ngón tay khi chơi xe điện tự chế, Bệnh viện Nhi Hà Nội gửi cảnh báo đến các bậc phụ huynh khi cho trẻ vui chơi....",
+    "source_entity": "Hà Nội: Bé trai 5 tuổi đứt lìa 2 ngón tay khi chơi xe điện tự chế",
+    "source_url": "https://afamily.vn/ha-noi-be-trai-5-tuoi-dut-lia-2-ngon-tay-khi-choi-xe-dien-tu-che-236260505093229687.chn",
+    "event_date": "2026-05-09T22:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
     "id": "rss-tuoitre_giaoduc-5",
+    "title": "Máy khoan mini, robot và lớp học công nghệ mới hút người xem",
+    "description": "Máy khoan mini có thể gia công, robot giáo dục, máy in 3D hay các mô hình lớp học thông minh đang trở thành những điểm thu hút tại triển lãm công nghệ giáo dục ở TP.HCM....",
+    "source_entity": "Máy khoan mini, robot và lớp học công nghệ mới hút người xem",
+    "source_url": "https://tuoitre.vn/may-khoan-mini-robot-va-lop-hoc-cong-nghe-moi-hut-nguoi-xem-20260506134404504.htm",
+    "event_date": "2026-05-09T08:44:21.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-20",
     "title": "'Long lanh sắc màu' qua ống kính học trò tại triển lãm ảnh Tuổi Xanh 2026",
     "description": "Những lát cắt đời sống nơi làng chài, ánh sáng buổi sớm trên bến cá hay nhịp lao động tất bật… qua ống kính học sinh tạo nên không gian triển lãm giàu cảm xúc mà mỗi khung hình đều...",
     "source_entity": "'Long lanh sắc màu' qua ống kính học trò tại triển lãm ảnh Tuổi Xanh 2026",
@@ -25,7 +75,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-27",
+    "id": "rss-tuoitre_giaoduc-42",
     "title": "Cô gái Trung Quốc kể chuyện bằng tiếng Việt",
     "description": "Làm việc tại Đài truyền hình trung ương Trung Quốc, chị Hạ Vy đã đồng thời xây dựng kênh video du lịch bằng tiếng Việt, hướng đến khán giả Việt Nam qua những câu chuyện đời sống và...",
     "source_entity": "Cô gái Trung Quốc kể chuyện bằng tiếng Việt",
@@ -50,7 +100,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-11",
+    "id": "rss-thanhnien_gioitre-24",
     "title": "C&ugrave;ng tấm bằng đại học, v&igrave; sao người c&oacute; trải nghiệm dễ t&igrave;m việc l&agrave;m hơn?",
     "description": "Những sinh vi&ecirc;n chủ động t&iacute;ch lũy kinh nghiệm từ hoạt động ngoại kh&oacute;a, việc l&agrave;m th&ecirc;m, thực tập&hellip; khi c&ograve;n tr&ecirc;n ghế nh&agrave; trư...",
     "source_entity": "C&ugrave;ng tấm bằng đại học, v&igrave; sao người c&oacute; trải nghiệm dễ t&igrave;m việc l&agrave;m hơn?",
@@ -75,7 +125,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-13",
+    "id": "rss-thanhnien_gioitre-26",
     "title": "Xu hướng lạ: Nhiều người l&agrave;m thử việc v&agrave;i th&aacute;ng rồi nghỉ",
     "description": "Kh&ocirc;ng thiếu cơ hội việc l&agrave;m, nhưng nhiều người trẻ lại li&ecirc;n tục rời bỏ c&ocirc;ng việc chỉ sau v&agrave;i th&aacute;ng. C&oacute; kh&ocirc;ng &iacute;t trường hợ...",
     "source_entity": "Xu hướng lạ: Nhiều người l&agrave;m thử việc v&agrave;i th&aacute;ng rồi nghỉ",
@@ -100,32 +150,58 @@
     }
   },
   {
-    "id": "rss-q_sukien-55",
-    "title": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị",
-    "description": "TP HCM phê duyệt quy hoạch 1/500 Trung tâm Chính trị - Hành chính tại Thủ Thiêm&nbsp;&nbsp;Báo Lâm Đồng...",
-    "source_entity": "Báo Lâm Đồng",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGNZb3VCaFE4YW5TUFNPQVhaWnZxQVNXbkxxOUg4Y3g2ZUZWWTF1YUhyVTU0bTQ1U3pZTDZBdzRhcnZhXzB4QVA4c0tjb3NOOGsxM2JnU3F5bU1RSURjSi1GQW5iOEhUbl9qT000aGRWQXBDaGNVZ20tY0p3Z040TjNuR3RLc2hhSHdNRTRpSDNQN2RzU3BrV0dVeDRELS11eW5fZmdfM3M4OW5YTHFZRg?oc=5",
-    "event_date": "2030-02-01T00:00:00.000Z",
+    "id": "rss-q_nhathieunhi-11",
+    "title": "Nhạc kịch thiếu nhi Hàn Quốc diễn miễn phí tại Nhà Thiếu nhi TP HCM",
+    "description": "Nhạc kịch thiếu nhi Hàn Quốc diễn miễn phí tại Nhà Thiếu nhi TP HCM&nbsp;&nbsp;Báo Người Lao Động...",
+    "source_entity": "Báo Người Lao Động",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXlwMDB0UnlrbG9UeW1ZSTlnWU8tZDdFNWRBRTlHSklxT3pVaTFpTEQwNlpndHlxM1l5anJlQXNWTGthelloWVNDTExPN2sxV1RKUXRDS0NqUzJQZmNlZDN4aG9EUG5XUFlkc0VKSFg4dHp5UE5BLTUtdVAyQmpiTWpRNVhOLUVjU0p0YTFOcUV2Z3FKak5jSnlKMEc2aElCY3gxc0h6UGpSekdQeFE?oc=5",
+    "event_date": "2026-05-09T10:54:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Nghệ thuật & Biểu diễn",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
       "hasLocation": true,
       "isInteractive": false,
       "score": 60,
       "failures": [
-        "No_Age_Tag",
+        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_ngayhoi-70",
+    "id": "rss-q_ngayhoi-24",
+    "title": "Ngày hội sách và văn hóa đêm: Định hình 'dòng chảy trải nghiệm' giữa lòng đô thị",
+    "description": "Ngày hội sách và văn hóa đêm: Định hình 'dòng chảy trải nghiệm' giữa lòng đô thị&nbsp;&nbsp;Báo Pháp Luật TP. Hồ Chí Minh...",
+    "source_entity": "Báo Pháp Luật TP. Hồ Chí Minh",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWml1R0VVV0ZCSzExa2JOSHdtaVJ3eHJzMUZZWXZxOHVfb25uZmV5cVRiMFc4OUQyMVFTSlUyU0VKN2ZjdVFheU5XbWp0bUo1NlI4OVpncjkwaHRCYm9mQkpfV3FMc2ZKdWJlRWliQXhLb2txRDRxRlZiRm1oWFlBVzlIc21tRzlvOUg1RHlLMDlGMERfdVBKU3MtVlEwSmF1SklCUmUwQkJic2Nr?oc=5",
+    "event_date": "2026-05-09T10:59:18.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-68",
     "title": "TPHCM thí điểm chương trình giáo dục mầm non mới từ năm học 2026-2027",
     "description": "TPHCM thí điểm chương trình giáo dục mầm non mới từ năm học 2026-2027&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -144,6 +220,31 @@
       "score": 60,
       "failures": [
         "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lopnghethuat-10",
+    "title": "Nhạc kịch thiếu nhi Hàn Quốc diễn miễn phí tại Nhà Thiếu nhi TP HCM",
+    "description": "Nhạc kịch thiếu nhi Hàn Quốc diễn miễn phí tại Nhà Thiếu nhi TP HCM&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWFjMzI4TDl5SlFYWENYOXV4aDNIa3lGRjcwcGpyTVlIWXlaNHNCUDBJQUdoU2FndnItUWx1VElkSThJa29taTM5Y3pYUjl0a3VBcWpDLWtTcXpvLTV0NkkyRHgzQklKS19XN2toeHJsZmkzcjhTVm5mVlRTVmYtYkxHaFlhcTd5TjJUU1A5QWNSTEc5?oc=5",
+    "event_date": "2026-05-09T11:25:59.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Nghệ thuật & Biểu diễn",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
@@ -174,42 +275,16 @@
     }
   },
   {
-    "id": "rss-q_duongsach-7",
-    "title": "Nhiều hoạt động hướng đến Ngày sách và văn hoá đọc Việt Nam lần 5-2026",
-    "description": "Nhiều hoạt động hướng đến Ngày sách và văn hoá đọc Việt Nam lần 5-2026&nbsp;&nbsp;Phụ nữ Mới...",
-    "source_entity": "Phụ nữ Mới",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0ZWSXlIaUVNYkN1NjQ4RHViYTZiZmdjand6ek12TVpZU2pFcnJWcVRaZWJHQXZLYUFDU3ZCUy1LQlY4MGlxOUUzbHVpY2FYMXZNblYtb1dEa3B2dXVrWDI4Rk84eVBqUFpjRVpVRjR6WmxndmptVlNFeDIzT2hfeDBUUk92R3dQdThtd19xelN4UEU3NVFMNC05eXUtRGNSYWh2OVQxeHRZYVk?oc=5",
-    "event_date": "2027-08-05T00:00:00.000Z",
+    "id": "rss-q_vienbaotang-7",
+    "title": "Đề xuất thu phí tham quan tại các bảo tàng lớn ở Đà Nẵng",
+    "description": "Đề xuất thu phí tham quan tại các bảo tàng lớn ở Đà Nẵng&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0VGV3BxNHpCV0FkZkUtUVdZV25nNGctYXdiMy1DMU03M1hPRTFsYUdJd3lQVEk4WFZyUUpJN3ozZmZheE9Fa0E2akl4VHFzN2stTS1GTThVd3BHQ3FENlFKam5nUnM3dXZmek9wTVE4dmRSVjB5UEcwalNQc0xVaW9iSEF2QQ?oc=5",
+    "event_date": "2026-05-09T12:36:18.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-47",
-    "title": "Khoảnh khắc đáng nhớ của xe điện VinFast tại Green Marathon Cần Giờ",
-    "description": "Khoảnh khắc đáng nhớ của xe điện VinFast tại Green Marathon Cần Giờ&nbsp;&nbsp;Chuyển động Thị trường...",
-    "source_entity": "Chuyển động Thị trường",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDJ4WUpXZDhBa1czalg0QWY4TFVPc3V3NnZ5bzJDQlZ2eDBoeUZpYVNiWXZkbUs0b01fMHgyVDgzcHdVYUlleF9JVkxBbkp4TUhIdXFheUpkN1puMDloeDZ1X2gzRU1IcW9hTmt4V0RlRHNmTHFRWGNMREs4V29qM2lrRDJtd1JsSlZRbnFjZ0ZXTkRSb2ZQZFJETTVkalBzOEIwU3NuQjR2bkE3bFpn?oc=5",
-    "event_date": "2026-05-05T06:00:08.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Triển lãm & Trưng bày",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
