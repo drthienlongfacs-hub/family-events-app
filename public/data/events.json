@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-afamily_mebe-24",
+    "id": "rss-afamily_mebe-37",
     "title": "Nghỉ hè, cẩn trọng với những vật dụng tiềm ẩn nguy hiểm cho trẻ em",
     "description": "Mùa hè là thời điểm trẻ em dành nhiều thời gian vui chơi, vận động và khám phá....",
     "source_entity": "Nghỉ hè, cẩn trọng với những vật dụng tiềm ẩn nguy hiểm cho trẻ em",
@@ -25,7 +25,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-0",
+    "id": "rss-tuoitre_giaoduc-17",
     "title": "Gặp gỡ ca sĩ Duyên Quỳnh, Nguyễn Phi Hùng tại Ngày hội lựa chọn nguyện vọng xét tuyển tại TP.HCM",
     "description": "Trước thềm Ngày hội lựa chọn nguyện vọng xét tuyển đại học - cao đẳng 2026, hai ca sĩ khách mời Nguyễn Phi Hùng và Nguyễn Duyên Quỳnh sẽ có mặt tại ngày hội chia sẻ câu chuyện tuổi...",
     "source_entity": "Gặp gỡ ca sĩ Duyên Quỳnh, Nguyễn Phi Hùng tại Ngày hội lựa chọn nguyện vọng xét tuyển tại TP.HCM",
@@ -50,7 +50,31 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-9",
+    "id": "rss-thanhnien_gioitre-1",
+    "title": "M&oacute;n qu&agrave; khiến học sinh nghỉ h&egrave; vẫn th&iacute;ch đến trường",
+    "description": "H&agrave;ng trăm bộ m&aacute;y vi t&iacute;nh mới đ&atilde; v&agrave; đang tiếp tục được tuổi trẻ TP.Cần Thơ d&agrave;nh tặng những ng&ocirc;i trường c&ograve;n kh&oacute; khăn, nh...",
+    "source_entity": "M&oacute;n qu&agrave; khiến học sinh nghỉ h&egrave; vẫn th&iacute;ch đến trường",
+    "source_url": "https://thanhnien.vn/mon-qua-khien-hoc-sinh-nghi-he-van-thich-den-truong-185260626201401629.htm",
+    "event_date": "2026-06-30T02:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-thanhnien_gioitre-16",
     "title": "&#039;Săn&#039; vị tr&iacute; xem 3D mapping đẹp nhất TP.HCM",
     "description": "Chương tr&igrave;nh tr&igrave;nh chiếu &aacute;nh s&aacute;ng 3D mapping quốc tế trước trụ sở UBND TP.HCM sắp tới đang thu h&uacute;t sự quan t&acirc;m của nhiều người. Để c&oacute...",
     "source_entity": "&#039;Săn&#039; vị tr&iacute; xem 3D mapping đẹp nhất TP.HCM",
@@ -100,31 +124,6 @@
     }
   },
   {
-    "id": "rss-q_lehoi-3",
-    "title": "TP Hồ Chí Minh: Tạo “sân chơi” hè cho thanh thiếu nhi",
-    "description": "TP Hồ Chí Minh: Tạo “sân chơi” hè cho thanh thiếu nhi&nbsp;&nbsp;ttbc-hcm.gov.vn...",
-    "source_entity": "ttbc-hcm.gov.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDRPY3NjUG4tYXhFZmhXdDd2b2NMUERDdmlUbzF5OUI4dlUwa3hHVWZ1bk5MTkhlMHdCU21vV1BsQk00MWRxRWE5c3JhS01GRWk5dHFtMFRlVi11TTdWY3puT0VvV2pUNkxjeVBWcldfZ2lwQ1k2di0tTTAyTTlwdlhiYS1MS21nY3BBVERMNDY?oc=5",
-    "event_date": "2026-06-28T00:51:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
     "id": "rss-q_sukien-18",
     "title": "Loạt sân chơi đang chờ bạn tại Hội sách Thiếu nhi TP.HCM",
     "description": "Loạt sân chơi đang chờ bạn tại Hội sách Thiếu nhi TP.HCM&nbsp;&nbsp;Mực Tím...",
@@ -150,33 +149,82 @@
     }
   },
   {
-    "id": "rss-q_sukien-19",
-    "title": "“Tủ sách cộng đồng” lan tỏa văn hóa đọc đến người lao động",
-    "description": "“Tủ sách cộng đồng” lan tỏa văn hóa đọc đến người lao động&nbsp;&nbsp;Quân Khu 7 Online...",
-    "source_entity": "Quân Khu 7 Online",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbE81ZWs2V0JsNzFkemR5Y0FMbS1Nb1FLUVhhcjBoWmQ3VFZvb0RnNXE1emtydGdKTkJOaW1yVlZQNWs0bG1rcHBfYlY1RDNSTDNZVXM3YkxwN2VLQmo5QjIzOG51OHZXOTQ5M0xKNlpLRVExQkh3MllFalphU1dKZVowZmFHNjJib3prdUVhN0hxT1RGZ1JrcVZYYnFoRUd1OGVBNEhfYWc?oc=5",
-    "event_date": "2026-06-25T08:47:00.000Z",
+    "id": "rss-q_sukien-23",
+    "title": "Nhiều hoạt động trải nghiệm đặc sắc tại Hội sách Thiếu nhi TP. HCM lần VI",
+    "description": "Nhiều hoạt động trải nghiệm đặc sắc tại Hội sách Thiếu nhi TP. HCM lần VI&nbsp;&nbsp;langngheviet.com.vn...",
+    "source_entity": "langngheviet.com.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWpsbDZEU3A4MFZqNHF2b0xqWkhEa3VGbWFUSFdfX3UxaVVZdHBjUWd0R3FGOGpnMGJ2bklSem5XRTVab0FtRE0takJjWm1ETWdZVDI1RGw4aVR4NDZUM2NwMDNaRmgweXZzdzU1aVdhVnV2VTdwMmNJd0h1dVhnRHBQT0o1THVieDdYTFJoVUlXNk1TeEFPU0Z2TnFCa25ERmJ3eDFURHRJUEFjbkZ0Rw?oc=5",
+    "event_date": "2026-06-29T03:31:29.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": false,
+      "isAgeAppropriate": true,
       "hasTemporal": false,
       "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-30",
+    "title": "Hội sách Thiếu nhi TPHCM khai mạc, lan tỏa văn hóa đọc qua nhiều hoạt động",
+    "description": "Hội sách Thiếu nhi TPHCM khai mạc, lan tỏa văn hóa đọc qua nhiều hoạt động&nbsp;&nbsp;Báo Dân trí...",
+    "source_entity": "Báo Dân trí",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmF0VDN6dDFFRVBrQU5TSGpNUUdGcmgwcU5ac25WMkFQYTFHXy1UVG9FSVVDc1lZUl9jZUEyWVVzWGU5MEl3NUJkVEtPX2l5QXdSVkpWZzY5WVFJemlaZUpaZ0EyVWhDV2tLTUNwRWJtU1dkaE4tZVVtYTgtbC0tVDQzb0h4emFWbk1YWlNxN01RVjVlMHBSNy1oYjRjaDBSTEw2ZlBBSzFlRXNaQzRuVjFYWE5paWxLbTlwM2JyeFA0X0xR?oc=5",
+    "event_date": "2026-06-29T08:12:15.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
       "isInteractive": false,
       "score": 40,
       "failures": [
-        "No_Age_Tag",
         "Missing_Date",
+        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_sukien-32",
+    "id": "rss-q_goethe-2",
+    "title": "Rộn ràng khai mạc Ngày hội sách lớn nhất năm dành cho thiếu nhi TPHCM",
+    "description": "Rộn ràng khai mạc Ngày hội sách lớn nhất năm dành cho thiếu nhi TPHCM&nbsp;&nbsp;Báo Phụ Nữ...",
+    "source_entity": "Báo Phụ Nữ",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZk1zcVlISE5QR096cXFYZFJKRHl4ZEx0Nl8tMTJqMWxkY2czeUhEODJZbmZSTmFKZFhqMDdkWl9neXpUR2drZGhzTjQ2MjBMVjNjN2pIakJCbWZ4di0xNHBQWWx0eTZ1VmIwVmp5MWtWa2NUQk1fbGlUa3ZmTlcwVGZuQ3ZwNGk0QzFUSV9mRy1Jc2ZPTlBKa0xMV2E3ZnhjMHg0TDlEbUN2TTVFR1I0a2ZsWTY?oc=5",
+    "event_date": "2026-06-29T06:35:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-34",
     "title": "Hội sách Thiếu nhi TPHCM lần thứ sáu:Mở lối vào thế giới tri thức",
     "description": "Hội sách Thiếu nhi TPHCM lần thứ sáu:Mở lối vào thế giới tri thức&nbsp;&nbsp;Báo Phụ Nữ...",
     "source_entity": "Báo Phụ Nữ",
@@ -202,7 +250,32 @@
     }
   },
   {
-    "id": "rss-q_sukien-38",
+    "id": "rss-q_sukien-35",
+    "title": "TP. Hồ Chí Minh: Khai mạc Hội sách Thiếu nhi quy mô lớn nhất từ trước đến nay",
+    "description": "TP. Hồ Chí Minh: Khai mạc Hội sách Thiếu nhi quy mô lớn nhất từ trước đến nay&nbsp;&nbsp;TẠP CHÍ ĐIỆN TỬ CÔNG NGHIỆP MÔI TRƯỜNG...",
+    "source_entity": "TẠP CHÍ ĐIỆN TỬ CÔNG NGHIỆP MÔI TRƯỜNG",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVktzVGVYeHFJdzFwcXRsOThoRHNnT2syWE0tRnM5bDAxYjY1Z0hEZGNsSHFxZHRaVVVQS284S1hlZUNFbklTTGp6WmNRUG5xMTZJV3VrVi1EUVpxYm5WdkcwVGJ2T2FublVTTV80MkplQ1NoczBKbHE4VkdpZERXZEdIc1FYRE05Q2VaUHVqQ3M2LXAyZzl2ZEpqcGJSWXprTEJVbEwtTEx0ZUhXV2xuaWlBaC00YVZO?oc=5",
+    "event_date": "2026-06-29T09:37:48.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-39",
     "title": "Loạt sự kiện chào mừng 50 năm thành phố mang tên Chủ tịch Hồ Chí Minh",
     "description": "Loạt sự kiện chào mừng 50 năm thành phố mang tên Chủ tịch Hồ Chí Minh&nbsp;&nbsp;Mực Tím...",
     "source_entity": "Mực Tím",
@@ -228,37 +301,12 @@
     }
   },
   {
-    "id": "rss-q_sukien-39",
-    "title": "Đón đọc Nhi Đồng TP.HCM 26, phát hành 26-6: Mùa hè xanh của chúng mình",
-    "description": "Đón đọc Nhi Đồng TP.HCM 26, phát hành 26-6: Mùa hè xanh của chúng mình&nbsp;&nbsp;Mực Tím...",
-    "source_entity": "Mực Tím",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb1pYQTdOUEdvY1lfVXh6MmhQQnhuNEQyYktpSjhvQUVMb2FLLTB3R0ZEdHEzQ0t1S2MwSDFkY19lZ1hWejNWMDR3V25PQ0I2QWFhcHFLVFZreFZIUXRzS3Q3dkxzdzRNR3QzY1NuN2Y4T3V1Y2VvbEJGbGVaZlk1MzhfWHZpR1JGN0JRZzF2STNqa3J6THBkeThiSGlGdW1ETkxYOVRSUVVrWlVtcHZGMk1OeTBfM1k?oc=5",
-    "event_date": "2026-06-26T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_sukien-63",
-    "title": "Gặp mặt 10 thiếu nhi tiêu biểu dự Đại hội Đoàn toàn quốc XIII",
-    "description": "Gặp mặt 10 thiếu nhi tiêu biểu dự Đại hội Đoàn toàn quốc XIII&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXdBclBMcUtWTmdCc3F5LUFoaU1sMF96SjR6OTV6WnU4Ti14VEMxVlh4eldBUUhUaWN4N1QyallqT3VCUzN1eEQ2QVpXck1XLXh3b2JrTUc2ZXJuMk1lTWhJTXZDSUljMW9Zd2g0dkoxUDVCa3ljclU0aEI3NS01Q1hlVDN5VFRiSTU0OQ?oc=5",
-    "event_date": "2026-06-27T03:22:51.000Z",
+    "id": "rss-q_sukien-41",
+    "title": "TPHCM đưa sách đến gần trẻ em, bồi đắp văn hóa đọc",
+    "description": "TPHCM đưa sách đến gần trẻ em, bồi đắp văn hóa đọc&nbsp;&nbsp;Báo Sức khỏe & Đời sống...",
+    "source_entity": "Báo Sức khỏe & Đời sống",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWZVN0NDOHNMdjE5MHc0RnFWWkVnNGRBMUdmeXZhYVVGQXVhYVhJM2FGZklPYkFILTIzWG9lTHNZZWt5YlRyQXdsTkxET0xWU2RjQlRydGxoWW1nR2UzYms1eE5tZHh4WFNpNHl6LU5qRlVkeEtYcDRzZTdUOXBFaDJkS2lMZi1RaGNwZGN5M3dGWU5MLU51RkJkTG81U0U?oc=5",
+    "event_date": "2026-06-29T05:38:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -273,6 +321,134 @@
       "failures": [
         "Missing_Date",
         "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-39",
+    "title": "Khai mạc Hội sách Thiếu nhi TP.HCM lần VI",
+    "description": "Khai mạc Hội sách Thiếu nhi TP.HCM lần VI - năm 2026&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vbG1hcjBqN2JOUmh0T0h3bm5mRkhNU0NpdjNrYkppcW9Xa285RmdNODdMY04wZWRIRF9VR0lCVFV2RmI1Z1dEVEpYbnVoOTJ5bGxYbVptdm1sRk1LcEhzRFZPZlk4X1RrWU9Cc1NyQ0RSMWVSTUYwYzJWS1VWUQ?oc=5",
+    "event_date": "2026-06-29T16:01:18.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-48",
+    "title": "TP Hồ Chí Minh: Tạo “sân chơi” hè cho thanh thiếu nhi",
+    "description": "TP Hồ Chí Minh: Tạo “sân chơi” hè cho thanh thiếu nhi&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYMDI3MWJ2Vi04b2xtQXRJUzNIbFpxRURBMklxUjdvZnJEaWxxcld5NVNDNFA2UUZzS0cyWE1OSl9vNVMzMkhaUEpheC1hYlhQTFViLTNGcllOZ3RNa1BxVmV3R3R3MF82dGdZbTJNRkdkNkxnTV93MkZ5bWpvUQ?oc=5",
+    "event_date": "2026-06-28T05:50:19.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-51",
+    "title": "Hội sách Thiếu nhi TP. HCM lần VI có quy mô lớn nhất từ trước đến nay",
+    "description": "Hội sách Thiếu nhi TP. HCM lần VI có quy mô lớn nhất từ trước đến nay&nbsp;&nbsp;thethaovanhoa.vn...",
+    "source_entity": "thethaovanhoa.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDJ0eUp0b3p0YjlvRU9DemQ5SlVRMW82aWU3UlJ0bWdEQWlJWFRFanowZDhYTF9nU0wtSFRlYWtJc0ZES0J0QXkwRU9jOVM2Z0pfNmtibEFMY0lwSE9YNzdkOHRoM3MtMFVmbjhEbFlXc2VOUWo1Vno4VUFES3FxSXc5M09HTngzaHhvaWU0blB6NWhnNnlocVpOV3UtOVJrMGRkVk04enNxV19XWWR4UVBnM20?oc=5",
+    "event_date": "2026-06-29T09:28:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-52",
+    "title": "Hội sách Thiếu nhi 2026 nâng tầm quy mô, nhiều hoạt động hướng về kỷ niệm 50 năm Thành phố mang tên Bác",
+    "description": "Hội sách Thiếu nhi 2026 nâng tầm quy mô, nhiều hoạt động hướng về kỷ niệm 50 năm Thành phố mang tên Bác&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXlhTDZWSkpfcW1nWVRUQ05CaGxCMW9jTjFIRC1USHZRX3VGX3pLV0stSDhhYlNIdUpEOEY3Vko2QjItcklMSWNZbmpyYVpNSklTVG1CdFcwZmhhQ0l2WHlCOXJJbFl1OHJGbmRsNzRGdmdsenRDaGRLTDllMG14ZER0STNKMlhtR0lRSHJvaFVQU0lJRzRURG1fRUZ0YmJ5TFlNLUNja2pVM0h4Y2hHTXk0Y0wwVm41WHdsYWFrZUFTTWc?oc=5",
+    "event_date": "2026-06-29T10:37:08.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-66",
+    "title": "TP.HCM sôi động các hoạt động thể thao chào mừng 50 năm Thành phố mang tên Bác",
+    "description": "TP.HCM sôi động các hoạt động thể thao chào mừng 50 năm Thành phố mang tên Bác&nbsp;&nbsp;thethaovanhoa.vn...",
+    "source_entity": "thethaovanhoa.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamI1TGFFbVRIelhUWl85ZEY1R2NNdExGd2hDaG5TeEdYZm5vbjNlZlp2RW9VMndwcVQyWFlFR0gxanZWdzcxY09PU3dIb2VibjZPSEI1SnFzSXl5Z3NxdWhCejdBQnMtWFF5dVdGdTZuY1IwSnR6Y0FhYXYyX3RqVFF5Snh6N0J3OHlHdVp2WjRpQWh2aURiY2twYTQ2Zi1HTlBRc3JxeERhaVljcEtVbkNUZ3lGYWlmRVFsbnJRUXF4QQ?oc=5",
+    "event_date": "2026-06-29T11:05:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
@@ -329,7 +505,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-26",
+    "id": "rss-q_ngayhoi-21",
     "title": "Khuấy động không khí tại ngày hội “Phú Mỹ Hưng hướng về trẻ em” lần 15-2026",
     "description": "Khuấy động không khí tại ngày hội “Phú Mỹ Hưng hướng về trẻ em” lần 15-2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -352,6 +528,32 @@
   },
   {
     "id": "rss-q_ngayhoi-27",
+    "title": "Sôi nổi các hoạt động chào mừng Ngày Gia đình Việt Nam",
+    "description": "Sôi nổi các hoạt động chào mừng Ngày Gia đình Việt Nam&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSENaNlVzSFFTbDJRVWY1dnJpaFotOXJGSnhwZVZxNm5EbkZOVmNlbjJYZElPVGYzSkZfQld1SkJXaUsxd0tSLWk3aHc5UXJnR0lyTDQ4U3pqeVFuTWwzRHk0dWNYLTZPVGxQNEZKSFl6U2xSdi11N2JwV1B6cWx6RG1IY05HX1dDRl9tV2FPRE83VzduRkF6c3dB?oc=5",
+    "event_date": "2026-06-29T11:18:48.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-31",
     "title": "2.000 công nhân và người dân TP.HCM hòa mình vào Ngày hội Thanh niên công nhân 2026",
     "description": "2.000 công nhân và người dân TP.HCM hòa mình vào Ngày hội Thanh niên công nhân 2026&nbsp;&nbsp;Báo Thanh Niên...",
     "source_entity": "Báo Thanh Niên",
@@ -376,12 +578,12 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-53",
-    "title": "Ngày hội Gia đình Việt Nam 2026 lan tỏa sức mạnh tình thân",
-    "description": "Ngày hội Gia đình Việt Nam 2026 lan tỏa sức mạnh tình thân&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakljNTZCRGdlYXRadHFNNE96QlEzOWZZTFkxLVpGREl5WUttY212V3otRDhHNmdFd3lYTTdOdm5JNG5JdkJJaXQtRTludEp1LVdYVW1RM1NZdEZvWWlRTUdtcDZ1VGdwSVczUmRNV1pLVVREUGdiUmNuMjUxMlpSVURXTUptRUl2?oc=5",
-    "event_date": "2026-06-25T13:15:06.000Z",
+    "id": "rss-q_lehoi-0",
+    "title": "Nhiều hoạt động thú vị tại Lễ hội thiếu nhi TP.HCM lần 4 năm 2026",
+    "description": "Nhiều hoạt động thú vị tại Lễ hội thiếu nhi TP.HCM lần 4 năm 2026&nbsp;&nbsp;Tuổi Trẻ...",
+    "source_entity": "Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTlGSEFoS19yV1dLZEpaTnVJRjV2amtQQUk3OVpmd0YyWjJtajdCYVQzbGZpSkp3WEZNYnJlMVBVSFk1V05XN3I1SnVYejRxM19VRmh0T2lJczN3TW83UXB6S0dhTE5xZXE5R0VHQkswaEV4Si1DNVlvOVhLczc2RGVicDB4VVNmNDRlZ2xuYm1aTEFRMVEyWTdsSWYzZUkzUGdQVl9EVVJadw?oc=5",
+    "event_date": "2026-06-29T14:57:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -390,18 +592,17 @@
       "isSafe": true,
       "isAgeAppropriate": true,
       "hasTemporal": false,
-      "hasLocation": false,
+      "hasLocation": true,
       "isInteractive": true,
-      "score": 60,
+      "score": 80,
       "failures": [
-        "Missing_Date",
-        "Missing_Location"
+        "Missing_Date"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_ngayhoi-54",
+    "id": "rss-q_ngayhoi-56",
     "title": "Bí quyết giữ gìn hạnh phúc gia đình: Lắng nghe và sẻ chia giữa các thế hệ",
     "description": "Bí quyết giữ gìn hạnh phúc gia đình: Lắng nghe và sẻ chia giữa các thế hệ&nbsp;&nbsp;VOH...",
     "source_entity": "VOH",
@@ -427,7 +628,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-58",
+    "id": "rss-q_ngayhoi-57",
     "title": "Sôi nổi Ngày hội Gia đình số",
     "description": "Sôi nổi Ngày hội Gia đình số - Kết nối yêu thương 2026&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -452,83 +653,33 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-62",
-    "title": "Hội Chữ thập đỏ TPHCM trao tặng 110 suất quà tại Đặc khu Côn Đảo 2026",
-    "description": "Hội Chữ thập đỏ TPHCM trao tặng 110 suất quà tại Đặc khu Côn Đảo 2026&nbsp;&nbsp;Vietnam.vn...",
+    "id": "rss-q_ngayhoi-71",
+    "title": "Xúc động khi nhiều thành viên trong gia đình, vợ chồng cùng đi hiến máu",
+    "description": "Xúc động khi nhiều thành viên trong gia đình, vợ chồng cùng đi hiến máu&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzRzTnRaZExKZHZyR1ZDYi1Md3pyM3ZGWl9fTEdaN2dsUVBBVHRtNUtibkZDRUttVUYtUmh4QVRzenJnSDRxSzNVT0g3RlN5S1VVbWRiNWg4MG9HYkw5MTlNVmI5R25ZV1U5VC1uZ3NZbTVUTTBEbExwWjRycDdueTUydzhiM3owY3RSc2RvRzhTSTZEaUZV?oc=5",
-    "event_date": "2026-06-28T13:57:49.000Z",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMV9vVDFSWFhQWWp1VWs5NDhET3hZaVdMVkd5c3IyWVN3MkFZYzVXMW9Ic01mVVZhV2lJYTQwN3JpaXhrcnNMdkNKOGFOV3Z4dGVIeVFocHJfSTFmV3ZycTBTTks5X21ZQUJzTi1GYlBEbTk1amppcXZVWVpwYjhvTWlNSjZRSGItNzJMOWtjUEd3aVpYNG1nQg?oc=5",
+    "event_date": "2026-06-29T09:52:12.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-63",
-    "title": "Tổ chức ngày hội ẩm thực lan tỏa giá trị gia đình Việt tại Vũng Tàu",
-    "description": "Tổ chức ngày hội ẩm thực lan tỏa giá trị gia đình Việt tại Vũng Tàu&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU21YcjlVYVNUa3dQblBrUmVBdF9FRmRoTTVLNDFtWUMxOXVyYUJ6OVdHTVlEUzNtcGU3T2xQTk40R2dNTjM3cDhBRkRnaG5sRG94WVlyVERxejhVWXN0ZlJrbXBialRpTjRlZk1fS2h5bURsNjlYemUyaXU4V1JOcGtYWTdkS0NNQm15WlJuMTFKamc0?oc=5",
-    "event_date": "2026-06-26T09:56:25.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": true,
       "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-67",
-    "title": "Khoảnh khắc hiếm ở TP.HCM ngày Hạ chí: Thấy núi Bà Đen cách khoảng 100 km",
-    "description": "Khoảnh khắc hiếm ở TP.HCM ngày Hạ chí: Thấy núi Bà Đen cách khoảng 100 km&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2VHY2ZxUXJNLWhyU2V3Z014ZmJjX3o0MVpYd1pvV2tycFpXZGMxNDJnLWpmYTZfWkk2aTVST0xDQ0lKVkFfMFY4UWxTTmpPbWxrazV1R3ptOGtIQXJQaTNVRmFtTS1uVy0yNHZua005YjRjdGs2RGZXdlJjelNwV19uNnVDMHJCVTNleG9wbXZmNG51Vk85elU0Zw?oc=5",
-    "event_date": "2026-06-25T23:49:13.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
+      "hasLocation": false,
       "isInteractive": false,
       "score": 40,
       "failures": [
-        "No_Age_Tag",
         "Missing_Date",
+        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_ngayhoi-74",
+    "id": "rss-q_ngayhoi-72",
     "title": "Khai mạc Ngày hội Gia đình Việt Nam năm 2026",
     "description": "Khai mạc Ngày hội Gia đình Việt Nam năm 2026&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -553,7 +704,158 @@
     }
   },
   {
-    "id": "rss-q_lehoi-20",
+    "id": "rss-q_nhathieunhi-8",
+    "title": "Khai mạc Lễ hội Thiếu nhi phía Đông TPHCM",
+    "description": "Khai mạc Lễ hội Thiếu nhi phía Đông TPHCM&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2lTTDVIUEhCV3pZVUdjU3prWUtRV1dKN3hLOG9zQklLNGYwbUVNbzlvdE1ROV90UHNaNklaeDhMMV90Q2ljdzFrOFJ4OTFTaFhNQTZfSDdNLTBSM3BaNHExNFdpdXdCalNTUy1WZDg0MTg3a3o3cDBIM0NlRVhlUWo2a0dsczBG?oc=5",
+    "event_date": "2026-06-29T14:11:44.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-6",
+    "title": "TP Hồ Chí Minh: Tạo “sân chơi” hè cho thanh thiếu nhi",
+    "description": "TP Hồ Chí Minh: Tạo “sân chơi” hè cho thanh thiếu nhi&nbsp;&nbsp;ttbc-hcm.gov.vn...",
+    "source_entity": "ttbc-hcm.gov.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDRPY3NjUG4tYXhFZmhXdDd2b2NMUERDdmlUbzF5OUI4dlUwa3hHVWZ1bk5MTkhlMHdCU21vV1BsQk00MWRxRWE5c3JhS01GRWk5dHFtMFRlVi11TTdWY3puT0VvV2pUNkxjeVBWcldfZ2lwQ1k2di0tTTAyTTlwdlhiYS1MS21nY3BBVERMNDY?oc=5",
+    "event_date": "2026-06-28T00:51:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-14",
+    "title": "Trao giải Hội thi Sáng tác văn học dành cho đội viên, thiếu nhi lần 9",
+    "description": "Trao giải Hội thi Sáng tác văn học dành cho đội viên, thiếu nhi lần 9&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjBrY3FvX0NaNk1QRGJlQUR2bWdxNXRfdXFHb3BwSlRDc3VzejNhNnFsZ0NHWUJxWUdacUwtWk0yV1U2cEZwdkNNandxeV94QWs3Tkt0Q0pZN19GdlBqWjI1NWVPLXpDRmRjZzVLVXE5OWhqZldzd1lXNW8wVnE5YmFKYm1DVFhNTFhsNVluMF9YLUxmbFU4NFhGWnBYelFfU1BGSmUxd2V5NVFU?oc=5",
+    "event_date": "2026-06-29T13:37:06.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-15",
+    "title": "Hội sách Thiếu nhi TP.HCM 2026 đưa sách đến gần hơn với trẻ em",
+    "description": "Hội sách Thiếu nhi TP.HCM 2026 đưa sách đến gần hơn với trẻ em&nbsp;&nbsp;Tuổi Trẻ...",
+    "source_entity": "Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUVzVllINjZGTFIyZXVkOVpsV2VhZnJfQkw1bHM1UHYxblNwVURyZDg5VTlwQy1EbHNNVm9RT2xpTGNTU1dwSE9QR2pXRlNiMVRoRlJhdkswVHp3cDZycWNGb2pTUWZ3N245Z3FVTFZvaWdVcTdOZHBtaGJZUGF4cmN6aVpBRWxmX0VhVE1LeW41bjZ0d3h4ZDhvUWhyeTZxeUtydA?oc=5",
+    "event_date": "2026-06-29T09:06:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-19",
+    "title": "Hơn 150 hoạt động tại Hội sách Thiếu nhi TPHCM năm 2026",
+    "description": "Hơn 150 hoạt động tại Hội sách Thiếu nhi TPHCM năm 2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0x4amJiOXFKbGpnY2c2dV9xcTlsZlhiZm82SkR4V0Z0TmNIQ29GeEY1WFVMWUJWa2lEYzh6WUs0SVFDVWQ0WDR6SlpFTnQ3MGgwaTFweFM4akNCTGQ1MkZmUkE3NThvUExxaHVvd3E0TmFZb2hRUnREbjRKbjZlb1NQcUJXQ1V5QU1hZWlDWlN4aHZaYkhCYnNfMA?oc=5",
+    "event_date": "2026-06-29T06:15:07.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-26",
+    "title": "Khai mạc Hội sách thiếu nhi TP.HCM có quy mô lớn nhất từ trước đến nay",
+    "description": "Khai mạc Hội sách thiếu nhi TP.HCM có quy mô lớn nhất từ trước đến nay&nbsp;&nbsp;Mực Tím...",
+    "source_entity": "Mực Tím",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnB3RUlFWGxPaGFjQlh3UWpLTm52NnZvUDU3eDVLVUlmU0ZJMXkxeW82OGVoRFdVcFRyOUZxMHZKQ0hJbmFtaFMzb3JveFBjbm5kb1ZRMm1rcV9VdzJ1UjFxWm91X3dNM1JqTXQtQjVYX0ZuRDdYS3ZLM1AwZlpHM2wzZWgzOFBtNlNkelJ0WGVOU0xBRUZJWnh3dDEwQzZEMU4ydnZXb2c5cDNVeWlz?oc=5",
+    "event_date": "2026-06-30T00:16:41.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-27",
     "title": "Lễ hội \"Sách tranh thiếu nhi Việt Nam\" diễn ra từ 28-31/5",
     "description": "Lễ hội \"Sách tranh thiếu nhi Việt Nam\" diễn ra từ 28-31/5&nbsp;&nbsp;BÁO PHỤ NỮ VIỆT NAM ĐIỆN TỬ...",
     "source_entity": "BÁO PHỤ NỮ VIỆT NAM ĐIỆN TỬ",
@@ -577,7 +879,33 @@
     }
   },
   {
-    "id": "rss-q_lehoi-29",
+    "id": "rss-q_lehoi-28",
+    "title": "Khai mạc Hội sách thiếu nhi TPHCM, quy mô lớn nhất từ trước đến nay",
+    "description": "Khai mạc Hội sách thiếu nhi TPHCM, quy mô lớn nhất từ trước đến nay&nbsp;&nbsp;BÁO PHỤ NỮ VIỆT NAM ĐIỆN TỬ...",
+    "source_entity": "BÁO PHỤ NỮ VIỆT NAM ĐIỆN TỬ",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaS1JMklOYUJ0NWJJdjVtN0F5TUU0Tm5zbWx6Nm4yLTFXU1lLVmp5aDhsbXlCNVlvcW94WDRHVTJpMFU5dXhseVBNM3R1NnY5TG5CTDJTMTR0YlVKVmxPY0JaZWtTcUxrbWg2bnRYNDhZSkp4d055bndtTlU0ak1sckozbHBKV0t1WEh1blVUSmZrU1BYZTYtNkpLaGJ1aFdUMWNWTFUwM3dtQlg1UXk3Z1hfWkI1bjVQQXVnZ0dZNWJkdw?oc=5",
+    "event_date": "2026-06-29T09:17:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-33",
     "title": "Hội sách thiếu nhi TP.HCM 2026: Hơn 150 hoạt động đưa sách đến gần trẻ em",
     "description": "Hội sách thiếu nhi TP.HCM 2026: Hơn 150 hoạt động đưa sách đến gần trẻ em&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -602,12 +930,192 @@
     }
   },
   {
-    "id": "rss-q_lehoi-48",
-    "title": "Người dân TP.HCM có thể xem 3D mapping trong 3 đêm dịp kỷ niệm 50 năm thành phố mang tên Bác",
-    "description": "Người dân TP.HCM có thể xem 3D mapping trong 3 đêm dịp kỷ niệm 50 năm thành phố mang tên Bác&nbsp;&nbsp;Tuổi Trẻ...",
-    "source_entity": "Tuổi Trẻ",
-    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYk92MnpMcURvcXB3cklKNUw4MHNON2hSXzRxMUZ1akc5Y0VqYUZQTkpUNmItWi1PcDNaZmxJQU9ReWtDb0VzUTgxa0Itb2h2RDVtdDFZYlpTWUNXcWk3Z2dmVkQza2R2SEo1NHNKXzhTUnBGaUQ1Wkw2VnBwV3VORlVWNUVmcE82VlRSMThEQkplMHhhWjRIMkJKX18teTNPQnBSMFgzT1Q0aHpQaU5HSU5KYmNDcnVpYW80ZHBnZHkybkg4bmkydHUwRlludw?oc=5",
-    "event_date": "2026-06-28T12:14:00.000Z",
+    "id": "rss-q_lehoi-36",
+    "title": "Khai mạc Hội sách Thiếu nhi TP.HCM quy mô lớn nhất từ trước đến nay",
+    "description": "Khai mạc Hội sách Thiếu nhi TP.HCM quy mô lớn nhất từ trước đến nay&nbsp;&nbsp;Znews...",
+    "source_entity": "Znews",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWRzTVIxeWllUVBkU2tNSnlhaFFiY3ZEd2VDclF6cXpXSEtmZEJxdXNnbXFkWEVWa0NlU29ZWVF6SkxjTEZGendmT0pLc1NXRjd5YTNLMURaZHZUMFZoRzk2TGZVU0dRc2RkNDR0cFBKMDZ0YVRubnZKMjFGeEVRRnNKbWN0ZEpzOGlQaFNFd1BEcWowNTFQSkduUUFfSlZtaUE?oc=5",
+    "event_date": "2026-06-29T06:10:53.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-38",
+    "title": "Khai mạc Hội sách Thiếu nhi TP.HCM quy mô lớn nhất từ trước đến nay",
+    "description": "Khai mạc Hội sách Thiếu nhi TP.HCM quy mô lớn nhất từ trước đến nay&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFQ0TzFjekpGaTJmMl9RMDByZjNfeWpMQ0dFVFh1SUkycllvTHRFcV8za2hLekFzeUNBMXdHWW11ZWRMV21qZ1ZTcjdodXBZWC1NWjlCS3VBVVZZRzE3QXBQNnR1aWdyVjZRTVBlanZwb2ljUEJSOFZGdmJ3YTNHbUk0SHJVdWFiZTNkdllNSUNMWlBL?oc=5",
+    "event_date": "2026-06-29T06:19:37.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-43",
+    "title": "Hội sách Thiếu nhi TPHCM khai mạc, lan tỏa văn hóa đọc qua nhiều hoạt động",
+    "description": "Hội sách Thiếu nhi TPHCM khai mạc, lan tỏa văn hóa đọc qua nhiều hoạt động&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFFrMmZpSThZT0htalJhNHhvMGxnZ09ZMDI5YjBtcmpmZUl2d0IwbFI5T2hiRVM3RmdISWVqNlBLQVl3N3FYUHlFZ25YbTZFQjR1cTdUZHpyVXcySUI5U00tU0JZQVV6VE1xWkMwQV8wZ1hZTWRGQm54ZHU5enFSTk5zTE1aem5Xa0R6M0NrZzNQNklibkdNSGJCQU8?oc=5",
+    "event_date": "2026-06-29T08:20:50.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-54",
+    "title": "Sở VH&TT TPHCM và báo Dân trí tổ chức trao tặng sách tại xã Đất Đỏ",
+    "description": "Sở VH&TT TPHCM và báo Dân trí tổ chức trao tặng sách tại xã Đất Đỏ&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUlVZXJtTFdfejJ2OFVkdHFjSjg5eUFsS0hUd1RKOWp5QzZQdG5RXzBkMU9GbW8zQTJNbk44LVJBTDBVaFZ0M1pjSkRkc1dTYWpRSzlVVmpiN084OHlwU2JLdGJ5dGQ1V3BkbGVUMU5qUDdUTXVvNEJ2YXZqdEhFV1Jvb0NJWVBMT3hpaUNjRzlnMTQ?oc=5",
+    "event_date": "2026-06-28T07:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-60",
+    "title": "TP.HCM thành lập 7 khu nông nghiệp ứng dụng công nghệ cao, tổng quy mô hơn 1.700 ha",
+    "description": "TP.HCM thành lập 7 khu nông nghiệp ứng dụng công nghệ cao, tổng quy mô hơn 1.700 ha&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWhiUUhOVTlDMFN4dURFV043N2RNRDRjajBlTDk5MDNnUXE0VXFLc0U3UWVsbmxKUHh1SUdEVldzbjlCTENwS25fMF9uT21iRWNSclVxU2dfZEtEb1RzUjNIcEJROTRlWE1RZzZzU0FKZDV6ckhDQVEzLU0zZEl4WDZEWDlSbk9nMXZJNzFMVUowaUdoVV81QmlTb01FTVJsTEpnQW9Pb1k?oc=5",
+    "event_date": "2026-06-29T03:37:41.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_nhathieunhi-7",
+    "title": "Trao giải Hội thi Sáng tác văn học dành cho đội viên, thiếu nhi lần 9",
+    "description": "Trao giải Hội thi Sáng tác văn học dành cho đội viên, thiếu nhi lần 9&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFRUMXZiYjhwemRFQ21ENHZVTEc5SWFZa2twVmExYlppZktJUUhqamRTT3MySGtwMm1NajB0blkyb1FuWlB1UkRHMHhMdThSYnJwMnJqY0JpSUtRZXFWU20xM0lqdHBrWjM1NnVHSHVuVTI5SDB6QXhuOGZnZlZHN0VjWkNZa0RKQnNmb2hmTHBlcVI4S0E?oc=5",
+    "event_date": "2026-06-29T14:48:46.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_idecaf-17",
+    "title": "50 năm thành phố mang tên Bác: Sân khấu TP.HCM tìm lại ánh hào quang",
+    "description": "50 năm thành phố mang tên Bác: Sân khấu TP.HCM tìm lại ánh hào quang&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGgyZTUxLTRiQ2hNY2NIZ3hrT0FCUDN4ang1M2VDbnBSTjRSLW1vNDQ0Mnh4Q09VZUpNV2pqZzA1Q25keWN5ZHZkMFQwbHE5M3hEal9Ha24tRDZ0UkJxTWtYc3VLVWlqdzJpS21HRlJaSFZpN2w5ZHk5cTgtUGlnTkpjb1JjZnEzWWZlTlBtSDIyZFRl?oc=5",
+    "event_date": "2026-06-30T02:29:07.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_idecaf-19",
+    "title": "Chính thức mở bán vé siêu phẩm ballet “Eugene Onegin” của Eifman Ballet tại Việt Nam",
+    "description": "Chính thức mở bán vé siêu phẩm ballet “Eugene Onegin” của Eifman Ballet tại Việt Nam&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQczJDMjdlUGoxMWswbE5lUDdOTEloOVQ3Ym1TTUdFc0dmU0RWQVFWeEp3c09ZQnRrNzBtcXVfRVpMdi1SYnNSVkVTeElTVmtyYnhLcWoySDRMWGhKSFlFSENnU2REd29hczkzTHZUWThKOWVEaVVQU3lZV3ZvUnR0UHNLVXk1VGw3Ulh4SUM0UmRpLTZ0Z0hsNkRLZXpobDh6QW1HNkxmME4?oc=5",
+    "event_date": "2026-06-28T08:38:02.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -678,7 +1186,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-9",
+    "id": "rss-q_thaocamvien-10",
     "title": "Doanh thu Thảo Cầm Viên đạt mức kỷ lục",
     "description": "Doanh thu Thảo Cầm Viên đạt mức kỷ lục&nbsp;&nbsp;VnExpress...",
     "source_entity": "VnExpress",
@@ -704,12 +1212,12 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-31",
-    "title": "Thảo Cầm Viên Sài Gòn phát động cuộc thi viết năm 2026",
-    "description": "Thảo Cầm Viên Sài Gòn phát động cuộc thi viết năm 2026&nbsp;&nbsp;Báo Người Lao Động...",
-    "source_entity": "Báo Người Lao Động",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTExfQnU4NGd6U0NYTFNlVlRYZk1scFRXYjl6NWtUdklNcVIzN05FSDhubmE2UFRXMS1xaGNub0R6R1ZXeFZsVkhYV3lsWGZ0STZnMThtZHI0ajR3X2Q3VkZFQjFIcld4U2I5M09CTjJ6cVNXSE9yRlBaZzRYSHQzbjNNNExPYTdGeC1FbUdpSUpJaUFlZ0RjMTNEZ0E?oc=5",
-    "event_date": "2026-06-28T05:43:00.000Z",
+    "id": "rss-q_thaocamvien-23",
+    "title": "Thảo cầm viên Sài Gòn phát động cuộc thi viết 'Yêu thương đong đầy'",
+    "description": "Thảo cầm viên Sài Gòn phát động cuộc thi viết 'Yêu thương đong đầy'&nbsp;&nbsp;Tuổi Trẻ...",
+    "source_entity": "Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0E3WlB0VGJ6aVN5NmgzXzlIYnFXRGNoODhZcmRlN1JORDI2UWEtUkZ2X1VVaE45Z3NDaTRVeWZNUXg5aGc3RFdVUjdGeUxlWjVOWDVvRi1mYUEzYjZKR0x3bXowbVd4M2NfTk1uWnFzVmg5dVcwMjRxb243MXdtTDZzZk9QcFJIZW1WRG5QdnE1azhSU2RzQVZLZkxkc1JfTkZrNWh6M3VjMU0?oc=5",
+    "event_date": "2026-06-27T06:48:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -730,7 +1238,33 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-40",
+    "id": "rss-q_thaocamvien-29",
+    "title": "Thảo Cầm Viên Sài Gòn cảnh báo",
+    "description": "Thảo Cầm Viên Sài Gòn cảnh báo&nbsp;&nbsp;Kenh14.vn...",
+    "source_entity": "Kenh14.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11eEo0U3NseEpGaVdvNzlqVWhoTHpLWWFtbE1VMGxrTDVGN0I3UUY4Zmhiakpabkc3QmJmaTV0UVJ2X3lob2dpZjhwMUF6UEhZSDg4NlJCdm5xMWRjVnJ1czVjZ20wM2t6X2NzWTh2S0hTOUhHR1BqSWR2RQ?oc=5",
+    "event_date": "2026-06-29T05:10:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-38",
     "title": "Thảo Cầm Viên sắp khai trương nhà hàng",
     "description": "Thảo Cầm Viên sắp khai trương nhà hàng&nbsp;&nbsp;Znews...",
     "source_entity": "Znews",
@@ -756,16 +1290,16 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-56",
-    "title": "Tìm hoạt động hè miễn phí ở TP.HCM: Trẻ được học điền kinh, võ thuật cuối tuần",
-    "description": "Tìm hoạt động hè miễn phí ở TP.HCM: Trẻ được học điền kinh, võ thuật cuối tuần&nbsp;&nbsp;Báo Thanh Niên...",
-    "source_entity": "Báo Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGU2RkpVX1RQakdZUnh2eGowR1AxYWlGUGpIVjY0S3VqVVFEbWJUcGpNVDgxOFBtUFROeDBtNEtoOS1FZjBSUE9IcS1fZnpSeWMtaHFJOUtObHk2OTl0YVA3XzFuRmoyT0liNUhMajRkRlFrd2hma0phSDBBZHZNdk44Z3ozSnR5ZmpRX1plME43S3FaU3ZMVktTOXVUUjRTNkNKMENvR2Q5SFJpMy1JUkdET2VrUVFWWUlJ?oc=5",
-    "event_date": "2026-06-25T23:15:00.000Z",
+    "id": "rss-q_thaocamvien-50",
+    "title": "Phi Phi rước dâu, Thảo Em \"theo chồng về dinh\" tại Thảo Cầm Viên",
+    "description": "Phi Phi rước dâu, Thảo Em \"theo chồng về dinh\" tại Thảo Cầm Viên&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczNreE5SYlJqb0Zna2lTTm81RlZNUUNBcms5RF92WTBoNWtOcDlBc20wQWVIcjZLbFpiTlJQb1lkT25qQVJYVTNMWHN4SWYyOE1aaUV0eTU4NGxyQzN6R2wyVmhWU2NOU1h1SExqbzV3RThOdWlybndIMGhKRTY3NnlTSnZaaGp6QWg3Ng?oc=5",
+    "event_date": "2026-06-29T15:12:01.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Vui chơi & Dã ngoại",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -782,7 +1316,7 @@
     }
   },
   {
-    "id": "rss-q_vienbaotang-17",
+    "id": "rss-q_vienbaotang-5",
     "title": "Mỹ Linh, Quang Dũng, Lê Hiếu... hát nhạc Việt Anh tại Bảo tàng Mỹ thuật TP.HCM",
     "description": "Mỹ Linh, Quang Dũng, Lê Hiếu... hát nhạc Việt Anh tại Bảo tàng Mỹ thuật TP.HCM&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -808,31 +1342,59 @@
     }
   },
   {
-    "id": "rss-q_duongsach-3",
-    "title": "Ngày 26-6, Khăn Quàng Đỏ có hẹn với bạn tại Hội sách thiếu nhi",
-    "description": "Ngày 26-6, Khăn Quàng Đỏ có hẹn với bạn tại Hội sách thiếu nhi&nbsp;&nbsp;Mực Tím...",
-    "source_entity": "Mực Tím",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3RTWFdnbkkwbmh1Ym1Ta090OHJkeElkTzNfTkVtanJiU29pVjAzVlJlQnRoaUpEZ1VBQ2ZncGFtc09qUEdodGhGaTNVQnNkVUpHWmQ5NU1nSk95QXhuanZfUm9PaTA1NzNSb1lDOVdjZU1OUkJDMGk3elBrZlpwdU5Vb0NQbm5BSUNQb2Z1TGNWdnVaeWp3TXozLVFGRHN5cThOUFpDR01rU0NnYnNJ?oc=5",
-    "event_date": "2026-06-26T00:00:00.000Z",
+    "id": "rss-q_vienbaotang-18",
+    "title": "Bảo tàng Mỹ thuật Việt Nam đón nhận Huân chương Lao động hạng Ba, khẳng định vị thế trung tâm mỹ thuật hàng đầu cả nước",
+    "description": "Bảo tàng Mỹ thuật Việt Nam đón nhận Huân chương Lao động hạng Ba, khẳng định vị thế trung tâm mỹ thuật hàng đầu cả nước&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaTlOTVBrMWtsOGhCTTQyaWZpR3FKWm1waEpYLUFJal95VkhsMG5nOFU4bWllMFdKanF2VHdCcVU4RHc0Y2VjYnZxMl84Y3ZPUFpkcmVnYWdoaTZSeUdsNzJhV0V1VlZiTFV2VkpXd0xEbkV2bFRVenR1Sk1PakptaEZ3ODc3R3dnVG5scDFFUGRldkNhRGUycVE3ZXZwU1hZWVhjcmxQLW1PVlA0T2daQkJhTXZ5VWJRYlY3RTF2dzBjcVRlNGFWSUt2RkotSjlXRTdMYm5YaVQ?oc=5",
+    "event_date": "2026-06-27T10:03:54.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Triển lãm & Trưng bày",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
       "hasLocation": true,
       "isInteractive": false,
-      "score": 80,
+      "score": 40,
       "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_duongsach-5",
+    "id": "rss-q_vienbaotang-27",
+    "title": "Nhạc sĩ Việt Anh và “chuyện chưa kể” trong đêm nhạc tại Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh",
+    "description": "Nhạc sĩ Việt Anh và “chuyện chưa kể” trong đêm nhạc tại Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh&nbsp;&nbsp;VOH...",
+    "source_entity": "VOH",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DUXlzdm5STVN5aDAtcmM3bXJaRTZ6dVYwQVM4bzBkQU5aZ2ppOXNEWHZUT3NlSXhNckZkN2dJMVVRWWxocFJGNXYxTQ?oc=5",
+    "event_date": "2026-06-29T00:17:37.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Triển lãm & Trưng bày",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_duongsach-6",
     "title": "Đường Sách TP.HCM phối hợp phường Sài Gòn phát triển văn hóa đọc",
     "description": "Đường Sách TP.HCM phối hợp phường Sài Gòn phát triển văn hóa đọc&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -858,10 +1420,10 @@
     }
   },
   {
-    "id": "rss-q_crescentmall-1",
+    "id": "rss-q_crescentmall-0",
     "title": "Tận hưởng End of Season Sale tại Crescent Mall: 3 ngày vàng cho hội xê dịch, lên đời vali du lịch với giá trong mơ!",
-    "description": "Tận hưởng End of Season Sale tại Crescent Mall: 3 ngày vàng cho hội xê dịch, lên đời vali du lịch với giá trong mơ!&nbsp;&nbsp;kenh14.vn...",
-    "source_entity": "kenh14.vn",
+    "description": "Tận hưởng End of Season Sale tại Crescent Mall: 3 ngày vàng cho hội xê dịch, lên đời vali du lịch với giá trong mơ!&nbsp;&nbsp;Kenh14.vn...",
+    "source_entity": "Kenh14.vn",
     "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYnVBWU1NWjluT042cno3SEl5dGlQNmRobWRnTGw0MzhxTDFjaUxmeFJEREtvSDRNMlUyWnl6MFFfRjl5OE80Si1DV3RVVk5wM1U1cm5mYVdjNE9DaVdzYTNaVDAxaWhXOFJGY1huLXVuNzBfVjFDd3kyMVo0OEcwM3BqSW5yT2NLdXpRODFVZDEtcjlocURkUjhXZVJSeHlnS0lXdlp5V2Rnd09YX21SSHJaWlRGcUFnSTZGYzNvc1Z5S3VUUUFkYThRR1U5MkFjcU4tRGl0blhmSHBoUm1zc2RnNko5T1JY?oc=5",
     "event_date": "2026-06-28T02:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -909,6 +1471,32 @@
     }
   },
   {
+    "id": "rss-q_vincom-5",
+    "title": "Vincom triển khai lễ hội mua sắm Red Sale 2026 với nhiều ưu đãi",
+    "description": "Vincom triển khai lễ hội mua sắm Red Sale 2026 với nhiều ưu đãi&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnNaMEtYMUcwM2VtcTZ6QjdmeG5WaWplSEIyYUI4NDRkRGY1WHYxNlhzMXZxYXBlZXVnZ1JHOFk0RHIxMkxmY1N5Tng1akl2LWthLVJmaFlNQmRjVUM1emxFZkdPd0RGT3hhcjFTLXN0b3pFTlF4ZFpvTTdYczRLaVNvcG5zRlJEcl95Y0IyQQ?oc=5",
+    "event_date": "2026-06-29T09:20:44.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
     "id": "rss-q_chaybogiadinh-0",
     "title": "Hoạt động hè miễn phí ở TP.HCM: Cha mẹ rủ con cùng chạy bộ cuối tuần",
     "description": "Hoạt động hè miễn phí ở TP.HCM: Cha mẹ rủ con cùng chạy bộ cuối tuần&nbsp;&nbsp;Báo Thanh Niên...",
@@ -935,38 +1523,12 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-28",
-    "title": "Ươm mầm năng khiếu, rèn luyện kỹ năng",
-    "description": "Ươm mầm năng khiếu, rèn luyện kỹ năng&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByZl9iSXFsVGk1VW1TVU10TGFkeXBub28tTTRpSkJxTU5fSWRZRVJOaDhXX0UyYlN5MlBNRU1SUnpFQkVGaVR4RjdfbWxsLTRHaVMtdU5OM2c0VDFleWxRcDh0OUlRb3ROb0FR?oc=5",
-    "event_date": "2026-06-28T05:24:10.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-44",
-    "title": "Vietbuild TP.HCM 2026 quy tụ gần 600 doanh nghiệp với hơn 2.500 gian hàng",
-    "description": "Vietbuild TP.HCM 2026 quy tụ gần 600 doanh nghiệp với hơn 2.500 gian hàng&nbsp;&nbsp;Reatimes.vn...",
-    "source_entity": "Reatimes.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2dFQS1qS1hvQjVYS202b2JfR2txbFg5M3ZmTGJmYU5LSjNXdnVabW1TOGZiS1lPdlFfaURXNWJkeTZzLW00WGpYamQxcWMxd1RIblotOWFqeDFOa1ljT296N3hKZElSRkhManJMNkNHcXNqcy1Xc3FTR1ZlQkE2VG9teWxuMEc2SldDVmRMWTVhZVg2VnNtRWJRS3dtNUdxVl9yOWhxOEEySVBkMW9HSmZ1TDM?oc=5",
-    "event_date": "2026-06-28T02:46:00.000Z",
+    "id": "rss-q_lopnghethuat-11",
+    "title": "Gala trao giải 'Ngôi nhà mơ ước' 2026 và phát động Cuộc thi 'Trường học hạnh phúc' lần thứ II",
+    "description": "Gala trao giải 'Ngôi nhà mơ ước' 2026 và phát động Cuộc thi 'Trường học hạnh phúc' lần thứ II&nbsp;&nbsp;Nhadautu.vn...",
+    "source_entity": "Nhadautu.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlc1WTg5ZldKMjZzSXNEUlRKRDVpcG5CSUZ1a2FQcEIxV0hSaGoxMkVHTlBwa1pEYi1CbENfMUxSa3NrR2pvdmJEMVB0ZjVIcFUtS1JwUngzbWJYb0k5WkZEaVZ6Zlo4UWI3bjFwRUgzVGFtdW9MUDFRUHFkRHBoYkE4aUdHTEpEUGlMQ0lFcWVqWXRzQWRKR3VqaFBoR0ZaNTZOQllSVHloOTkxNlI0bjl5d1BnRHdqSlZKRDk5VQ?oc=5",
+    "event_date": "2026-06-29T11:51:44.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -987,26 +1549,53 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-49",
-    "title": "King’s Spotlight: Trải nghiệm lớp học King’s Anh Quốc lần đầu tiên tại TP Hồ Chí Minh",
-    "description": "King’s Spotlight: Trải nghiệm lớp học King’s Anh Quốc lần đầu tiên tại TP Hồ Chí Minh&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2VHQ2VfeVhzWWk1VDlTVTBpM0JuSU1VU2QzNEZNLUFnSXp4QlZQREZzdHBrUk5rbUQ3S1Rldnl6OHJoSXNMVmQyVDU0ZmJ3aXYwNlVSclhycVJDbUtKWXc3T285b0NhUXc1a0IzNFhueUFxYjF2eThYUE1ocGtlYUhlZ0JCWExoZUpJZGxlbTVlMlFzankyMmVhSEtWVnE3ZldkQ1Q4Wms?oc=5",
-    "event_date": "2026-06-28T05:08:58.000Z",
+    "id": "rss-q_lopnghethuat-15",
+    "title": "Học sinh TP.HCM giành giải Nhất với sáng kiến AI phát hiện bạo lực học đường",
+    "description": "Học sinh TP.HCM giành giải Nhất với sáng kiến AI phát hiện bạo lực học đường&nbsp;&nbsp;Báo Pháp Luật TP. Hồ Chí Minh...",
+    "source_entity": "Báo Pháp Luật TP. Hồ Chí Minh",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGFxZERkSzVaZmlJVzNmb0ZBOTkzM2M3aWFXU0RXbG03alpwb3pvZG1MbXg4STdiQW5ua2lPRk9YS2pySnIxb1BnMWFYYUhiQVd2cW1YdG9nN082V0U4MnVOOEJXMk1sWU9YYllsaXpuTlhPbmlnV0JQTWpWN0FFZVFOeWFvTmR2YTAwejBqa1ZaWllYQTlGTUsxdlZWV1BIQUo1djQ1NFVzZ9IBqAFBVV95cUxOU1c4X2J4ZkVPOE96M1g5TXFnLTFaMndaTnBvM29GNm12cXlMTFZ1NDZaX19kZlpRU2V1bF9uZVc4V0M0TUhkb3VqQ2Z4SUgzTnJZRVJoVmdUbE1LdnhHZ2RBQVNmLW1qNFU3VXBNdHFGZUczUE9DTEJPNkZ1SF9SNW9LN2J2alZwaklZakZZaHVGYVhyY1NpQ2ItTjItODJIVGdWVWw0OVM?oc=5",
+    "event_date": "2026-06-29T07:19:47.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
       "hasTemporal": false,
       "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
+      "isInteractive": false,
+      "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date"
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lopnghethuat-42",
+    "title": "Vietbuild TP.HCM 2026 quy tụ gần 600 doanh nghiệp với hơn 2.500 gian hàng",
+    "description": "Vietbuild TP.HCM 2026 quy tụ gần 600 doanh nghiệp với hơn 2.500 gian hàng&nbsp;&nbsp;Reatimes.vn...",
+    "source_entity": "Reatimes.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2dFQS1qS1hvQjVYS202b2JfR2txbFg5M3ZmTGJmYU5LSjNXdnVabW1TOGZiS1lPdlFfaURXNWJkeTZzLW00WGpYamQxcWMxd1RIblotOWFqeDFOa1ljT296N3hKZElSRkhManJMNkNHcXNqcy1Xc3FTR1ZlQkE2VG9teWxuMEc2SldDVmRMWTVhZVg2VnNtRWJRS3dtNUdxVl9yOWhxOEEySVBkMW9HSmZ1TDM?oc=5",
+    "event_date": "2026-06-28T02:46:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
