@@ -1,55 +1,81 @@
 [
   {
-    "id": "rss-vne_giadinh-33",
-    "title": "500 gia đình dự Ngày hội gia đình Long Châu tại Cần Thơ",
-    "description": "Long Châu Ngày hội gia đình 2026 quy tụ hơn 2.000 thành viên từ 500 gia đình tại Cần Thơ tham gia đi bộ, khám sức khỏe, vận động cùng các hoạt động trải nghiệm....",
-    "source_entity": "500 gia đình dự Ngày hội gia đình Long Châu tại Cần Thơ",
-    "source_url": "https://vnexpress.net/500-gia-dinh-du-ngay-hoi-gia-dinh-long-chau-tai-can-tho-5091765.html",
-    "event_date": "2026-07-03T11:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-afamily_mebe-48",
-    "title": "Con trai Ốc Thanh Vân bị dị ứng nặng phải nhập viện trước ngày đi Úc",
-    "description": "Ốc Thanh Vân từng chia sẻ cô và gia đình sẽ có khoảng 1 tháng vui chơi ở Úc....",
-    "source_entity": "Con trai Ốc Thanh Vân bị dị ứng nặng phải nhập viện trước ngày đi Úc",
-    "source_url": "https://afamily.vn/con-trai-oc-thanh-van-bi-di-ung-nang-phai-nhap-vien-truoc-ngay-di-uc-236260630090746563.chn",
-    "event_date": "2026-07-03T05:00:00.000Z",
+    "id": "rss-vne_giadinh-2",
+    "title": "Xây chung cư 5 tầng để bạn bè sống cùng nhau",
+    "description": "Từ trải nghiệm bất tiện khi ở chung nhà nghỉ dưỡng, nhóm bạn tại Mỹ đã góp vốn xây một chung cư 5 tầng với 35 căn hộ để sống cùng nhau....",
+    "source_entity": "Xây chung cư 5 tầng để bạn bè sống cùng nhau",
+    "source_url": "https://vnexpress.net/xay-chung-cu-5-tang-de-ban-be-song-cung-nhau-5093431.html",
+    "event_date": "2026-07-07T08:02:36.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
+      "hasLocation": true,
       "isInteractive": true,
       "score": 60,
       "failures": [
-        "Missing_Date",
-        "Missing_Location"
+        "No_Age_Tag",
+        "Missing_Date"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-0",
+    "id": "rss-tuoitre_giaoduc-10",
+    "title": "Thí sinh hào hứng giám định kim cương, rê bóng như Messi ở ngày hội chọn nguyện vọng",
+    "description": "Nhiều hoạt động trải nghiệm nghề nghiệp như giám định đá quý, thực tế ảo, in 3D hay thử thách rê bóng đã thu hút đông thí sinh tại Ngày hội lựa chọn nguyện vọng 2026....",
+    "source_entity": "Thí sinh hào hứng giám định kim cương, rê bóng như Messi ở ngày hội chọn nguyện vọng",
+    "source_url": "https://tuoitre.vn/thi-sinh-hao-hung-giam-dinh-kim-cuong-re-bong-nhu-messi-o-ngay-hoi-chon-nguyen-vong-100260704104846572.htm",
+    "event_date": "2026-07-07T11:26:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-12",
+    "title": "Du học Thái Lan, Đài Loan và 'du học tại chỗ' hút học sinh tại Ngày hội lựa chọn nguyện vọng xét tuyển",
+    "description": "Từ Thái Lan, Đài Loan đến mô hình 'du học tại chỗ', học sinh và phụ huynh có thêm nhiều lựa chọn ngay trong Ngày hội lựa chọn nguyện vọng xét tuyển đại học, cao đẳng 2026....",
+    "source_entity": "Du học Thái Lan, Đài Loan và 'du học tại chỗ' hút học sinh tại Ngày hội lựa chọn nguyện vọng xét tuyển",
+    "source_url": "https://tuoitre.vn/du-hoc-thai-lan-dai-loan-va-du-hoc-tai-cho-hut-hoc-sinh-tai-ngay-hoi-lua-chon-nguyen-vong-xet-tuyen-100260704103010837.htm",
+    "event_date": "2026-07-07T10:49:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-15",
     "title": "Đừng chọn ngành theo đám đông, 'sĩ diện', hãy chọn con đường phù hợp",
     "description": "Điểm số chỉ mở cánh cửa, không quyết định cả tương lai. Đó là thông điệp GS.TS Nguyễn Tiến Thảo gửi đến thí sinh tại Ngày hội lựa chọn nguyện vọng 2026....",
     "source_entity": "Đừng chọn ngành theo đám đông, 'sĩ diện', hãy chọn con đường phù hợp",
@@ -74,31 +100,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-1",
-    "title": "Hàng ngàn thí sinh, phụ huynh đổ về ngày hội chọn nguyện vọng đại học 2026",
-    "description": "Sáng nay 4-7, Ngày hội lựa chọn nguyện vọng xét tuyển đại học - cao đẳng 2026 do Báo điện tử Tuổi Trẻ và các đơn vị phối hợp tổ chức đồng thời diễn ra tại Hà Nội và TP.HCM....",
-    "source_entity": "Hàng ngàn thí sinh, phụ huynh đổ về ngày hội chọn nguyện vọng đại học 2026",
-    "source_url": "https://tuoitre.vn/sang-nay-ngay-hoi-lua-chon-nguyen-vong-xet-tuyen-2026-tai-ha-noi-va-tphcm-100260703223930109.htm",
-    "event_date": "2026-07-04T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "No_Age_Tag"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-tuoitre_giaoduc-4",
+    "id": "rss-tuoitre_giaoduc-19",
     "title": "Nhiều trường đại học ‘chơi lớn’ tại Ngày hội lựa chọn nguyện vọng xét tuyển 2026",
     "description": "Hơn 180 gian tư vấn sẽ góp mặt tại Ngày hội lựa chọn nguyện vọng xét tuyển 2026 ở TP.HCM, nơi nhiều trường đại học đầu tư quy mô lớn với hoạt động tư vấn, trải nghiệm và hàng trăm ...",
     "source_entity": "Nhiều trường đại học ‘chơi lớn’ tại Ngày hội lựa chọn nguyện vọng xét tuyển 2026",
@@ -123,31 +125,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-16",
-    "title": "Sáng mai 4-7: Hàng trăm trường đại học, cao đẳng tư vấn lựa chọn nguyện vọng xét tuyển 2026",
-    "description": "Ngày hội lựa chọn nguyện vọng xét tuyển đại học - cao đẳng 2026 sẽ quy tụ hàng trăm chuyên gia tuyển sinh tư vấn trực tiếp cho thí sinh trước giờ chốt nguyện vọng....",
-    "source_entity": "Sáng mai 4-7: Hàng trăm trường đại học, cao đẳng tư vấn lựa chọn nguyện vọng xét tuyển 2026",
-    "source_url": "https://tuoitre.vn/sang-mai-4-7-hang-tram-truong-dai-hoc-cao-dang-tu-van-lua-chon-nguyen-vong-xet-tuyen-2026-100260703090420038.htm",
-    "event_date": "2026-07-04T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "No_Age_Tag"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-thanhnien_gioitre-13",
+    "id": "rss-thanhnien_gioitre-20",
     "title": "Metro miễn ph&iacute; h&uacute;t người trẻ đến trải nghiệm trong ng&agrave;y đặc biệt",
     "description": "S&aacute;ng nay (2.7), c&aacute;c tuyến metro số 1 TP.HCM trở n&ecirc;n nhộn nhịp khi đ&ocirc;ng đảo người d&acirc;n, đặc biệt l&agrave; giới trẻ đến trải nghiệm chuyến t&agrave;u ...",
     "source_entity": "Metro miễn ph&iacute; h&uacute;t người trẻ đến trải nghiệm trong ng&agrave;y đặc biệt",
@@ -157,31 +135,6 @@
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-thanhnien_gioitre-40",
-    "title": "Tập huấn kỹ năng bảo vệ nền tảng tư tưởng của Đảng tr&ecirc;n kh&ocirc;ng gian mạng",
-    "description": "Tại chương tr&igrave;nh tập huấn của Đo&agrave;n c&aacute;c cơ quan Đảng T.Ư, c&aacute;c đại biểu đ&atilde; được trao đổi nhiều kỹ năng, trong đ&oacute; c&oacute; kỹ năng truyền th...",
-    "source_entity": "Tập huấn kỹ năng bảo vệ nền tảng tư tưởng của Đảng tr&ecirc;n kh&ocirc;ng gian mạng",
-    "source_url": "https://thanhnien.vn/tap-huan-ky-nang-bao-ve-nen-tang-tu-tuong-cua-dang-tren-khong-gian-mang-185260701071508108.htm",
-    "event_date": "2026-07-04T01:09:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
