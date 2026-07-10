@@ -1,6 +1,15 @@
 {
-  "last_analysis": "2026-07-09T03:37:40.663Z",
-  "anomaly_map": {},
+  "last_analysis": "2026-07-10T03:39:12.173Z",
+  "anomaly_map": {
+    "q_lehoi": 1,
+    "q_americancenter": 1,
+    "q_workshop": 1,
+    "q_chaybogiadinh": 1,
+    "q_vincom": 1,
+    "q_aeonmall": 1,
+    "q_britishcouncil": 1,
+    "q_thaocamvien": 1
+  },
   "quarantined": [],
   "active_count": 29
 }
