@@ -1,6 +1,80 @@
 [
   {
-    "id": "rss-tuoitre_giaoduc-22",
+    "id": "rss-tuoitre_giaoduc-4",
+    "title": "Hơn một thập niên chưa hết tranh cãi về kỳ thi tốt nghiệp THPT",
+    "description": "147 điểm 10 môn toán tại Tuyên Quang không phải là nguyên nhân làm dấy lên đề xuất trở lại 2 kỳ thi. Có chăng chỉ là sự kiện nhắc chúng ta nhớ rằng suốt hơn một thập niên chưa bao ...",
+    "source_entity": "Hơn một thập niên chưa hết tranh cãi về kỳ thi tốt nghiệp THPT",
+    "source_url": "https://tuoitre.vn/hon-mot-thap-nien-chua-het-tranh-cai-ve-ky-thi-tot-nghiep-thpt-100260716163947642.htm",
+    "event_date": "2026-07-19T18:20:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-9",
+    "title": "Robot, drone, thiết bị tự động hóa ở triển lãm quốc tế Gia Lai",
+    "description": "Nhiều sản phẩm, thiết bị hiện đại trong lĩnh vực điều kiển và tự động hóa như cánh tay robot, drone cứu hộ đang được trưng bày cho công chúng trong triển lãm quốc tế tại Trường đại...",
+    "source_entity": "Robot, drone, thiết bị tự động hóa ở triển lãm quốc tế Gia Lai",
+    "source_url": "https://tuoitre.vn/robot-drone-thiet-bi-tu-dong-hoa-o-trien-lam-quoc-te-gia-lai-100260716155758078.htm",
+    "event_date": "2026-07-19T16:25:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Triển lãm & Trưng bày",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-23",
+    "title": "Trường quốc tế Việt Úc mang đến những trải nghiệm vượt trên kỳ vọng",
+    "description": "Khảo sát định kỳ mức độ hài lòng của phụ huynh Trường Quốc tế Việt Úc (VAS) trong tháng 5-2026 cho thấy, ngày càng nhiều phụ huynh đánh giá trường mang đến những trải nghiệm vượt t...",
+    "source_entity": "Trường quốc tế Việt Úc mang đến những trải nghiệm vượt trên kỳ vọng",
+    "source_url": "https://tuoitre.vn/truong-quoc-te-viet-uc-mang-den-nhung-trai-nghiem-vuot-tren-ky-vong-100260715184730766.htm",
+    "event_date": "2027-08-05T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-46",
     "title": "Giàn bầu hồ lô hơn 100 trái phủ kín sân trường mầm non ở TP.HCM",
     "description": "Khu vườn gần 2.000m² với giàn bầu hồ lô, mướp, nho, chuối... trở thành 'lớp học ngoài trời', giúp trẻ trải nghiệm gieo trồng, chăm sóc và thu hoạch....",
     "source_entity": "Giàn bầu hồ lô hơn 100 trái phủ kín sân trường mầm non ở TP.HCM",
@@ -24,7 +98,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-2",
+    "id": "rss-q_ngayhoi-12",
     "title": "BỐ CÁO THÀNH LẬP VÀ GIẢI THỂ CÔNG TY (31-10-2003)",
     "description": "BỐ CÁO THÀNH LẬP VÀ GIẢI THỂ CÔNG TY (31-10-2003)&nbsp;&nbsp;Tuổi Trẻ...",
     "source_entity": "Tuổi Trẻ",
@@ -50,7 +124,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-30",
+    "id": "rss-q_ngayhoi-33",
     "title": "Khuấy động không khí tại ngày hội “Phú Mỹ Hưng hướng về trẻ em” lần 15-2026",
     "description": "Khuấy động không khí tại ngày hội “Phú Mỹ Hưng hướng về trẻ em” lần 15-2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -72,7 +146,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-34",
+    "id": "rss-q_ngayhoi-40",
     "title": "Phục dựng miễn phí ảnh liệt sĩ cho gia đình chính sách tại TPHCM",
     "description": "Phục dựng miễn phí ảnh liệt sĩ cho gia đình chính sách tại TPHCM&nbsp;&nbsp;Thành ủy Thành phố Hồ Chí Minh...",
     "source_entity": "Thành ủy Thành phố Hồ Chí Minh",
@@ -97,7 +171,33 @@
     }
   },
   {
-    "id": "rss-q_lehoi-32",
+    "id": "rss-q_ngayhoi-71",
+    "title": "Hội Cựu chiến binh TPHCM triển khai đợt chăm lo gia đình chính sách, người có công với kinh phí 1,5 tỷ đồng",
+    "description": "Hội Cựu chiến binh TPHCM triển khai đợt chăm lo gia đình chính sách, người có công với kinh phí 1,5 tỷ đồng&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmVDOXdtZ01mamNVaDhtWWxMbTJTenZxV3VkNkZkc1dRYjJJMHlwT2tpSjdNLUwtWlZFWm1sSGNUQ0dGUWNfVmxJYm9KTThLQS1jX0tWMEJlcnM4aFNvT29VUVhpblJ4eDktQmxYcHQxa0JFRXRVZFN0bk05S29YMS1UM1hRcVBVc3BmYU5XNUQxU3ZzMGswa1JzVjNOd1RSMjRtdkU2N25nczRoT3Vpd0NwY0RxYnBGajlSemhCNnFCdXRSZ2c5Yg?oc=5",
+    "event_date": "2026-07-18T10:08:53.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-34",
     "title": "Thiếu nhi TPHCM nối mạch nguồn lịch sử, hun đúc tình yêu Tổ quốc",
     "description": "Thiếu nhi TPHCM nối mạch nguồn lịch sử, hun đúc tình yêu Tổ quốc&nbsp;&nbsp;Báo Giáo dục và Thời đại Online...",
     "source_entity": "Báo Giáo dục và Thời đại Online",
@@ -122,7 +222,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-38",
+    "id": "rss-q_lehoi-35",
     "title": "Thiếu nhi TP.HCM bắt đầu hành trình 'Em yêu Tổ quốc Việt Nam'",
     "description": "Thiếu nhi TP.HCM bắt đầu hành trình 'Em yêu Tổ quốc Việt Nam'&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -147,7 +247,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-53",
+    "id": "rss-q_lehoi-46",
     "title": "TP Hồ Chí Minh xuất quân Hành trình “Em yêu Tổ quốc Việt Nam” dành cho thiếu nhi tiêu biểu",
     "description": "TP Hồ Chí Minh xuất quân Hành trình “Em yêu Tổ quốc Việt Nam” dành cho thiếu nhi tiêu biểu&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -172,12 +272,12 @@
     }
   },
   {
-    "id": "rss-q_lehoi-62",
-    "title": "Thành đoàn TP.HCM tặng 900 phần quà cho thanh thiếu nhi và người dân vùng lũ",
-    "description": "Thành đoàn TP.HCM tặng 900 phần quà cho thanh thiếu nhi và người dân vùng lũ&nbsp;&nbsp;Vietnam.vn...",
+    "id": "rss-q_lehoi-50",
+    "title": "Thiếu nhi TP.HCM lên chuyến tàu nối dài mạch nguồn lịch sử",
+    "description": "Thiếu nhi TP.HCM lên chuyến tàu nối dài mạch nguồn lịch sử&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXBWekk2N1JkVWpHYTlic2FlRGFRdzlhOENkYlY5UVpnMkhVOVc1emF0TWNUWXlZMVlpTkdQa1M2QTI0VzJFTmM5b09XNHJpajN4a0pZS0NoX0JtSmpOOWpGWkgxQklJWkZCalRIU2xKSjkteEFVMGdXSmg3TllxbUJHS1hDREhIR0hqTDNuNHRFdG9ZcDBNcV94T3QtNHY0?oc=5",
-    "event_date": "2026-07-16T22:26:12.000Z",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0RMcXpqV2pXNnpVT2s0VjM3N2VwdEVBREpRdlQwcWUtcGU0OWNteGdaSkV5S296RlRCbEp3MVJQTDVveXByek15ZEZPTHluZFFaRXB4SHdoOHJIZ1lIRWpCYXdlcDM5WnBFWEZFWlVkYTFpczR6eS02VkJfNi1EN1RxRkg4QjA2?oc=5",
+    "event_date": "2026-07-19T23:10:44.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -197,7 +297,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-69",
+    "id": "rss-q_lehoi-70",
     "title": "Khởi động chặng 3 hành trình “Tôi yêu Tổ quốc tôi” tại Lũng Cú",
     "description": "Khởi động chặng 3 hành trình “Tôi yêu Tổ quốc tôi” tại Lũng Cú&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -207,6 +307,32 @@
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_vienbaotang-24",
+    "title": "Kể chuyện di sản Việt Nam bằng công nghệ 3D mapping",
+    "description": "Kể chuyện di sản Việt Nam bằng công nghệ 3D mapping&nbsp;&nbsp;Đài Phát thanh và Truyền hình TP.HCM...",
+    "source_entity": "Đài Phát thanh và Truyền hình TP.HCM",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3NaaXA1YlU2YVRSYmVOV3lRRnN2TkpTYXhrbloxbEt1cVdZZUt6dGVwekxKUnR0VXE5TnM1ZlBGVm40MlJ2LTZ3enBOTU1rYk12azh0R0lWeEgtMnNfTnN2RjN3TTZMM2NZbU1LNDBJMGlqU1BQQ0tSNXJPYzlOT3BwelNFQloyU0V1MFRDQTRzMms?oc=5",
+    "event_date": "2026-07-19T04:52:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Nghệ thuật & Biểu diễn",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -248,7 +374,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-7",
+    "id": "rss-q_chaybogiadinh-8",
     "title": "Vietcombank bàn giao 6 căn nhà tình nghĩa cho các cựu chiến binh tại TP. HCM",
     "description": "Vietcombank bàn giao 6 căn nhà tình nghĩa cho các cựu chiến binh tại TP. HCM&nbsp;&nbsp;thuonghieucongluan.com.vn...",
     "source_entity": "thuonghieucongluan.com.vn",
@@ -299,7 +425,7 @@
     }
   },
   {
-    "id": "rss-q_khoatumuahe-13",
+    "id": "rss-q_khoatumuahe-11",
     "title": "Thiếu nhi TP.HCM bắt đầu hành trình 'Em yêu Tổ quốc Việt Nam'",
     "description": "Thiếu nhi TP.HCM bắt đầu hành trình 'Em yêu Tổ quốc Việt Nam'&nbsp;&nbsp;Tuổi Trẻ...",
     "source_entity": "Tuổi Trẻ",
@@ -351,32 +477,32 @@
   },
   {
     "id": "rss-q_lopnghethuat-8",
-    "title": "Dạy trẻ kỹ năng sinh tồn từ lớp học bơi miễn phí",
-    "description": "Dạy trẻ kỹ năng sinh tồn từ lớp học bơi miễn phí&nbsp;&nbsp;Laodong.vn...",
-    "source_entity": "Laodong.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmxtMk03Ty1HUzhIV3huQU9IVmJCbG9VZ2VvZWhlN0ZxU1NTbmM0S1FkLVNNZ0hkVkZ6ZzI4b2N6bGhzSERyREdwRG1MUUdkcURVd1ZfelNoVXREYzhCYmZpNUZwQTRNNzBLUFV6R0twOEtlbkRUeWJvXzRXTm9zWkxjZXhZbHpkeUJSTXJR?oc=5",
-    "event_date": "2026-07-17T07:17:21.000Z",
+    "title": "Để mỗi mùa hè là một hành trình tự tin trưởng thành của trẻ",
+    "description": "Để mỗi mùa hè là một hành trình tự tin trưởng thành của trẻ&nbsp;&nbsp;Trung tâm Nội dung số và Truyền thông...",
+    "source_entity": "Trung tâm Nội dung số và Truyền thông",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1B2dFRWQVdtdnUxTVloY1QzSXNHRUJLUnktQU5valRZWkJDbFFxMGt4WXZ4REZCOVdYTmdYcnJQNXpqS2VxMC1jTWVfZ3hyMDM2Z0pjVkptMmk5M3pnZ3hqSFI0X2J4cVZKcUg0Q2dPMjk3SDhaemVWcXh2MVlKUTVhcXY1ZTlnWHd0Qy1Qa0FGdW12T0wzODBwek1mblExLUY0M1UyTktPR1E?oc=5",
+    "event_date": "2026-07-16T12:57:10.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
+    "category": "Lễ hội & Sự kiện",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
+      "hasLocation": true,
+      "isInteractive": false,
       "score": 40,
       "failures": [
         "No_Age_Tag",
         "Missing_Date",
-        "Missing_Location"
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_lopnghethuat-14",
+    "id": "rss-q_lopnghethuat-13",
     "title": "Chiến sĩ tình nguyện thiết kế hoạt động hè thú vị cho thiếu nhi",
     "description": "Chiến sĩ tình nguyện thiết kế hoạt động hè thú vị cho thiếu nhi&nbsp;&nbsp;Tuổi Trẻ...",
     "source_entity": "Tuổi Trẻ",
@@ -397,6 +523,32 @@
         "Missing_Date",
         "Missing_Location",
         "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lopnghethuat-20",
+    "title": "Dạy trẻ kỹ năng sinh tồn từ lớp học bơi miễn phí",
+    "description": "Dạy trẻ kỹ năng sinh tồn từ lớp học bơi miễn phí&nbsp;&nbsp;Laodong.vn...",
+    "source_entity": "Laodong.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmxtMk03Ty1HUzhIV3huQU9IVmJCbG9VZ2VvZWhlN0ZxU1NTbmM0S1FkLVNNZ0hkVkZ6ZzI4b2N6bGhzSERyREdwRG1MUUdkcURVd1ZfelNoVXREYzhCYmZpNUZwQTRNNzBLUFV6R0twOEtlbkRUeWJvXzRXTm9zWkxjZXhZbHpkeUJSTXJR?oc=5",
+    "event_date": "2026-07-17T07:17:21.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Missing_Location"
       ],
       "platform": "Web"
     }
