@@ -1,30 +1,5 @@
 [
   {
-    "id": "rss-q_sukien-5",
-    "title": "Hội sách thiếu nhi TP HCM quy mô lớn nhất từ trước đến nay",
-    "description": "Hội sách thiếu nhi TP HCM quy mô lớn nhất từ trước đến nay&nbsp;&nbsp;HĐND TP.HCM...",
-    "source_entity": "HĐND TP.HCM",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3RIWDlWNDk0d3RUR0lRLTEwcmMwczI0Y0tCWVVuODdrcDltUmRrdXdJMFlTUzhuQ1dOaVB2R1JidVMzZFJMUEY0cmUzTXlLOWpNSkY0VURsZHVKaDVjbHBRajdmYlNraW5LNzJrWnBqS1hIX19KOHdwRC1qWWRuR1lWV0Y4SHVYM25ka3N3V2ZXaDBJY0k0RTM2NGdfaVIwR1JCLXZOOVBrUnNxOXdTSDRB?oc=5",
-    "event_date": "2026-07-28T13:34:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
     "id": "rss-q_sukien-26",
     "title": "TPHCM gặp gỡ đại biểu Liên hoan Thiếu nhi Việt Nam",
     "description": "TPHCM gặp gỡ đại biểu Liên hoan Thiếu nhi Việt Nam - Lào - Campuchia năm 2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
@@ -51,7 +26,7 @@
     }
   },
   {
-    "id": "rss-q_nhathieunhi-6",
+    "id": "rss-q_nhathieunhi-5",
     "title": "TPHCM đón 120 “đại biểu nhí” tham dự Liên hoan thiếu nhi Việt Nam",
     "description": "TPHCM đón 120 “đại biểu nhí” tham dự Liên hoan thiếu nhi Việt Nam - Lào - Campuchia&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -77,7 +52,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-60",
+    "id": "rss-q_sukien-62",
     "title": "6 tháng đầu năm, Đường sách TP.HCM thu hơn 32 tỷ đồng",
     "description": "6 tháng đầu năm, Đường sách TP.HCM thu hơn 32 tỷ đồng&nbsp;&nbsp;Znews...",
     "source_entity": "Znews",
@@ -103,12 +78,38 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-63",
-    "title": "Đồng Tháp giành giải Nhất toàn đoàn tại Ngày hội Gia đình tiêu biểu khu vực phía Nam",
-    "description": "Đồng Tháp giành giải Nhất toàn đoàn tại Ngày hội Gia đình tiêu biểu khu vực phía Nam&nbsp;&nbsp;Vietnam.vn...",
+    "id": "rss-q_sukien-71",
+    "title": "Đường sách TPHCM tăng sự kiện, kích cầu mua sách",
+    "description": "Đường sách TPHCM tăng sự kiện, kích cầu mua sách&nbsp;&nbsp;voh.com.vn...",
+    "source_entity": "voh.com.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3NhWEtkLVNaTloyc3g1VkxOWG1pQTRxNUFGM09vT2NuRmN6M080dU1qbXp6Vzg1RmJ2UEExV3dGUjRURVliWDZrVDl5R0hDUnEzMDNrTE9hMzRJRGJkVE4wSmxweHNVXzFMWExabjZGMVFqcnBTSWlGRWtwT1dkX1B4RXpUWDZ4N3FqTm1rSQ?oc=5",
+    "event_date": "2026-07-30T14:27:22.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-38",
+    "title": "An Giang đoạt giải Nhì toàn đoàn tại Ngày hội gia đình tiêu biểu khu vực phía Nam",
+    "description": "An Giang đoạt giải Nhì toàn đoàn tại Ngày hội gia đình tiêu biểu khu vực phía Nam&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUp4emo5Vnk3bTBOa3RqaFdjMDZaaFhManpSNEg4ckFqaE9hQmZkVDhmRnRSNFFWZWhZZV9qLTMwN3AzWl9hT2VJSUR1TWxGdlJ5NklwNkV2VnFoNm5aMTRSVGhhLWhkUWpWczZlUVBSUERQME9IdUxleGN6a3ppLTdWaVdsMU0zejBpTklrZ0U2MFNsRG1qRkluU19lbDFtUmtiMGdBRjMtVDg?oc=5",
-    "event_date": "2026-07-29T12:04:52.000Z",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHFidXlIZ24yNGdJTldXdzM4cEhDZmFTMmx1eDlmZndFUHZCdWRMbFJqaXRpWUJvbl94TjJJMEsyaTJ5eVRnSGF3cjk0R3RTNmk5QzBSWHFoMm81Tll3SkxESTg2SnVYS3hVTm04QUI3TjNwbWVSVVJOTlJ5UnF1eUtsX1VySWN0Q3hIQzN1a2hLTU9mOVM1R19ZY19IMVh1NnF5MjNRUQ?oc=5",
+    "event_date": "2026-07-29T11:22:40.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -153,10 +154,10 @@
     }
   },
   {
-    "id": "rss-q_lehoi-40",
+    "id": "rss-q_lehoi-39",
     "title": "120 thiếu nhi ba nước hội tụ tại Liên hoan Việt Nam",
-    "description": "120 thiếu nhi ba nước hội tụ tại Liên hoan Việt Nam - Lào - Campuchia 2026&nbsp;&nbsp;VOH...",
-    "source_entity": "VOH",
+    "description": "120 thiếu nhi ba nước hội tụ tại Liên hoan Việt Nam - Lào - Campuchia 2026&nbsp;&nbsp;voh.com.vn...",
+    "source_entity": "voh.com.vn",
     "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmF5WVdrZm1DR0pNYy1iRHJYUlBiMlZNMjlaaFJ5WEhEeno2TmJEM2dsUWJuNks0SlFrdFhZd0x4ekI2YlRlRmlQNWF5bU9TX0U2MFVXbFA2U2I2NV9EU3BDSmVEWnFHMmhJOU42YlJuSVVib3Q0TC00RHI5Ti0zNms5N2NVYzA2OExoYlFlVWhQdGRkc2JCa2pSUzNpSTkxZC0zalNtRGdVMWJu?oc=5",
     "event_date": "2026-07-31T07:05:13.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -178,7 +179,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-41",
+    "id": "rss-q_lehoi-40",
     "title": "Liên hoan Thiếu nhi ba nước Việt Nam",
     "description": "Liên hoan Thiếu nhi ba nước Việt Nam - Lào - Campuchia tại TPHCM&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -203,33 +204,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-44",
-    "title": "Khai mạc Liên hoan thiếu nhi Việt Nam",
-    "description": "Khai mạc Liên hoan thiếu nhi Việt Nam - Lào - Campuchia năm 2026&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEM0R1Y3T2JzTkxNY0VjbzhWU2M3Z2NyZ095S0dDcmdaNmFOcWlXUkwyWFFEN0htWmtYWmJsR2h2Qkh1Y1g3a3E4VnVpWGttX3o2eUpacDlxMkpidmxYb0RSNjFIeV9ySzFXbEIzQ2FtV0dCdUVTT3VSY1NqUE0zVkVYSEpqVTJTLW00?oc=5",
-    "event_date": "2026-07-31T05:51:51.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lehoi-56",
+    "id": "rss-q_lehoi-50",
     "title": "Khai mạc Liên hoan Thiếu nhi ba nước Việt Nam",
     "description": "Khai mạc Liên hoan Thiếu nhi ba nước Việt Nam - Lào - Campuchia lần thứ 8&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -255,59 +230,33 @@
     }
   },
   {
-    "id": "rss-q_nhathieunhi-10",
-    "title": "Khai mạc Liên hoan thiếu nhi Việt Nam",
-    "description": "Khai mạc Liên hoan thiếu nhi Việt Nam - Lào - Campuchia&nbsp;&nbsp;Vietnam.vn...",
+    "id": "rss-q_idecaf-5",
+    "title": "Thưởng thức loạt tác phẩm đặc sắc của Nhà hát Tuổi trẻ Việt Nam trong tháng 8.2026",
+    "description": "Thưởng thức loạt tác phẩm đặc sắc của Nhà hát Tuổi trẻ Việt Nam trong tháng 8.2026&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTmh0cHJYbnFya2RKRlJsMm9sN3V4akFyZ3dFcE5OaDFrMzFfU0dWUldSR1N5WUxpUHFkaTdTVW82alZqQXJha3ZmdjYySlBCOVMta0N1cXhGX09MYlJPSjlNbm5Lc21ENlhub3pGWmxzRjVOdzFobjRNSXgtVVE?oc=5",
-    "event_date": "2026-07-31T04:54:54.000Z",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFR6QVlUSnZyWjU5SmRVdGs5NDJNQmpjRUZHVnU2SG9JWkM5T0JIaXFBRHlleWEyY2lXVHJUcHJRWDk0NHZrcWlnZmJwTDZfeDdKQkNPaVdEb1hPaV9ndlRoTTZ0YXZQUjFTcENiT0xuSFVhV0FJd2dZeG1rWTdhZUFSV3BpYmRFcjZlYXE3Yk1ZMXNjaVNFUGk3c2xFaVZ2WlZsVDJOa2w?oc=5",
+    "event_date": "2026-08-01T11:47:01.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
+      "hasLocation": true,
       "isInteractive": false,
       "score": 40,
       "failures": [
+        "No_Age_Tag",
         "Missing_Date",
-        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_nhathieunhi-15",
-    "title": "Khai mạc Liên hoan thiếu nhi Việt Nam",
-    "description": "Khai mạc Liên hoan thiếu nhi Việt Nam - Lào - Campuchia năm 2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONU5pVWVJYnhDZGpQRnZqelUxTXZqcDI0cEpPa1k2Nklvb0dmVGowN0lCUzczeTVJeEtfalE5R3VaaUtCRjRHc1dwZlg5dzBVZjRxNkw3ZjRSUlEyblFpV0RvQWVWaDZvZzhsbEMyb3dJME0yMm5TcUFvbm5FekFQUGk0Z3FJSlhaVjFGcllXaGltUGV4VjFqZUhIQ2NoejhkZHc?oc=5",
-    "event_date": "2026-07-31T05:45:59.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_idecaf-7",
+    "id": "rss-q_idecaf-13",
     "title": "Mơ Show và giấc mơ phát triển công nghiệp văn hóa ở TP.HCM",
     "description": "Mơ Show và giấc mơ phát triển công nghiệp văn hóa ở TP.HCM&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -333,12 +282,12 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-16",
-    "title": "Biển người đổ về Thảo Cầm Viên ngày 30/4 xem 'đám cưới' hươu cao cổ",
-    "description": "Biển người đổ về Thảo Cầm Viên ngày 30/4 xem 'đám cưới' hươu cao cổ&nbsp;&nbsp;Znews...",
-    "source_entity": "Znews",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWM2NnlBZDI5Ymh4YjVwMUZtS2FsYlUyaVc3RkFXakdsV2lXOThZSjJKVG94Z3hvdTlYOEYycUZuVUhkV1hBNnFKVkdCYTQ2NWpkUC1oQ2lpRTlLb0dWSUp2U2sySndfc1lMQmVEUERqVlowT0h2a2J1RXRZZy1McGVkRlp4RHFHaWoxX2JoR294UWp2R3ZoTlp3cldDbVk?oc=5",
-    "event_date": "2027-04-30T00:00:00.000Z",
+    "id": "rss-q_thaocamvien-8",
+    "title": "TP. Hồ Chí Minh: Người dân xếp hàng tham quan Thảo Cầm Viên dịp lễ 1/5",
+    "description": "TP. Hồ Chí Minh: Người dân xếp hàng tham quan Thảo Cầm Viên dịp lễ 1/5&nbsp;&nbsp;Báo Công Thương...",
+    "source_entity": "Báo Công Thương",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3FqQXZXYTJxREV3c3Z1c21hT1lNck1tdGRxbi00Mk5vZDRWWUExYkRGSFlhYmRmeUxRWVFwX1JtR3ZYVk91MV9fM01xM3h2TUJxZXlPMlJ5Ym9UTU9OR19BZnpBSFFBdHcyUVZBMkF4dnVxS1ZEM1RBVE9VbXRnbC1oczdmSlh1Z0RienBVVUxDck94MjFHaklIa3htZEt1YmNhcg?oc=5",
+    "event_date": "2027-05-01T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -358,114 +307,16 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-22",
-    "title": "Nghỉ lễ 30/4: Gợi ý loạt điểm vui chơi, giải trí hấp dẫn tại TP Hồ Chí Minh",
-    "description": "Nghỉ lễ 30/4: Gợi ý loạt điểm vui chơi, giải trí hấp dẫn tại TP Hồ Chí Minh&nbsp;&nbsp;VTV.vn...",
-    "source_entity": "VTV.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk9MWWt2NW1ORWlvN1BXS1k0dkdEdjMwMDZfLWVRSlAycUpYTnRLSF83aWFNVkRkQkpld1lQT3hsRGNjNUFjUEdtVkRGSjc5NURhZDdBQ3dPYmRtNWI1dC1hcTNkWUh5eW9McFN0c1Q0RlRBQVFUOUplaUNYZmZiQ1Z3QlZYUDZwRjBqejlhX0FDRHhSODA1WHRERkdkdUREYnlzY2pKMnpPUWMtVlU4Zw?oc=5",
-    "event_date": "2027-04-30T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "No_Age_Tag"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-23",
-    "title": "Video: Đám cưới hươu cao cổ hút khách ở Thảo Cầm Viên dịp lễ 30/4",
-    "description": "Video: Đám cưới hươu cao cổ hút khách ở Thảo Cầm Viên dịp lễ 30/4&nbsp;&nbsp;Báo Dân trí...",
-    "source_entity": "Báo Dân trí",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjg0UURQVC1TNmh3c2RjakRheHZsYVFvSGRrTDduVEhCUWtGeGJsTFh1TnBlR2VTdDdZTV9EeURsa2I4TG8wdXdaWlNPVWh5Ykw5VEo2aFdZdEVQendXcUdpLXZxd2tHU2hmZ3VYa3MyRllZdkFoNjhUQ05GdVRoN2lPbjY3R3ZycmJpMzllOVFKXzlEVWtvS2pHRm0?oc=5",
-    "event_date": "2027-04-30T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-25",
-    "title": "Đám cưới hươu cao cổ khuấy động Thảo Cầm Viên dịp 30/4",
-    "description": "Đám cưới hươu cao cổ khuấy động Thảo Cầm Viên dịp 30/4&nbsp;&nbsp;VnExpress...",
+    "id": "rss-q_thaocamvien-11",
+    "title": "Thảo Cầm Viên đón gần 1,3 triệu lượt khách nửa đầu năm",
+    "description": "Thảo Cầm Viên đón gần 1,3 triệu lượt khách nửa đầu năm&nbsp;&nbsp;VnExpress...",
     "source_entity": "VnExpress",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3I2NjdkSlZZUHZzZG95SGp1OS05Z0o1SThfU3JlOWRGbWpNSElfMEhkRjlPSnNUSTVNSTd6WU12VWZvMmFybG1QcTVEOFRvdV9MVG1mN2ZSVjRSRl92MkR3ZV81bzlsbGZLbFdoMkVpSnhUNmZDN1VVaWsxQUlXMUsyYWU2ZG8yWVFHcUZkSVJJNGo4LUJucGc2S2tEdw?oc=5",
-    "event_date": "2027-04-30T00:00:00.000Z",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUlsdlBBMkRnSGdrTlV4REVRd3lmdU04REZDTFBST0RmUzZZY25qSXEzVjJlMzRENmZDOElUNGQ1TXhCTTJ2eVM4WHVRRDFiV29pX1dFMTZOS2JJYXNOYmpSUlRPN1NBQmI0SkpOSWV0WFhkeGlQVWlsbXIzZ3VsTGN2dWMzNUNBU3dndEx3TS1PY3M?oc=5",
+    "event_date": "2026-08-01T04:02:24.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_duongsach-3",
-    "title": "Du lịch lễ 30/4",
-    "description": "Du lịch lễ 30/4 - 1/5: TP.HCM nhộn nhịp các hoạt động giải trí, miền Tây hút khách với trải nghiệm bản địa&nbsp;&nbsp;Tạp chí Du lịch Việt Nam...",
-    "source_entity": "Tạp chí Du lịch Việt Nam",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOUhrczhjM1V1X2t6RG9iZklrLTRkLWdtY0w5RmxYQ1NfeHFwSldlOTJNQ1VGVkJvX00wMmpTWnRrRnBQS01BalRQY1JVRWpPNjVza0pwejl2Y2Q2Z2VUNzlfYmNhNUM2MERQU1hyYm9aVmx3OURvV3d5dWZoM3lITTFnd25kZHctYl94c2JyMlZKVVdsUmFieFFIR1lGYXBScUl1RnhUckZnSXFnZUotcG11REo0TFFOdElWbWdrZFJwWDZaOV9sVlJNdGYxWTQ?oc=5",
-    "event_date": "2027-04-30T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "No_Age_Tag"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_takashimaya-4",
-    "title": "Dàn mỹ nhân Việt xúng xính váy áo \"check in\" cửa hàng Chloé đầu tiên tại Việt Nam",
-    "description": "Dàn mỹ nhân Việt xúng xính váy áo \"check in\" cửa hàng Chloé đầu tiên tại Việt Nam&nbsp;&nbsp;Tạp chí Đẹp...",
-    "source_entity": "Tạp chí Đẹp",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVB5Ull5ekV2WGg4Z2FnRV9xVThBRDF3T1pORUFUUTBqYWN3dlFYaG00bFMwaWxfMmx2cXpjaDlTM1pWVnhyNTZhLU14c0ZJNVN3SVljM0lkY3d6bUEySEMzV3JQMjAyajBqOG80REU3eEU4NkRzMTNqUFRuS1dxeUdOV0M4Ul9fUFdJanE5YjJpOGV3blpTRXVDSnlTN3l5?oc=5",
-    "event_date": "2026-07-30T05:59:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -482,7 +333,33 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-8",
+    "id": "rss-q_thaocamvien-13",
+    "title": "Đón gần 1,3 triệu khách, Thảo cầm viên thu hơn 100 tỉ đồng sau nửa năm",
+    "description": "Đón gần 1,3 triệu khách, Thảo cầm viên thu hơn 100 tỉ đồng sau nửa năm&nbsp;&nbsp;Tuổi Trẻ...",
+    "source_entity": "Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUdWT3U1VTBGbHV5M19hR1huM3VlSEVJTnIybVNRQjlJMnZOR1ZKY1Y2NW5CYW5HTEpDT1p1bENrc2J6T1B5eEtDcVhPSTU5MUMxMWktOC1icE5IWk5ZS0pwNVllSFNxNk1UN3hjRDJVSGsyZVM0cXlxdFZFT3ZaTEUtZGF6dTM0eUltY2dLRGhWMklveldkTkZQRWhYUk15WU1rRW5Scmg0UXlXSEd3?oc=5",
+    "event_date": "2026-08-01T12:16:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_takashimaya-7",
     "title": "Chloé khai trương cửa hàng đầu tiên tại Việt Nam",
     "description": "Chloé khai trương cửa hàng đầu tiên tại Việt Nam&nbsp;&nbsp;Men's Folio Vietnam...",
     "source_entity": "Men's Folio Vietnam",
@@ -508,12 +385,12 @@
     }
   },
   {
-    "id": "rss-q_gigamall-3",
-    "title": "Giới trẻ đổ về Gigamall trải nghiệm ‘vũ trụ’ công nghệ giải trí 20.000m²",
-    "description": "Giới trẻ đổ về Gigamall trải nghiệm ‘vũ trụ’ công nghệ giải trí 20.000m²&nbsp;&nbsp;Báo VietNamNet...",
-    "source_entity": "Báo VietNamNet",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXMyaHEzOWotLVhsT3NPamMtNUdnUWxKU2tyN3hoNlJoWUtpd0xjQUR5NkIxcnpjS29oVHBBZE9BQTRaOU9NTUxCc0pselVhR090ekNPR0ZmajZoVThod09FUUFseVNNSDNIS1ItQWdiaVFXQ25STGl6dWJSRmhyZGd0Vm1PaU4yQ3VhUVUwam9iQnVfdnd1QXBzOEl2OHhyRnh1eGM4TQ?oc=5",
-    "event_date": "2026-07-28T07:00:00.000Z",
+    "id": "rss-q_takashimaya-10",
+    "title": "Dàn mỹ nhân Việt xúng xính váy áo \"check in\" cửa hàng Chloé đầu tiên tại Việt Nam",
+    "description": "Dàn mỹ nhân Việt xúng xính váy áo \"check in\" cửa hàng Chloé đầu tiên tại Việt Nam&nbsp;&nbsp;Tạp chí Đẹp...",
+    "source_entity": "Tạp chí Đẹp",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVB5Ull5ekV2WGg4Z2FnRV9xVThBRDF3T1pORUFUUTBqYWN3dlFYaG00bFMwaWxfMmx2cXpjaDlTM1pWVnhyNTZhLU14c0ZJNVN3SVljM0lkY3d6bUEySEMzV3JQMjAyajBqOG80REU3eEU4NkRzMTNqUFRuS1dxeUdOV0M4Ul9fUFdJanE5YjJpOGV3blpTRXVDSnlTN3l5?oc=5",
+    "event_date": "2026-07-30T05:59:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -522,13 +399,39 @@
       "isSafe": true,
       "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
+      "hasLocation": true,
+      "isInteractive": false,
       "score": 40,
       "failures": [
         "No_Age_Tag",
         "Missing_Date",
-        "Missing_Location"
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_takashimaya-11",
+    "title": "Chloé khai trương cửa hàng đầu tiên tại Việt Nam",
+    "description": "Chloé khai trương cửa hàng đầu tiên tại Việt Nam&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDVtdE1PWElNNE5Nd3FhekpCSGt1aXVMQlJSQ3d6NUhmR0ZsczNReU0wLUxQa1NETjFwQlRjQU5pUUpGRWN5S0pCVDBlRWppYlpBZVVzTHVPY0ozdUlnNGJXc2Y1TDkyc2p3Q3gzc3pxUzIzVURhYTNSQ0dLQmVOb2RTQklualBEZ1RV?oc=5",
+    "event_date": "2026-08-02T02:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
@@ -562,8 +465,8 @@
   {
     "id": "rss-q_vincom-2",
     "title": "Liên hoan phim Thái Lan tại Việt Nam sẽ diễn ra từ ngày 9-11/7/2026 ở TPHCM",
-    "description": "Liên hoan phim Thái Lan tại Việt Nam sẽ diễn ra từ ngày 9-11/7/2026 ở TPHCM&nbsp;&nbsp;VOH...",
-    "source_entity": "VOH",
+    "description": "Liên hoan phim Thái Lan tại Việt Nam sẽ diễn ra từ ngày 9-11/7/2026 ở TPHCM&nbsp;&nbsp;voh.com.vn...",
+    "source_entity": "voh.com.vn",
     "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1Blc2RPemg3WGt2VW9MVE1hYVlkNndoWFoyTGl0RldCdnUtWE1pa1RVOFVLeFg1UzhZMUVldFRWb1E5S3FfWlRMNG1zeUZNY0llYnVCaTdyUHo4Z2doRktPRWpOQ0lXb3NCZ3dDWTlJMlFOZTc0Ulh0NllWZXMyRVF3OGYwMTh2MzFqbEhlRXF0QzJxbXhHNGhGU0NWRGoyVlhRczNNdVhxSFQ4NGRZUjk0QQ?oc=5",
     "event_date": "2026-11-09T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
