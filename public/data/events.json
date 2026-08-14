@@ -1,75 +1,23 @@
 [
   {
-    "id": "rss-tuoitre_giaoduc-25",
-    "title": "Doanh nghiệp ‘săn’ nhân tài kỹ thuật tại HUTECH TECHSHOW 2026",
-    "description": "Ngày hội Triển lãm Công nghệ và Tuyển dụng khối ngành Kỹ thuật - Công nghệ (HUTECH TECHSHOW 2026) vừa diễn ra sôi động, mở ra cơ hội để sinh viên vừa giới thiệu sản phẩm tốt nghiệp...",
-    "source_entity": "Doanh nghiệp ‘săn’ nhân tài kỹ thuật tại HUTECH TECHSHOW 2026",
-    "source_url": "https://tuoitre.vn/doanh-nghiep-san-nhan-tai-ky-thuat-tai-hutech-techshow-2026-100260810173548442.htm",
-    "event_date": "2026-08-14T19:30:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Triển lãm & Trưng bày",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-thanhnien_gioitre-26",
-    "title": "Hội đồng Đội Trung ương gi&aacute;o dục kỹ năng cho thiếu nhi",
-    "description": "Chương tr&igrave;nh &#039;Thiếu nhi Việt Nam - Học tập s&aacute;ng tạo&#039;, d&agrave;nh cho thiếu nhi từ 6 - 15 tuổi đang học tập tại c&aacute;c trường tiểu học, THCS v&agrave; t...",
-    "source_entity": "Hội đồng Đội Trung ương gi&aacute;o dục kỹ năng cho thiếu nhi",
-    "source_url": "https://thanhnien.vn/hoi-dong-doi-trung-uong-giao-duc-ky-nang-cho-thieu-nhi-185260809174027829.htm",
-    "event_date": "2026-08-12T10:54:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-thanhnien_gioitre-32",
-    "title": "Một chương tr&igrave;nh bất ngờ &#039;viral&#039;, cả trăm người &#039;săn&#039; v&eacute;",
-    "description": "Chiều v&agrave; tối 8.8, chương tr&igrave;nh do học sinh đạo diễn c&oacute; nội dung t&igrave;m hiểu nghệ thuật h&aacute;t xẩm v&agrave; trải nghiệm khắc gỗ do học sinh Trường phổ ...",
-    "source_entity": "Một chương tr&igrave;nh bất ngờ &#039;viral&#039;, cả trăm người &#039;săn&#039; v&eacute;",
-    "source_url": "https://thanhnien.vn/mot-chuong-trinh-bat-ngo-viral-ca-tram-nguoi-san-ve-185260809112439346.htm",
-    "event_date": "2026-08-12T06:09:00.000Z",
+    "id": "rss-tuoitre_giaoduc-6",
+    "title": "Hành trình thành công của con bắt đầu từ một lựa chọn đúng hôm nay",
+    "description": "Giữa rất nhiều tiêu chí lựa chọn trường, trải nghiệm thực tế từ các gia đình đã đồng hành cùng Trường Quốc tế Việt Úc (VAS) chính là minh chứng rõ nhất cho chất lượng giáo dục và s...",
+    "source_entity": "Hành trình thành công của con bắt đầu từ một lựa chọn đúng hôm nay",
+    "source_url": "https://tuoitre.vn/hanh-trinh-thanh-cong-cua-con-bat-dau-tu-mot-lua-chon-dung-hom-nay-100260812211849577.htm",
+    "event_date": "2026-08-16T19:30:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
+      "isAgeAppropriate": true,
+      "hasTemporal": true,
       "hasLocation": true,
       "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
+      "score": 100,
+      "failures": [],
       "platform": "Web"
     }
   },
@@ -100,59 +48,64 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-39",
-    "title": "Khuấy động không khí tại ngày hội “Phú Mỹ Hưng hướng về trẻ em” lần 15-2026",
-    "description": "Khuấy động không khí tại ngày hội “Phú Mỹ Hưng hướng về trẻ em” lần 15-2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlhBbjlLVW5NQ0ZSa1k5OXZMdGd4NF9OQlc2ODdraVN6WjR2UUt1UTBGWWRvMVhJaEhDQ2J3TURPZ256YjA5R1R1cDd0VnBSeEtUekUyeWhDbFpPM0lWazJYMkdiNnJNZlgxV25jLWJJczhhLWp3eS1oVEotNmE3cnYtazM0d0RwZURqT1dhbzZVOHpxbC1SQWIyM1BwWG5JaXFMamIwNWQ0WmYzclVudWtqeE0yeGVC?oc=5",
-    "event_date": "2027-08-15T00:00:00.000Z",
+    "id": "rss-q_lehoi-39",
+    "title": "Lễ 2-9 năm nay, người lao động được nghỉ lễ 5 ngày",
+    "description": "Lễ 2-9 năm nay, người lao động được nghỉ lễ 5 ngày&nbsp;&nbsp;Tuổi Trẻ...",
+    "source_entity": "Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd05hc3ZEVVBWLXExZ0o4TnlPRW1LeG1DS2dGZGswMFBiQ3NZTVlPdElmVDVFMkZBUXpBbllBYWw0eVd1M25PZ1VjN3RrejhqTDlnN0lfUEJjYjlacWdLUHhFOWw3VTM3UWkxTC1oaDVsaE9mQ195U0YtcWNKMElGVGxXVG5rejF2Y0tONFVCLUdTSVBFeVpJcmpmaw?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 100,
-      "failures": [],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-45",
-    "title": "Hơn 1.000 công nhân ở TP.HCM được trang bị kỹ năng nhận diện cạm bẫy ma túy, lừa đảo",
-    "description": "Hơn 1.000 công nhân ở TP.HCM được trang bị kỹ năng nhận diện cạm bẫy ma túy, lừa đảo&nbsp;&nbsp;ttbc-hcm.gov.vn...",
-    "source_entity": "ttbc-hcm.gov.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnJ4M082dEI1MS1YS3VRZmJtU3Y5NTB6MkpvVGFZc0Z0eUhVWWoyVUJaMG9UdnQyb1BHSFNTNlFtNTRpcUNwOFBseTdIZGhGMllwakx6b3BrUy1LU01PbTJveUNUYmJOZk10OExOWGxCajhXR1ZJTE5faEg3Rnk5ZlBUeG5lSVFNR0FqalNYcFo1V0pFMGQySFRsbV9SSmVKdE5rZ0MydTFRbGwtMVJIbVVUaS1BQm5lYlZTVg?oc=5",
-    "event_date": "2026-08-13T00:36:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date"
+        "Missing_Location",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_duongsach-0",
-    "title": "Cần tăng sức mua xuất bản phẩm tại Đường sách thành phố",
-    "description": "Cần tăng sức mua xuất bản phẩm tại Đường sách thành phố&nbsp;&nbsp;Báo Nhân Dân điện tử...",
-    "source_entity": "Báo Nhân Dân điện tử",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzZhS3U1Q2dWVVBKQ0U0SUwtZmFqUEQ0N1NjMWRvVU9wcmtPWWRLakllbTI0OWYweGdHenFfRE8yQzQtbmNpSVFNUWY0Vjh1NGwzbzduYS1zeC1aQVdkMDRPRG16bzhjSFlYc0ctZTNfN1dzdXJManhNRmktS3R5YmxZS01pTDBBbnpBOUI1Y0NyRWwz?oc=5",
-    "event_date": "2026-08-12T14:46:23.000Z",
+    "id": "rss-q_idecaf-6",
+    "title": "Nhà hát Hồ Gươm đón hơn 100 nghệ sĩ trẻ tài năng châu Á",
+    "description": "Nhà hát Hồ Gươm đón hơn 100 nghệ sĩ trẻ tài năng châu Á&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTBaVVY2VkJzeTlZNFUyY0R2cWl2dC1OQ2RSQnROVkEwN0NPRDlNNkxkTUo1Vktwb2JFLTFmd2hhbUhZeVRSNVpPQVY1NWJQX1ZVR0xjYUF4QXNlbzdCb2dlbXZXbS1MQmxhNDVrbHNsQ3ZKQzExVUhkV1c5d2dXXzF2Y0E?oc=5",
+    "event_date": "2026-08-16T11:14:10.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_idecaf-9",
+    "title": "Trường Quốc tế IVS và Đương kim Hoa hậu Biển hợp tác chiến lược cùng Liên hoan Phim Điện ảnh Trẻ TPHCM",
+    "description": "Trường Quốc tế IVS và Đương kim Hoa hậu Biển hợp tác chiến lược cùng Liên hoan Phim Điện ảnh Trẻ TPHCM&nbsp;&nbsp;vanhoavaphattrien.vn...",
+    "source_entity": "vanhoavaphattrien.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQUlIQnpfQUlIUXlpamtrQUpIR2pldDRqVUpoN25VbVpPZEE4OWNPRFFoUXBxWkV4WWRWM0hDaU4yaFc0SVNmRWRtR1BlVEZsLU50dWRQVzA2LWZkM2pUcUFGaG0yXzJrX2RIWjA5MWtOZmR4Z2lkZDNtNnI5RkJhdGNhZjZFWEZPUk1KTmxNVERBcXN6UzgyY0lxWnRrdkNSeVlJUmwybTJjWFYxc19RbENOZEduR1BJamFYdVpKSHFlTU1WOG9IS2t6TUxhcV9YMFh0QzFRdHJxUWs?oc=5",
+    "event_date": "2026-08-16T03:37:27.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -198,59 +151,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-0",
-    "title": "Giải chạy bộ UOB Heartbeat Run 2026 gây quỹ hơn 950 triệu đồng cho trẻ em",
-    "description": "Giải chạy bộ UOB Heartbeat Run 2026 gây quỹ hơn 950 triệu đồng cho trẻ em&nbsp;&nbsp;laodong.vn...",
-    "source_entity": "laodong.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeGJVVXdqMmVFVnUwZHRKcWRGeXh2d0RZRmVjTTdWdkhqQUJtWF9lc3lsdEFEOFJWeEFhek1JOEppYndmbzZaX21XVEItNjZzQlMyRnExR2JiOXZRbzZ1WFdHanY3SXNza1lrUUxlUzBQMlJ4UWl2X2ctcm1jVUxPdmpHX0IzZlFsc3g0NC1zdjAyS3VqWDdndHFTc2RHcnBUZEdCVXF0enNYWkFwMUN6THJoWUxxcHM?oc=5",
-    "event_date": "2026-08-12T07:13:27.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-1",
-    "title": "Hơn 1.000 người chạy bộ ở TP.HCM, cùng lan tỏa thông điệp bảo vệ an ninh mạng",
-    "description": "Hơn 1.000 người chạy bộ ở TP.HCM, cùng lan tỏa thông điệp bảo vệ an ninh mạng&nbsp;&nbsp;Thanh Niên...",
-    "source_entity": "Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1h5YVIwa2hkVFZHTUw4bVJnclhTWWtOOW1xS092bEtxRTh3cy1acXJIakFiZmJBaGdEelVXNlhKclVtTDREc3dzdG01emxzSkVVTGdsd0ljWWJxWHNkcFQtOWw1N0Z2R20yTlRHWkxfek9JTndCbFgzTk1tTVNOblVjYlhqU2VlcWFRMHByZjVyem9GU2xtWmgxVHdBcHhnOHBsVk1VSm5tWkpneVdPTmRuaWZjNjUxcVE?oc=5",
-    "event_date": "2026-08-12T06:20:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-5",
+    "id": "rss-q_chaybogiadinh-6",
     "title": "Giải chạy bộ UOB Heartbeat Run 2026 gây quỹ hơn 950 triệu đồng giúp đỡ trẻ em có hoàn cảnh khó khăn",
     "description": "Giải chạy bộ UOB Heartbeat Run 2026 gây quỹ hơn 950 triệu đồng giúp đỡ trẻ em có hoàn cảnh khó khăn&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -276,35 +177,10 @@
     }
   },
   {
-    "id": "rss-q_khoatumuahe-7",
-    "title": "Xã Kim Anh: Sôi nổi Hội trại hè Thanh thiếu nhi năm 2026",
-    "description": "Xã Kim Anh: Sôi nổi Hội trại hè Thanh thiếu nhi năm 2026&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGtubTFTdkNMblBuUUxlMllJSTZEekltckxmVjU1U0NZM1phYnpQaUtkWXlkd2RWdGFNcVk2UXVqX3UtTEtLREk5ZFJ4UkVJbmFCaHc4NGNxc0JYSlkwUmlhbUVkTjhGNU5kRHVSZXRBNXdCMzlDaHh3SmNzWDVGN3pZNTU?oc=5",
-    "event_date": "2026-08-12T07:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
     "id": "rss-q_lopnghethuat-2",
     "title": "Sân chơi hè giúp trẻ em phát triển toàn diện",
-    "description": "Sân chơi hè giúp trẻ em phát triển toàn diện&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "description": "Sân chơi hè giúp trẻ em phát triển toàn diện&nbsp;&nbsp;sggp.org.vn...",
+    "source_entity": "sggp.org.vn",
     "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW1yRWluNXpfT3ItTnZqME5OaVF2RVNnTnZsNktCRDl3NWRnTHU2TF9zMkVMRWE0UTh2WHVRTDVoQ3BmLXBBcG5mQ1ZjZ2xxSmcteHVHX2MxVDhBblVHLTRldmFNMDBCMTY0MWxkLTVkNWgzY2Z6QWgtODdVa1F2ZVFEMWFaRGVpYkFWbQ?oc=5",
     "event_date": "2026-08-15T10:04:08.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -327,26 +203,26 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-39",
-    "title": "Đưa nhóm trẻ bị hành hung tại chùa Bầu vào trung tâm bảo trợ để đảm bảo an toàn tuyệt đối",
-    "description": "Đưa nhóm trẻ bị hành hung tại chùa Bầu vào trung tâm bảo trợ để đảm bảo an toàn tuyệt đối&nbsp;&nbsp;Docnhanh.vn...",
-    "source_entity": "Docnhanh.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2JFdlNady01cDFFZVNibjNrbVdaVktRWDJlbDRyQ1MySTZYWmNIaTNTay1FNUl6S3NKbEZjcEQ2R2wwYXNWQ09Fa28yQWYwX2Zia2JzbVVDeW4wOGhwSEp0UWt4OGU5bWVDNHBydFdval9KcXFtdjMyY1IwU1V6WUV0YkhaUkJPQ0duRUtMMXJHdV93SFBHMnpkY2w2ZV8zMDNuRS1YNXpEUlc5YS1ZWVVJaWhCMWVhbHZRUjRyUGQ4UC0yRzZWQ3pR?oc=5",
-    "event_date": "2026-08-15T10:36:25.000Z",
+    "id": "rss-q_lopnghethuat-26",
+    "title": "Gia Lai: Tăng cường tiếng Việt cho trẻ em DTTS trước khi vào lớp Một",
+    "description": "Gia Lai: Tăng cường tiếng Việt cho trẻ em DTTS trước khi vào lớp Một&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXVIRVhnY2Z6V1NVZUtTODY1QlBLM2dPd1pVTEZVWXZsM09wVVZuZ1NrSXM0SHByY0pXNXFqb3paam1PaGptRmpWR3Rma0M3VUlFdFMyZnpGc3YwaTA2dmZobm9FWlJ3cnlheGREbW05N0ZjUjdYVk5sRkpycXMwS21Gc09nSXQ2NGdGcFQ4X3NBTjdz?oc=5",
+    "event_date": "2026-08-16T10:28:35.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": false,
+      "isAgeAppropriate": true,
       "hasTemporal": false,
-      "hasLocation": true,
+      "hasLocation": false,
       "isInteractive": false,
       "score": 40,
       "failures": [
-        "No_Age_Tag",
         "Missing_Date",
+        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
