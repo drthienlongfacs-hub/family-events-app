@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-vne_giadinh-17",
+    "id": "rss-vne_giadinh-24",
     "title": "Nhiều thế hệ người dùng gặp lại ký ức 50 năm tại triển lãm Vinamilk",
     "description": "Triển lãm \"50 năm phụng sự khát vọng Việt\" hút hơn 8.000 lượt khách trong hai ngày, kể hành trình của ông lớn sữa Việt từ những lon sữa đầu tiên đến vị thế tỷ USD toàn cầu....",
     "source_entity": "Nhiều thế hệ người dùng gặp lại ký ức 50 năm tại triển lãm Vinamilk",
@@ -25,32 +25,7 @@
     }
   },
   {
-    "id": "rss-vne_giadinh-55",
-    "title": "Hơn 1.000 người tham gia ngày hội đạp xe cộng đồng",
-    "description": "Saigontourist Group sẽ tổ chức ngày hội vào ngày 29-30/8, gồm thử thách đạp xe 600 km, giải đua, diễu hành, quảng bá du lịch và hỗ trợ học sinh khó khăn....",
-    "source_entity": "Hơn 1.000 người tham gia ngày hội đạp xe cộng đồng",
-    "source_url": "https://vnexpress.net/hon-1-000-nguoi-tham-gia-ngay-hoi-dap-xe-cong-dong-5109487.html",
-    "event_date": "2028-06-29T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-afamily_mebe-4",
+    "id": "rss-afamily_mebe-16",
     "title": "Lần đầu cùng ba Huy, mẹ Vân đi sự kiện: Mới 1 tuổi, bé Gạo đã dạn dĩ không sợ đông người, thì ra đều có lý do cả!",
     "description": "Bé Gạo dường như đã khá quen với việc được ba mẹ đưa đi nhiều nơi nên vẫn giữ được trạng thái bình tĩnh, tự nhiên giữa nơi đông người....",
     "source_entity": "Lần đầu cùng ba Huy, mẹ Vân đi sự kiện: Mới 1 tuổi, bé Gạo đã dạn dĩ không sợ đông người, thì ra đều có lý do cả!",
@@ -75,7 +50,7 @@
     }
   },
   {
-    "id": "rss-afamily_mebe-13",
+    "id": "rss-afamily_mebe-25",
     "title": "Trẻ ngã đập đầu, gia đình chớ chủ quan dù trẻ vẫn tỉnh táo",
     "description": "Tưởng chỉ là cú ngã trong lúc vui chơi, bé gái 27 tháng tuổi sau đó xuất hiện ngủ li bì, buồn nôn, nôn nhiều và được phát hiện tụ máu ngoài màng cứng phải phẫu thuật cấp cứu....",
     "source_entity": "Trẻ ngã đập đầu, gia đình chớ chủ quan dù trẻ vẫn tỉnh táo",
@@ -100,7 +75,32 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-9",
+    "id": "rss-tuoitre_giaoduc-14",
+    "title": "Học sinh lớp 1 làm quen trường mới bằng những trò chơi ‘bí ẩn’",
+    "description": "Từ trò chơi tìm cô giáo đến những trạm trải nghiệm, học sinh lớp 1 hào hứng khám phá trường mới, làm quen thầy cô và bạn bè....",
+    "source_entity": "Học sinh lớp 1 làm quen trường mới bằng những trò chơi ‘bí ẩn’",
+    "source_url": "https://tuoitre.vn/hoc-sinh-lop-1-lam-quen-truong-moi-bang-nhung-tro-choi-bi-an-100260822131017188.htm",
+    "event_date": "2026-08-25T13:51:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-32",
     "title": "Kỹ năng mềm không thể là 'môn phụ' trong trường nghề",
     "description": "Theo chuyên gia, kỹ năng mềm cần được xem là một hoạt động chính trong đào tạo tại trường nghề, được thầy cô lồng ghép vào từng tiết học để hình thành thói quen và năng lực làm việ...",
     "source_entity": "Kỹ năng mềm không thể là 'môn phụ' trong trường nghề",
@@ -125,16 +125,16 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-34",
-    "title": "Rèn kỹ năng qua trải nghiệm, tạo hành trang vững vàng cho sinh viên GDU",
-    "description": "Từ ý tưởng đến hành động, từ giảng đường đến thực tế, mỗi trải nghiệm tại Trường đại học Gia Định (GDU) là một lần sinh viên thử sức với những “bài toán” không có đáp án mẫu và trư...",
-    "source_entity": "Rèn kỹ năng qua trải nghiệm, tạo hành trang vững vàng cho sinh viên GDU",
-    "source_url": "https://tuoitre.vn/ren-ky-nang-qua-trai-nghiem-tao-hanh-trang-vung-vang-cho-sinh-vien-gdu-100260820104658281.htm",
-    "event_date": "2026-08-23T11:18:00.000Z",
+    "id": "rss-thanhnien_gioitre-7",
+    "title": "D&acirc;ng hoa tượng đ&agrave;i B&aacute;c Hồ ở Quảng T&acirc;y, Trung Quốc",
+    "description": "100 đại biểu thanh ni&ecirc;n Việt Nam tham gia h&agrave;nh tr&igrave;nh theo dấu ch&acirc;n B&aacute;c Hồ tại Quảng T&acirc;y (Trung Quốc), t&igrave;m hiểu những địa chỉ lịch sử, ...",
+    "source_entity": "D&acirc;ng hoa tượng đ&agrave;i B&aacute;c Hồ ở Quảng T&acirc;y, Trung Quốc",
+    "source_url": "https://thanhnien.vn/dang-huong-tuong-dai-bac-ho-o-quang-tay-trung-quoc-185260822101053675.htm",
+    "event_date": "2026-08-25T04:33:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -150,7 +150,32 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-5",
+    "id": "rss-thanhnien_gioitre-8",
+    "title": "Nhiều người đến C&ocirc;ng vi&ecirc;n Kh&aacute;nh Hội săn ảnh, chiếc &ocirc; t&ocirc; bất ngờ th&agrave;nh điểm check-in",
+    "description": "Kh&ocirc;ng chỉ l&agrave; nơi vui chơi, thư gi&atilde;n, C&ocirc;ng vi&ecirc;n Kh&aacute;nh Hội đang thu h&uacute;t nhiều bạn trẻ đến tham quan, chụp ảnh v&agrave; check-in. Những ...",
+    "source_entity": "Nhiều người đến C&ocirc;ng vi&ecirc;n Kh&aacute;nh Hội săn ảnh, chiếc &ocirc; t&ocirc; bất ngờ th&agrave;nh điểm check-in",
+    "source_url": "https://thanhnien.vn/nhieu-nguoi-den-cong-vien-khanh-hoi-san-anh-chiec-o-to-bat-ngo-thanh-diem-check-in-185260822012811922.htm",
+    "event_date": "2026-08-25T03:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-thanhnien_gioitre-15",
     "title": "Cờ đỏ ngập tr&agrave;n, giới trẻ h&aacute;o hức check-in sớm lan tỏa t&igrave;nh y&ecirc;u Tổ quốc",
     "description": "Kh&ocirc;ng kh&iacute; mừng Quốc kh&aacute;nh 2/9 đ&atilde; sớm rộn r&agrave;ng tại nhiều qu&aacute;n c&agrave; ph&ecirc; ở TP.HCM khi kh&ocirc;ng gian được phủ sắc đỏ cờ hoa. Nhiề...",
     "source_entity": "Cờ đỏ ngập tr&agrave;n, giới trẻ h&aacute;o hức check-in sớm lan tỏa t&igrave;nh y&ecirc;u Tổ quốc",
@@ -174,7 +199,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-11",
+    "id": "rss-thanhnien_gioitre-21",
     "title": "M&agrave;n h&igrave;nh OLED gaming LG UltraGear: Lợi thế tốc độ cho những trận đấu đỉnh cao",
     "description": "Sau 7 tuần tranh t&agrave;i, LG Life&#039;s Good Tournament 2026 kh&eacute;p lại với chiến thắng thuộc về đội tuyển SHANG (H&agrave; Nội) sau m&agrave;n đối đầu kịch t&iacute;nh c&...",
     "source_entity": "M&agrave;n h&igrave;nh OLED gaming LG UltraGear: Lợi thế tốc độ cho những trận đấu đỉnh cao",
@@ -199,7 +224,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-23",
+    "id": "rss-thanhnien_gioitre-33",
     "title": "Xếp h&agrave;ng d&agrave;i để trải nghiệm &#039;Trở về thời khắc thi&ecirc;ng li&ecirc;ng&#039;",
     "description": "H&agrave;ng ng&agrave;n người trẻ xếp h&agrave;ng d&agrave;i v&agrave;o b&ecirc;n trong Hội trường Thống Nhất (TP.HCM) để được trải nghiệm &#039;Trở về thời khắc thi&ecirc;ng li&ec...",
     "source_entity": "Xếp h&agrave;ng d&agrave;i để trải nghiệm &#039;Trở về thời khắc thi&ecirc;ng li&ecirc;ng&#039;",
@@ -224,7 +249,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-28",
+    "id": "rss-thanhnien_gioitre-38",
     "title": "Độc lạ chuối &lsquo;b&agrave;n tay cầu nguyện&rsquo; khiến kh&aacute;ch t&ograve; m&ograve; tại lễ hội tr&aacute;i c&acirc;y",
     "description": "Giữa c&aacute;c gian h&agrave;ng b&agrave;y đủ loại tr&aacute;i c&acirc;y, những nải chuối c&oacute; c&aacute;c quả chụm s&aacute;t v&agrave;o nhau, tạo h&igrave;nh như đ&ocirc;i b...",
     "source_entity": "Độc lạ chuối &lsquo;b&agrave;n tay cầu nguyện&rsquo; khiến kh&aacute;ch t&ograve; m&ograve; tại lễ hội tr&aacute;i c&acirc;y",
@@ -249,7 +274,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-44",
+    "id": "rss-q_sukien-42",
     "title": "'Hành trình 20 mùa hoa' : Thiếu nhi TP.HCM kể chuyện về Bác Tôn bằng ngôn ngữ nghệ thuật",
     "description": "'Hành trình 20 mùa hoa' : Thiếu nhi TP.HCM kể chuyện về Bác Tôn bằng ngôn ngữ nghệ thuật&nbsp;&nbsp;vanhoanghethuat.vn...",
     "source_entity": "vanhoanghethuat.vn",
@@ -274,12 +299,12 @@
     }
   },
   {
-    "id": "rss-q_vienbaotang-4",
-    "title": "TP Hồ CHí Minh: Họp mặt Kỷ niệm 138 năm Ngày sinh Chủ tịch Tôn Đức Thắng",
-    "description": "TP Hồ CHí Minh: Họp mặt Kỷ niệm 138 năm Ngày sinh Chủ tịch Tôn Đức Thắng&nbsp;&nbsp;Bộ Văn hóa, Thể thao và Du lịch...",
-    "source_entity": "Bộ Văn hóa, Thể thao và Du lịch",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeldqTFdDUUw5QzZ6d1FkREVwWlhqYXprZlVJYkhhTVFjSmwyTGNQU09TZ1EtUVBlaGtDdG9LcWhnZC1QRU5Gbzh2aUM1bzlHR1VsQWdOMkRBLTlYbVd0VWtkd3k1OGdfQk9uSjBCNUY5Rm5ZYVF1d18wWXdGTk1CSV9Ldmh1eGxGaTF3OXhnTXp0RmU1VTdNdHhhdVdlNUU?oc=5",
-    "event_date": "2026-08-23T10:07:31.000Z",
+    "id": "rss-q_nhathieunhi-2",
+    "title": "Giao lưu nghệ thuật kỷ niệm 50 năm thiết lập quan hệ ngoại giao Việt Nam",
+    "description": "Giao lưu nghệ thuật kỷ niệm 50 năm thiết lập quan hệ ngoại giao Việt Nam - Thái Lan&nbsp;&nbsp;Ủy ban MTTQ Việt Nam TP.HCM...",
+    "source_entity": "Ủy ban MTTQ Việt Nam TP.HCM",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2pFamVoZDVJNmxCZ0NZR0pHbU5qTVlqZDROQzVXM1drU2VFZnJGaEprUVg3cnNqQnNtekJlcHVWRHFaNURwWUsycVc5S1dtbDZxa292VXBkRktZR045ZDduR0hRb0ZKWnY2Wm1ybkZpN0ZPMXQtTjhaeUZkWVZuT2NzNjZYSFZJQi1DMFExX0dHbVIyUGYzX25vWmFiU1QyMTZsS3BaSEZVU25uV3dNYkp2dUoxRDlHYUR6OXR4ZzAtY2lZS1hlWUZ1MHA3eVFiRTh2Tg?oc=5",
+    "event_date": "2026-08-23T07:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -300,11 +325,11 @@
     }
   },
   {
-    "id": "rss-q_duongsach-5",
+    "id": "rss-q_duongsach-4",
     "title": "Thành phố Hồ Chí Minh tổ chức nhiều hoạt động văn hóa, nghệ thuật dịp Quốc khánh 2/9",
-    "description": "Thành phố Hồ Chí Minh tổ chức nhiều hoạt động văn hóa, nghệ thuật dịp Quốc khánh 2/9&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU5ldndzakExT010ZzVBT3Y2UlBwWGYwd0RxSEt0cG1qN1pQR2RmcXRJRkFlUDluMXRyU0RPbzFhaXJYVWNldkFPam5STDVfTndPWXNxSEo0bURuM2FjV2dEYktvQlhXSk9VT24wdGRaSU5KRGVrQlY5M3NBaFVtMXBwZ1hyS2hoOWx6aUMwc2dGU0NGY1hDWURnc3VHTlRFX3JGbGM5NmNOQQ?oc=5",
+    "description": "Thành phố Hồ Chí Minh tổ chức nhiều hoạt động văn hóa, nghệ thuật dịp Quốc khánh 2/9&nbsp;&nbsp;bacninhtv.vn...",
+    "source_entity": "bacninhtv.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmxKLWY2dER2bEhpVXFSSWFsdndxMElPSTVyRjhCZXdFYWlzbFBTLV85c2hkUE45RlljaDlzaXI1aHFaRUk5dlJ4Z0w4QmR2M0FXOVBqejh6aE9yU2hJeG0yUG5rMnJCWmpXaXFCWUVVbGg3b3E5elZ3X19OemtldzZhV2ZtelpLZlNtaWtkdzV3eTVIVnFBUUo4Y3FoQnEzTHBEcUtHQ3lkTGRaZXpaLUh0Uk5uc21vYnJKdXNFRQ?oc=5",
     "event_date": "2026-09-02T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
@@ -377,33 +402,7 @@
     }
   },
   {
-    "id": "rss-q_khoatumuahe-13",
-    "title": "Khai mạc Trại hè Ước mơ hồng năm 2026",
-    "description": "Khai mạc Trại hè Ước mơ hồng năm 2026&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKc2tXV2VHOW9vbTFQdUpxSENwdzhfYUJrQ1VzaU83QVhLQlhtRlc5T2RNX21yVTlKVTA0TllMV0hpTldGYVZDVDNYeEQxVmNWRXR3NERIYmM2YW91N3RUajcya1JTYzZLVmd2Yg?oc=5",
-    "event_date": "2026-08-23T05:56:18.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-12",
+    "id": "rss-q_lopnghethuat-11",
     "title": "Lớp học ballet mở tương lai cho trẻ em nghèo tại Nigeria",
     "description": "Lớp học ballet mở tương lai cho trẻ em nghèo tại Nigeria&nbsp;&nbsp;VOH...",
     "source_entity": "VOH",
@@ -423,32 +422,6 @@
       "failures": [
         "Missing_Date",
         "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-29",
-    "title": "Sự sáng tạo của trẻ qua trải nghiệm làm gốm",
-    "description": "Sự sáng tạo của trẻ qua trải nghiệm làm gốm&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MZ3I2Qk9FbHFoNDRCeEN0Q2wyUE1ad1VhY0hXUDQ0Wi1DUExzZ1daUjhYcWhxS2xsX3VUUzJqenNwREZ2MlNGNC1hN2ZEVHZmbHlUZGx4b2xUNnM0ak5GYloxMmlpN19ybExRQXBxNFp2SVJY?oc=5",
-    "event_date": "2026-08-21T02:43:50.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Missing_Location"
       ],
       "platform": "Web"
     }
