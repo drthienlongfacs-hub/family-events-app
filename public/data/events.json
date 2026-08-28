@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-vne_giadinh-21",
+    "id": "rss-vne_giadinh-30",
     "title": "Lễ hội mùa Vu Lan bên sông Vàm Cỏ Đông",
     "description": "Hàng nghìn người tham gia thả hoa đăng, thưởng trà, chơi trò chơi dân gian, kết nối gia đình trong sự kiện mùa Vu Lan tại khu đô thị Waterpoint, ngày 23-24/8....",
     "source_entity": "Lễ hội mùa Vu Lan bên sông Vàm Cỏ Đông",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "id": "rss-afamily_mebe-4",
+    "id": "rss-afamily_mebe-20",
     "title": "Chi tiền cho con 'nếm trải' gian khổ",
     "description": "Nhiều phụ huynh không ngần ngại bỏ ra hàng chục triệu đồng đưa con đến \"trại hè gian khổ\" để rèn luyện khả năng thích nghi với cuộc sống, cũng như biết trân trọng gia đình hơn....",
     "source_entity": "Chi tiền cho con 'nếm trải' gian khổ",
@@ -47,7 +47,32 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-16",
+    "id": "rss-tuoitre_giaoduc-9",
+    "title": "Royal School: Bồi đắp nền tảng vững vàng để con tỏa sáng",
+    "description": "Một năm học mới đến mang theo những mục tiêu mới, trải nghiệm mới và cả những phiên bản mới của chính mình. Tại Royal School, mỗi học sinh được bồi đắp nền tảng vững vàng để tự tin...",
+    "source_entity": "Royal School: Bồi đắp nền tảng vững vàng để con tỏa sáng",
+    "source_url": "https://tuoitre.vn/royal-school-boi-dap-nen-tang-vung-vang-de-con-toa-sang-100260827133139785.htm",
+    "event_date": "2026-08-31T08:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-thanhnien_gioitre-27",
     "title": "Gần 50.000 c&aacute;n bộ Đo&agrave;n to&agrave;n qu&acirc;n sẽ được trang bị kỹ năng chuyển đổi số",
     "description": "107 c&aacute;n bộ Đo&agrave;n, c&aacute;n bộ l&agrave;m c&ocirc;ng t&aacute;c thanh ni&ecirc;n đại diện cho gần 50.000 c&aacute;n bộ trong to&agrave;n qu&acirc;n tham gia lớp tập h...",
     "source_entity": "Gần 50.000 c&aacute;n bộ Đo&agrave;n to&agrave;n qu&acirc;n sẽ được trang bị kỹ năng chuyển đổi số",
@@ -72,7 +97,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-18",
+    "id": "rss-thanhnien_gioitre-29",
     "title": "Gen Z v&agrave; hoạt động gi&uacute;p trẻ tự bảo vệ ch&iacute;nh m&igrave;nh",
     "description": "Kh&ocirc;ng chỉ tổ chức trại h&egrave; với những hoạt động vui chơi, một nh&oacute;m học sinh đến từ c&aacute;c trường THPT tr&ecirc;n địa b&agrave;n th&agrave;nh phố H&agrave; Nội...",
     "source_entity": "Gen Z v&agrave; hoạt động gi&uacute;p trẻ tự bảo vệ ch&iacute;nh m&igrave;nh",
@@ -96,114 +121,64 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-33",
-    "title": "Lễ hội Ẩm thực chay lớn nhất TP.HCM chính thức khởi động",
-    "description": "Lễ hội Ẩm thực chay lớn nhất TP.HCM chính thức khởi động&nbsp;&nbsp;Báo Tuổi Trẻ...",
-    "source_entity": "Báo Tuổi Trẻ",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXNSZDFsOV83RHJyR0ZDVGNmQ2ZzM1ZnZlNJUGFzZUpBMW9pS19WaXFhTy1DdUUwTWZkRUpUMEdrLUNPc2dmRVU0bkt4OFV5b0pwYzB2MkwzRVdYaHAwQ3VDTzJzSG4wX04zajVrUy1ZckczeE5Kbk55Z21faExUVWdoUHE2TGJJcHlDNDVfa0o1eEdQZHZyeHhYdmQ3dw?oc=5",
-    "event_date": "2026-08-27T07:51:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-54",
-    "title": "Phụ nữ TPHCM chung tay xây dựng Thành phố Xanh",
-    "description": "Phụ nữ TPHCM chung tay xây dựng Thành phố Xanh - Sạch và thân thiện môi trường&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanpzNGlTc1E1X1hGTGVCRzVGQVROU2E0SzBjNjRUbWpzTXpwYVR1UGMtOVRROGp2NnRmTDlJWWd0dEs4eENVY05rSFZZNVpvSEVMVUxGV290NVowcjZsNm0xX19WNFBfU1p1VGxJRG84em00MXp1VEI5Z1RVRmJRemxUTGY5WlNJQUhkMm5MQWtyemsxNXU4SWNzQWtEV3Vs?oc=5",
-    "event_date": "2026-08-27T10:04:39.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-55",
-    "title": "Hơn 5.000 chủ nuôi cùng thú cưng sắp 'đổ bộ' lễ hội ở TP.HCM: Có gì thú vị?",
-    "description": "Hơn 5.000 chủ nuôi cùng thú cưng sắp 'đổ bộ' lễ hội ở TP.HCM: Có gì thú vị?&nbsp;&nbsp;Báo Thanh Niên...",
-    "source_entity": "Báo Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlgyT0hway1oemNWckg5WEZtRm1iVjFVcU5PTURDUHBNVTYzUFdDS1oyNVdhQzIzdElEX0lkVzFRNzFFb09nN2s2UmVHZ25FUVJ3amVwVTN2S0hyWHRROVZmMDRsYzFSV2ZZc1pFdEx2bUxfcHIxYnkwRC1qbzNaRTI3c0VVUmVVREhUY0IwNjJmSXNoQkZtOTczVC1tZDViM2tfUzU4MnNwQjlPdndJdkxjbw?oc=5",
-    "event_date": "2026-08-30T06:45:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-56",
-    "title": "Phụ nữ TPHCM chung tay xây dựng Thành phố Xanh",
-    "description": "Phụ nữ TPHCM chung tay xây dựng Thành phố Xanh - Sạch và thân thiện môi trường&nbsp;&nbsp;BÁO PHỤ NỮ VIỆT NAM ĐIỆN TỬ...",
-    "source_entity": "BÁO PHỤ NỮ VIỆT NAM ĐIỆN TỬ",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0ozWU1ZUnM5cTZINlVpRlQyWVVDWEtmcmZlbER6VjBBUllwT3FfdWlhaEhvOTB0M2dIQUVsWW1mQ2J1eFZaRUVwSWNMcWxjODczeExkZ20yWEFkZWxMdGh0NS1PMmt2ZGU0V2JDS2dPazd5SHBwT1lBSkhQbVZsWnVOa0lScDVKemZvdlBoazZJdmM4TTBjd0VDUVFnUzRlLXl0Wlg4Ni1qMFQtRjU3b1NEalFMUHNwX2dnQUVPa0U?oc=5",
-    "event_date": "2026-08-27T00:31:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-69",
+    "id": "rss-q_ngayhoi-68",
     "title": "Đi khai hội ẩm thực chay tại công viên Bình Phú, câu chuyện về ẩm thực xanh trở nên gần gũi, sinh động",
-    "description": "Đi khai hội ẩm thực chay tại công viên Bình Phú, câu chuyện về ẩm thực xanh trở nên gần gũi, sinh động&nbsp;&nbsp;Phụ nữ Mới...",
-    "source_entity": "Phụ nữ Mới",
+    "description": "Đi khai hội ẩm thực chay tại công viên Bình Phú, câu chuyện về ẩm thực xanh trở nên gần gũi, sinh động&nbsp;&nbsp;Phunumoi.net.vn...",
+    "source_entity": "Phunumoi.net.vn",
     "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRXNETUZ2dVlwdTFKVG8tRWl5VGhjUkJ5WFlqQ1F3M255QXh4Z3NZSWEzNGlEN2VjcjBwQkdJanNBeU1OMWxfckQtUHpvb2hrRVZlYnF6YVFOazRJVW5GM0ZzWnJvWm5udjZIMEF2akZESC1qcU5FaDV5TVIxOGJRYlVYYUtNT3d1d2tVVFIta05iSEJsaVJZMHhCXzl2bGxMMWdQeGZtcGItclpBWHhydFF4SWlvck15UEFOR21fVDhHRlBtYUJfN2RXbG5LUG1mMWdR?oc=5",
     "event_date": "2026-08-28T06:49:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-52",
+    "title": "Lễ 2-9 năm nay, người lao động được nghỉ lễ 5 ngày",
+    "description": "Lễ 2-9 năm nay, người lao động được nghỉ lễ 5 ngày&nbsp;&nbsp;Báo Tuổi Trẻ...",
+    "source_entity": "Báo Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd05hc3ZEVVBWLXExZ0o4TnlPRW1LeG1DS2dGZGswMFBiQ3NZTVlPdElmVDVFMkZBUXpBbllBYWw0eVd1M25PZ1VjN3RrejhqTDlnN0lfUEJjYjlacWdLUHhFOWw3VTM3UWkxTC1oaDVsaE9mQ195U0YtcWNKMElGVGxXVG5rejF2Y0tONFVCLUdTSVBFeVpJcmpmaw?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-4",
+    "title": "Thảo Cầm Viên dịp lễ 2.9 có gì vui, ai được mua vé 40.000 đồng?",
+    "description": "Thảo Cầm Viên dịp lễ 2.9 có gì vui, ai được mua vé 40.000 đồng?&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEJpTEs5bmtyQnlHQlVCcDlPV3NRMGlpZ1o3SEJZX25zY2JoZ2x0VVBFUHp0S1RTTExaSWIycUVOYTdYeVB2OWtPTXBfZWswUzZUT0hnamVScGdsYUo0VUktT0c1V3FjUW5BY2NVYlQzZ2VmQ3NZYmZqX24wWlR3LTU0TnZhM0gxSmlqbg?oc=5",
+    "event_date": "2026-08-31T08:31:39.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -250,7 +225,7 @@
     }
   },
   {
-    "id": "rss-q_vienbaotang-3",
+    "id": "rss-q_vienbaotang-2",
     "title": "TP Hồ Chí Minh thông qua giá vé tham quan bảo tàng, di tích cao nhất 60.000 đồng",
     "description": "TP Hồ Chí Minh thông qua giá vé tham quan bảo tàng, di tích cao nhất 60.000 đồng&nbsp;&nbsp;baotintuc.vn...",
     "source_entity": "baotintuc.vn",
@@ -270,6 +245,31 @@
       "failures": [
         "No_Age_Tag",
         "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_duongsach-4",
+    "title": "TP.HCM tổ chức các hoạt động kỷ niệm 81 năm Cách mạng tháng Tám thành công, Quốc khánh 2/9",
+    "description": "TP.HCM tổ chức các hoạt động kỷ niệm 81 năm Cách mạng tháng Tám thành công, Quốc khánh 2/9&nbsp;&nbsp;Bộ Văn hóa, Thể thao và Du lịch...",
+    "source_entity": "Bộ Văn hóa, Thể thao và Du lịch",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGZ3QWJkRWZoOGRVMEhOeEJKWXhyZ2xVenNBY2tJRDRyMGFtVVgwREx2UnNHM19pZXVGLTZ5dG9yeFdCNUtSczYwOTZjS3U0ekNOUUx0TDRJaDJHWHNLVExHME1vSlVzV294aWxTXzJyM2o4aGdpbHJtQ2dqdm84aXFfMnEtRk8wYlR1UktsMUJ1MDJTUnlqS3hST0R4bWFlVDROVHZ1OUIydWFRbTVZelFYSW8?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
@@ -302,7 +302,7 @@
     }
   },
   {
-    "id": "rss-q_vincom-2",
+    "id": "rss-q_vincom-1",
     "title": "Liên hoan phim Thái Lan tại Việt Nam sẽ diễn ra từ ngày 9-11/7/2026 ở TPHCM",
     "description": "Liên hoan phim Thái Lan tại Việt Nam sẽ diễn ra từ ngày 9-11/7/2026 ở TPHCM&nbsp;&nbsp;VOH...",
     "source_entity": "VOH",
@@ -353,7 +353,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-19",
+    "id": "rss-q_lopnghethuat-8",
     "title": "TP. Hồ Chí Minh",
     "description": "TP. Hồ Chí Minh - Nắm tay bè bạn: Mối tình Việt Nam - Cuba trong mắt trẻ em&nbsp;&nbsp;Đài Phát thanh và Truyền hình TP.HCM...",
     "source_entity": "Đài Phát thanh và Truyền hình TP.HCM",
@@ -371,6 +371,32 @@
       "isInteractive": false,
       "score": 60,
       "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lopnghethuat-18",
+    "title": "Ngôi trường THPT công lập ở TP.HCM 'đẹp như trường quốc tế', có nhà thi đấu, hồ bơi",
+    "description": "Ngôi trường THPT công lập ở TP.HCM 'đẹp như trường quốc tế', có nhà thi đấu, hồ bơi&nbsp;&nbsp;Báo Tuổi Trẻ...",
+    "source_entity": "Báo Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHFrN1hMaTBWaXpEU0pkYWc3c3Uwc096MTJxRkJKdFd5TFVGOXZ1VzJpYm1OcGVEZFRKVGlJUUp6NEFOVVFON0JoMk1rSlk2ZnNEcGpoLVdnazFkVVVhUHgtZ2lCcXZfQ0JkLVhKVVhnTW5kVERXS2p0WTl3RXFjRk1tdG1GakJpLXlPUG5mNW5ZbTBxeDFTLU83YnJMMk82RXJ2REswWG5hWlQzemxId3lTbVlpc0JiM0UtMg?oc=5",
+    "event_date": "2026-08-30T02:55:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
         "Missing_Date",
         "Not_an_Interactive_Event"
       ],
