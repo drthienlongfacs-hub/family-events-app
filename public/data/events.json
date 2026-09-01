@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-vne_giadinh-50",
+    "id": "rss-vne_giadinh-56",
     "title": "Lễ hội mùa Vu Lan bên sông Vàm Cỏ Đông",
     "description": "Hàng nghìn người tham gia thả hoa đăng, thưởng trà, chơi trò chơi dân gian, kết nối gia đình trong sự kiện mùa Vu Lan tại khu đô thị Waterpoint, ngày 23-24/8....",
     "source_entity": "Lễ hội mùa Vu Lan bên sông Vàm Cỏ Đông",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-28",
+    "id": "rss-tuoitre_giaoduc-34",
     "title": "UEH: Gần 300 tác giả bàn về kinh doanh bền vững trong kỷ nguyên AI",
     "description": "Hội thảo Quốc tế về Kinh doanh và Phát triển bền vững (ICBS 2026) do Đại học Kinh tế Thành phố Hồ Chí Minh (UEH) tổ chức đã quy tụ gần 300 tác giả, với gần 200 tham luận tại 42 phi...",
     "source_entity": "UEH: Gần 300 tác giả bàn về kinh doanh bền vững trong kỷ nguyên AI",
@@ -47,7 +47,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-41",
+    "id": "rss-tuoitre_giaoduc-47",
     "title": "Royal School: Bồi đắp nền tảng vững vàng để con tỏa sáng",
     "description": "Một năm học mới đến mang theo những mục tiêu mới, trải nghiệm mới và cả những phiên bản mới của chính mình. Tại Royal School, mỗi học sinh được bồi đắp nền tảng vững vàng để tự tin...",
     "source_entity": "Royal School: Bồi đắp nền tảng vững vàng để con tỏa sáng",
@@ -72,7 +72,32 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-0",
+    "id": "rss-thanhnien_gioitre-3",
+    "title": "Nghỉ lễ 2.9, nhiều người kh&ocirc;ng đi xa vẫn vui, nhờ đến những nơi n&agrave;y",
+    "description": "Thay v&igrave; chen ch&uacute;c c&aacute;c điểm du lịch, nhiều bạn trẻ tại TP.HCM chọn ở lại th&agrave;nh phố trong kỳ nghỉ lễ. V&agrave; c&aacute;c Trung t&acirc;m thương mại trở ...",
+    "source_entity": "Nghỉ lễ 2.9, nhiều người kh&ocirc;ng đi xa vẫn vui, nhờ đến những nơi n&agrave;y",
+    "source_url": "https://thanhnien.vn/nghi-le-29-nhieu-nguoi-khong-di-xa-van-vui-nho-den-nhung-noi-nay-185260831152918979.htm",
+    "event_date": "2026-09-04T01:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-thanhnien_gioitre-6",
     "title": "Tối ng&agrave;y lễ đi đ&acirc;u? điểm vui chơi về đ&ecirc;m ở TP.HCM hot, miễn ph&iacute; v&eacute; metro",
     "description": "C&agrave;ng về đ&ecirc;m, nhiều địa điểm ở TP.HCM c&agrave;ng đ&ocirc;ng người trẻ t&igrave;m đến. Điều g&igrave; đang khiến những điểm vui chơi về đ&ecirc;m ở TP.HCM trở n&ecirc;n...",
     "source_entity": "Tối ng&agrave;y lễ đi đ&acirc;u? điểm vui chơi về đ&ecirc;m ở TP.HCM hot, miễn ph&iacute; v&eacute; metro",
@@ -97,7 +122,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-10",
+    "id": "rss-thanhnien_gioitre-16",
     "title": "Ng&agrave;y đầu nghỉ lễ 2.9, phố x&aacute; v&agrave; c&aacute;c điểm vui chơi ở TP.HCM c&oacute; tấp nập?",
     "description": "Ng&agrave;y đầu kỳ nghỉ lễ, nhiều người trẻ TP.HCM chọn ở lại th&agrave;nh phố thay v&igrave; đi du lịch xa. Trong khi một số điểm đến vắng kh&aacute;ch, nhiều nơi lại đ&ocirc;ng đ...",
     "source_entity": "Ng&agrave;y đầu nghỉ lễ 2.9, phố x&aacute; v&agrave; c&aacute;c điểm vui chơi ở TP.HCM c&oacute; tấp nập?",
@@ -122,7 +147,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-13",
+    "id": "rss-thanhnien_gioitre-19",
     "title": "N&acirc;ng tầm trải nghiệm gaming với m&agrave;n h&igrave;nh LG UltraGear evo AI OLED 5K2K",
     "description": "LG tiếp tục mở rộng dải m&agrave;n h&igrave;nh gaming UltraGear cao cấp tại Việt Nam với bộ đ&ocirc;i UltraGear evo AI 45GX950B-B v&agrave; 39GX950B-B, mang đến lựa chọn giải tr&ia...",
     "source_entity": "N&acirc;ng tầm trải nghiệm gaming với m&agrave;n h&igrave;nh LG UltraGear evo AI OLED 5K2K",
@@ -147,7 +172,32 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-53",
+    "id": "rss-q_workshop-1",
+    "title": "Trung tâm thương mại TP.HCM đông khách dịp lễ 2/9",
+    "description": "Trung tâm thương mại TP.HCM đông khách dịp lễ 2/9&nbsp;&nbsp;VOH...",
+    "source_entity": "VOH",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXFfYUhFaXJHQ2xOSXJIbmZXMU96R0JIMXotZEUtOVBQNUFXNTVDZ21PY3dLa0pZSTZrRnRaTzVqSzl4UDVQZVpaSkFWTkw1TS1mZHBkNGlTbndEbEpWQkx3UWVGWkR3LTFJMkowRHNmRVJ2Q2lVR3JYUnN6UHJWVzlKaFZERlI1N2pZUHlTWWVJb0tOZTBzU3BPNnpzbkV3NTJ2ZmZ4cnZSb28?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-52",
     "title": "Chợ quê bên rạch ở TP.HCM: Hơn 70 gian hàng, cầu khỉ và những trò chơi ngày xưa",
     "description": "Chợ quê bên rạch ở TP.HCM: Hơn 70 gian hàng, cầu khỉ và những trò chơi ngày xưa&nbsp;&nbsp;Báo Thanh Niên...",
     "source_entity": "Báo Thanh Niên",
@@ -173,7 +223,31 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-58",
+    "id": "rss-q_ngayhoi-56",
+    "title": "TPHCM: Khu vui chơi, mua sắm thu hút du khách dịp lễ 2-9",
+    "description": "TPHCM: Khu vui chơi, mua sắm thu hút du khách dịp lễ 2-9&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXRHc1loVDUyVk5jTGEyU1E2QjZVeVNQUTk2aTFFMzgwamJXdmdzcm83Z241YnRLd1VyTkdocl9haHAyYzRpMVhwUTltTmpuRWtTeTlTU0c1QXdKZnBQQWE5RVFub2NROHpJZjM2RGs5VnNyMXRHYndNUWJlMVFENFFETWNZUWVIQ3pfMjdib2FpeXNhMDJPejhB?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-57",
     "title": "Hàng trăm người đến lễ hội thú cưng lớn nhất TP.HCM: Vào cổng là có quà",
     "description": "Hàng trăm người đến lễ hội thú cưng lớn nhất TP.HCM: Vào cổng là có quà&nbsp;&nbsp;Báo Thanh Niên...",
     "source_entity": "Báo Thanh Niên",
@@ -301,9 +375,9 @@
   {
     "id": "rss-q_thaocamvien-4",
     "title": "Thảo Cầm Viên, Dinh Độc Lập chật kín người dịp lễ 2/9",
-    "description": "Thảo Cầm Viên, Dinh Độc Lập chật kín người dịp lễ 2/9&nbsp;&nbsp;Tin tức 24h...",
-    "source_entity": "Tin tức 24h",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlFDRFBoT1RseXRUbWlEVlI4UjB2TWxUZklidjEyRXNIdm9SRWtOdnhIYzUtVHhERHFEYXFfQXpnazdqaWU5Umk4bi1keDFOc0pEMm5mek1Lbk5xMzNnNzV3aDFkc29mWDNQSEkyQWVoWHpjeW9Camp6UE9OdG9nZThCdzdjSWlleVVCOVltcGFoVUJSQ25XOXcyQ2k3Qjh5X0lUMlN6UzNubEUwZUZteA?oc=5",
+    "description": "Thảo Cầm Viên, Dinh Độc Lập chật kín người dịp lễ 2/9&nbsp;&nbsp;Kenh14.vn...",
+    "source_entity": "Kenh14.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTZoTHdxbFQwNVR0RFctclU0ODJDRjlPajFYcDBYUXUybk1DakZoSGVsTUFpX01UYm5RQ3lMa1VfcHBoeUlsNVJCdHUyd2tzQ1BkQndEWEdPNlgtSkNCWnVlWnVneUk3RHV3M2U3aktjQnVQeUM2QmZMLUVoQ2sweDlHZzJnWm9ET3RUTlU5WTY4Y2N3UEdIQQ?oc=5",
     "event_date": "2026-09-02T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
@@ -324,7 +398,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-6",
+    "id": "rss-q_thaocamvien-5",
     "title": "“Yêu thương đong đầy” lan tỏa ký ức xanh tại Thảo Cầm Viên Sài Gòn",
     "description": "“Yêu thương đong đầy” lan tỏa ký ức xanh tại Thảo Cầm Viên Sài Gòn&nbsp;&nbsp;VOV.VN...",
     "source_entity": "VOV.VN",
@@ -350,32 +424,32 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-8",
-    "title": "Người dân Thành phố Hồ Chí Minh nô nức vui chơi dịp lễ Quốc khánh 2/9",
-    "description": "Người dân Thành phố Hồ Chí Minh nô nức vui chơi dịp lễ Quốc khánh 2/9&nbsp;&nbsp;Tiin.vn...",
-    "source_entity": "Tiin.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmJCMUpBS2Y2Z2p2Yk1JMWJHZXAzNW1zQWJZTUlvbEpOTzNsdnIzeDVJOEx0eFoyRjB1NHRrQW9zV19DZkpTcDJ6cjNTQy1xN1JDTElQcWhhTUdjaHpUUXVscC16Y21UQTRlUjcwZUdRQVZVSW5wVHN1ZFBDZy1neVE0SjNnX3FNaE16dDY1bjQ1eHg5XzhaMlVOQTBPLUF6VmZZbXFTZ19oUQ?oc=5",
+    "id": "rss-q_thaocamvien-6",
+    "title": "Lễ 2/9 ở Thảo Cầm Viên: \"Kéo co với hổ\", diễu hành cùng động vật",
+    "description": "Lễ 2/9 ở Thảo Cầm Viên: \"Kéo co với hổ\", diễu hành cùng động vật&nbsp;&nbsp;Báo Dân Việt...",
+    "source_entity": "Báo Dân Việt",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGRhTVVSX3JKazNKZmNQVlBpa3JoTElzRnlONEo5bUdmYXpKRHBYdjV0SzBfcWFlRWJWRTJDUUNVZUV0b3lhZjhFWXU0bDRVM1o1WFpkanlxeHBHN0NkLUt3THpwakdoSkFJcklnamx2OXBmQ2EyWGtxREozSUpCaXRzaXBzVE1oU2gxbnpxOFgzWUx4ZjVkZw?oc=5",
     "event_date": "2026-09-02T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Vui chơi & Dã ngoại",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
       "hasTemporal": true,
-      "hasLocation": false,
-      "isInteractive": true,
+      "hasLocation": true,
+      "isInteractive": false,
       "score": 60,
       "failures": [
         "No_Age_Tag",
-        "Missing_Location"
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_thaocamvien-10",
+    "id": "rss-q_thaocamvien-8",
     "title": "20.000 lượt khách đến Thảo Cầm Viên, nhiều gia đình mang đồ ăn chơi cả ngày",
     "description": "20.000 lượt khách đến Thảo Cầm Viên, nhiều gia đình mang đồ ăn chơi cả ngày&nbsp;&nbsp;Báo Thanh Niên...",
     "source_entity": "Báo Thanh Niên",
@@ -400,7 +474,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-12",
+    "id": "rss-q_thaocamvien-11",
     "title": "Giới trẻ check-in, gia đình dã ngoại ở Thảo Cầm Viên dịp lễ 2.9",
     "description": "Giới trẻ check-in, gia đình dã ngoại ở Thảo Cầm Viên dịp lễ 2.9&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -418,6 +492,32 @@
       "isInteractive": false,
       "score": 60,
       "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-12",
+    "title": "Xếp hàng chờ mua vé, Thảo Cầm Viên hút khách dịp lễ 2.9",
+    "description": "Xếp hàng chờ mua vé, Thảo Cầm Viên hút khách dịp lễ 2.9&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTZUeFo0dG82TXhhcWVOd2ZqMDd1SV9fRGZ5WnJ6d0VEZ01XMUxNNmNDRmNKajQtdTYtdXdBRHhISFhIVjNiVTJfTS0zcFV5dERhbGM4c2hLWHJwWHN2eGc2b21Cd2h1azBQLWVIZThqcVlKUTh0OHB0dWpoT0FVVzhqQQ?oc=5",
+    "event_date": "2026-09-04T03:53:32.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
         "Missing_Date",
         "Not_an_Interactive_Event"
       ],
@@ -452,34 +552,10 @@
   },
   {
     "id": "rss-q_thaocamvien-19",
-    "title": "TPHCM: Khu vui chơi, mua sắm thu hút du khách dịp lễ 2-9",
-    "description": "TPHCM: Khu vui chơi, mua sắm thu hút du khách dịp lễ 2-9&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXRHc1loVDUyVk5jTGEyU1E2QjZVeVNQUTk2aTFFMzgwamJXdmdzcm83Z241YnRLd1VyTkdocl9haHAyYzRpMVhwUTltTmpuRWtTeTlTU0c1QXdKZnBQQWE5RVFub2NROHpJZjM2RGs5VnNyMXRHYndNUWJlMVFENFFETWNZUWVIQ3pfMjdib2FpeXNhMDJPejhB?oc=5",
-    "event_date": "2026-09-02T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
-        "No_Age_Tag"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-22",
     "title": "Thảo Cầm Viên Sài Gòn đông khách dịp Quốc khánh 2-9",
-    "description": "Thảo Cầm Viên Sài Gòn đông khách dịp Quốc khánh 2-9&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kWTRXaXdhZ3J2OWQxN2MyUVpPSk41R0VzRm5BTTQwcldoOWxaQVlubzRGNERPOEJnamxIOC1kQXN5bDZpODdwcFlfVi1uZWVUUmd0Y0JpR1JrT2FlVG1UYzc4SEw3RXRpWVgzc1NLQkl1bnBtOXZHSUdMb2ZSTFE?oc=5",
+    "description": "Thảo Cầm Viên Sài Gòn đông khách dịp Quốc khánh 2-9&nbsp;&nbsp;Báo Quân đội nhân dân...",
+    "source_entity": "Báo Quân đội nhân dân",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX25yeGpKUHF3M0FPMl80Y0ZnWmFONURKeklrWUhMdzh0Q1B2d2NReXNPRWxnSjVTZ002Ym9JSHVObWgxZTlRS01zWjZ4R0dzcXZSWEZOZXd6T3FjQ3FXRnIxdnlURVI4ZUltQURveXNscWJSTkhiaHpNdlNDX1dIOU9VWGJwYkNRZTRDQUc5aS01YUx0UWppcWRSQno?oc=5",
     "event_date": "2026-09-02T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
@@ -500,7 +576,106 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-24",
+    "id": "rss-q_thaocamvien-21",
+    "title": "Người dân Thành phố Hồ Chí Minh nô nức vui chơi dịp lễ Quốc khánh 2/9",
+    "description": "Người dân Thành phố Hồ Chí Minh nô nức vui chơi dịp lễ Quốc khánh 2/9&nbsp;&nbsp;Tiin.vn...",
+    "source_entity": "Tiin.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmJCMUpBS2Y2Z2p2Yk1JMWJHZXAzNW1zQWJZTUlvbEpOTzNsdnIzeDVJOEx0eFoyRjB1NHRrQW9zV19DZkpTcDJ6cjNTQy1xN1JDTElQcWhhTUdjaHpUUXVscC16Y21UQTRlUjcwZUdRQVZVSW5wVHN1ZFBDZy1neVE0SjNnX3FNaE16dDY1bjQ1eHg5XzhaMlVOQTBPLUF6VmZZbXFTZ19oUQ?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-22",
+    "title": "Nhiều hoạt động vui chơi, giải trí hấp dẫn dịp 2/9 tại TP Hồ Chí Minh",
+    "description": "Nhiều hoạt động vui chơi, giải trí hấp dẫn dịp 2/9 tại TP Hồ Chí Minh&nbsp;&nbsp;VTV.vn...",
+    "source_entity": "VTV.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejZQbHNSMEhGbFhDZFhXcHQtaWNpdmxscWhrX05PS2tDNC0xUjFPSEhXbjk0WDdaaGQzaGl5UU8ySUNqTjhrMXBOU1QtV3otNTFLSVlnSEdkTzYxMHBpSXVwbjFkcWFOSWtqSGVQcDQtVzFqMmtYSW1wRzY3TkJCd3BjeVgzVS1lX1RUdnN6b1A3SHM4UzBFMm9FUEJuajkxVmotZm8tNi1vQQ?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-23",
+    "title": "Các điểm vui chơi, tham quan đông khách dịp nghỉ lễ Quốc khánh 2/9",
+    "description": "Các điểm vui chơi, tham quan đông khách dịp nghỉ lễ Quốc khánh 2/9&nbsp;&nbsp;tphcm.chinhphu.vn...",
+    "source_entity": "tphcm.chinhphu.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQXzNSY3JqYnRyLWdVWFFrRk5IVFVuVHVhT1VjQTJwejJvODg0UHNSRWx0ZWhmWEtXVWhtVk45M1dMb0J1M2JKZThkdUtGVldBNmxVVGFlaHl0UXoxVnRYREZaTVdVc0lJRGxwV2VfOHkydUNzZUlfYWZNZS1yM1NkZl94R0h5c0tRa2lvVjNKYkpYQ2dqVFBRZGgtNWFCOUpaTk8zdlA4QmktWFNQYjZPcVZNdWk?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-27",
+    "title": "TP. Hồ Chí Minh: Các điểm vui chơi, văn hóa thu hút khách dịp 2/9",
+    "description": "TP. Hồ Chí Minh: Các điểm vui chơi, văn hóa thu hút khách dịp 2/9&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDlaS0QwbU9GMWItcjhSRDNsS0tmdUNqcDczRnJ0MnFJYWZzd2VxZ0JselcxZGZabmxvS2ZEQVJVUnV1WGZWT2ZjbmE3WVFRLS1tWm1GdGFhempGUGJWZ3NyaWpCazNDTmhlM1R5Q1FmdlJKbm9UZlRzaDJ0UGtYeEhvZ3FxMzkySlhiUnlB?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-28",
     "title": "Thảo Cầm Viên Sài Gòn đang là tọa độ cực \"hot\" với hàng ngàn lượt khách",
     "description": "Thảo Cầm Viên Sài Gòn đang là tọa độ cực \"hot\" với hàng ngàn lượt khách&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -526,7 +701,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-27",
+    "id": "rss-q_thaocamvien-32",
     "title": "2/9 đi đâu chơi ở Sài Gòn? Gợi ý địa điểm vui chơi thú vị",
     "description": "2/9 đi đâu chơi ở Sài Gòn? Gợi ý địa điểm vui chơi thú vị&nbsp;&nbsp;CellphoneS...",
     "source_entity": "CellphoneS",
@@ -551,7 +726,31 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-30",
+    "id": "rss-q_thaocamvien-33",
+    "title": "TPHCM: Khu vui chơi, mua sắm thu hút du khách dịp lễ 2-9",
+    "description": "TPHCM: Khu vui chơi, mua sắm thu hút du khách dịp lễ 2-9&nbsp;&nbsp;Báo Sài Gòn Đầu Tư Tài Chính...",
+    "source_entity": "Báo Sài Gòn Đầu Tư Tài Chính",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcUR2YXFVQXh3SzMtLXRtNmZlX0laV1RnZDd0UmNRbG5aRTBXQlpKRnpOb2lsUE9YZ0pETTFVT21FZFdSREVpXzlYNEJwX25KWVpzU1NjWm83T0ZkOXdORnAyTUdObkFkZFREVExvN2RfYWtqWkN4LXM3MHpnNVZFaUtpanhZWXBqSW9tQkFiTWlFNmlVVXNnRGZDOA?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-35",
     "title": "Thảo Cầm Viên Sài Gòn đông nghẹt du khách dịp nghỉ lễ 2/9",
     "description": "Thảo Cầm Viên Sài Gòn đông nghẹt du khách dịp nghỉ lễ 2/9&nbsp;&nbsp;VOH...",
     "source_entity": "VOH",
@@ -576,11 +775,11 @@
     }
   },
   {
-    "id": "rss-q_duongsach-6",
-    "title": "Nhiều hoạt động vui chơi, giải trí hấp dẫn dịp 2/9 tại TP Hồ Chí Minh",
-    "description": "Nhiều hoạt động vui chơi, giải trí hấp dẫn dịp 2/9 tại TP Hồ Chí Minh&nbsp;&nbsp;thethaovanhoa.vn...",
-    "source_entity": "thethaovanhoa.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFNySllYS2ppbWgxZGx1cmNnaGtGY0h3NEU1N09hSjhoR2EtSWc4ZXRmcUdWODBydjB1bVBNNWV4dkFyblA4MkNMLXAzVUVreXkwSXRRWXRoQ2hEZ0w1VW1VMG1FdEgwY2hNV2NUTkNqajd1V082WThUbGE2NlMwbmVOUXhJTDhrbFh5bnBLbjNVRjVxTEg5U1FwZ2p1TWhNd1pnTzRFNUN1VEo2eXlrZzlEMTBoQQ?oc=5",
+    "id": "rss-q_thaocamvien-37",
+    "title": "Mưa lớn không ngăn được dòng người đổ về trung tâm TP.HCM đón Quốc khánh 2/9",
+    "description": "Mưa lớn không ngăn được dòng người đổ về trung tâm TP.HCM đón Quốc khánh 2/9&nbsp;&nbsp;Báo Nông nghiệp và Môi trường...",
+    "source_entity": "Báo Nông nghiệp và Môi trường",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWd5QkNNUWFkbFFNeXZmNzl2OGRjYXVFckUyTzdNd2FGdmQxa20zOGpUMC1Ib1VBQmtWWWlNeWtFZnFuNTRkMWZ0dy13T1ZsaEJPWWZ1cmdSZ3kwMXFnY2xReVVWWlVETjFlbjBSR2ZRNEppZFJQMlJaUzVhSzlrQ05UU2JEQUJSbmx6MWpOWGwxb252VkdfeHpES1ZGNlpSR1N5S3dxd0kwWk5CMC1CTDNiY21zVFhZT1ZV?oc=5",
     "event_date": "2026-09-02T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
@@ -591,16 +790,17 @@
       "isAgeAppropriate": false,
       "hasTemporal": true,
       "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
+      "isInteractive": false,
+      "score": 60,
       "failures": [
-        "No_Age_Tag"
+        "No_Age_Tag",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_thaocamvien-39",
+    "id": "rss-q_thaocamvien-44",
     "title": "Người dân có thể du lịch, tham quan phố xá bằng xe buýt miễn phí những ngày nghỉ lễ tại TP.HCM",
     "description": "Người dân có thể du lịch, tham quan phố xá bằng xe buýt miễn phí những ngày nghỉ lễ tại TP.HCM&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -626,7 +826,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-40",
+    "id": "rss-q_thaocamvien-45",
     "title": "TP Hồ Chí Minh: Các điểm vui chơi, giải trí đông khách trong ngày nghỉ lễ thứ hai",
     "description": "TP Hồ Chí Minh: Các điểm vui chơi, giải trí đông khách trong ngày nghỉ lễ thứ hai&nbsp;&nbsp;Việt Báo...",
     "source_entity": "Việt Báo",
@@ -651,7 +851,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-46",
+    "id": "rss-q_thaocamvien-49",
     "title": "Chuỗi hoạt động văn hóa nghệ thuật chào mừng Quốc khánh 2/9 tại TP.HCM",
     "description": "Chuỗi hoạt động văn hóa nghệ thuật chào mừng Quốc khánh 2/9 tại TP.HCM&nbsp;&nbsp;vanhoanghethuat.vn...",
     "source_entity": "vanhoanghethuat.vn",
@@ -676,12 +876,38 @@
     }
   },
   {
+    "id": "rss-q_thaocamvien-54",
+    "title": "Quy định mới quan trọng về giáo dục từ tháng 9/2026",
+    "description": "Quy định mới quan trọng về giáo dục từ tháng 9/2026&nbsp;&nbsp;Báo Tri thức và Cuộc sống...",
+    "source_entity": "Báo Tri thức và Cuộc sống",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2RCakZzNmtVTXZCTktQbXhaQVBmUmtOc0gxQm93V2RfR3ZCZXRvZVB3M0ZMR2hEWFc2VFcyZHB2dFJMR1JhV1dJcDJkLW4yRDYzUzM0Q2RHMDlia1hmTjZBU2ZTVElMSU45RFJqYldjTU40UldRT0h6T2dVOUtURFNMMVFBTmtmT0VISy1Qekp3QkRvUGc?oc=5",
+    "event_date": "2027-08-09T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
     "id": "rss-q_vienbaotang-1",
-    "title": "TP Hồ Chí Minh thông qua giá vé tham quan bảo tàng, di tích cao nhất 60.000 đồng",
-    "description": "TP Hồ Chí Minh thông qua giá vé tham quan bảo tàng, di tích cao nhất 60.000 đồng&nbsp;&nbsp;baotintuc.vn...",
-    "source_entity": "baotintuc.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFBrd1pHNDA1VXd2U0Joakt0dUthekMydHA0eDRNZkxlRnhCd3JrMDlITDlXa2ZGWXZ6VkV0VUsyTEJiMkZaUjd3Z3VfVVRPUy1FZk1yU3B5YVpoc1ItVmhSVzlBZFBzS1FwMFFlcGxqTWZBWkFyLVNkcEY4MkhCYjBXZlhBa2dBQTFxSkpfOEh5Q09kYlpZLTFpR201SlJ0UjZxTS1fUm9jSmF5MG5WdnFJOGM4RmpYRVo2ZTlBd1l5ekJtbXJqYW9xWjJsTThuU1ZVbQ?oc=5",
-    "event_date": "2026-08-30T05:07:00.000Z",
+    "title": "15 bảo tàng mới lạ từ Bắc vào Nam mở cửa dịp 2/9: Từ tảng than 28 tấn đến đôi giày lớn nhất Việt Nam đạt kỷ lục Guinness",
+    "description": "15 bảo tàng mới lạ từ Bắc vào Nam mở cửa dịp 2/9: Từ tảng than 28 tấn đến đôi giày lớn nhất Việt Nam đạt kỷ lục Guinness&nbsp;&nbsp;Kenh14.vn...",
+    "source_entity": "Kenh14.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcTIyUFk3bUtZSEpDVVVORGl2aW5sdHU0LVVFd0lqenM0TDdZZHRLQVo0U21LSTFEUUZ2UG5ya2FkX3EyNmhJVERiTTR4eHB1c0xzMjdIWGtMTG84VVliYjJKN2ROU3U1MC10RjZxdGRhWUdocFBYU1pOckxUOWpaMzVOc2NvXzd4TDA0YXIwSG9hVmlhQmxsZkJVejdHNHFBbWZ0TmFOM3RIS1huU0NVM3JzRlFKYU1EZmlwYXpYRE9LUE1NX2dhcTA5T3ZSeEU4WTVJSTI4eDJFLU83ZVNOVjVwV1R1RjY1QlVZRTNOS2c?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -689,20 +915,20 @@
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
+      "hasTemporal": true,
+      "hasLocation": false,
       "isInteractive": false,
       "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date",
+        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_vienbaotang-7",
+    "id": "rss-q_vienbaotang-15",
     "title": "2/9 này ở Hà Nội đi đâu? Bảo tàng vừa mở cửa trở lại với 9 Bảo vật quốc gia, 7.000 hiện vật đưa du khách “đi xuyên” những lớp ký ức của Thủ đô",
     "description": "2/9 này ở Hà Nội đi đâu? Bảo tàng vừa mở cửa trở lại với 9 Bảo vật quốc gia, 7.000 hiện vật đưa du khách “đi xuyên” những lớp ký ức của Thủ đô&nbsp;&nbsp;Kenh14.vn...",
     "source_entity": "Kenh14.vn",
@@ -753,6 +979,81 @@
     }
   },
   {
+    "id": "rss-q_duongsach-5",
+    "title": "TP.HCM tổ chức các hoạt động kỷ niệm 81 năm Cách mạng tháng Tám thành công, Quốc khánh 2/9",
+    "description": "TP.HCM tổ chức các hoạt động kỷ niệm 81 năm Cách mạng tháng Tám thành công, Quốc khánh 2/9&nbsp;&nbsp;Bộ Văn hóa, Thể thao và Du lịch...",
+    "source_entity": "Bộ Văn hóa, Thể thao và Du lịch",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGZ3QWJkRWZoOGRVMEhOeEJKWXhyZ2xVenNBY2tJRDRyMGFtVVgwREx2UnNHM19pZXVGLTZ5dG9yeFdCNUtSczYwOTZjS3U0ekNOUUx0TDRJaDJHWHNLVExHME1vSlVzV294aWxTXzJyM2o4aGdpbHJtQ2dqdm84aXFfMnEtRk8wYlR1UktsMUJ1MDJTUnlqS3hST0R4bWFlVDROVHZ1OUIydWFRbTVZelFYSW8?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_duongsach-6",
+    "title": "Nhiều hoạt động vui chơi, giải trí hấp dẫn dịp 2/9 tại TP Hồ Chí Minh",
+    "description": "Nhiều hoạt động vui chơi, giải trí hấp dẫn dịp 2/9 tại TP Hồ Chí Minh&nbsp;&nbsp;thethaovanhoa.vn...",
+    "source_entity": "thethaovanhoa.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFNySllYS2ppbWgxZGx1cmNnaGtGY0h3NEU1N09hSjhoR2EtSWc4ZXRmcUdWODBydjB1bVBNNWV4dkFyblA4MkNMLXAzVUVreXkwSXRRWXRoQ2hEZ0w1VW1VMG1FdEgwY2hNV2NUTkNqajd1V082WThUbGE2NlMwbmVOUXhJTDhrbFh5bnBLbjNVRjVxTEg5U1FwZ2p1TWhNd1pnTzRFNUN1VEo2eXlrZzlEMTBoQQ?oc=5",
+    "event_date": "2026-09-02T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lespace-3",
+    "title": "Nữ diễn viên lên TP.HCM kiếm 150 nghìn/đêm",
+    "description": "Nữ diễn viên lên TP.HCM kiếm 150 nghìn/đêm&nbsp;&nbsp;CafeF...",
+    "source_entity": "CafeF",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXlkQmZRMFJtSjFVXzlwRFVJcGlPNG1RNlpoNk4wRnZJQU9hSTdUa1R1WkxZTnJJR0k4OWRWbHJJckJua1VHTWNFaTZGV19OODZaZGRhVk91c3ZxTzBhY3VnR21WNEc1OXZxaEoweXQ3X05IUUUwbHNNSTVyMHJRcGpYbGdWU1k?oc=5",
+    "event_date": "2026-09-03T09:11:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
     "id": "rss-q_aeonmall-7",
     "title": "Kompa.ai: Top 10 sự kiện thương hiệu nổi bật tuần 25/5-31/5/2026",
     "description": "Kompa.ai: Top 10 sự kiện thương hiệu nổi bật tuần 25/5-31/5/2026&nbsp;&nbsp;Brands Vietnam...",
@@ -773,32 +1074,6 @@
       "failures": [
         "No_Age_Tag",
         "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_gigamall-0",
-    "title": "Redmi Note 17 series Experience Day tại Gigamall: Gặp gỡ UPRIZE LAVM, bão ưu đãi hàng triệu đồng",
-    "description": "Redmi Note 17 series Experience Day tại Gigamall: Gặp gỡ UPRIZE LAVM, bão ưu đãi hàng triệu đồng&nbsp;&nbsp;Thegioididong.com...",
-    "source_entity": "Thegioididong.com",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHJPQTBSZzM2R0oybkcxREk1RnJybXlzcFJqbF9lY0VLZXcyOGdZQ3lweThCYy1oZXBRYXZXQ2tvMEt6Q1hJVTBmN05WRzViUDh5OEdOZTd6bGFud2dkaWVPcFNJaE9RbFJIbGttdDVsWGIxaXExREZNWk1ZYnpYSXNQcnlKREpQbTlJZmhlcEk5eERHRV9oNmhR?oc=5",
-    "event_date": "2026-08-30T07:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
@@ -881,7 +1156,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-36",
+    "id": "rss-q_lopnghethuat-33",
     "title": "Bố mẹ Hà Nội vượt 300km đưa con lên bản Tả Van trải nghiệm văn hoá và tự tay dệt nên ký ức mùa hè",
     "description": "Bố mẹ Hà Nội vượt 300km đưa con lên bản Tả Van trải nghiệm văn hoá và tự tay dệt nên ký ức mùa hè&nbsp;&nbsp;aFamily...",
     "source_entity": "aFamily",
