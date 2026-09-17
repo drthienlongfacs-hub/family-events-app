@@ -1,11 +1,11 @@
 [
   {
-    "id": "rss-vne_giadinh-54",
-    "title": "Lễ hội đấm nhau để giải quyết mâu thuẫn ở Peru",
-    "description": "Thay vì ra tòa, người dân thị trấn Santo Tomás tụ tập đánh nhau trên võ đài công cộng để giải quyết ân oán vào ngày 24 đến 26/12 hàng năm....",
-    "source_entity": "Lễ hội đấm nhau để giải quyết mâu thuẫn ở Peru",
-    "source_url": "https://vnexpress.net/le-hoi-dam-nhau-de-giai-quyet-mau-thuan-o-peru-5117325.html",
-    "event_date": "2026-12-26T00:00:00.000Z",
+    "id": "rss-vne_giadinh-4",
+    "title": "Lễ hội 'gái ngoan' 200 tuổi ở Pháp phá lệ",
+    "description": "Từng bị loại vì có con trước khi cưới, Morgane Lussault, 40 tuổi, trở thành người duy nhất được vinh danh tại lễ hội tôn vinh \"gái ngoan\" ở Pháp năm nay....",
+    "source_entity": "Lễ hội 'gái ngoan' 200 tuổi ở Pháp phá lệ",
+    "source_url": "https://vnexpress.net/le-hoi-gai-ngoan-200-tuoi-o-phap-pha-le-5120642.html",
+    "event_date": "2026-09-19T00:58:55.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -13,19 +13,19 @@
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": false,
+      "hasTemporal": false,
+      "hasLocation": true,
       "isInteractive": true,
       "score": 60,
       "failures": [
         "No_Age_Tag",
-        "Missing_Location"
+        "Missing_Date"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-3",
+    "id": "rss-tuoitre_giaoduc-27",
     "title": "LG mang công nghệ đến gần hơn với học sinh tiểu học tại Đồng Nai",
     "description": "Với nhiều học sinh, cơ hội tiếp cận máy tính tại nhà vẫn còn hạn chế. Một không gian học tập mới tại Đồng Nai đang giúp hơn 1.000 học sinh có thêm điều kiện làm quen với công nghệ,...",
     "source_entity": "LG mang công nghệ đến gần hơn với học sinh tiểu học tại Đồng Nai",
@@ -49,110 +49,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-1",
-    "title": "Thông tin các vấn đề kinh tế",
-    "description": "Thông tin các vấn đề kinh tế - xã hội TP.HCM đến ngày 18/6&nbsp;&nbsp;ttbc-hcm.gov.vn...",
-    "source_entity": "ttbc-hcm.gov.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0V6b1FOSGl6YTl5a3dVXzZKRjh6bmxTN3d4dWFzTVZnZXJ0dGtoWDJTMWVXQzNGSkp4YlBSZ1FybTJCRVluV0Z6REEwN3U0WlMzcWQ4S2w3Z2xLb1RKelZRUnVfU3dldDVCTDVoOWdlbzZIU0hSeVdhZlUxYWctaXJzb2tKbWU4NU42aENZSFduQzJZVnNSbQ?oc=5",
-    "event_date": "2027-06-18T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lehoi-18",
-    "title": "TPHCM tạo điều kiện để trẻ em rèn luyện và phát triển toàn diện",
-    "description": "TPHCM tạo điều kiện để trẻ em rèn luyện và phát triển toàn diện&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0V5NHNXTFA3SHNQUWRWMWxzdTZBVHhfRk8xOHNxbmlxRHNPZHhJYVhPVUxERV8zcE43U2NkOC1ocGRKSmlLeGQ2SzVKRUstdS1xaWtPT2c1Y3J3QXRQTUtKR0VQNU53Z2c3NXpSdWRLN2FOZmNpaXE5VHJSLWpxc0ZsNXZTOWJ6MW91dDk3WTVGT2xGaFVUZW1pdkE3bzM3VXBwLTV3?oc=5",
-    "event_date": "2026-09-15T07:04:45.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_sukien-24",
-    "title": "Trao “Ngôi nhà hạnh phúc”, tặng 150 phần quà cho thanh niên, thiếu nhi TPHCM",
-    "description": "Trao “Ngôi nhà hạnh phúc”, tặng 150 phần quà cho thanh niên, thiếu nhi TPHCM&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFU4QkhXYnBoRWR5NEdpdkwzTGRQY0hIdmI4aWVfQmRwNmFuRjZCVm9wX1NSbUU4Z1I1Z1dyb1RYd29oSUVqRWZwS1BGS0JGM3hHUkxvaHA5a3VKczJOa21FSlBxaGl3M2V5ZWNJMXRkVEJsVDZHX05GWmo2V3JwcE9VSlRDQ1hkVzZTYVdBeTBkb1ROVTRWb3k1OTQydVVwQ1dwNWNkNExSTGloU2xHMV9B?oc=5",
-    "event_date": "2026-09-15T07:58:49.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_sukien-44",
-    "title": "Tạo sân chơi tốt nhất cho thiếu nhi trong dịp hè",
-    "description": "Tạo sân chơi tốt nhất cho thiếu nhi trong dịp hè&nbsp;&nbsp;voh.com.vn...",
-    "source_entity": "voh.com.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3FNX1Y3eXBJamdMb2ppX1RTODdoSk5id2JSbkUyWWdZeEdjUEZIOVZDbTJwa3ZJWW9EUEJmR3RzZ21Ya1NCejV5U1lxSzIwU0pxcGN2OTFOeFFIWXJwRlR6aHZqWV9ubmpwcXV3Y2NiWjBEdHhzWmMzVHROb0RFMUI0WlZ5TFNOM0tqN3dLeFROYkQ1blp1eFV1dmUwVGM?oc=5",
-    "event_date": "2026-09-15T10:47:41.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-35",
+    "id": "rss-q_ngayhoi-44",
     "title": "Ngày hội “Trung thu mơ ước 2026” mang nụ cười đến với 700 thiếu nhi có hoàn cảnh khó khăn tại TP.HCM",
     "description": "Ngày hội “Trung thu mơ ước 2026” mang nụ cười đến với 700 thiếu nhi có hoàn cảnh khó khăn tại TP.HCM&nbsp;&nbsp;Giác Ngộ Online...",
     "source_entity": "Giác Ngộ Online",
@@ -176,12 +73,12 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-41",
-    "title": "Hơn 500 phụ nữ, thanh niên TPHCM tham gia ngày hội khởi nghiệp cùng chuyển đổi số",
-    "description": "Hơn 500 phụ nữ, thanh niên TPHCM tham gia ngày hội khởi nghiệp cùng chuyển đổi số&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1ZqV3pOSmZ3ZFJvY0NjUXFYQmdFaFBKdzBKa1BXZjAtZm9aZllMcGlUNjRCcUVtLVhBRlEwVV8yZkVjWkFJZVkzZ21jeVYwcW02STJCNXZGaEFnczF3RkozUmhjVmI5OFhQZl9ZWkhEcURoQjNZcjY1aFBsVnFhTzJwUlZHMXgxVEQ5dWNBQjhUek1yZkNZTjdCc1Z0YmZ6LWRNcWF3?oc=5",
-    "event_date": "2026-09-15T15:44:04.000Z",
+    "id": "rss-q_ngayhoi-54",
+    "title": "Ngày hội hiến máu tình nguyện ở Bà Rịa thu được 304 đơn vị máu",
+    "description": "Ngày hội hiến máu tình nguyện ở Bà Rịa thu được 304 đơn vị máu&nbsp;&nbsp;Laodong.vn...",
+    "source_entity": "Laodong.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmRTOGlBMUhMYVBrbE9NeEhwTlpwVWlDa1JDSmQzWlFNTHkxVV9DR09zSnlnZXh1cnJXNFNCMDB2ajRTTDYtRXVKbmxUdWdPalZDNTBWNXNQbEszbVBBTThhekNhbWZrTFhyZE1YZ3FyVFJQeVozS183RVgxdmdqeG1KVDByamRieUhqakRoTzdVUzN6RFF4TThrNG9wVUtOdko4WWlYRnRMaEU?oc=5",
+    "event_date": "2026-09-19T08:38:55.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -202,12 +99,12 @@
     }
   },
   {
-    "id": "rss-q_lehoi-4",
-    "title": "Gần 500.000 thiếu nhi TPHCM tham gia hoạt động hè năm 2026",
-    "description": "Gần 500.000 thiếu nhi TPHCM tham gia hoạt động hè năm 2026&nbsp;&nbsp;tphcm.chinhphu.vn...",
-    "source_entity": "tphcm.chinhphu.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0c1QXQwUnlfaEFKX1poSlA1QS10cXpzZllRUDhCUUxiRDZ4a1djdUEwU0hxVWp2ck0yTVNIc3laWEEzWXNkQ0hhamxjWDdxSkRwYjZEa1FCWkRGMGlnUmZHeXNvdk1CaWJaZ2dGYllUTldrVnBrd1UwMHFiNHZocTFxY0ZuRk1nZHYxblBLMkhwYmNOcEcxZGdfeTl4Yk9rM25FcmlOejZMZw?oc=5",
-    "event_date": "2026-09-15T12:22:00.000Z",
+    "id": "rss-q_lehoi-24",
+    "title": "Mang trăng yêu thương đến với trẻ em có hoàn cảnh khó khăn",
+    "description": "Mang trăng yêu thương đến với trẻ em có hoàn cảnh khó khăn&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFFRamkwMWFlY2loVDI0RVRYMkJhS21EdGhoQWdDWjZDbzB0RHJQVVBzdlJNRHBZblhQNEJnX0NYck5GRmlBWkFaVXo4ajhEdzBwOXFsOTUyMThGSUxkYkRtSGc5dFBqY2FneVM4aEFlUjF5bXNva2hHcTBkWnYtYUpkbm0xOUdpcGNyV3hkWmJ4SGREX0c0dFdiQjFhME0?oc=5",
+    "event_date": "2026-09-19T12:54:26.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -228,16 +125,42 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-22",
-    "title": "Gần 50 cổ thụ tại Thảo cầm viên Sài Gòn được công nhận Cây Di sản Việt Nam",
-    "description": "Gần 50 cổ thụ tại Thảo cầm viên Sài Gòn được công nhận Cây Di sản Việt Nam&nbsp;&nbsp;thiennhienmoitruong.vn...",
-    "source_entity": "thiennhienmoitruong.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWpqSGRlY3Fqc0llVnV1MW5uckhncnQ5RFBPd0xGNnJVNWEtNFJRWHM2Nkpra2g3b01jNU1ZbDhwZkk0T1U3NnlSYS1CZ04zTXd3Wm5MOGZfUVIwa3hJMUJ5MDJFTWsxb2pWN19Oc0tjUnJXQ3RBZWdER0xIWDlfbnc3d25uUVkySnJwRXRON0gwWVpoZzFyTWw1dTJUdmR3ZlRteTU3dEJuXy1tdl8w?oc=5",
-    "event_date": "2026-09-16T00:09:00.000Z",
+    "id": "rss-q_muaroi-0",
+    "title": "Trải nghiệm sắc màu di sản văn hóa Tết Trung thu",
+    "description": "Trải nghiệm sắc màu di sản văn hóa Tết Trung thu&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EWGVzQnZTdlM2MGtCT294S3ptaGw4blZvTURXQnd4bFV5NHREVnlPSU1WanRHVm15akYwRnFHX1d0MFl2cEdzd3QybnhNTzVNYzI1OWU4N0tiNWNfZEpuZFRtcDJWZjR3Qms2ZXVTUnFRZ3V1QnEyLU10bw?oc=5",
+    "event_date": "2026-09-19T06:45:49.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_takashimaya-2",
+    "title": "Từ Saigon Centre đến Hà Nội: Takashimaya đang tính gì với 51 tỷ yên tại Việt Nam?",
+    "description": "Từ Saigon Centre đến Hà Nội: Takashimaya đang tính gì với 51 tỷ yên tại Việt Nam?&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFJOWVNpbUVFVG1xcEVkelduY2VYSUt4d0N6NHZWZFNYazIwOHI2Mm9mN1FvVU5YSzd2c0E1cVVlZ2FaeEMtb2F2X1VQbWRyMG9uVnQwd3BXa0hWNzBmOEU1MVdJMHlRWnEwSTRVay00T0RsVnZYbmg2T0xyMmxHbjJDNmZJS1EwUDc4VS1wdk9IXzZXZTBqS1J4NUJhSTVjQ2hPYw?oc=5",
+    "event_date": "2026-09-19T05:06:30.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -256,8 +179,8 @@
   {
     "id": "rss-q_takashimaya-6",
     "title": "Bất ngờ với doanh thu từ thị trường Việt Nam của Takashimaya: Tăng trưởng 20% trong khi Singapore, Trung Quốc và Thái Lan đều suy giảm",
-    "description": "Bất ngờ với doanh thu từ thị trường Việt Nam của Takashimaya: Tăng trưởng 20% trong khi Singapore, Trung Quốc và Thái Lan đều suy giảm&nbsp;&nbsp;CafeF...",
-    "source_entity": "CafeF",
+    "description": "Bất ngờ với doanh thu từ thị trường Việt Nam của Takashimaya: Tăng trưởng 20% trong khi Singapore, Trung Quốc và Thái Lan đều suy giảm&nbsp;&nbsp;cafef.vn...",
+    "source_entity": "cafef.vn",
     "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRzF0MllBQjZIR2Q1ZXkzS0ZmR1QySmlVcXQyUnVFMkpQaGM2TTBTWkdOdzVqaUxOck1wSmo3a1ozQmpzRnlMUDFjT2ZVeGRIS0p3WWJNYlNYWm14RzA4VjdnWVZJZFdSUVhCY0g5NFdpMHJVUURnM19EYzJ3dkdFTTdOclhqLUNaai1DVjU1YUFTVXBOcnVaMC1rT0wxV1FER3R2UVhpOUQ4OUhVcjRlN3lvZ2t4Q1dIbEJVSGJCYmlDb2pkbnVvOU1JWGc2b3FTQzQ5UkpNYVZsTGtuYnV3aVhsdE80bE5XVWNZMXVoSE1mRWhOSGY3bVNMSGVLRllh?oc=5",
     "event_date": "2026-09-17T17:05:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -280,59 +203,7 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-8",
-    "title": "Câu chuyện 200 năm của “đế chế” Takashimaya đang muốn xây trung tâm thương mại tại Hà Nội",
-    "description": "Câu chuyện 200 năm của “đế chế” Takashimaya đang muốn xây trung tâm thương mại tại Hà Nội&nbsp;&nbsp;Thương gia...",
-    "source_entity": "Thương gia",
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXhTMnRBUFZ2SmZrNDZIQkx3OXNzRHhRVG5qNTlGd3p3YXowN0lScUJEcm9hV3BPdG9najgwOWUzcFFCdU5ra2ZpVmg4Nm1OUVpEeEh3WF9NblhYWU1DQ3NCaXJxLTRYdFlZVWdBeExvaDByYW1NZHFQZzU3S2lOV0hnaktHSy1Hd1NlSUtXRHhLWktIaUxJYW9Ea1pPcVBRQ211RExJWG5RN19vY3BsUFFjYUdXeFQ4SWtFcF8xVmlFelFtczJzZHJB0gHIAUFVX3lxTE5OX3FySXpXLXdwX2JEUzNyOU4xZTBjVXBhSERvaXRyaWk1RFJWVEhZQkJNeVpPQXp3dlViVzY0V3U5VDI0Yll0cWpjXzFHdDlxX0lyVnBHa0FNUTZ5eWw2X0w2NTlXSTdIb1paMW1kQVhSakE0Q21ybVo4amEyUzlOS0p6dXp6SFVCX1V4QmFmUjBibW9sdVl1QXhKeFV5bjdjY19BTmMxYlRUYXd6NUN4dnp6bjh3QUlJMUpOLTJUemNlVEIwaDlK?oc=5",
-    "event_date": "2026-09-18T05:30:13.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
     "id": "rss-q_takashimaya-9",
-    "title": "Hanoi Takashimaya S.C. sẽ cất nóc trong tháng 9/2026",
-    "description": "Hanoi Takashimaya S.C. sẽ cất nóc trong tháng 9/2026&nbsp;&nbsp;VnEconomy...",
-    "source_entity": "VnEconomy",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56d1dDLXBVYmsxbUJmaUctSXliMXJWNnNKY0J1ZWx3YXFsUTdaQVNOUVdaQnVKenpBZVRVb181TDVQay1UNGJuVWRodnRBNHhxUnVKcDhzbGhVWEZ2WFNudE1xRTlOWEJ5cmhOSFktV0R3ejZiUG5fMlRXOTRWN3c?oc=5",
-    "event_date": "2027-08-09T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_takashimaya-10",
     "title": "Trung tâm thương mại Takashimaya đầu tiên tại Hà Nội có thể hoạt động năm sau",
     "description": "Trung tâm thương mại Takashimaya đầu tiên tại Hà Nội có thể hoạt động năm sau&nbsp;&nbsp;VietnamBiz...",
     "source_entity": "VietnamBiz",
@@ -358,12 +229,38 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-11",
-    "title": "Thương hiệu Takashimaya thu lãi kỷ lục tại thị trường Việt Nam",
-    "description": "Thương hiệu Takashimaya thu lãi kỷ lục tại thị trường Việt Nam&nbsp;&nbsp;thuonghieusanpham.vn...",
-    "source_entity": "thuonghieusanpham.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZmbkVxdDFDUFZXUlMzdWhReDlxSWZjY1BCdEVmVzR1cVc3NnBfT29KTGdOQ1ZoemZsWW1LR2hyMV91WEhoVExaUVJEYkUtWm9jZDNtdE1yS1lYT3BYT01UOU1HYThjNWpVRm9OZ3J5MUpHUEU1UFBlVy0yUjNxOWY2bndMV3RTMnRRMDVSRVYzTzBsSmc?oc=5",
-    "event_date": "2026-09-18T02:15:00.000Z",
+    "id": "rss-q_takashimaya-10",
+    "title": "Câu chuyện 200 năm của “đế chế” Takashimaya đang muốn xây trung tâm thương mại tại Hà Nội",
+    "description": "Câu chuyện 200 năm của “đế chế” Takashimaya đang muốn xây trung tâm thương mại tại Hà Nội&nbsp;&nbsp;Thương gia...",
+    "source_entity": "Thương gia",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXhTMnRBUFZ2SmZrNDZIQkx3OXNzRHhRVG5qNTlGd3p3YXowN0lScUJEcm9hV3BPdG9najgwOWUzcFFCdU5ra2ZpVmg4Nm1OUVpEeEh3WF9NblhYWU1DQ3NCaXJxLTRYdFlZVWdBeExvaDByYW1NZHFQZzU3S2lOV0hnaktHSy1Hd1NlSUtXRHhLWktIaUxJYW9Ea1pPcVBRQ211RExJWG5RN19vY3BsUFFjYUdXeFQ4SWtFcF8xVmlFelFtczJzZHJB0gHIAUFVX3lxTE5OX3FySXpXLXdwX2JEUzNyOU4xZTBjVXBhSERvaXRyaWk1RFJWVEhZQkJNeVpPQXp3dlViVzY0V3U5VDI0Yll0cWpjXzFHdDlxX0lyVnBHa0FNUTZ5eWw2X0w2NTlXSTdIb1paMW1kQVhSakE0Q21ybVo4amEyUzlOS0p6dXp6SFVCX1V4QmFmUjBibW9sdVl1QXhKeFV5bjdjY19BTmMxYlRUYXd6NUN4dnp6bjh3QUlJMUpOLTJUemNlVEIwaDlK?oc=5",
+    "event_date": "2026-09-18T05:30:13.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_takashimaya-14",
+    "title": "Lợi nhuận cao nhất lịch sử, Takashimaya Việt Nam xóa sạch lỗ lũy kế và ấp ủ dự án mới tại Hà Nội",
+    "description": "Lợi nhuận cao nhất lịch sử, Takashimaya Việt Nam xóa sạch lỗ lũy kế và ấp ủ dự án mới tại Hà Nội&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMUF6cnd1bHV2OXlYZmxvZXdVMm5COXNyQWR4b0w2NG5CTklYTGY1MnF4ajZzQnBlSkxnZDlYOTZXcDNPX0x4aVZBeHAxdGdBSTQwVE1scXZSU1hEcGJnUk95NXVMTGFUYmhhTWl6M3prOWFNT0tPaWllcXF6UVVUZ2JKRUdNLVljaG5FbUFZRmx1bGs2VzBKMUN2cEZTcm9xU01obVdLNXM2TFFkM0hmeUp0VEp3U1JHR2c?oc=5",
+    "event_date": "2026-09-18T10:01:46.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -385,11 +282,11 @@
   },
   {
     "id": "rss-q_takashimaya-21",
-    "title": "Lợi nhuận cao nhất lịch sử, Takashimaya Việt Nam xóa sạch lỗ lũy kế và ấp ủ dự án mới tại Hà Nội",
-    "description": "Lợi nhuận cao nhất lịch sử, Takashimaya Việt Nam xóa sạch lỗ lũy kế và ấp ủ dự án mới tại Hà Nội&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMUF6cnd1bHV2OXlYZmxvZXdVMm5COXNyQWR4b0w2NG5CTklYTGY1MnF4ajZzQnBlSkxnZDlYOTZXcDNPX0x4aVZBeHAxdGdBSTQwVE1scXZSU1hEcGJnUk95NXVMTGFUYmhhTWl6M3prOWFNT0tPaWllcXF6UVVUZ2JKRUdNLVljaG5FbUFZRmx1bGs2VzBKMUN2cEZTcm9xU01obVdLNXM2TFFkM0hmeUp0VEp3U1JHR2c?oc=5",
-    "event_date": "2026-09-18T10:01:46.000Z",
+    "title": "Thương hiệu Takashimaya thu lãi kỷ lục tại thị trường Việt Nam",
+    "description": "Thương hiệu Takashimaya thu lãi kỷ lục tại thị trường Việt Nam&nbsp;&nbsp;thuonghieusanpham.vn...",
+    "source_entity": "thuonghieusanpham.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZmbkVxdDFDUFZXUlMzdWhReDlxSWZjY1BCdEVmVzR1cVc3NnBfT29KTGdOQ1ZoemZsWW1LR2hyMV91WEhoVExaUVJEYkUtWm9jZDNtdE1yS1lYT3BYT01UOU1HYThjNWpVRm9OZ3J5MUpHUEU1UFBlVy0yUjNxOWY2bndMV3RTMnRRMDVSRVYzTzBsSmc?oc=5",
+    "event_date": "2026-09-18T02:15:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -434,10 +331,10 @@
     }
   },
   {
-    "id": "rss-q_gigamall-10",
+    "id": "rss-q_gigamall-11",
     "title": "Nóng: CITIGYM thông báo sắp dừng hoạt động 2 chi nhánh tại TP.HCM",
-    "description": "Nóng: CITIGYM thông báo sắp dừng hoạt động 2 chi nhánh tại TP.HCM&nbsp;&nbsp;CafeF...",
-    "source_entity": "CafeF",
+    "description": "Nóng: CITIGYM thông báo sắp dừng hoạt động 2 chi nhánh tại TP.HCM&nbsp;&nbsp;cafef.vn...",
+    "source_entity": "cafef.vn",
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXpjWnB0NFlKM3huaF9RUjhUSTRJSVhYdVZvNGF2Z1pORHpPVHJ6WnFNaFhVYnNMSzRDVURhWVJ6TWRIVG5uMld6Wlh0REE3Z085bXUxR0lRTFNQOGlnYzgzaE9LODl0MXB4ODVyY1NLRk1nbHVxOWZSSUljM3dLUU1LZXlMQndzOXVKNWhWSVZfbHlVYXFhRHdjWkN0NV9COTc4VExB?oc=5",
     "event_date": "2026-09-18T14:06:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -485,7 +382,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-30",
+    "id": "rss-q_lopnghethuat-33",
     "title": "Lãnh đạo TPHCM dự lễ khai giảng năm học 2026-2027",
     "description": "Lãnh đạo TPHCM dự lễ khai giảng năm học 2026-2027&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -505,31 +402,6 @@
       "failures": [
         "No_Age_Tag",
         "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-31",
-    "title": "Nhiều tỉnh thành công bố lịch tựu trường năm học 2026-2027",
-    "description": "Nhiều tỉnh thành công bố lịch tựu trường năm học 2026-2027&nbsp;&nbsp;Báo VietNamNet...",
-    "source_entity": "Báo VietNamNet",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXphYzdvR0hVMl9pVlE4N25RX29rSUhWRDJjUFcyMXZuOW1ISUU3N04wUVpNZ1FMWk1Sa1RNMHJnOXVjbk4wTVBJaEtDMjROOFpEbVNFSnFQTWY1eUY4Mk1CTG43V2pGZkFjNHFFU0lpYnAxb1BnbHo2a0ZjTXNqTld1TXdaSFJaMnZ5UEVQV0w?oc=5",
-    "event_date": "2027-08-26T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
