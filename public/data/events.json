@@ -1,6 +1,30 @@
 [
   {
-    "id": "rss-vne_giadinh-14",
+    "id": "rss-vne_giadinh-9",
+    "title": "Cảm hứng văn hóa Việt tại triển lãm kim hoàn quốc tế",
+    "description": "Phú Quý đưa loạt trang sức lấy cảm hứng từ truyền thuyết, mỹ thuật và biểu tượng truyền thống Việt Nam đến triển lãm tại Hong Kong (Trung Quốc), ngày 14-20/9....",
+    "source_entity": "Cảm hứng văn hóa Việt tại triển lãm kim hoàn quốc tế",
+    "source_url": "https://vnexpress.net/cam-hung-van-hoa-viet-tai-trien-lam-kim-hoan-quoc-te-5121456.html",
+    "event_date": "2027-08-14T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Triển lãm & Trưng bày",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-vne_giadinh-26",
     "title": "Lễ hội 'gái ngoan' 200 tuổi ở Pháp phá lệ",
     "description": "Từng bị loại vì có con trước khi cưới, Morgane Lussault, 40 tuổi, trở thành người duy nhất được vinh danh tại lễ hội tôn vinh \"gái ngoan\" ở Pháp năm nay....",
     "source_entity": "Lễ hội 'gái ngoan' 200 tuổi ở Pháp phá lệ",
@@ -25,7 +49,57 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-8",
+    "id": "rss-afamily_mebe-14",
+    "title": "Nhiều gia đình “đếm ngược” chờ Festival Mẹ Bầu & Em Bé: Khi cả nhà cùng háo hức một ngày hội",
+    "description": "Festival Mẹ Bầu & Em Bé KidsPlaza 2026 đang trở thành một cuộc hẹn như thế....",
+    "source_entity": "Nhiều gia đình “đếm ngược” chờ Festival Mẹ Bầu & Em Bé: Khi cả nhà cùng háo hức một ngày hội",
+    "source_url": "https://afamily.vn/nhieu-gia-dinh-dem-nguoc-cho-festival-me-bau-em-be-khi-ca-nha-cung-hao-huc-mot-ngay-hoi-236260918110627.chn",
+    "event_date": "2026-09-21T08:58:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-afamily_mebe-17",
+    "title": "Festival Mẹ Bầu & Em Bé 2026 chính thức trở lại với hành trình “Growing With Love",
+    "description": "Festival Mẹ Bầu & Em Bé KidsPlaza là sự kiện cộng đồng thường niên trong lĩnh vực mẹ và bé....",
+    "source_entity": "Kiến tạo Thế hệ Hạnh Phúc”",
+    "source_url": "https://afamily.vn/festival-me-bau-em-be-2026-chinh-thuc-tro-lai-voi-hanh-trinh-growing-with-love-kien-tao-the-he-hanh-phuc-23626091811222011.chn",
+    "event_date": "2026-09-21T05:35:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-27",
     "title": "Vụ nam sinh ở Phú Quốc siết cổ người thân: Thực hiện nghiêm việc giáo dục đạo đức, lối sống cho học sinh",
     "description": "Sở Giáo dục và Đào tạo tỉnh An Giang đã có văn bản yêu cầu UBND xã, phường, đặc khu và nhà trường tăng cường giáo dục đạo đức, lối sống, văn hóa ứng xử và kỹ năng sống cho học sinh...",
     "source_entity": "Vụ nam sinh ở Phú Quốc siết cổ người thân: Thực hiện nghiêm việc giáo dục đạo đức, lối sống cho học sinh",
@@ -44,30 +118,6 @@
       "score": 60,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-tuoitre_giaoduc-45",
-    "title": "LG mang công nghệ đến gần hơn với học sinh tiểu học tại Đồng Nai",
-    "description": "Với nhiều học sinh, cơ hội tiếp cận máy tính tại nhà vẫn còn hạn chế. Một không gian học tập mới tại Đồng Nai đang giúp hơn 1.000 học sinh có thêm điều kiện làm quen với công nghệ,...",
-    "source_entity": "LG mang công nghệ đến gần hơn với học sinh tiểu học tại Đồng Nai",
-    "source_url": "https://tuoitre.vn/lg-mang-cong-nghe-den-gan-hon-voi-hoc-sinh-tieu-hoc-tai-dong-nai-100260915182935315.htm",
-    "event_date": "2026-09-19T08:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
-      "failures": [
         "Missing_Date"
       ],
       "platform": "Web"
@@ -100,7 +150,32 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-54",
+    "id": "rss-q_ngayhoi-56",
+    "title": "Nhiều gia đình “đếm ngược” chờ Festival Mẹ Bầu & Em Bé: Khi cả nhà cùng háo hức một ngày hội",
+    "description": "Nhiều gia đình “đếm ngược” chờ Festival Mẹ Bầu & Em Bé: Khi cả nhà cùng háo hức một ngày hội&nbsp;&nbsp;afamily.vn...",
+    "source_entity": "afamily.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjlsV1A5MS1IN0RLOUJLeEFqbUZ3XzlWMFpfWjd1OUhMM2M3LWpvSnBLN1AwSDgxenZlNlM4ajF4aDZDRXM1Ullia2lFbVNVbU03WW55djZxQTFwSnhoSC1QUGNoekJTYW1LN09CY2dZU1JHekE4b1JBRnFNZThQQVBhcGZLRXJDRkFxbFNHbkNxWEpCRXZqdWhlbVFXQlh5bnFjTFRRZ0hyVzl1clgyNEc2MFl2NWZZa3Z6Zm4zY1M0U3oz?oc=5",
+    "event_date": "2026-09-21T08:58:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-61",
     "title": "Ngày hội hiến máu tình nguyện ở Bà Rịa thu được 304 đơn vị máu",
     "description": "Ngày hội hiến máu tình nguyện ở Bà Rịa thu được 304 đơn vị máu&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -126,7 +201,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-19",
+    "id": "rss-q_lehoi-24",
     "title": "Mang trăng yêu thương đến với trẻ em có hoàn cảnh khó khăn",
     "description": "Mang trăng yêu thương đến với trẻ em có hoàn cảnh khó khăn&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -152,35 +227,10 @@
     }
   },
   {
-    "id": "rss-q_lehoi-21",
-    "title": "Lễ hội Trung thu 2026: Nhiều hoạt động văn hóa nghệ thuật ý nghĩa cho thiếu nhi",
-    "description": "Lễ hội Trung thu 2026: Nhiều hoạt động văn hóa nghệ thuật ý nghĩa cho thiếu nhi&nbsp;&nbsp;VOH...",
-    "source_entity": "VOH",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREE2bkJha1ctak9tdjhPWFNQMGJnbFFOMlNDclg2elF3VmpoN1FhZ1k2ZVZ0MkdUVGhfSHhBdExmemFYSHJUSmI2eC13ajYySV9Tc0I5enkzQldJM0o3NFlkWGpiTERPeDY0VlJyTDBSb1JERlRhNzFzdVNZV0VnRGROQTAteFFkdUVwMXFNQmhva3FuVWYwWjMxUjVTNi1GNl9OeEZQZUtqNWNkZXh0Zk5Sb1lwNnZ3?oc=5",
-    "event_date": "2026-09-20T02:55:54.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_idecaf-2",
+    "id": "rss-q_idecaf-5",
     "title": "Vị thế nào cho Nhà hát cải lương Trần Hữu Trang trong phát triển công nghiệp văn hóa ở TP.HCM?",
-    "description": "Vị thế nào cho Nhà hát cải lương Trần Hữu Trang trong phát triển công nghiệp văn hóa ở TP.HCM?&nbsp;&nbsp;tuoitre.vn...",
-    "source_entity": "tuoitre.vn",
+    "description": "Vị thế nào cho Nhà hát cải lương Trần Hữu Trang trong phát triển công nghiệp văn hóa ở TP.HCM?&nbsp;&nbsp;Báo Tuổi Trẻ...",
+    "source_entity": "Báo Tuổi Trẻ",
     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmpveGFycnZWem9relI0QkRhTmpKQ2JaQmNUV0NoMEVPMUZydUZKaWg0MktQOW8zNllnWEhFbnhVVXNDY3RkUnlhQlVzenBQdHZLS3ZYWVc4MmJNbEVnQnJoNUJuRWlyZzBVSkpjZGdXSE5WMDItVFpyRmFFMmZrVHcyLVhrVnc3eXJxWFpqdWRvQVVaY3puMkxyOUR0RHh2MGY1by1HSjJFVkxRR1l5QW5zTEduMk5zQWlUUHNCd3o2Y1hocWVvaGNZVTItb0k?oc=5",
     "event_date": "2026-09-20T08:42:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -203,7 +253,7 @@
     }
   },
   {
-    "id": "rss-q_muaroi-0",
+    "id": "rss-q_muaroi-1",
     "title": "Trẻ em làm đồ chơi dân gian, nghe nghệ nhân kể chuyện Trung thu truyền thống",
     "description": "Trẻ em làm đồ chơi dân gian, nghe nghệ nhân kể chuyện Trung thu truyền thống&nbsp;&nbsp;Báo Giáo dục và Thời đại Online...",
     "source_entity": "Báo Giáo dục và Thời đại Online",
@@ -228,7 +278,7 @@
     }
   },
   {
-    "id": "rss-q_muaroi-1",
+    "id": "rss-q_muaroi-2",
     "title": "Trải nghiệm sắc màu di sản văn hóa Tết Trung thu",
     "description": "Trải nghiệm sắc màu di sản văn hóa Tết Trung thu&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -249,6 +299,57 @@
         "No_Age_Tag",
         "Missing_Date",
         "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_vienbaotang-5",
+    "title": "Tăng cường kết nối giữa nhà trường với đời sống văn hóa, nghệ thuật",
+    "description": "Tăng cường kết nối giữa nhà trường với đời sống văn hóa, nghệ thuật&nbsp;&nbsp;Bộ Văn hóa, Thể thao và Du lịch...",
+    "source_entity": "Bộ Văn hóa, Thể thao và Du lịch",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOERTR3VjZGZEdnpVX2xPLVVXcmNWZVpjMWtKcktpdzNqcE8zWll3R2pKTXYyb1hIV2JRWDcxaHJZSnpmUXNvdF8ydUVmMmh1TS1PTllEeFJ6cThPX1JwS1RhM3dxTDFSTUxnR2hGQ0xUbzB6Wk9PQmRUWTE2WGE5ZGNneExfNEhSa0tCYlByWDlEc1h2QmV4Qw?oc=5",
+    "event_date": "2026-09-21T13:40:46.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_britishcouncil-2",
+    "title": "“IELTS DAY” tại Cần Thơ: Mở rộng cơ hội tiếp cận chứng chỉ tiếng Anh quốc tế ngay tại các tỉnh ĐBSCL",
+    "description": "“IELTS DAY” tại Cần Thơ: Mở rộng cơ hội tiếp cận chứng chỉ tiếng Anh quốc tế ngay tại các tỉnh ĐBSCL&nbsp;&nbsp;Giáo dục Thủ đô...",
+    "source_entity": "Giáo dục Thủ đô",
+    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMTlra3ZYeWlqQmhFbXgxQ2R3MzNzbDF2N0VjNXRMTW9ucG9pcVdGRHduUmxUVks1aXBITFlqUUpNcGNfSkNqX2dqblJ6YjdEUU9JcmJrbFlFWjQ4RGk4anNjYjVVWDJUdlJ5b19nVm01engwNFdtSUFLZXMyS1kzNzdnN3Q3aFFubkFVZXpsQ0Y1ampSQkFqOFZ5V2tmSjJGVkdWUFVQRGtMRnZVN3NONm5Nd0g1RjNYSkFoNUc0dktrQ0xUYkVzRlRLVWc2ZEVWczdYOEl3LXpZMWtaU09SMk13?oc=5",
+    "event_date": "2026-09-21T03:55:01.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
@@ -280,12 +381,12 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-7",
-    "title": "Bất ngờ với doanh thu từ thị trường Việt Nam của Takashimaya: Tăng trưởng 20% trong khi Singapore, Trung Quốc và Thái Lan đều suy giảm",
-    "description": "Bất ngờ với doanh thu từ thị trường Việt Nam của Takashimaya: Tăng trưởng 20% trong khi Singapore, Trung Quốc và Thái Lan đều suy giảm&nbsp;&nbsp;CafeF...",
-    "source_entity": "CafeF",
-    "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRzF0MllBQjZIR2Q1ZXkzS0ZmR1QySmlVcXQyUnVFMkpQaGM2TTBTWkdOdzVqaUxOck1wSmo3a1ozQmpzRnlMUDFjT2ZVeGRIS0p3WWJNYlNYWm14RzA4VjdnWVZJZFdSUVhCY0g5NFdpMHJVUURnM19EYzJ3dkdFTTdOclhqLUNaai1DVjU1YUFTVXBOcnVaMC1rT0wxV1FER3R2UVhpOUQ4OUhVcjRlN3lvZ2t4Q1dIbEJVSGJCYmlDb2pkbnVvOU1JWGc2b3FTQzQ5UkpNYVZsTGtuYnV3aVhsdE80bE5XVWNZMXVoSE1mRWhOSGY3bVNMSGVLRllh?oc=5",
-    "event_date": "2026-09-17T17:05:00.000Z",
+    "id": "rss-q_takashimaya-12",
+    "title": "Trung tâm thương mại Takashimaya đầu tiên tại Hà Nội có thể hoạt động năm sau",
+    "description": "Trung tâm thương mại Takashimaya đầu tiên tại Hà Nội có thể hoạt động năm sau&nbsp;&nbsp;VietnamBiz...",
+    "source_entity": "VietnamBiz",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVNwbGNETUp1TFU4WWg1ZUVkTmZMMDdHS0hyZGpGN083WklueFdkeUpCbF8xc3F3eW1TemoyS2EzSy1laHM3YkZQaHJlRmEzNU1MNGNUSXlWcnplYjZkR2dfUVZNSUE4U19kQmUxeUVHYVIzREdBekJTcnFWU3RmcUNmcHdaZVVrWl82Qk1WaXJ4Yi1NWXUxaHRwZTl0VzlQZkZYZldR?oc=5",
+    "event_date": "2026-09-19T02:47:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -306,33 +407,7 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-10",
-    "title": "Câu chuyện 200 năm của “đế chế” Takashimaya đang muốn xây trung tâm thương mại tại Hà Nội",
-    "description": "Câu chuyện 200 năm của “đế chế” Takashimaya đang muốn xây trung tâm thương mại tại Hà Nội&nbsp;&nbsp;Thương gia...",
-    "source_entity": "Thương gia",
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXhTMnRBUFZ2SmZrNDZIQkx3OXNzRHhRVG5qNTlGd3p3YXowN0lScUJEcm9hV3BPdG9najgwOWUzcFFCdU5ra2ZpVmg4Nm1OUVpEeEh3WF9NblhYWU1DQ3NCaXJxLTRYdFlZVWdBeExvaDByYW1NZHFQZzU3S2lOV0hnaktHSy1Hd1NlSUtXRHhLWktIaUxJYW9Ea1pPcVBRQ211RExJWG5RN19vY3BsUFFjYUdXeFQ4SWtFcF8xVmlFelFtczJzZHJB0gHIAUFVX3lxTE5OX3FySXpXLXdwX2JEUzNyOU4xZTBjVXBhSERvaXRyaWk1RFJWVEhZQkJNeVpPQXp3dlViVzY0V3U5VDI0Yll0cWpjXzFHdDlxX0lyVnBHa0FNUTZ5eWw2X0w2NTlXSTdIb1paMW1kQVhSakE0Q21ybVo4amEyUzlOS0p6dXp6SFVCX1V4QmFmUjBibW9sdVl1QXhKeFV5bjdjY19BTmMxYlRUYXd6NUN4dnp6bjh3QUlJMUpOLTJUemNlVEIwaDlK?oc=5",
-    "event_date": "2026-09-18T05:30:13.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_takashimaya-14",
+    "id": "rss-q_takashimaya-17",
     "title": "Lợi nhuận cao nhất lịch sử, Takashimaya Việt Nam xóa sạch lỗ lũy kế và ấp ủ dự án mới tại Hà Nội",
     "description": "Lợi nhuận cao nhất lịch sử, Takashimaya Việt Nam xóa sạch lỗ lũy kế và ấp ủ dự án mới tại Hà Nội&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -358,12 +433,38 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-19",
-    "title": "Trung tâm thương mại Takashimaya đầu tiên tại Hà Nội có thể hoạt động năm sau",
-    "description": "Trung tâm thương mại Takashimaya đầu tiên tại Hà Nội có thể hoạt động năm sau&nbsp;&nbsp;news.cvs.vn...",
-    "source_entity": "news.cvs.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVp6NVpDc1FYczA1U05kcGhYbzFWNmtoSVk0QTUtWEM1eWVBbXhDTGRoakFBVjlHYnZESHpEMktPNFZjQUQtX3RGSklpWkh6SWVXQm9hNXpGQ0xWQlhmV3RZdXljUVJQOFJvUWg0WjZERktSZ0M2VFhqbFpWQ0E?oc=5",
-    "event_date": "2026-09-20T17:52:43.000Z",
+    "id": "rss-q_takashimaya-31",
+    "title": "Tóc Tiên đại diện Việt Nam tại cuộc thi âm nhạc quốc tế 70 năm tuổi",
+    "description": "Tóc Tiên đại diện Việt Nam tại cuộc thi âm nhạc quốc tế 70 năm tuổi&nbsp;&nbsp;Laodong.vn...",
+    "source_entity": "Laodong.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3Z2SHZ4SjdrS3VJbzdEY1NfaUxIbEpDTFg3bVdudFV4cFVGLUZCQ2Rjd1ptTDdWa1pMQ1ZNYTZhb0NrMTNOSWJHSW5wdUN3T2pyVTlPNDBMUjlTX0p2SUZMd09PNW5CNkVSQ0NEM3M1Zm5GbFhpSDFDY09YVG14clJ0UXR0cFROcmdBdFVQOVZ3RTlMejg0LTlwRmFhaGlIRzNyZ0Jkam43Uk5KeTJwYw?oc=5",
+    "event_date": "2026-09-20T04:13:43.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Nghệ thuật & Biểu diễn",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_crescentmall-4",
+    "title": "Thương hiệu nướng Nhật Bản Yakiniku Like khai trương nhà hàng thứ 4 tại Crescent Mall",
+    "description": "Thương hiệu nướng Nhật Bản Yakiniku Like khai trương nhà hàng thứ 4 tại Crescent Mall&nbsp;&nbsp;CafeBiz...",
+    "source_entity": "CafeBiz",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUo4Rm0tbllOOXBnS0xzLXo1UGJXTF9aV1BfUGs4aVlvT3kxcnBhcVdFeW03Qnp1Z3l2bVY3TGtSUW5wLUFoQ1lpTjRiM0ZldjVrYVpJSUJaem1oZDNVcjk3bTY5ZDBvZUhzUnZoSTIxY0dsT1hQcGIxLTF2SlNWYTJXWlFNa0JKWGRjSnJEelJlYldEVWRSWVF5dDdHdEVTdndhSnl1ZVJ3bHhVR295bV9YZVVxNlVmNXpLLUM3RnR4V1VZc3c?oc=5",
+    "event_date": "2026-09-21T08:30:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -384,16 +485,16 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-32",
-    "title": "Tóc Tiên đại diện Việt Nam tại cuộc thi âm nhạc quốc tế 70 năm tuổi",
-    "description": "Tóc Tiên đại diện Việt Nam tại cuộc thi âm nhạc quốc tế 70 năm tuổi&nbsp;&nbsp;Laodong.vn...",
-    "source_entity": "Laodong.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3Z2SHZ4SjdrS3VJbzdEY1NfaUxIbEpDTFg3bVdudFV4cFVGLUZCQ2Rjd1ptTDdWa1pMQ1ZNYTZhb0NrMTNOSWJHSW5wdUN3T2pyVTlPNDBMUjlTX0p2SUZMd09PNW5CNkVSQ0NEM3M1Zm5GbFhpSDFDY09YVG14clJ0UXR0cFROcmdBdFVQOVZ3RTlMejg0LTlwRmFhaGlIRzNyZ0Jkam43Uk5KeTJwYw?oc=5",
-    "event_date": "2026-09-20T04:13:43.000Z",
+    "id": "rss-q_crescentmall-6",
+    "title": "TT GENESIS chính thức kick-off, gia nhập thị trường Nam TP. Hồ Chí Minh với giá từ 69 triệu đồng/m²",
+    "description": "TT GENESIS chính thức kick-off, gia nhập thị trường Nam TP. Hồ Chí Minh với giá từ 69 triệu đồng/m²&nbsp;&nbsp;CafeF...",
+    "source_entity": "CafeF",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ0haTFFKYXQtZGIyLXlUbldESFNiQ0FSWmN2VTZNTE1rM0xYZW1xT1o5dzZjR2hvRmNybEcxUk5GM2JnY0Y1VVNWa3RMVVl0VEloWW1tNFhZakU0a1N1QUg5ek1VdWRKMnltM1BzMzVEZHQzbnFDaExodXBVRm9aczBOR28tVndQekdEZ2FQV1g3NFVnMWNIRmY2blFwbnNFMzFyZ0s2LWg4d25sXzBMLVBkZnRHVFJrOHpSa2xfQ3NsVFFZWlRqcGhrMzYxcU9RVWc?oc=5",
+    "event_date": "2026-09-21T12:30:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Nghệ thuật & Biểu diễn",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -435,7 +536,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-29",
+    "id": "rss-q_lopnghethuat-31",
     "title": "Lãnh đạo TPHCM dự lễ khai giảng năm học 2026-2027",
     "description": "Lãnh đạo TPHCM dự lễ khai giảng năm học 2026-2027&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
