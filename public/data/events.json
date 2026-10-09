@@ -1,6 +1,31 @@
 [
   {
-    "id": "rss-afamily_mebe-31",
+    "id": "rss-vne_giadinh-6",
+    "title": "'Hội chợ diệu kỳ' cho bệnh nhi Nghệ An",
+    "description": "Hàng trăm bệnh nhi điều trị tại Bệnh viện Sản Nhi Nghệ An được vui chơi, tô tượng, đọc sách và nhận quà tại hội chợ do Quỹ Hy vọng và các đơn vị tổ chức....",
+    "source_entity": "'Hội chợ diệu kỳ' cho bệnh nhi Nghệ An",
+    "source_url": "https://vnexpress.net/hoi-cho-dieu-ky-cho-benh-nhi-nghe-an-5130130.html",
+    "event_date": "2026-10-12T03:47:56.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-afamily_mebe-45",
     "title": "Sân khấu WeFamily Awards 2026 bừng sáng với những thanh âm trong trẻo của các \"nghệ sĩ nhí\"",
     "description": "Sự hồn nhiên cùng tình cảm chân thật trong từng câu hát, từng động tác múa của các em nhỏ đã tạo nên điểm nhấn xúc động, thay lời muốn nói của những người con gửi đến đấng sinh thà...",
     "source_entity": "Sân khấu WeFamily Awards 2026 bừng sáng với những thanh âm trong trẻo của các \"nghệ sĩ nhí\"",
@@ -25,7 +50,32 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-33",
+    "id": "rss-tuoitre_giaoduc-11",
+    "title": "Đầu tư công nghệ nhanh hơn con người, doanh nghiệp coi chừng 'mua máy xịn nhưng chạy cách cũ'",
+    "description": "Doanh nghiệp rót tiền mua công nghệ và giải pháp trí tuệ nhân tạo (AI), nhưng năng lực đội ngũ lại bị bỏ lại phía sau là vấn đề được các chuyên gia, CEO mổ xẻ thẳng thắn tại hội th...",
+    "source_entity": "Đầu tư công nghệ nhanh hơn con người, doanh nghiệp coi chừng 'mua máy xịn nhưng chạy cách cũ'",
+    "source_url": "https://tuoitre.vn/dau-tu-cong-nghe-nhanh-hon-con-nguoi-doanh-nghiep-coi-chung-mua-may-xin-nhung-chay-cach-cu-100261008125901882.htm",
+    "event_date": "2026-10-11T15:32:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-tuoitre_giaoduc-48",
     "title": "Ngôi trường công lập TP.HCM có 5 sân bóng đá, 6 sân pickleball, hồ cá koi",
     "description": "Với khuôn viên gần 4ha, Trường tiểu học - THCS - THPT Nam Sài Gòn bố trí 5 sân bóng đá, 3 sân bóng rổ, 6 sân pickleball cùng nhiều không gian thể thao, nghệ thuật và vui chơi cho h...",
     "source_entity": "Ngôi trường công lập TP.HCM có 5 sân bóng đá, 6 sân pickleball, hồ cá koi",
@@ -49,32 +99,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-48",
-    "title": "Học không xuất sắc, chàng trai vẫn giành học bổng hơn 1 triệu USD và làm việc ở Úc",
-    "description": "Không nổi bật về điểm số, Nguyễn Đoàn Minh Duy chọn tích lũy trải nghiệm từ sớm và sau đó giành học bổng hơn 1 triệu USD từ 8 trường ở Mỹ....",
-    "source_entity": "Học không xuất sắc, chàng trai vẫn giành học bổng hơn 1 triệu USD và làm việc ở Úc",
-    "source_url": "https://tuoitre.vn/hoc-khong-xuat-sac-chang-trai-van-gianh-hoc-bong-hon-1-trieu-usd-va-lam-viec-o-uc-100261003164835702.htm",
-    "event_date": "2026-10-08T07:44:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-thanhnien_gioitre-18",
+    "id": "rss-thanhnien_gioitre-25",
     "title": "H&agrave;nh tr&igrave;nh 4 năm người trẻ h&igrave;nh th&agrave;nh th&oacute;i quen thu gom v&agrave; t&aacute;i chế chai nhựa",
     "description": "Ph&acirc;n loại chai nhựa, lon nh&ocirc;m sau khi sử dụng đang dần trở th&agrave;nh một th&oacute;i quen trong đời sống hằng ng&agrave;y của người trẻ. Đ&aacute;nh dấu năm thứ 4 li...",
     "source_entity": "H&agrave;nh tr&igrave;nh 4 năm người trẻ h&igrave;nh th&agrave;nh th&oacute;i quen thu gom v&agrave; t&aacute;i chế chai nhựa",
@@ -99,59 +124,7 @@
     }
   },
   {
-    "id": "rss-q_sukien-35",
-    "title": "Hơn 700 thiếu nhi Việt Nam và quốc tế vẽ Hà Nội",
-    "description": "Hơn 700 thiếu nhi Việt Nam và quốc tế vẽ Hà Nội&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLbjBTSGR6S09Cdm9mcHFpdV9sN2RNdHlHam0tR3gwZm91R09NUlp5cW1RTVFNdHJUTGF3WXZGWW1sVnA1R25wV0R4eUZXbFBNTUo0aURnWHdLQURTcWEwSWZuQkxDNm12UU9NQkFTSjVOZHB1b2t3ZUFB?oc=5",
-    "event_date": "2026-10-08T03:43:16.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_sukien-37",
-    "title": "Hơn 700 thiếu nhi tham gia cuộc thi vẽ tranh “Em yêu Hà Nội",
-    "description": "Hơn 700 thiếu nhi tham gia cuộc thi vẽ tranh “Em yêu Hà Nội - Thành phố vì hòa bình”&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk1TWTVqZTU3dlh5eG5lMjFDWndYRHBRTWM3c2xfb3BkSGFtcWtqd2l6NFNsU1lReGIteEtTdlB3aHRYRDU1TVRCM3JUYmFtaGl3YTJTUnZDV0F1dVV5N3hWeExOMGxIRU5IZlFNT3dBT0FoQ3p2a29MbldjTm14X2RpQjE0UVRac3U1VUJlVmZUWmpUeXNmN2Y1X3I5TTZmVjk4X0x3?oc=5",
-    "event_date": "2026-10-08T06:46:38.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Workshop & Kỹ năng",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-73",
+    "id": "rss-q_ngayhoi-75",
     "title": "Hoàn thành cao tốc TP.HCM",
     "description": "Hoàn thành cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành qua Đồng Nai trước ngày 31/12&nbsp;&nbsp;VOH...",
     "source_entity": "VOH",
@@ -176,33 +149,7 @@
     }
   },
   {
-    "id": "rss-q_idecaf-5",
-    "title": "Gieo tình yêu Hát bội thông qua trường học",
-    "description": "Gieo tình yêu Hát bội thông qua trường học&nbsp;&nbsp;Đài Phát thanh và Truyền hình TP.HCM...",
-    "source_entity": "Đài Phát thanh và Truyền hình TP.HCM",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNakhnTlBhbTBEb2pMZTZESVFXMmlnR2prUy1HaHhSSGM3Zzc1cC1XdUhHWV9rWk1vVk9JN1dCTjNwR01HWmZid0JoOG9JOEkxOC1FNzZ4dzl3bWJPcU1tNE5DNHVDM05wdWd2TXpPbE9mZ1JkenJkNldfQXlJanFzVjJ4Uk9HTjQ?oc=5",
-    "event_date": "2026-10-07T09:06:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_idecaf-9",
+    "id": "rss-q_idecaf-7",
     "title": "Tiếp thêm hy vọng cho phụ nữ và trẻ em mắc bệnh hiểm nghèo",
     "description": "Tiếp thêm hy vọng cho phụ nữ và trẻ em mắc bệnh hiểm nghèo&nbsp;&nbsp;Công an Nhân dân...",
     "source_entity": "Công an Nhân dân",
@@ -229,11 +176,11 @@
   },
   {
     "id": "rss-q_thaocamvien-14",
-    "title": "Đàn 170 hươu vàng nuôi nhốt ở Thảo Cầm Viên có thể là duy nhất thế giới",
-    "description": "Đàn 170 hươu vàng nuôi nhốt ở Thảo Cầm Viên có thể là duy nhất thế giới&nbsp;&nbsp;Laodong.vn...",
+    "title": "Đàn thú quý sinh sôi, Thảo Cầm Viên tính giãn đàn để tránh đồng huyết",
+    "description": "Đàn thú quý sinh sôi, Thảo Cầm Viên tính giãn đàn để tránh đồng huyết&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTdZMHc4ZVp5dm5sMDZWZWtzQmIxa3paV210M2I3OTFwX0VPdE1ka3dYajRIejM3ZFdreFVELWZiNDJSdG5LaC0xa2NhUnlySkQ3TGpVcFNJakxxVlprZTJNUmJOQ1ltY3Bma19jSnNscmxxcVVKZ0phaG03dFJOM19JdkU3eE5SNjdoQi04Q2w3cEJydEdPSm9tWTVySGg1RHVVYkF1Uk9ZUzlpNmZQMS1QR0VGei1fOGVZSUNJQ3RPZWs?oc=5",
-    "event_date": "2026-10-07T08:27:53.000Z",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEp0UVpfWVBlMUlFWGp6bWtlaWFmVXNrdjM2VmVibE5OeVdQWjRFY2ROV1JEVGZ6YkZON21oLWxQbE11OE9mcElDR05WZksyaXlEMHllQUJVbVZha1JVM1BCZE9KUFF3WWROamRIRFhqNjJadmhITU1UZmVDNEVrZ0NXQlN2Zkc1VEt2VktzYVdyYk1jd2tnbW1iNEZXSjVvYkwtSGlKbDZPTlRUaWtld2VadDlUSlFkR05UdGszVQ?oc=5",
+    "event_date": "2026-10-09T13:01:58.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -254,7 +201,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-37",
+    "id": "rss-q_thaocamvien-39",
     "title": "Đứa trẻ từng kiếm sống ở Thảo Cầm Viên, cưới vợ biên kịch, mượn sổ đỏ của bố làm phim rồi thu 300 tỷ đồng",
     "description": "Đứa trẻ từng kiếm sống ở Thảo Cầm Viên, cưới vợ biên kịch, mượn sổ đỏ của bố làm phim rồi thu 300 tỷ đồng&nbsp;&nbsp;Phụ nữ & Pháp luật...",
     "source_entity": "Phụ nữ & Pháp luật",
@@ -306,7 +253,7 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-13",
+    "id": "rss-q_takashimaya-17",
     "title": "Onsen trong lòng đô thị: trải nghiệm mới của trung tâm thương mại",
     "description": "Onsen trong lòng đô thị: trải nghiệm mới của trung tâm thương mại&nbsp;&nbsp;CafeF...",
     "source_entity": "CafeF",
@@ -331,33 +278,58 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-3",
-    "title": "10 năm lớp violin '0 đồng' giữa công viên TP.HCM",
-    "description": "10 năm lớp violin '0 đồng' giữa công viên TP.HCM&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUWDdQcVJLbmlQalRCX2NfYl9fLUlvN1phYXJOdnl2T0FLQTVTdkN6OFpnVmpEQTdjWF9OeVhjWUNwM2M2LThjSmZVUXU4Q0x0WUdfalhlNXliOWxaV2F2cVVuTVpsbFBjZ2diMFVwN2h1eFlGdlp2Vw?oc=5",
-    "event_date": "2026-10-10T07:15:12.000Z",
+    "id": "rss-q_chaybogiadinh-15",
+    "title": "Đánh sập mạng lưới rao bán ảnh riêng tư của 17.000 phụ nữ, trẻ em",
+    "description": "Đánh sập mạng lưới rao bán ảnh riêng tư của 17.000 phụ nữ, trẻ em&nbsp;&nbsp;Skydoor News...",
+    "source_entity": "Skydoor News",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CMTU5cWJRT1BPeDR6LVhIOTZVV1lESk5xeDVfVUFreEhVS093aDk1eG5nN04tU1c5dUhkWHJ2WkgzT25XNk53ZDJvVWs5bVowRXplU3NMNnkyQmpJSUV6YkxXYjVrYzRXekZmMGNGS3NnWnEwelRTMFlRMGI?oc=5",
+    "event_date": "2026-10-12T03:09:53.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": false,
+      "isAgeAppropriate": true,
       "hasTemporal": false,
-      "hasLocation": true,
+      "hasLocation": false,
       "isInteractive": false,
       "score": 40,
       "failures": [
-        "No_Age_Tag",
         "Missing_Date",
+        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_lopnghethuat-13",
+    "id": "rss-q_chaybogiadinh-20",
+    "title": "Người đàn ông tại Quảng Trị hai lần trúng giải thưởng tỷ đồng từ xổ số quay nhanh lotto 5/35 của Vietlott",
+    "description": "Người đàn ông tại Quảng Trị hai lần trúng giải thưởng tỷ đồng từ xổ số quay nhanh lotto 5/35 của Vietlott&nbsp;&nbsp;Skydoor News...",
+    "source_entity": "Skydoor News",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXJNODB2T3pUWk5HZS1vZF9hSDlrVUgtdUxsa3FsdDREcTBlY09VdHdaMVMwRFB0T3Qtc1dILUdUUmIyRXZjLWhzaV9SNXZ5c2dLakFmYnpSSGtrNk9NRUJReXFlcUExZm8xcWVGQmF2ajY4N3o3V1U5bnJ2MF9wemRiNWVsNFVSRW1COU5YTXFleHJOTldwSHlkZWpqRDJOOVFR?oc=5",
+    "event_date": "2028-11-05T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lopnghethuat-5",
     "title": "Tài khoản ẩn danh kêu gọi giúp đỡ 3 trẻ em \"đặc biệt éo le\", phường rà soát khẩn cấp",
     "description": "Tài khoản ẩn danh kêu gọi giúp đỡ 3 trẻ em \"đặc biệt éo le\", phường rà soát khẩn cấp&nbsp;&nbsp;Báo Dân trí...",
     "source_entity": "Báo Dân trí",
@@ -383,7 +355,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-16",
+    "id": "rss-q_lopnghethuat-22",
     "title": "ILA lan tỏa tinh thần sẻ chia trong mùa tựu trường qua “Hẹn em ở trường”",
     "description": "ILA lan tỏa tinh thần sẻ chia trong mùa tựu trường qua “Hẹn em ở trường”&nbsp;&nbsp;Báo Dân trí...",
     "source_entity": "Báo Dân trí",
@@ -409,12 +381,12 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-27",
-    "title": "Bếp sẻ chia của cô trò trường đại học Luật | Thành phố ấm áp tình người | VTV9",
-    "description": "Bếp sẻ chia của cô trò trường đại học Luật | Thành phố ấm áp tình người | VTV9&nbsp;&nbsp;VTVgo...",
-    "source_entity": "VTVgo",
-    "source_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5sQW9mWjB2eVJsU2FYcmRITm9NekJLSU9LQjB6dmNQWDBiR3F3Q0FmX1BGTVJtX1BPU2pOaHVhQ3Y?oc=5",
-    "event_date": "2026-10-08T00:00:00.000Z",
+    "id": "rss-q_lopnghethuat-43",
+    "title": "Trường Quốc tế Hội An: Mở rộng quy mô, giữ trọn sự gần gũi",
+    "description": "Trường Quốc tế Hội An: Mở rộng quy mô, giữ trọn sự gần gũi&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFF2bVNrUVp2QjJwUlVEUEV6U3NMQnF2VEk3eHR1S2NnMkdENXhuWFd6dk9abzBXQmtjUXJWZkdQUHNHT3lPcVNQLWRMOGtqbDd2eDlfOEdQRGR5c01nVnhMbVF3Sm5OODNINHR3VGsyVUh6elYxRGFLVWRNYVVXNTdORFJHZw?oc=5",
+    "event_date": "2026-10-09T07:25:13.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -435,7 +407,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-41",
+    "id": "rss-q_lopnghethuat-46",
     "title": "Đến trường học đàn Chapi",
     "description": "Đến trường học đàn Chapi&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -461,7 +433,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-46",
+    "id": "rss-q_lopnghethuat-51",
     "title": "TPHCM nhiều kỳ vọng khi triển khai dạy tiếng Anh tích hợp cho trẻ mầm non",
     "description": "TPHCM nhiều kỳ vọng khi triển khai dạy tiếng Anh tích hợp cho trẻ mầm non&nbsp;&nbsp;Đời sống Việt Nam...",
     "source_entity": "Đời sống Việt Nam",
