@@ -1,6 +1,30 @@
 [
   {
-    "id": "rss-afamily_mebe-20",
+    "id": "rss-afamily_mebe-10",
+    "title": "Hơn 400 thương hiệu tham gia VIETBABY HANOI 2026",
+    "description": "Triển lãm mở cửa miễn phí từ ngày 15–18/10/2026 tại Trung tâm Triển lãm Việt Nam (VEC), Đông Anh, Hà Nội....",
+    "source_entity": "Hơn 400 thương hiệu tham gia VIETBABY HANOI 2026",
+    "source_url": "https://afamily.vn/hon-400-thuong-hieu-tham-gia-vietbaby-hanoi-2026-236261015160423523.chn",
+    "event_date": "2026-10-18T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Triển lãm & Trưng bày",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-afamily_mebe-33",
     "title": "VIETBABY HANOI 2026: Điểm hẹn kết nối ngành Mẹ và Bé",
     "description": "Với sự kết hợp giữa hoạt động trưng bày sản phẩm, kết nối giao thương và nhiều chương trình dành cho gia đình, VIETBABY HANOI 2026 kỳ vọng tiếp tục là điểm hẹn của cộng đồng doanh ...",
     "source_entity": "VIETBABY HANOI 2026: Điểm hẹn kết nối ngành Mẹ và Bé",
@@ -25,7 +49,7 @@
     }
   },
   {
-    "id": "rss-afamily_mebe-24",
+    "id": "rss-afamily_mebe-37",
     "title": "Trọn vẹn hành trình “Growing With Love” qua những khoảnh khắc đẹp nhất",
     "description": "Từ màn đồng diễn của 700 mẹ bầu, những đường đua đầu đời của các em bé đến sân khấu WeFamily Awards, Festival Mẹ Bầu & Em Bé KidsPlaza 2026 tại Hà Nội đã nối những trải nghiệm khác...",
     "source_entity": "Trọn vẹn hành trình “Growing With Love” qua những khoảnh khắc đẹp nhất",
@@ -49,56 +73,59 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-28",
-    "title": "Sinh viên kiến trúc đưa di sản lên nền tảng số",
-    "description": "Ứng dụng IDisản hỗ trợ tham quan, học tập và nghiên cứu tại Bảo tàng Lịch sử TP.HCM cùng triển lãm những thiết kế thời trang sáng tạo của sinh viên là hai điểm nhấn tại MPOINT 2026...",
-    "source_entity": "Sinh viên kiến trúc đưa di sản lên nền tảng số",
-    "source_url": "https://tuoitre.vn/sinh-vien-kien-truc-dua-di-san-len-nen-tang-so-100261013062912316.htm",
-    "event_date": "2026-10-16T06:45:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Triển lãm & Trưng bày",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-tuoitre_giaoduc-29",
-    "title": "Tiết học ở vườn trường có gì thú vị khi kết hợp với AI?",
-    "description": "Tại Trường tiểu học Đống Đa, phường Tân Hòa, TP.HCM, các giáo viên đã ứng dụng AI với việc cho học sinh thực hành ngay tại vườn trường, mang đến những trải nghiệm đặc biệt....",
-    "source_entity": "Tiết học ở vườn trường có gì thú vị khi kết hợp với AI?",
-    "source_url": "https://tuoitre.vn/tiet-hoc-o-vuon-truong-co-gi-thu-vi-khi-ket-hop-voi-ai-100261012180525712.htm",
-    "event_date": "2026-10-15T18:20:00.000Z",
+    "id": "rss-q_sukien-21",
+    "title": "TPHCM kết nối 36 đối tác quốc tế tại Hội sách Frankfurt",
+    "description": "TPHCM kết nối 36 đối tác quốc tế tại Hội sách Frankfurt&nbsp;&nbsp;Báo Dân trí...",
+    "source_entity": "Báo Dân trí",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFNmd0tmNXRXUVY2a3J3WmtaMUZlZlV6cXBJbU1ienBSZXpRZmQwV3VySGZwajl5cDdac0VwQkxQYU1vdVVUaU1EU0xVU0JVM3RrbWt4anJHWTNYN0hqSmVDLTNhZl9QTjRQZUg1V0h2VnUyTFpBUWVLb0ZUc0ZyWFZMdDNxY09CMThaUkhFZlNVVGhjZTFtSWY0cHVpbHIxTEl0TWZHbG4xaWxq?oc=5",
+    "event_date": "2026-10-18T09:24:39.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
       "hasLocation": true,
-      "isInteractive": true,
-      "score": 80,
+      "isInteractive": false,
+      "score": 40,
       "failures": [
-        "Missing_Date"
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_lehoi-5",
+    "id": "rss-q_sukien-24",
+    "title": "Văn hóa, lịch sử Việt Nam ghi dấu ấn với khách quốc tế tại Frankfurt 2026",
+    "description": "Văn hóa, lịch sử Việt Nam ghi dấu ấn với khách quốc tế tại Frankfurt 2026&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXhDWWlnWi1wa0NiVURHdmp2SktNaS1lYk5wOGlSR05VZjlXSnB2UFh0WWgyZEY1ZXg0WWpaeFBjQnYwZjVkM1pxQjA3WEhKNzB4NkxHY3laY2FhVzhTTGpad1lfZV9naTVuV1JvMHBXWUdObE80MHhGeERVMmNrcjRRblJiUlJyb29lR050ek5tVDFmYnliV0RhNA?oc=5",
+    "event_date": "2026-10-18T12:35:46.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-6",
     "title": "TP.HCM vinh danh 9 mô hình, sáng kiến tiêu biểu tại Giải thưởng Hồ Hảo Hớn 2026",
     "description": "TP.HCM vinh danh 9 mô hình, sáng kiến tiêu biểu tại Giải thưởng Hồ Hảo Hớn 2026&nbsp;&nbsp;Đại học Kinh tế TP. Hồ Chí Minh...",
     "source_entity": "Đại học Kinh tế TP. Hồ Chí Minh",
@@ -150,33 +177,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-19",
-    "title": "Bảo tàng ở TP.HCM hút học sinh, sinh viên sau khi miễn phí tham quan",
-    "description": "Bảo tàng ở TP.HCM hút học sinh, sinh viên sau khi miễn phí tham quan&nbsp;&nbsp;Tuổi Trẻ...",
-    "source_entity": "Tuổi Trẻ",
-    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMENfYllaR2V6NzlwVmxNMUQ1VHkzd2Y3NmsyWEdJSjl3dDAxUzE0eC1OZ3NINzhTVkx6b2dyS0VBTUR4Snp3ZWVQOXB2cG1YZ2k4dDNBMFZJZ291NlBIaFUzbENmTEtZNjEwV2xLWG1iR1FUdThsTEtBT0J6MElZQk9XSzcxUy05UFFQQlhUdUV1X3RHMW96by1kNnZfQTFtcnlzUWcwZi0yb19z?oc=5",
-    "event_date": "2026-10-14T09:11:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Triển lãm & Trưng bày",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_crescentmall-5",
+    "id": "rss-q_crescentmall-3",
     "title": "Rạp CGV HCM: Danh sách, địa chỉ và giá vé mới nhất 2026",
     "description": "Rạp CGV HCM: Danh sách, địa chỉ và giá vé mới nhất 2026&nbsp;&nbsp;Viettel Store...",
     "source_entity": "Viettel Store",
@@ -228,7 +229,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-13",
+    "id": "rss-q_chaybogiadinh-9",
     "title": "Giá nhà tại TPHCM vượt 30 lần thu nhập hộ gia đình",
     "description": "Giá nhà tại TPHCM vượt 30 lần thu nhập hộ gia đình&nbsp;&nbsp;tin.skydoor.net...",
     "source_entity": "tin.skydoor.net",
@@ -253,12 +254,12 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-16",
+    "id": "rss-q_chaybogiadinh-17",
     "title": "Hai nạn nhân vụ gia đình ở TP HCM bị chém đã qua nguy kịch",
     "description": "Hai nạn nhân vụ gia đình ở TP HCM bị chém đã qua nguy kịch&nbsp;&nbsp;tin.skydoor.net...",
     "source_entity": "tin.skydoor.net",
     "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPem5DVWZHSWwxN0VQZnFiSHFJNHlCLXpnYkRwdzhuTzkwTFYtMmtDOFdtTnk4c3RNOHVDazZrQWFFbGhZaHVlckRsc3ZSMXVLcE9FWU0ybkVsX0Y2R1dSSl9ERzlESDk5a3RXUUJKUkI3VWRSOWJvWHdXd2wzNTMxazNEeEhad0VLQVh6SXlkSmQ2bi0xVmdvcW00dUZFREJ6alVaVlQ3eWI?oc=5",
-    "event_date": "2026-10-18T01:48:49.000Z",
+    "event_date": "2026-10-19T02:20:36.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -279,33 +280,7 @@
     }
   },
   {
-    "id": "rss-q_lopnghethuat-6",
-    "title": "\"Nét vẽ yêu thương\"",
-    "description": "\"Nét vẽ yêu thương\" - Chương trình chào mừng ngày Phụ nữ Việt Nam 20/10&nbsp;&nbsp;Bệnh viện nhi đồng 1...",
-    "source_entity": "Bệnh viện nhi đồng 1",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMW5oUVhrZndlWXZ1V3BRWHk3TGVQRllweUpoeUd2OEpOck5md3RFYnJPYzNZLVM4U1RPemVnSVZvWURpdEZORWlHbGprZHdyOTFmQ01IeTZSTEZJeEZMLUUwUXEtb3Y5RW9US0NIaDNub2doX0FzSks0WEdGYjkxLUpkUGhJbXhYQVFaVGFwNGh0Zm93U1phUGpKT0I0U1E0MVliZVgyVEp6RWUzaktMQnVYRE8wQ0JMVTl4eHhR?oc=5",
-    "event_date": "2026-10-20T00:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-35",
+    "id": "rss-q_lopnghethuat-28",
     "title": "TP. Hồ Chí Minh: Đẩy mạnh kết nối cộng đồng, hỗ trợ người cao tuổi và trẻ em yếu thế",
     "description": "TP. Hồ Chí Minh: Đẩy mạnh kết nối cộng đồng, hỗ trợ người cao tuổi và trẻ em yếu thế&nbsp;&nbsp;HTV...",
     "source_entity": "HTV",
@@ -325,32 +300,6 @@
       "failures": [
         "Missing_Date",
         "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-50",
-    "title": "Giới trẻ rủ nhau học đàn violin miễn phí giữa công viên TPHCM",
-    "description": "Giới trẻ rủ nhau học đàn violin miễn phí giữa công viên TPHCM&nbsp;&nbsp;Eva.vn...",
-    "source_entity": "Eva.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaTk2dE5SaFRJV1IwUHRDQkRSQXRhV3QxdkZSR2stSVA3d0pqX2NFTVkzSkp5UjhqRVB6djlFc3NVcUQydlVvRmFIV2RWeDBxVERDOTExMUp0Q1hzeTZQZ1FBM3ZJanM4ME9RZ1hTYXEtQ0FaX0NGTGpWT0dPTXVYWUxwdmVnOUpOLVMwdE9vLW42Ym1nTTQzYnJTbXhQMVpQQlVBOQ?oc=5",
-    "event_date": "2026-10-14T06:06:02.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
