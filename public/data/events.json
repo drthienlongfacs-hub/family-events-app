@@ -1,6 +1,55 @@
 [
   {
-    "id": "rss-afamily_mebe-11",
+    "id": "rss-afamily_mebe-1",
+    "title": "Đi hội chợ mẹ và bé: Mẹ 5.0 không chỉ săn deal hấp dẫn, còn “bỏ túi” một nghề tay trái mới",
+    "description": "Tại VietBaby Fair 2026, bên cạnh loạt trải nghiệm dành cho cả gia đình, gian hàng Nestlé NAN và Nutren Junior còn mang đến một workshop khá đặc biệt: hướng dẫn các mẹ những bước đầ...",
+    "source_entity": "Đi hội chợ mẹ và bé: Mẹ 5.0 không chỉ săn deal hấp dẫn, còn “bỏ túi” một nghề tay trái mới",
+    "source_url": "https://afamily.vn/di-hoi-cho-me-va-be-me-50-khong-chi-san-deal-hap-dan-con-bo-tui-mot-nghe-tay-trai-moi-236261018101200279.chn",
+    "event_date": "2026-10-21T03:09:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-afamily_mebe-7",
+    "title": "Hikid mang \"Đường đua tăng trưởng\" đầy sắc màu đến Vietbaby Fair Hà Nội 2026",
+    "description": "Với không gian lấy cảm hứng từ hành trình lớn khôn của trẻ, Hikid mang đến Vietbaby Fair Hà Nội 2026 nhiều trò chơi vận động, hoạt động trải nghiệm và quà tặng dành cho ba mẹ cùng ...",
+    "source_entity": "Hikid mang \"Đường đua tăng trưởng\" đầy sắc màu đến Vietbaby Fair Hà Nội 2026",
+    "source_url": "https://afamily.vn/hikid-mang-duong-dua-tang-truong-day-sac-mau-den-vietbaby-fair-ha-noi-2026-236261017155059535.chn",
+    "event_date": "2026-10-20T08:30:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-afamily_mebe-21",
     "title": "Festival Mẹ Bầu & Em Bé KidsPlaza 2026 khép lại: Những con số ấn tượng sau mùa hội ngộ",
     "description": "Hơn 50.000 lượt khách tham quan, mua sắm, 15 triệu lượt xem livestream và hàng chục nghìn lượt thảo luận trên mạng xã hội đã ghi dấu sức hút của Festival Mẹ Bầu & Em Bé KidsPlaza 2...",
     "source_entity": "Festival Mẹ Bầu & Em Bé KidsPlaza 2026 khép lại: Những con số ấn tượng sau mùa hội ngộ",
@@ -24,7 +73,7 @@
     }
   },
   {
-    "id": "rss-afamily_mebe-22",
+    "id": "rss-afamily_mebe-32",
     "title": "Hơn 400 thương hiệu tham gia VIETBABY HANOI 2026",
     "description": "Triển lãm mở cửa miễn phí từ ngày 15–18/10/2026 tại Trung tâm Triển lãm Việt Nam (VEC), Đông Anh, Hà Nội....",
     "source_entity": "Hơn 400 thương hiệu tham gia VIETBABY HANOI 2026",
@@ -48,16 +97,197 @@
     }
   },
   {
-    "id": "rss-afamily_mebe-45",
-    "title": "VIETBABY HANOI 2026: Điểm hẹn kết nối ngành Mẹ và Bé",
-    "description": "Với sự kết hợp giữa hoạt động trưng bày sản phẩm, kết nối giao thương và nhiều chương trình dành cho gia đình, VIETBABY HANOI 2026 kỳ vọng tiếp tục là điểm hẹn của cộng đồng doanh ...",
-    "source_entity": "VIETBABY HANOI 2026: Điểm hẹn kết nối ngành Mẹ và Bé",
-    "source_url": "https://afamily.vn/vietbaby-hanoi-2026-diem-hen-ket-noi-nganh-me-va-be-236261013145418488.chn",
-    "event_date": "2026-10-16T08:15:00.000Z",
+    "id": "rss-q_sukien-23",
+    "title": "TPHCM kết nối 36 đối tác quốc tế tại Hội sách Frankfurt",
+    "description": "TPHCM kết nối 36 đối tác quốc tế tại Hội sách Frankfurt&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSU9GOHFiSXlDN1ZWTzR1N25ySWoyM1hNNkZpWElxVWNpU2xvaFNyeTZxNVpHenBTT2RVdDNvQzlYYnJZVGlpOTF6QkU0YmxKSjZfMTVaSVlWeXlTQ1k3bkV6X0p4RHBrRWhJR1RyQnZrSzBodWpPcm93VEczem5JNFJUcmw?oc=5",
+    "event_date": "2026-10-18T11:05:03.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Triển lãm & Trưng bày",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-25",
+    "title": "Văn hóa, lịch sử Việt Nam ghi dấu ấn với khách quốc tế tại Frankfurt 2026",
+    "description": "Văn hóa, lịch sử Việt Nam ghi dấu ấn với khách quốc tế tại Frankfurt 2026&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXhDWWlnWi1wa0NiVURHdmp2SktNaS1lYk5wOGlSR05VZjlXSnB2UFh0WWgyZEY1ZXg0WWpaeFBjQnYwZjVkM1pxQjA3WEhKNzB4NkxHY3laY2FhVzhTTGpad1lfZV9naTVuV1JvMHBXWUdObE80MHhGeERVMmNrcjRRblJiUlJyb29lR050ek5tVDFmYnliV0RhNA?oc=5",
+    "event_date": "2026-10-18T12:35:46.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-39",
+    "title": "Xã Tân Nhựt tổ chức Ngày hội chuyển đổi số năm 2026",
+    "description": "Xã Tân Nhựt tổ chức Ngày hội chuyển đổi số năm 2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmdWYmswOEpxeGJWZ2V2dFlBeGQ3WHJfX1hRY2VZeUlRMkVyX2lqYzh6SkEyY3RSQV94V3ZacHZRczZrZ19jQTNQXzlyNlcxTjJBTlVJTXBjcTl6bEJhM2Z5TGdvZ0NMSlBlT2VMa2x4SlRnM195SE4xalIxN0VwNXBFVUJnRkZNVEhMWEctR0R4Tk5BN2c?oc=5",
+    "event_date": "2026-10-20T05:40:56.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_sukien-50",
+    "title": "Hiền Thục bỏ showbiz, đi bán quần áo ở đường Nguyễn Trãi, TP.HCM",
+    "description": "Hiền Thục bỏ showbiz, đi bán quần áo ở đường Nguyễn Trãi, TP.HCM&nbsp;&nbsp;Ngôi Sao VN – Chuyển động cùng Sao...",
+    "source_entity": "Ngôi Sao VN – Chuyển động cùng Sao",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUpvSk1EQk5YWWVPdUxMb3V3MVE1c0VpdXBLWjE5UGpRbDdYUkw0LTQ2bUp2Q05MQUExbkpYSjVQRndsZGxhclJpQm1CTEhiaVNQM1l5Z2RyNXJLTU5pWkFRMjJBeTNrVzBJOFpfa0R2WndMdDFwei1LYTVDSGgzdTN4a29PUXpDcXE4dFEtWlRRWl9STWk5RGg0ZkNGTDRWMXVSbWgwUTJVVTMyLWp5b01tWDZVekFRQnQ5Uw?oc=5",
+    "event_date": "2026-10-19T15:56:36.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-8",
+    "title": "Đoàn viên, thanh niên TPHCM đồng ca ca khúc “Lên Đàng”",
+    "description": "Đoàn viên, thanh niên TPHCM đồng ca ca khúc “Lên Đàng”&nbsp;&nbsp;Quân Khu 7 Online...",
+    "source_entity": "Quân Khu 7 Online",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelpkeEQxZXZidHU2ZzlqMmcyaFhOQm5Zc3lOZjNwajNvX0xoZHRrT1ZSS0J2OGlPYlFPOWdLQXV1Zng1VG9lM2dHSzR4RjdaRzQ0REZUcTFhZUVYNXdGekg2T0Rhd2ZxVU5WNWx4SjJtWldzTDMxNE93ZXBIQzlBS0liWkYxSmdGN1pkYW55LVdXRjhKdTMzN1ctbXlBTk1qRFhnTw?oc=5",
+    "event_date": "2026-10-20T17:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-17",
+    "title": "Hơn 1.000 người tham gia ngày hội việc làm số tại phường Tân Thành",
+    "description": "Hơn 1.000 người tham gia ngày hội việc làm số tại phường Tân Thành&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObm1zQzlOM0VHdnRBS280QmpMNFdJMVRGRjZXWFF2dnVfaDY1QWpSclB3dHFVSTdZeDdkVVpHN1gyMURjc3p0c1BGMnhhQkE3R2xqUE1iVWZjUmM0NHhzdXRSTURmNU9lbFdGWER0NnVURm9qdXdJNEhUSTV6c25fSDJoQW4xSWt2WHFDS0xzcC1iWnFqZG11ZHI1V19qNkoxY2V3bldld3o?oc=5",
+    "event_date": "2026-10-20T05:46:49.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_chaybogiadinh-11",
+    "title": "Hai nạn nhân vụ gia đình ở TP HCM bị chém đã qua nguy kịch",
+    "description": "Hai nạn nhân vụ gia đình ở TP HCM bị chém đã qua nguy kịch&nbsp;&nbsp;tin.skydoor.net...",
+    "source_entity": "tin.skydoor.net",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPem5DVWZHSWwxN0VQZnFiSHFJNHlCLXpnYkRwdzhuTzkwTFYtMmtDOFdtTnk4c3RNOHVDazZrQWFFbGhZaHVlckRsc3ZSMXVLcE9FWU0ybkVsX0Y2R1dSSl9ERzlESDk5a3RXUUJKUkI3VWRSOWJvWHdXd2wzNTMxazNEeEhad0VLQVh6SXlkSmQ2bi0xVmdvcW00dUZFREJ6alVaVlQ3eWI?oc=5",
+    "event_date": "2026-10-21T01:55:39.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Nghệ thuật & Biểu diễn",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lehoi-16",
+    "title": "Ngày hội Khám phá khoa học, sáng tạo cho thiếu nhi 2026",
+    "description": "Ngày hội Khám phá khoa học, sáng tạo cho thiếu nhi 2026&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeU51cG5PYmJXS195em5rdXNhdFcwSTlJNUlBcDAxNFZzS0FhV3BrQmFyVW82dDJZcmlrS2ZwQjZZMS1rdllPNFQ1QzM2VlJkd1REWXpobEFQOUNsUXEzYm9Ecm1ETFVYbjFpYi1sSE5BT09qem1SNWVFSUxlcG5uY1dlaw?oc=5",
+    "event_date": "2026-10-21T00:06:34.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": true,
@@ -68,6 +298,135 @@
       "failures": [
         "Missing_Date",
         "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_idecaf-6",
+    "title": "Hơn 92 tỉ đồng chăm lo người nghèo, học sinh, sinh viên khó khăn ở TP.HCM",
+    "description": "Hơn 92 tỉ đồng chăm lo người nghèo, học sinh, sinh viên khó khăn ở TP.HCM&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUhnRWdIQzBQMVBTMVVKcTNqdTB0ODc2M0hkcDRhY2RMX2M2UVVXNnJRR0ZqS0RJb1hUNmxaQmZoaHRSbE1lVERoRU5mMmMtQ2pTQmc3SUZZaFF4OVhnRWFjRWUtV3RCdUlKSllScHVGazhqazBUTl8yOUR4V1VXU1FDb181VDNKaGhZS0ZKTHhEcXoxOVRhdy13?oc=5",
+    "event_date": "2026-10-20T12:52:53.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_vienbaotang-8",
+    "title": "Trải nghiệm lớp học Robotics: Khi trẻ em bắt đầu làm quen với công nghệ",
+    "description": "Trải nghiệm lớp học Robotics: Khi trẻ em bắt đầu làm quen với công nghệ&nbsp;&nbsp;VTVgo...",
+    "source_entity": "VTVgo",
+    "source_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1aLURyRUNPT2JINXg5NkJzSW4tT1hqZkRTVUZIZmdiWnU5MjhnbXQ2NWQ3SHF2Yk5WejNwYWE2Z0s?oc=5",
+    "event_date": "2026-10-21T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_crescentmall-3",
+    "title": "15+ rạp chiếu phim HCM đẹp, giá vé và địa chỉ mới nhất 2026",
+    "description": "15+ rạp chiếu phim HCM đẹp, giá vé và địa chỉ mới nhất 2026&nbsp;&nbsp;Viettel Store...",
+    "source_entity": "Viettel Store",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUGRyc2RCSnZoMnVCQ3paeG5rMHpiN244SEdweHNLYVVDQVU0c203bVBuRWZlaDdmR1N3TVZQdVcxYWswZW1aMkh4SUxGTDVVcWRtSm1QbWZVdXgySTdz?oc=5",
+    "event_date": "2026-10-19T16:24:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_chaybogiadinh-14",
+    "title": "TPHCM tìm người thân cho 4 trẻ em bị bỏ rơi trước cổng chùa",
+    "description": "TPHCM tìm người thân cho 4 trẻ em bị bỏ rơi trước cổng chùa&nbsp;&nbsp;tin.skydoor.net...",
+    "source_entity": "tin.skydoor.net",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkgzb3NNRnd6MU1FNFgxWDd2VkpMcUFPVzJuZVkzazlEUDZ6eFMzT0RIbnByUHZxVmx6Uk1QbTJPUENNTDFCdlp3aE1PNEhVYlZMN0drMEdOVVBvZ3JTbGRDekI3QmFMLUxEbDBNenhDNGNMU2FHMnA3MUF3Q01mdUlQZk9MWTY4?oc=5",
+    "event_date": "2026-10-20T01:43:58.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "Missing_Date",
+        "Missing_Location",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_lopnghethuat-17",
+    "title": "Trường học ở TP.HCM có 'không gian tiếng Anh' cho học sinh",
+    "description": "Trường học ở TP.HCM có 'không gian tiếng Anh' cho học sinh&nbsp;&nbsp;Báo Tuổi Trẻ...",
+    "source_entity": "Báo Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRm9aMnlaX2Q1VDEwZk8tT0dKLUN0SjFseFRVcUd1c3UyVW9sa1NBa0JXRk5zdm14UWlNekpjVHdQRzhxcmJmV2RVc3NTVnpWRENjbjlQV05hN3RsU29IN3N0VTlIWTZkOElVMjhXOTNqbTVsUGVtRUVBWTN4QnFUbFFmaGN0c2RMZHdqTnNXeUxqSVNKeE1fUjd3LXpLdw?oc=5",
+    "event_date": "2026-10-19T07:09:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }

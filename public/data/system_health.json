@@ -1,6 +1,10 @@
 {
-  "last_analysis": "2026-10-17T03:37:47.265Z",
-  "anomaly_map": {},
+  "last_analysis": "2026-10-18T03:44:17.488Z",
+  "anomaly_map": {
+    "q_americancenter": 1,
+    "q_muaroi": 1,
+    "q_ngayhoi": 1
+  },
   "quarantined": [],
   "active_count": 29
 }
