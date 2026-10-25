@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss-afamily_mebe-35",
+    "id": "rss-afamily_mebe-44",
     "title": "Diễn viên Quỳnh Lương trải nghiệm bộ sản phẩm Yoosun Rau Má tại Vietbaby Fair 2026",
     "description": "Xuất hiện tại gian hàng Yoosun Rau Má trong khuôn khổ Vietbaby Fair Hà Nội 2026, diễn viên Quỳnh Lương thu hút sự chú ý khi trực tiếp trải nghiệm Sữa dưỡng ẩm Yoosun Rau Má và tham...",
     "source_entity": "Diễn viên Quỳnh Lương trải nghiệm bộ sản phẩm Yoosun Rau Má tại Vietbaby Fair 2026",
@@ -25,7 +25,32 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-19",
+    "id": "rss-thanhnien_gioitre-3",
+    "title": "Kh&ocirc;ng gian mới cho gen Z trong m&ugrave;a lễ hội Halloween",
+    "description": "Đ&ecirc;m hội Halloween (31.10) đang đến gần. Trong khi thị trường đồ trang tr&iacute; năm nay hạ nhiệt so với năm ngo&aacute;i, một số qu&aacute;n c&agrave; ph&ecirc; chọn c&aacut...",
+    "source_entity": "Kh&ocirc;ng gian mới cho gen Z trong m&ugrave;a lễ hội Halloween",
+    "source_url": "https://thanhnien.vn/khong-gian-moi-cho-gen-z-trong-mua-le-hoi-halloween-185261024204307655.htm",
+    "event_date": "2026-10-28T01:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-thanhnien_gioitre-29",
     "title": "The Jolly School",
     "description": "The Jolly School - Yah! m&ugrave;a 2 của Jollibee ch&iacute;nh thức khuấy động h&agrave;ng loạt trường THPT, đại học v&agrave; cao đẳng tr&ecirc;n to&agrave;n quốc. Sự kiện mang đế...",
     "source_entity": "Yah! mang Th&aacute;i L&ecirc; Minh Hiếu c&ugrave;ng d&agrave;n idol &lsquo;đổ bộ&rsquo; s&acirc;n trường",
@@ -76,32 +101,33 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-52",
-    "title": "Hội chợ Từ thiện quốc tế quay lại TP.HCM ngày 31.10",
-    "description": "Hội chợ Từ thiện quốc tế quay lại TP.HCM ngày 31.10&nbsp;&nbsp;Thanh Niên...",
-    "source_entity": "Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRXBscWt4QWxjMTItY0NuYXJhaC1yY0psejExR3FRNnE0WWFtVVZtc1pNTDhJU3Rrd3NHdjJ0eEptTVpoaGVJWFdvamZTaFp4eUNYel9mSTBXOTNFQmNrQzFJMm9OR1ljbHJ5Vmd5SVV3OW5fdExURlZMNmhubHJiSEhBSno0cjBMd05zQVFpdWtZc1pJem1qSw?oc=5",
-    "event_date": "2026-10-23T05:58:00.000Z",
+    "id": "rss-q_ngayhoi-61",
+    "title": "Chủ tịch Hội Y tế công cộng TP.HCM: 'Mất sức khỏe, ước mơ lớn nhất chỉ còn là khỏe lại'",
+    "description": "Chủ tịch Hội Y tế công cộng TP.HCM: 'Mất sức khỏe, ước mơ lớn nhất chỉ còn là khỏe lại'&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2lHOHBwSEZMUUdoclZvVXNzc3YxSzZqVTJiTUZyeThfcVY0Z2pRTDRULVdnN01kcVQzRWJCTHY4SWdRSkxBempheHpfUm9mR2FrMVl2M1R1a2dUa3RwTWYyRmhGVVlOcVNLQVJoNVNBTDhnbVhUOXlxZGRhdElHQWh1eDZManhJRXZVdFZ0TnFIME5paFRoamRvNmxVNUZBTkNoQ2JyTlowUQ?oc=5",
+    "event_date": "2026-10-27T08:04:16.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": true,
+      "hasTemporal": false,
       "hasLocation": true,
       "isInteractive": false,
-      "score": 60,
+      "score": 40,
       "failures": [
         "No_Age_Tag",
+        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_ngayhoi-61",
+    "id": "rss-q_ngayhoi-62",
     "title": "Trường học TP.HCM mời phụ huynh vào xem giờ tiếng Anh mở",
     "description": "Trường học TP.HCM mời phụ huynh vào xem giờ tiếng Anh mở&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -127,12 +153,12 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-71",
-    "title": "GIÚP NHƯ ĐẾN TRƯỜNG",
-    "description": "GIÚP NHƯ ĐẾN TRƯỜNG&nbsp;&nbsp;VOH...",
-    "source_entity": "VOH",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmhVT2J1VnVZV3V5UHo4UEhyM2NkdEF2aDhtek45UDBXdU1jVG9KX3VFZXJud21ZbGdRazh0NzFCakMzSmVickJNVXN0RmNHREZpMjkwUTlRYjgxTTkySllGUHNKb2JfUGlPQS1XaWw2VDhzY08zcnVKMFBpX2J6Nkxiblg?oc=5",
-    "event_date": "2026-10-25T01:27:17.000Z",
+    "id": "rss-q_ngayhoi-64",
+    "title": "TP.HCM tăng nguồn cung nhà ở xã hội, giá bán nhiều dự án tiến sát 25 triệu đồng/m2",
+    "description": "TP.HCM tăng nguồn cung nhà ở xã hội, giá bán nhiều dự án tiến sát 25 triệu đồng/m2&nbsp;&nbsp;Báo Dân Việt...",
+    "source_entity": "Báo Dân Việt",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmRPRGlyd2Vzd01ONUxsUjJCa0lCOExpM3BsdHoyRzhxcTFMMHNlODJIUDhmRVV0eHZGUlhZM0VqZGs2bWJaNTRzanZ0VUU2dG0zM3VXMVhxYjU2dW12SGc5N2pQQXpaUFpMVzNxZ0J1WVNsR2kyelNlNS1sWDlOYWhraXhWYUZueVltc2JBWUZEYXhUSWdDblByR2RQM1JjMEYtQkNibFpkNGVqWHMzbWF6OA?oc=5",
+    "event_date": "2026-10-27T06:27:49.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -153,7 +179,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-9",
+    "id": "rss-q_thaocamvien-7",
     "title": "Sư tử trắng quý hiếm cuối cùng ở Thảo Cầm Viên chết",
     "description": "Sư tử trắng quý hiếm cuối cùng ở Thảo Cầm Viên chết&nbsp;&nbsp;VnExpress...",
     "source_entity": "VnExpress",
@@ -179,33 +205,7 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-15",
-    "title": "Thảo Cầm Viên báo lãi nhờ đón gần 2 triệu lượt khách",
-    "description": "Thảo Cầm Viên báo lãi nhờ đón gần 2 triệu lượt khách&nbsp;&nbsp;VnExpress...",
-    "source_entity": "VnExpress",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzBUMHlUZnlnVmdWTmZiS0ttX3ljWWlLNVQxWEV3cG1GbmVsWU9nZTBBNDRGTXVTemFCVmhVdzRTeWVwM0NERGl6aXFpSmZTT2twcFJ3UHlSc096TExfcjNvLUt2ZWJ1eW9QajZfay1md2NUMjdFeUNxMW96b0hsX0Y0dlN3Vy05eEgxRWVKcXI?oc=5",
-    "event_date": "2026-10-23T20:00:08.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_thaocamvien-20",
+    "id": "rss-q_thaocamvien-21",
     "title": "Sư tử trắng ở Thảo Cầm Viên qua đời",
     "description": "Sư tử trắng ở Thảo Cầm Viên qua đời&nbsp;&nbsp;VTC News...",
     "source_entity": "VTC News",
@@ -231,12 +231,12 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-21",
-    "title": "Thảo Cầm Viên Sài Gòn thu hơn 160 tỷ đồng, lợi nhuận tăng trưởng mạnh bất chấp áp lực chi phí đất đai",
-    "description": "Thảo Cầm Viên Sài Gòn thu hơn 160 tỷ đồng, lợi nhuận tăng trưởng mạnh bất chấp áp lực chi phí đất đai&nbsp;&nbsp;Báo Pháp Luật Việt Nam...",
-    "source_entity": "Báo Pháp Luật Việt Nam",
-    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXJsU2RGV211bHNJQnM1T1BycnlySnNaMjVFNDFDNjJKbEJCQ3BrSG1lcUpTdG0yeld2TTN0b0hBUnFHaUpBeEdudS1KS2JxYy0xQ19wMEFuZjdES3pXU2JONEMzeVd4SEJRTkZUcDlvU25Ed1pyT3FFMWgyb25fNGlNRXNVclBPSlIxRnRCX1VvRVVzOUZYSExVdDR0amhBSHFhSWgwckZEbXhrRGVwWnlWbWtGWkxONWJzNEVFT0tUSkxZLUliWGFQSXJIdWliRXNIUQ?oc=5",
-    "event_date": "2026-10-24T01:49:00.000Z",
+    "id": "rss-q_thaocamvien-23",
+    "title": "Sư tử trắng quý hiếm cuối cùng ở Thảo Cầm Viên Sài Gòn qua đời",
+    "description": "Sư tử trắng quý hiếm cuối cùng ở Thảo Cầm Viên Sài Gòn qua đời&nbsp;&nbsp;Báo Dân trí...",
+    "source_entity": "Báo Dân trí",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2djU2hXVXdRTFllLWltc0RJWWRyVDVnNDRtWHFZYnozTkh6UGxPVDB4ejA4S2hoOFJ5bUFXNURlcENtcldFUjkwR2JybllhbXgwQTFUMTBtQ2JIa04xY2hKaFd6amRPWG9zTzVWS3J5V1B3aURsOFVFYkxfUUZlLWxJT1FLb21sdzRXRWItZG0wSkV5Q0F3cTNaNlBjbXdnSGJqa2drZmVwd2xwdE9OT0JKV0U?oc=5",
+    "event_date": "2026-10-24T12:33:08.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -257,12 +257,246 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-22",
+    "id": "rss-q_thaocamvien-24",
+    "title": "Nhiều người đến Thảo Cầm Viên tưởng nhớ sư tử trắng Mimi",
+    "description": "Nhiều người đến Thảo Cầm Viên tưởng nhớ sư tử trắng Mimi&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkRLalFkUWlONG1hRzRrb3VmQm53Nm0zYS1UVEJQWFR4aEJXRE00NGlNbHpLWXlZVFowcmxPWF90VWJBTk9PM01zU0o3U2h2cnNsWEVvaWU5ZlRieXNoQ19sWV9UVG8yaDVZLXFISjV0Mk5FSjZ6QjdGcnk5eDFXaFAwc204WVJDRWhKNEdZNEtnMS1sblE?oc=5",
+    "event_date": "2026-10-27T13:52:37.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-25",
+    "title": "Vĩnh biệt Mimi, cô sư tử trắng cuối cùng của Thảo cầm viên Sài Gòn",
+    "description": "Vĩnh biệt Mimi, cô sư tử trắng cuối cùng của Thảo cầm viên Sài Gòn&nbsp;&nbsp;Tuổi Trẻ...",
+    "source_entity": "Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3NBYmNpVjYyal9hUUtrZmZLYVJFWjd3ZmIzQzRhcGxXYmFNUnkwT290eFhucVlPblUwdVRZSURQWENkN3lmWUhfR3J3b3IxbHFuY0p1V09TNHVQdHBVLUdnWktlWGR3SURiRlNCN0wxUUlIeHZEMHRyTnBaV0d2U2ZvSnpDR0JYX1NNdjI0Zl9TUGhHUzYySi0xQkVzMnFyN3RVVnNWWXVCQzA?oc=5",
+    "event_date": "2026-10-25T07:40:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-27",
     "title": "Sư tử trắng ở Thảo Cầm Viên qua đời",
     "description": "Sư tử trắng ở Thảo Cầm Viên qua đời&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
     "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jeEJGX2RNendYWE9KMldiRFBlUUxoWVd2ZndxMG5sbFFnVm9BSjBpaXZNVnlLWVJuNGZlSjJ3WkFsZzlRUFdyeDVvQzN4aDFBa0dBV1poQ1pQSWEtZndGeWExeFZUb0l5aUE?oc=5",
     "event_date": "2026-10-24T10:15:28.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-30",
+    "title": "Thảo Cầm Viên thông báo về một thành viên nổi tiếng đã gắn bó 16 năm",
+    "description": "Thảo Cầm Viên thông báo về một thành viên nổi tiếng đã gắn bó 16 năm&nbsp;&nbsp;CafeF...",
+    "source_entity": "CafeF",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVN1QS1ZbmhPT3RLRmZMZF84QXp3X2xJM3F1dk5uWHVWTGkzT3VkOWt0SVpIdHVTbS1EcUJPT05lWG9tWFFSa2RfN0NJYlR2X1ZGbkp2UTNjSll2THBTRGV4NFY5dS1EZFZ1UVJzbEx0NVY1a2p4RUJ5Q2ZOdmtTX0ZjSjZMVWdneGk1REg0LVBzajB1Uk5OSzg4d2s3bmwxT3BhaEpGc2NCbl8x?oc=5",
+    "event_date": "2026-10-24T14:29:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-35",
+    "title": "Một thành viên đặc biệt của công ty Thảo Cầm Viên Sài Gòn qua đời sau 16 năm gắn bó, hàng chục nghìn người thương tiếc",
+    "description": "Một thành viên đặc biệt của công ty Thảo Cầm Viên Sài Gòn qua đời sau 16 năm gắn bó, hàng chục nghìn người thương tiếc&nbsp;&nbsp;CafeF...",
+    "source_entity": "CafeF",
+    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzNTZW1hQzJfc1pJSmFpOTJDUjBDczFJQndyNHl6RzJmWWdMcjFjeHNLU0d5TkktOTF3TDhoYkxLak1yVTJnMXhpVlZMMzg1bk9GR0VWRkt6YUhFUVhEdzFXbDRvbU5XVl9JWno0MzhtbmdxTjJvM2hIWWJKejk1SlJtb3dHajFDZVc2NHROZlVEemgtdzNtN29pLS1SVW04cmxRNWd6VkZuUTdiTmNfaWZuMDZiQVNlSmgxU2dUZ1p4Zmk2bjlDeXhuRmpJZVhZT3VfeDlCVkZaMmxONXNxZE93ajIwZ1FWbzFodWlR?oc=5",
+    "event_date": "2026-10-24T13:31:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-39",
+    "title": "Sư tử trắng 17 tuổi ở Thảo Cầm Viên qua đời",
+    "description": "Sư tử trắng 17 tuổi ở Thảo Cầm Viên qua đời&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3V1OXNyWEtOX0ppcUdXWS1URlpHTEVWdzVTVGR0bF93SzdzcG52MjlxRXkwdUNFbkhMUW5ycUJ1TU9Pa0xMOGM1dnpmbFh3LWN3aks0d2lwLUcyTi1WMHVCaWpmeXIyRmV1S21FWXhmWHlySExwTWxVUlFHdm5FQjVIMWxZZjZjVk1iSEs2Zw?oc=5",
+    "event_date": "2026-10-24T14:55:37.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-45",
+    "title": "Thảo Cầm Viên Sài Gòn chia tay sư tử trắng cuối cùng",
+    "description": "Thảo Cầm Viên Sài Gòn chia tay sư tử trắng cuối cùng&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXNoMklyNTRjOEUtYU9sdFRVM1FacWdhWHJ0T05WTVZxdUZFRlhwR0poYUdmb2tvN2RoN21SOUpiaWpiWjBRb0pfUU52d29Vd3JQLTk0ejZNc3VQRmRLOEJVY040SUM4OWQtc1ZISDFTbXF0ak5yUndpMXZubGJpdw?oc=5",
+    "event_date": "2026-10-24T16:56:52.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-49",
+    "title": "Những ngày cuối đời của sư tử trắng ở Thảo Cầm Viên",
+    "description": "Những ngày cuối đời của sư tử trắng ở Thảo Cầm Viên&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkY3QtRUpXYTBiWVhfZEhCaGMxNGo4RlBuX1cyUFNoN0JmMFRZS0JEOEZsTTF5bUUxV0pHaDVKY0VORTk4T2o2RVJmaEt6Ujl2VTlWaHRMc2Q2eEczWGllU3FLZ0IxTW5ScXZROWdvenlCTWp3OERLTkp2V1JhVG8?oc=5",
+    "event_date": "2026-10-25T11:05:41.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-50",
+    "title": "VinFast tổ chức chuỗi 880 sự kiện 'thu xăng đổi điện' toàn quốc",
+    "description": "VinFast tổ chức chuỗi 880 sự kiện 'thu xăng đổi điện' toàn quốc&nbsp;&nbsp;VnExpress...",
+    "source_entity": "VnExpress",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdERXN1JOU2hlWU1wWV95ZjVwTDlPcEFLYWp4OV9jamd4QjJ0ZE92SVNWeEYtbmo0aHJLalk3QUVmYnkwTDlkRjU3cEEyQlpmRVNqdmxnU2I2eGVfdFdsdEFoZ08yQWF5bHVWdW9oMTZuUlY4SlRxcHdOUkk0bVl1aGNXVXNkSlRCSVR0bEJRWDZOVHZNcU9UUFdfNEg?oc=5",
+    "event_date": "2026-10-27T08:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Missing_Location"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-55",
+    "title": "Chia tay sư tử trắng châu Phi cuối cùng ở Thảo Cầm Viên",
+    "description": "Chia tay sư tử trắng châu Phi cuối cùng ở Thảo Cầm Viên&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaU9BTzRJdmFyOUdBN0FjTm5KUTlBMWk3LW9IU3JhYVdTMVNDS21LbllpV0hSSXNUVzNNRlFoOEYwSlJMZ0NLMUZrVzdINU5ORTZJQXFSQjZ1RmhaTmpKcjhBclZ6cTJIT2VNWUN5MHA3U0MwYkl0b0pZSjlrdFI4RUhOOGc?oc=5",
+    "event_date": "2026-10-25T03:49:38.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -335,12 +569,12 @@
     }
   },
   {
-    "id": "rss-q_takashimaya-18",
-    "title": "Thanh Duy, Đoàn Thiên Ân, Quỳnh Anh Shyn ghi dấu những khoảnh khắc đáng nhớ tại Creed Pop-up \"Aventus",
-    "description": "Thanh Duy, Đoàn Thiên Ân, Quỳnh Anh Shyn ghi dấu những khoảnh khắc đáng nhớ tại Creed Pop-up \"Aventus - Leave Your Mark\"&nbsp;&nbsp;Tạp chí Đẹp...",
-    "source_entity": "Tạp chí Đẹp",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmRjakh4cnM4SndKaFdpRGxxRTM0Rmk3LVp4ZUhpRkN3eHJiU1Q3cFRpN0VUN2pkTThDclhtam9LQ0IzWVduTzRacWxQeUpKX1c5VTdaYzdMUWwyaTdwOE5fdU9lSEZ2bDFkZTJXYkJxR1Q5c2RJTWFsRlJ5aEZ0QmM0elhIX1NRVXh2R1AtTklaTTRkdW00eFJpdkM4ME9IMmEwbG9TaDBXTEFST0Y1dVU5MEp1SGRORjhMSXhnU2o0dUJhU1kyeGZjVGhvamc?oc=5",
-    "event_date": "2026-10-23T11:46:00.000Z",
+    "id": "rss-q_vienbaotang-16",
+    "title": "Ngày Văn hóa Việt Nam tại TPHCM: Đa dạng không gian trải nghiệm văn hóa",
+    "description": "Ngày Văn hóa Việt Nam tại TPHCM: Đa dạng không gian trải nghiệm văn hóa&nbsp;&nbsp;Báo Đại Đoàn Kết...",
+    "source_entity": "Báo Đại Đoàn Kết",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmkxWjBIR2ZLZU1GMkhmMjlHN1BDU0I3aWpWRGhTeGJhdkRXM25LbkgwQWR5SVBsOW9UQW1VZkNFOF9xUUdQSHJXWFFCa3dLS1BLTDhndm9PaDAxR1hqeHZpdzRUZEwxT3NEelVJZ09haFZ1d1NnMWFRekxjR3V1RklUTnBaMDdmSUg4dzBqX2VfbkcxaC1TTThnWjBUZw?oc=5",
+    "event_date": "2026-10-25T00:08:14.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -350,12 +584,11 @@
       "isAgeAppropriate": false,
       "hasTemporal": false,
       "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
+      "isInteractive": true,
+      "score": 60,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
+        "Missing_Date"
       ],
       "platform": "Web"
     }
@@ -387,7 +620,7 @@
     }
   },
   {
-    "id": "rss-q_crescentmall-5",
+    "id": "rss-q_crescentmall-6",
     "title": "TP.HCM cùng nhiều tỉnh thành trên cả nước bùng nổ chuỗi hoạt động hưởng ứng Ngày Văn hóa Việt Nam 2026",
     "description": "TP.HCM cùng nhiều tỉnh thành trên cả nước bùng nổ chuỗi hoạt động hưởng ứng Ngày Văn hóa Việt Nam 2026&nbsp;&nbsp;Yeah1 News...",
     "source_entity": "Yeah1 News",
@@ -413,32 +646,7 @@
     }
   },
   {
-    "id": "rss-q_crescentmall-9",
-    "title": "Kỳ nghỉ thảnh thơi trọn gói cho cả nhà và “boss” bốn chân tại Meliá Serenity Cam Ranh",
-    "description": "Kỳ nghỉ thảnh thơi trọn gói cho cả nhà và “boss” bốn chân tại Meliá Serenity Cam Ranh&nbsp;&nbsp;Yeah1 News...",
-    "source_entity": "Yeah1 News",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUJfUUxBSGlwMEhnWDJRY0l6enFfT1F5N1ExTkFMMDN1eEFFcmtiQnFHNmh2UjlsSUdBT0xURkdnSXE2d2VVLU9lTTFVTVlaQkZFSkVRRnNsYzBUQnRwamJ4ZEJzUS0zdktOcU1sVmt6Vno1bjhfZm9YU0d5eU00Z1ktSlBsMnBEb2FIUU9HcVpXTzAxQS03S1FzQS02cGs1T1U2Nnpuc2V3a3FEOEFlei1PMzJuWnhr?oc=5",
-    "event_date": "2026-10-24T01:15:10.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 60,
-      "failures": [
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_vincom-5",
+    "id": "rss-q_vincom-4",
     "title": "Sôi động không khí trải nghiệm iPhone Duo cùng Hoàng Hà Mobile tại 3 trung tâm thương mại Vincom",
     "description": "Sôi động không khí trải nghiệm iPhone Duo cùng Hoàng Hà Mobile tại 3 trung tâm thương mại Vincom&nbsp;&nbsp;Techz.vn...",
     "source_entity": "Techz.vn",
@@ -463,33 +671,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-4",
-    "title": "Hơn 1.500 vận động viên tham gia Giải chạy bộ trực tuyến chào mừng 50 năm ngày thành lập Sở Quản lý và Phân phối điện TP.HCM",
-    "description": "Hơn 1.500 vận động viên tham gia Giải chạy bộ trực tuyến chào mừng 50 năm ngày thành lập Sở Quản lý và Phân phối điện TP.HCM&nbsp;&nbsp;Tập đoàn Điện lực Việt Nam (EVN)...",
-    "source_entity": "Tập đoàn Điện lực Việt Nam (EVN)",
-    "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNURYZGhTWVRkM1hTNUt3eko1bEE2YjhhbnlKdlgyNXJlZnV5cE50ZDRuendibm5WdGNkWHFmWWVubm9VUkpLZXNOTE5OMU9fZzM4bmQ3cVNqZkk0c1FwMFl5bmNRSjNkVUxpRU1hdEVlQ0hYRkZ5bUZoSnFITExDenFjY2xRNFFLd0dxU0h3WFNRR0JFUFdsaXE2VTdibERVYXBtMGJiUllVRlY0aWQ0U0dFdUZUY09HWXVWNUVoQ1lzV0VDeXd5SUNYT1FmMzVBOFFPMmxjMHRyQmkyV1p1ejMtaEFjRURnc0l3Z2xOMWs2QUV4UV9UcTA1R0o1VHhCQ19B?oc=5",
-    "event_date": "2026-10-24T09:04:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-6",
+    "id": "rss-q_chaybogiadinh-5",
     "title": "Công viên Bờ sông Ba Son – Điểm hẹn chạy bộ mới giữa lòng TP.HCM",
     "description": "Công viên Bờ sông Ba Son – Điểm hẹn chạy bộ mới giữa lòng TP.HCM&nbsp;&nbsp;Tạp chí Du lịch Việt Nam...",
     "source_entity": "Tạp chí Du lịch Việt Nam",
@@ -515,12 +697,12 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-10",
+    "id": "rss-q_chaybogiadinh-9",
     "title": "Giá nhà tại TPHCM vượt 30 lần thu nhập hộ gia đình",
     "description": "Giá nhà tại TPHCM vượt 30 lần thu nhập hộ gia đình&nbsp;&nbsp;tin.skydoor.net...",
     "source_entity": "tin.skydoor.net",
     "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlM0UjllUWt1a2tVbG9JaVd5VDRkcDh1bGt2c1VpQlNmZ19MWE4wbEN3WC1pNktya3FXbVhOOEFVN0hRNWZ3czhURXI4bnQ5ZHdNa2psbFp3cW5qLUU4ZFRVc2p3bGc4dE5FTDV5NmFwYjZqbU5oN0RqRmRQRlEtVzZtcjBQa1FKNk40UFU4QnlEOGxySktHMkdPVQ?oc=5",
-    "event_date": "2026-10-24T07:00:00.000Z",
+    "event_date": "2026-10-26T07:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -545,7 +727,7 @@
     "description": "Phó bí thư TP HCM: 'Không để trẻ em nghèo mất cơ hội chữa bệnh vì hoàn cảnh'&nbsp;&nbsp;tin.skydoor.net...",
     "source_entity": "tin.skydoor.net",
     "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTRCVF9zNGwzQmV5VFZUdjlYQnZPcGN5UnFzTTR0enpyTHRSeXo1RkZkRmNkNmVtRk9pdE44VGlIS2xVeVFaR0ZzLW1CUVk4cU1WeC1hbkdQM2pZVVRCZGU5RndQdnNORFhHY0tYcjgxVl9UMmNYeW1jTS16QUZTQTZrN2EwUmdWaVhRMldXSTVXOVVUOUlhelJnek8zNk51SkRVWklocHZEdw?oc=5",
-    "event_date": "2026-10-23T07:00:00.000Z",
+    "event_date": "2026-10-27T00:06:55.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -592,24 +774,25 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-18",
-    "title": "TP.HCM đẩy mạnh đưa nước sạch đến tận hộ gia đình tại vùng xa",
-    "description": "TP.HCM đẩy mạnh đưa nước sạch đến tận hộ gia đình tại vùng xa&nbsp;&nbsp;tin.skydoor.net...",
-    "source_entity": "tin.skydoor.net",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkFpeVJCc0VGLWtQM2JvdHVFTFF4WVpHN2RPb2hJUDVtU1dGQVZxLUdsRE9vRGM0ZGEtNTJVd251YVE5MXFLSWhmSld4eGtZRi16b3c2SkR4SVZSN0V1X1NDRDRuNkttTUd6Vl9BQTlGLTh3MWxjaXN6dFNNaFpZX3BkbDhpeFQ3?oc=5",
-    "event_date": "2026-10-25T17:11:58.000Z",
+    "id": "rss-q_khoatumuahe-7",
+    "title": "Anh trai Wren Evans rút khỏi đêm nhạc ở TP.HCM",
+    "description": "Anh trai Wren Evans rút khỏi đêm nhạc ở TP.HCM&nbsp;&nbsp;Znews...",
+    "source_entity": "Znews",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVDZPcklYZU1JNXptMU9xajhrSzJVZmphY2xlQVh3UEtqSUVNZ1Zva21wQ1JOZVBFS2lvNExHMWJqa1NGbF9QTGh3V2xKLVlhemc3QnY4MzgxSWp0YXFfa0p0ZE9pb3B1RHFsOTNUWmZUdkFHMjZLVHRyeC02Z0dvaFR0cG5FWEljTGJOTWJNMEdQS2ViQldr?oc=5",
+    "event_date": "2026-10-27T03:54:56.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
       "hasLocation": true,
       "isInteractive": false,
-      "score": 60,
+      "score": 40,
       "failures": [
+        "No_Age_Tag",
         "Missing_Date",
         "Not_an_Interactive_Event"
       ],
