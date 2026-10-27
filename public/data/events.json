@@ -1,6 +1,30 @@
 [
   {
-    "id": "rss-thanhnien_gioitre-0",
+    "id": "rss-tuoitre_giaoduc-16",
+    "title": "Học sinh Trường Phan Văn Trị, phường Cầu Ông Lãnh vô địch Robotics quốc tế tại Trung Quốc",
+    "description": "Học sinh Trường tiểu học - THCS Phan Văn Trị (phường Cầu Ông Lãnh, TP.HCM) vô địch Robotics thế giới. Thầy Lê Hồng Thái - hiệu trưởng nhà trường - chia sẻ về quả ngọt từ môi trường...",
+    "source_entity": "Học sinh Trường Phan Văn Trị, phường Cầu Ông Lãnh vô địch Robotics quốc tế tại Trung Quốc",
+    "source_url": "https://tuoitre.vn/hoc-sinh-truong-tieu-hoc-phan-van-tri-phuong-cau-ong-lanh-vo-dich-robotics-quoc-te-tai-trung-quoc-100261026054504679.htm",
+    "event_date": "2026-10-29T11:53:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Workshop & Kỹ năng",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-thanhnien_gioitre-10",
     "title": "Hội đồng Đội T.Ư tiếp sức ước mơ cho hơn 2.000 thiếu nhi Sơn La",
     "description": "Ng&agrave;y hội &#039;Thiếu nhi Việt Nam - Học tập tốt, r&egrave;n luyện chăm&#039; tại Sơn La mang đến kh&ocirc;ng gian vui chơi, r&egrave;n luyện, tiếp sức ước mơ của tổ chức Đội...",
     "source_entity": "Hội đồng Đội T.Ư tiếp sức ước mơ cho hơn 2.000 thiếu nhi Sơn La",
@@ -24,7 +48,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-8",
+    "id": "rss-thanhnien_gioitre-18",
     "title": "Kh&ocirc;ng gian mới cho gen Z trong m&ugrave;a lễ hội Halloween",
     "description": "Đ&ecirc;m hội Halloween (31.10) đang đến gần. Trong khi thị trường đồ trang tr&iacute; năm nay hạ nhiệt so với năm ngo&aacute;i, một số qu&aacute;n c&agrave; ph&ecirc; chọn c&aacut...",
     "source_entity": "Kh&ocirc;ng gian mới cho gen Z trong m&ugrave;a lễ hội Halloween",
@@ -49,64 +73,63 @@
     }
   },
   {
-    "id": "rss-q_sukien-19",
-    "title": "Ban Hoằng pháp",
-    "description": "Ban Hoằng pháp - Hướng dẫn Phật tử GHPGVN TP.HCM sẽ tổ chức Hội thi giáo lý Phật tử&nbsp;&nbsp;Giác Ngộ Online...",
-    "source_entity": "Giác Ngộ Online",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXZoNGJEWHgxQUFidjVOdzYwdDFYUWFoOE5MX0tRbnFDRmFnV1ZGYTVMY29nVjd3VG5EdVFNeHpWTU9fU0gweTJhY3lBQTJoQlJDUDdtN2k0MnFTSnc3di10aE00b0thV1FWOFZ1NEZLVVhHM2hiTnFnMnMyS3hQVEFGVUpkbmdjMGdlaWpSc1NTZVMzOHBXckFhbk50WGFLTWhRVm8xaFhPSGNZTTY3YUFVRlM?oc=5",
-    "event_date": "2026-10-25T08:15:42.000Z",
+    "id": "rss-q_sukien-64",
+    "title": "Hơn 2.000 học sinh tiểu học tìm hiểu về an toàn sức khoẻ",
+    "description": "Hơn 2.000 học sinh tiểu học tìm hiểu về an toàn sức khoẻ&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUl3cmxuQ1NTa3p3azY2T28wTm5FeGJuUkhXN2xSblVRM0pxWDBMR2lZZ2pRTTcxWDZzSDN1ZjVfWWsyRy0zTU9DMUNQVzNVMlJxb0NXVnNzWVpSVEM2djNWTkxjZVA0QlFQMUFvQnZFaUNMcmpwWnZFWlNaLUd6NjV3VEhORU5wamc0VXB4Y1ZKYU9hVl9QM0o1dw?oc=5",
+    "event_date": "2026-10-30T03:44:32.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": false,
+      "isAgeAppropriate": true,
       "hasTemporal": false,
-      "hasLocation": true,
+      "hasLocation": false,
       "isInteractive": false,
       "score": 40,
       "failures": [
-        "No_Age_Tag",
         "Missing_Date",
+        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_khoatumuahe-7",
-    "title": "Anh trai Wren Evans rút khỏi đêm nhạc ở TP.HCM",
-    "description": "Anh trai Wren Evans rút khỏi đêm nhạc ở TP.HCM&nbsp;&nbsp;Znews...",
-    "source_entity": "Znews",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVDZPcklYZU1JNXptMU9xajhrSzJVZmphY2xlQVh3UEtqSUVNZ1Zva21wQ1JOZVBFS2lvNExHMWJqa1NGbF9QTGh3V2xKLVlhemc3QnY4MzgxSWp0YXFfa0p0ZE9pb3B1RHFsOTNUWmZUdkFHMjZLVHRyeC02Z0dvaFR0cG5FWEljTGJOTWJNMEdQS2ViQldr?oc=5",
-    "event_date": "2026-10-27T03:54:56.000Z",
+    "id": "rss-q_ngayhoi-15",
+    "title": "Sôi nổi ngày hội “Bình Thạnh cùng em",
+    "description": "Sôi nổi ngày hội “Bình Thạnh cùng em - Viết tiếp tương lai” năm học 2026-2027&nbsp;&nbsp;Laodong.vn...",
+    "source_entity": "Laodong.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPci05SHJEZzFCSlFzZzJkbUpOVmRmYWJYWTFEV25WakM2NkdHbE9IaDliU1RRZDF5NE5hTzU3b2JlS2JWNnNZdWVDRTkzM3h4bDJhRDdkUTJhcmljc2lHTi1ieGtYT1oycHkzMjlmdzVwaHBCWVNMdTktNWY2bnVOLWxzaDBuTTIzNXZFdnBSbjZSTFdGVkdQZkhiTFlwbXRKNmN6cERObGpKTThFdDVfQmNZMA?oc=5",
+    "event_date": "2027-08-26T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Lễ hội & Sự kiện",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
+      "hasTemporal": true,
+      "hasLocation": false,
+      "isInteractive": true,
+      "score": 60,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
+        "Missing_Location"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_ngayhoi-56",
+    "id": "rss-q_ngayhoi-24",
     "title": "Chủ tịch Hội Y tế công cộng TP.HCM: 'Mất sức khỏe, ước mơ lớn nhất chỉ còn là khỏe lại'",
-    "description": "Chủ tịch Hội Y tế công cộng TP.HCM: 'Mất sức khỏe, ước mơ lớn nhất chỉ còn là khỏe lại'&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2lHOHBwSEZMUUdoclZvVXNzc3YxSzZqVTJiTUZyeThfcVY0Z2pRTDRULVdnN01kcVQzRWJCTHY4SWdRSkxBempheHpfUm9mR2FrMVl2M1R1a2dUa3RwTWYyRmhGVVlOcVNLQVJoNVNBTDhnbVhUOXlxZGRhdElHQWh1eDZManhJRXZVdFZ0TnFIME5paFRoamRvNmxVNUZBTkNoQ2JyTlowUQ?oc=5",
-    "event_date": "2026-10-27T08:04:16.000Z",
+    "description": "Chủ tịch Hội Y tế công cộng TP.HCM: 'Mất sức khỏe, ước mơ lớn nhất chỉ còn là khỏe lại'&nbsp;&nbsp;Báo Tuổi Trẻ...",
+    "source_entity": "Báo Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNElMei0yVXFWZF9RRVQzQ2hQNm9BRnh1UEVtX0p6U0k0SEhibXYzZHZrUGFRc0dpZlZMUGxrUmFOSU9LNTU3UDU2UW5pX0ZQUTZydmtvV19NUE80TW5WT2NXcEdPVlNlaEJYeUV1N1ItSDctaURaZFBWQ09uMXdJUlZpQlQzSnQ4d253QWNUck5jOEVqLTlrdGRxaDU5Rm55X2JPM0xWbkRpRzBLRHMyS3NNdFJFWFhxYUJJQlpudEkwUQ?oc=5",
+    "event_date": "2026-10-27T06:46:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -127,33 +150,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-59",
-    "title": "Trường học TP.HCM mời phụ huynh vào xem giờ tiếng Anh mở",
-    "description": "Trường học TP.HCM mời phụ huynh vào xem giờ tiếng Anh mở&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkhmLW9RV25ILUg0amUtOXJtWUVDczgwQ0FuYlY4VjdqM293Q0FhSlBPVTRHX3o1TExzNnpzTXB6SkRWYUh6a3VOWGFzaktRM2dKeXIycVgtZEJ5anZEc005a0FJT0xGN01QNzgtLWRlaG9WRTNpdzdKNEhJQXFwUXFkVmlnZw?oc=5",
-    "event_date": "2026-10-25T08:28:34.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-61",
+    "id": "rss-q_ngayhoi-28",
     "title": "TP.HCM tăng nguồn cung nhà ở xã hội, giá bán nhiều dự án tiến sát 25 triệu đồng/m2",
     "description": "TP.HCM tăng nguồn cung nhà ở xã hội, giá bán nhiều dự án tiến sát 25 triệu đồng/m2&nbsp;&nbsp;Báo Dân Việt...",
     "source_entity": "Báo Dân Việt",
@@ -179,7 +176,33 @@
     }
   },
   {
-    "id": "rss-q_thaocamvien-26",
+    "id": "rss-q_ngayhoi-32",
+    "title": "Đẩy mạnh chuyển đổi số trong trường học",
+    "description": "Đẩy mạnh chuyển đổi số trong trường học&nbsp;&nbsp;VOH...",
+    "source_entity": "VOH",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0RMVmlRYWtmUTVOdFZ6dmNCWENJeE9ybldmOGRlMHNyeG5sME03ZkVlMXJDVUN5RFdXMGVxWVVZdnk4Si1VSU5idTNPZGIwVmJGWTFHMEd2WExxTU40Y1BHVG8zZHdWVVBvZW5adVZRX0t6bkdsSkROWTZKUWszdTRzdkIwZlktRnZvZ1Z6eEx3dktCQWNfdGlMRlY1akZ0TnFfTktuZw?oc=5",
+    "event_date": "2026-10-30T02:11:21.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-19",
     "title": "Nhiều người đến Thảo Cầm Viên tưởng nhớ sư tử trắng Mimi",
     "description": "Nhiều người đến Thảo Cầm Viên tưởng nhớ sư tử trắng Mimi&nbsp;&nbsp;VnExpress...",
     "source_entity": "VnExpress",
@@ -205,16 +228,16 @@
     }
   },
   {
-    "id": "rss-q_crescentmall-6",
-    "title": "TP.HCM cùng nhiều tỉnh thành trên cả nước bùng nổ chuỗi hoạt động hưởng ứng Ngày Văn hóa Việt Nam 2026",
-    "description": "TP.HCM cùng nhiều tỉnh thành trên cả nước bùng nổ chuỗi hoạt động hưởng ứng Ngày Văn hóa Việt Nam 2026&nbsp;&nbsp;Yeah1 News...",
-    "source_entity": "Yeah1 News",
-    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOElfM2hHMG10QjFGNDE5dDN2dmd5RXhoaTVERFYwdXkta3dWR0FKU0hIZTVVYk4tTWRWTDhYNTRtM21PTUFXZUJlVUNjYl93SDUxYlByM1BfdGkzOURPSnlnWW5HcExUakRpWGs3d2xVVkM2NEtpUWpWandPc1hqOUFDX0FwaVZRd1ozeEdxOERGUk43dG03U0UyX1hiTEhDYUpYYW0wbGdMS1dnR1VBdkl2N05tR3ZzMi1EUVdxSFRvZEcwdHNTZDRCaUc1djFs?oc=5",
-    "event_date": "2026-10-26T03:38:59.000Z",
+    "id": "rss-q_thaocamvien-34",
+    "title": "Thảo Cầm Viên vừa tuyển thêm 3 nhân sự mới, tên lần lượt là Anh, Yêu và Em",
+    "description": "Thảo Cầm Viên vừa tuyển thêm 3 nhân sự mới, tên lần lượt là Anh, Yêu và Em&nbsp;&nbsp;CafeF...",
+    "source_entity": "CafeF",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFJTeHlDNG1BcHNsYW85M2c3TTVVUTYycjFfTDZ3TjFlbG5VcnJNcVA0aEdPYjVDT21XeW1iaksxanY5OHF5cnZrS3ZtNm1RSFRDNlJTbnA5Q0xiOHpacDBBWHNFdXRvODVsZHIzYm9yb0pTUzgweTNMRG9PY2Y4Z3BfYWFzclJCRDR2WXhDR1lpdkNjcjlFb18wdnRDN1RIdzRxMzdQSUlGbEp4UUJuMQ?oc=5",
+    "event_date": "2026-10-29T23:09:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Vui chơi & Dã ngoại",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -256,7 +279,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-5",
+    "id": "rss-q_chaybogiadinh-8",
     "title": "Công viên Bờ sông Ba Son – Điểm hẹn chạy bộ mới giữa lòng TP.HCM",
     "description": "Công viên Bờ sông Ba Son – Điểm hẹn chạy bộ mới giữa lòng TP.HCM&nbsp;&nbsp;Tạp chí Du lịch Việt Nam...",
     "source_entity": "Tạp chí Du lịch Việt Nam",
@@ -282,7 +305,7 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-8",
+    "id": "rss-q_chaybogiadinh-12",
     "title": "Giá nhà tại TPHCM vượt 30 lần thu nhập hộ gia đình",
     "description": "Giá nhà tại TPHCM vượt 30 lần thu nhập hộ gia đình&nbsp;&nbsp;tin.skydoor.net...",
     "source_entity": "tin.skydoor.net",
@@ -307,78 +330,26 @@
     }
   },
   {
-    "id": "rss-q_chaybogiadinh-13",
-    "title": "Phó bí thư TP HCM: 'Không để trẻ em nghèo mất cơ hội chữa bệnh vì hoàn cảnh'",
-    "description": "Phó bí thư TP HCM: 'Không để trẻ em nghèo mất cơ hội chữa bệnh vì hoàn cảnh'&nbsp;&nbsp;tin.skydoor.net...",
-    "source_entity": "tin.skydoor.net",
-    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTRCVF9zNGwzQmV5VFZUdjlYQnZPcGN5UnFzTTR0enpyTHRSeXo1RkZkRmNkNmVtRk9pdE44VGlIS2xVeVFaR0ZzLW1CUVk4cU1WeC1hbkdQM2pZVVRCZGU5RndQdnNORFhHY0tYcjgxVl9UMmNYeW1jTS16QUZTQTZrN2EwUmdWaVhRMldXSTVXOVVUOUlhelJnek8zNk51SkRVWklocHZEdw?oc=5",
-    "event_date": "2026-10-27T00:06:55.000Z",
+    "id": "rss-q_khoatumuahe-7",
+    "title": "Anh trai Wren Evans rút khỏi đêm nhạc ở TP.HCM",
+    "description": "Anh trai Wren Evans rút khỏi đêm nhạc ở TP.HCM&nbsp;&nbsp;Znews...",
+    "source_entity": "Znews",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVDZPcklYZU1JNXptMU9xajhrSzJVZmphY2xlQVh3UEtqSUVNZ1Zva21wQ1JOZVBFS2lvNExHMWJqa1NGbF9QTGh3V2xKLVlhemc3QnY4MzgxSWp0YXFfa0p0ZE9pb3B1RHFsOTNUWmZUdkFHMjZLVHRyeC02Z0dvaFR0cG5FWEljTGJOTWJNMEdQS2ViQldr?oc=5",
+    "event_date": "2026-10-27T03:54:56.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
     "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
+      "hasLocation": true,
       "isInteractive": false,
       "score": 40,
       "failures": [
+        "No_Age_Tag",
         "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_chaybogiadinh-15",
-    "title": "TPHCM tìm người thân cho 4 trẻ em bị bỏ rơi trước cổng chùa",
-    "description": "TPHCM tìm người thân cho 4 trẻ em bị bỏ rơi trước cổng chùa&nbsp;&nbsp;tin.skydoor.net...",
-    "source_entity": "tin.skydoor.net",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkgzb3NNRnd6MU1FNFgxWDd2VkpMcUFPVzJuZVkzazlEUDZ6eFMzT0RIbnByUHZxVmx6Uk1QbTJPUENNTDFCdlp3aE1PNEhVYlZMN0drMEdOVVBvZ3JTbGRDekI3QmFMLUxEbDBNenhDNGNMU2FHMnA3MUF3Q01mdUlQZk9MWTY4?oc=5",
-    "event_date": "2026-10-26T03:47:09.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
-        "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_lopnghethuat-28",
-    "title": "Gemadept Run 2026 thu hút hơn 6.000 vận động viên, tiếp sức trẻ em vùng cao Điện Biên",
-    "description": "Gemadept Run 2026 thu hút hơn 6.000 vận động viên, tiếp sức trẻ em vùng cao Điện Biên&nbsp;&nbsp;Vietstock...",
-    "source_entity": "Vietstock",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMERTTmRFUVhncVdkNVZ2MEdsdFF4ektJYTBUak5OdGdaWjJLcFQtV3RUQ2RTVFpjWXRtTVQ3WTZfLXlmVUdRaGY4YS1NRloteEdUcENzd2ZoX2FFMU5WVWMtRW96eGlZYzV0RjNNSmtkNi1TbHYxc1JGa2tSY1lhMldvbkt0NmpwNWVaN0lMeTBoVjZGcmx0MkpIU0lOZVRFc1pzdTVXa0NTNWVsMFBvVVUybG9GSTU1dHkweDhmREpjdl8zT2Rz?oc=5",
-    "event_date": "2026-10-28T15:14:26.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Vui chơi & Dã ngoại",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": true,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": false,
-      "score": 40,
-      "failures": [
-        "Missing_Date",
-        "Missing_Location",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
