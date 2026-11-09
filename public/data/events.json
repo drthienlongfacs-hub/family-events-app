@@ -1,34 +1,34 @@
 [
   {
-    "id": "rss-afamily_mebe-38",
-    "title": "Đưa con đi chơi Tả Van 2 lần/năm, lần đầu ngắm lúa xanh, lần sau trở lại giữa mùa vàng: Mỗi chuyến xê dịch đều có câu chuyện rất riêng",
-    "description": "Cùng một tuyến đường, cùng những triền núi và nếp nhà ở thung lũng Mường Hoa, nhưng Tả Van mùa lúa xanh khi đi riêng gia đình và mùa lúa chín khi đồng hành cùng nhóm bạn lại mang đ...",
-    "source_entity": "Đưa con đi chơi Tả Van 2 lần/năm, lần đầu ngắm lúa xanh, lần sau trở lại giữa mùa vàng: Mỗi chuyến xê dịch đều có câu chuyện rất riêng",
-    "source_url": "https://afamily.vn/dua-con-di-choi-ta-van-2-lan-nam-lan-dau-ngam-lua-xanh-lan-sau-tro-lai-giua-mua-vang-moi-chuyen-xe-dich-deu-co-cau-chuyen-rat-rieng-236261104141951689.chn",
-    "event_date": "2026-11-07T09:00:00.000Z",
+    "id": "rss-tuoitre_giaoduc-8",
+    "title": "Sinh viên trái ngành học truyền thông từ Ngày hội Việt Nam Xanh",
+    "description": "Các chuyên gia và người làm nghề thực chiến đã mang đến góc nhìn đa chiều về cách tổ chức sự kiện, xây dựng chiến dịch truyền thông gắn liền với trách nhiệm xã hội và bí quyết thíc...",
+    "source_entity": "Sinh viên trái ngành học truyền thông từ Ngày hội Việt Nam Xanh",
+    "source_url": "https://tuoitre.vn/sinh-vien-trai-nganh-hoc-truyen-thong-tu-ngay-hoi-viet-nam-xanh-10026110811511454.htm",
+    "event_date": "2026-11-11T13:06:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
+    "category": "Lễ hội & Sự kiện",
     "checklist": {
       "isSafe": true,
-      "isAgeAppropriate": true,
+      "isAgeAppropriate": false,
       "hasTemporal": false,
-      "hasLocation": false,
+      "hasLocation": true,
       "isInteractive": true,
       "score": 60,
       "failures": [
-        "Missing_Date",
-        "Missing_Location"
+        "No_Age_Tag",
+        "Missing_Date"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-1",
-    "title": "Sinh viên Trường ĐH Nguyễn Tất Thành 'thực chiến' cùng 3 nhiếp ảnh gia nổi tiếng trong khóa học tại Báo Tuổi Trẻ",
-    "description": "Sinh viên 12 lớp học môn \"Kỹ năng và Nghệ thuật nhiếp ảnh\" đã được giao lưu và tập tành bấm máy cùng 3 nhiếp ảnh gia nổi tiếng....",
-    "source_entity": "Sinh viên Trường ĐH Nguyễn Tất Thành 'thực chiến' cùng 3 nhiếp ảnh gia nổi tiếng trong khóa học tại Báo Tuổi Trẻ",
+    "id": "rss-tuoitre_giaoduc-12",
+    "title": "Sinh viên Trường ĐH Nguyễn Tất Thành 'thực chiến' cùng 3 nhiếp ảnh gia nổi tiếng trong khóa học tại báo Tuổi Trẻ",
+    "description": "Sinh viên 12 lớp học môn \"kỹ năng và nghệ thuật nhiếp ảnh\" đã được giao lưu và tập tành bấm máy cùng 3 nhiếp ảnh gia nổi tiếng....",
+    "source_entity": "Sinh viên Trường ĐH Nguyễn Tất Thành 'thực chiến' cùng 3 nhiếp ảnh gia nổi tiếng trong khóa học tại báo Tuổi Trẻ",
     "source_url": "https://tuoitre.vn/sinh-vien-truong-dh-nguyen-tat-thanh-thuc-chien-cung-3-nhiep-anh-gia-noi-tieng-trong-khoa-hoc-tai-bao-tuoi-tre-100261108074455576.htm",
     "event_date": "2026-11-11T10:10:00.000Z",
     "location": "TP. Hồ Chí Minh",
@@ -50,16 +50,16 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-49",
-    "title": "Sinh viên Nhân văn mang tư duy phát triển bền vững đến Thử thách GreenZ 2026",
-    "description": "Mang theo góc nhìn liên ngành và tinh thần sống xanh, bốn sinh viên Trường đại học Khoa học xã hội và Nhân văn - Đại học Quốc gia TP.HCM sẵn sàng tranh tài tại Thử thách GreenZ nằm...",
-    "source_entity": "Sinh viên Nhân văn mang tư duy phát triển bền vững đến Thử thách GreenZ 2026",
-    "source_url": "https://tuoitre.vn/sinh-vien-nhan-van-mang-tu-duy-phat-trien-ben-vung-den-thu-thach-greenz-2026-100261104223614688.htm",
-    "event_date": "2026-11-08T11:21:00.000Z",
+    "id": "rss-thanhnien_gioitre-5",
+    "title": "Lan tỏa t&igrave;nh hữu nghị, đo&agrave;n kết thanh ni&ecirc;n Việt Nam",
+    "description": "Từ những giai điệu nghệ thuật đến c&aacute;c hoạt động giao lưu, trải nghiệm v&agrave; hợp t&aacute;c thực tiễn, Li&ecirc;n hoan thanh ni&ecirc;n Việt Nam - Campuchia - L&agrave;o ...",
+    "source_entity": "L&agrave;o",
+    "source_url": "https://thanhnien.vn/lan-toa-tinh-huu-nghi-doan-ket-thanh-nien-viet-nam-campuchia-lao-185261108230254987.htm",
+    "event_date": "2026-11-11T23:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
+    "category": "Cộng đồng & Mặc định",
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
@@ -75,7 +75,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-13",
+    "id": "rss-thanhnien_gioitre-25",
     "title": "Sẵn s&agrave;ng cho ng&agrave;y hội thanh ni&ecirc;n Việt Nam",
     "description": "Li&ecirc;n hoan thanh ni&ecirc;n Việt Nam - Campuchia - L&agrave;o năm 2026 khai mạc ng&agrave;y 8.11, dự kiến k&eacute;o d&agrave;i đến ng&agrave;y 11.11 tại Quảng Ng&atilde;i, vớ...",
     "source_entity": "L&agrave;o",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "id": "rss-q_lehoi-7",
+    "id": "rss-q_lehoi-6",
     "title": "TPHCM tổ chức nhiều hoạt động văn hóa, nghệ thuật đặc sắc dịp 24/11",
     "description": "TPHCM tổ chức nhiều hoạt động văn hóa, nghệ thuật đặc sắc dịp 24/11&nbsp;&nbsp;Báo Sức khỏe & Đời sống...",
     "source_entity": "Báo Sức khỏe & Đời sống",
@@ -151,56 +151,6 @@
   },
   {
     "id": "rss-q_ngayhoi-1",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết tại TPHCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết tại TPHCM&nbsp;&nbsp;Dân tộc và Phát triển...",
-    "source_entity": "Dân tộc và Phát triển",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzRHdzNwa21kR19WUzVOdjhIZW15ZUJzeEFMTl9QaEVIbDZybm94WVNadmhOVVhxdG8xNlhzREtENTlDYzVXSS1zcVdEenJZUGw5WlFSOVEyVU9EWEtYLW91dHZLb0s2ZW1yNU01TGo0WEZRR0pKRjdzc2dEVnF3NGpZWHlqdjVndlJJYWF4VDg3aXVWbWdLamd2clhNX1RpODBZdU5ydllBWjJWX09YZ0hXTUFuS1U?oc=5",
-    "event_date": "2026-11-10T08:59:01.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-2",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự ngày hội Đại đoàn kết tại TP.HCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự ngày hội Đại đoàn kết tại TP.HCM&nbsp;&nbsp;Báo Thanh Niên...",
-    "source_entity": "Báo Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHBJdklVYm0tSko3VnRadzFZcElfenpsUTRBRFUzUE44X3ZmcnoxN01fRzUwcGNRcHBJWVh2a2lNbHlLR291MjRGR2dQaHdnck9icUlzTmhfd3dvbUdVMHpNbUUtRFZOdHJsQ1ItckZhWERiUGRXSnhOOENTeGVucTNYMTNXS0pUNVlzUHAyczZmdnRWT3ZReUptOGdfX2ZhZGFrUUFsTDZYT2VNSjBxXw?oc=5",
-    "event_date": "2026-11-10T08:12:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-4",
     "title": "Chủ tịch Quốc hội dự Ngày hội Đại đoàn kết toàn dân tộc tại TPHCM",
     "description": "Chủ tịch Quốc hội dự Ngày hội Đại đoàn kết toàn dân tộc tại TPHCM&nbsp;&nbsp;Báo Dân trí...",
     "source_entity": "Báo Dân trí",
@@ -225,7 +175,83 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-7",
+    "id": "rss-q_ngayhoi-2",
+    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết tại TP.HCM",
+    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết tại TP.HCM&nbsp;&nbsp;Dân tộc và Phát triển...",
+    "source_entity": "Dân tộc và Phát triển",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamNWUllmUEIzRGwwT0RVbG1nOGhJcllsaGxoNVJYNWVueUVQWnZRM1c4emU0azBFekNveWJWNU5ZLXpXR1Y2aDhwbXNyQWRnSER3RVV6ZThzR3FfOGlmNVVxQmVUd0RjVmx1NkNWeWtUbTZFYU9vTzlEWnM0eERrWmpfZExHQXk4elI1V25MQkpiM3VDRXZpWEF2bkE2Wlc5SzZHZHRneUJWeWVJWS13eF9xV1dZby01?oc=5",
+    "event_date": "2026-11-10T08:59:01.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-4",
+    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự ngày hội Đại đoàn kết tại TP.HCM",
+    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự ngày hội Đại đoàn kết tại TP.HCM&nbsp;&nbsp;Báo Thanh Niên...",
+    "source_entity": "Báo Thanh Niên",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHBJdklVYm0tSko3VnRadzFZcElfenpsUTRBRFUzUE44X3ZmcnoxN01fRzUwcGNRcHBJWVh2a2lNbHlLR291MjRGR2dQaHdnck9icUlzTmhfd3dvbUdVMHpNbUUtRFZOdHJsQ1ItckZhWERiUGRXSnhOOENTeGVucTNYMTNXS0pUNVlzUHAyczZmdnRWT3ZReUptOGdfX2ZhZGFrUUFsTDZYT2VNSjBxXw?oc=5",
+    "event_date": "2026-11-10T08:12:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-5",
+    "title": "Hai ngày lan tỏa hành động xanh tại TPHCM",
+    "description": "Hai ngày lan tỏa hành động xanh tại TPHCM&nbsp;&nbsp;Laodong.vn...",
+    "source_entity": "Laodong.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXo1dVdobm5yeldrMkdRVFFZbWNiWUlBN0szRHpmM0NkQVVXcmQ5RnpVckxtQVJXdXpCQ1kzZG56d2l2Qm1QZmkzdEVfc3lOdExRc3p4T3lXVFZxWVROWDMxRERMNk9wdDB3ZnFNeXVMLXNuYXpMbk1vS1F1em9BZ2F6WW9NSGd2a19YQXBn?oc=5",
+    "event_date": "2026-11-11T11:50:06.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-6",
     "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc ở TPHCM",
     "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc ở TPHCM&nbsp;&nbsp;Báo Tiền Phong...",
     "source_entity": "Báo Tiền Phong",
@@ -251,57 +277,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-8",
-    "title": "OPES và VPBank đưa bảo hiểm sức khỏe đến gần cộng đồng tại Ngày hội Nón Hồng",
-    "description": "OPES và VPBank đưa bảo hiểm sức khỏe đến gần cộng đồng tại Ngày hội Nón Hồng&nbsp;&nbsp;Thuonghieucongluan.com.vn...",
-    "source_entity": "Thuonghieucongluan.com.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmtzQXRha0dKWFFkOHpnZFZRWkhyVjQ4M1NGQW5YT0FMOGo4Q2haMS1OY0Q4NHFwYmJYTkJ1emRwVmpBbWk1dFNIOVB2S3VNWU0yaEJVcmZ0Z2s4STVmQTBoQUEzU0NGbG5JaUJGb1ljeW43c1FtX3VnTXl0RWNSek9RX3dKNE1wY0xuNS1JQjhfdmF0T3Bhd1l1Rkk5ck1WcG5BNFh2c1BJajJOX182NjYydV8yRUhHVHJfVGNCZUk?oc=5",
-    "event_date": "2026-11-08T07:57:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-10",
-    "title": "Người dân TP.HCM hào hứng tham gia hoạt động đổi rác nhận quà tại Ngày hội Việt Nam Xanh",
-    "description": "Người dân TP.HCM hào hứng tham gia hoạt động đổi rác nhận quà tại Ngày hội Việt Nam Xanh&nbsp;&nbsp;Tuổi Trẻ...",
-    "source_entity": "Tuổi Trẻ",
-    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVI1TGxPTWluTkFKc3dVVHVEWGo4QkNkSFpLSWRBdmxPR204dk04S2E0dm9ZUmM3ZUlmNXhSeng0djRIYW1KcVBxY3lpM3NLcU14YmFNcmRtdFJWZEtkM0VOaUd4UWdVT2NOUnFhTVdqWDVRSmo4QTB3RDllZnVWWk9oOXpUSXphSHVKMnFTZVhnQnlFVnhlb2hRanFtX3hEVWhTS0lxWXJTOFphVEFLX3lIVDFmcnhWVE82Z3JsckVMN2FpX3FUUw?oc=5",
-    "event_date": "2026-11-10T04:27:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-11",
+    "id": "rss-q_ngayhoi-9",
     "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội Đại đoàn kết tại TPHCM",
     "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội Đại đoàn kết tại TPHCM&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -326,7 +302,57 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-14",
+    "id": "rss-q_ngayhoi-11",
+    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc tại TPHCM",
+    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc tại TPHCM&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGpyZldFZThucWpYQm15ZTliRmxDYXdrVGdwSmU4LTdQVnFNYjNTY09fUmtRSmc1cUNhRWFweHpLTXFxZWxVNVplaUNyOEZLUmFrTnJTWkRPX3pBclBFd0VTeERWY3FkOExzSUhEUkVKQno2MXVDcE4teEI0NDhDLTc4cVo2c09aVGFWZ3BDSjFfWVJDODlDclU5ekRSVWFlS2hjYW5n?oc=5",
+    "event_date": "2026-11-10T14:51:18.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-12",
+    "title": "Người dân TP.HCM hào hứng tham gia hoạt động đổi rác nhận quà tại Ngày hội Việt Nam Xanh",
+    "description": "Người dân TP.HCM hào hứng tham gia hoạt động đổi rác nhận quà tại Ngày hội Việt Nam Xanh&nbsp;&nbsp;Tuổi Trẻ...",
+    "source_entity": "Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVI1TGxPTWluTkFKc3dVVHVEWGo4QkNkSFpLSWRBdmxPR204dk04S2E0dm9ZUmM3ZUlmNXhSeng0djRIYW1KcVBxY3lpM3NLcU14YmFNcmRtdFJWZEtkM0VOaUd4UWdVT2NOUnFhTVdqWDVRSmo4QTB3RDllZnVWWk9oOXpUSXphSHVKMnFTZVhnQnlFVnhlb2hRanFtX3hEVWhTS0lxWXJTOFphVEFLX3lIVDFmcnhWVE82Z3JsckVMN2FpX3FUUw?oc=5",
+    "event_date": "2026-11-10T04:27:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 60,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-13",
     "title": "TPHCM: Nhiều địa phương tổ chức Ngày Văn hóa Việt Nam và Ngày hội Đại đoàn kết toàn dân tộc năm 2026",
     "description": "TPHCM: Nhiều địa phương tổ chức Ngày Văn hóa Việt Nam và Ngày hội Đại đoàn kết toàn dân tộc năm 2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
     "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
@@ -352,32 +378,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-20",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc tại TPHCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc tại TPHCM&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGpyZldFZThucWpYQm15ZTliRmxDYXdrVGdwSmU4LTdQVnFNYjNTY09fUmtRSmc1cUNhRWFweHpLTXFxZWxVNVplaUNyOEZLUmFrTnJTWkRPX3pBclBFd0VTeERWY3FkOExzSUhEUkVKQno2MXVDcE4teEI0NDhDLTc4cVo2c09aVGFWZ3BDSjFfWVJDODlDclU5ekRSVWFlS2hjYW5n?oc=5",
-    "event_date": "2026-11-10T14:51:18.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-21",
+    "id": "rss-q_ngayhoi-15",
     "title": "Không gian lễ hội Việt Nam Xanh thoáng đãng, chơi nhận quà còn thêm kiến thức",
     "description": "Không gian lễ hội Việt Nam Xanh thoáng đãng, chơi nhận quà còn thêm kiến thức&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -403,7 +404,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-23",
+    "id": "rss-q_ngayhoi-19",
     "title": "Đông đảo bạn trẻ và gia đình vui chơi, ‘săn’ hàng ngàn món quà tại đêm hội Việt Nam Xanh",
     "description": "Đông đảo bạn trẻ và gia đình vui chơi, ‘săn’ hàng ngàn món quà tại đêm hội Việt Nam Xanh&nbsp;&nbsp;Vietnam.vn...",
     "source_entity": "Vietnam.vn",
@@ -448,31 +449,6 @@
         "No_Age_Tag",
         "Missing_Date",
         "Not_an_Interactive_Event"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_duongsach-5",
-    "title": "TP.HCM có gì đặc sắc trong chuỗi sự kiện mừng Ngày Văn hóa Việt Nam?",
-    "description": "TP.HCM có gì đặc sắc trong chuỗi sự kiện mừng Ngày Văn hóa Việt Nam?&nbsp;&nbsp;VTC News...",
-    "source_entity": "VTC News",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOWFwWk1LTWlRbkJxdGd0czdmcmszZV8zVFllRDNTODhkRDRRTnVTbGFrb0E1YlhqWVVMTEhIV0NxMmNRQXpnc3hJRzhqcmcyM3BLUlF2bWlYTnNmMm1XMXVtNXlaM0NYNXJTVmFlY1dOOWExT19XSmhqMkxHR3dVY3hlVE1ZbXdwWUhUcHpIQjhHZDNrQWR3M1JxVEYyeWNMTjZv?oc=5",
-    "event_date": "2026-11-08T06:00:00.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Cộng đồng & Mặc định",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
       ],
       "platform": "Web"
     }
