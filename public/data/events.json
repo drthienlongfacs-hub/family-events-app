@@ -1,6 +1,30 @@
 [
   {
-    "id": "rss-afamily_mebe-21",
+    "id": "rss-afamily_mebe-11",
+    "title": "KidsPlaza và hành trình kiến tạo thế hệ hạnh phúc",
+    "description": "Gần 100.000 lượt khách hàng, hàng trăm gian hàng thương hiệu, hàng nghìn gia đình cùng tham gia những hoạt động ý nghĩa, Festival Mẹ bầu & Em bé 2026 đã tạo nên dấu ấn đặc biệt tại...",
+    "source_entity": "KidsPlaza và hành trình kiến tạo thế hệ hạnh phúc",
+    "source_url": "https://afamily.vn/kidsplaza-va-hanh-trinh-kien-tao-the-he-hanh-phuc-236261111112127867.chn",
+    "event_date": "2026-11-14T05:30:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Lễ hội & Sự kiện",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "Missing_Date"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-afamily_mebe-33",
     "title": "Dấu ấn Nestlé tại VietBaby Fair 2026: Trọn vẹn từ trải nghiệm đến kết nối",
     "description": "Bốn ngày góp mặt tại Vietbaby Fair Hà Nội 2026, gian hàng Nestlé NAN và NUTREN Junior trở thành điểm hẹn của nhiều gia đình với những hoạt động trải nghiệm, tìm hiểu dinh dưỡng và ...",
     "source_entity": "Dấu ấn Nestlé tại VietBaby Fair 2026: Trọn vẹn từ trải nghiệm đến kết nối",
@@ -24,7 +48,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-5",
+    "id": "rss-tuoitre_giaoduc-24",
     "title": "Những ngôi trường không điện thoại: 45 phút ra chơi hạnh phúc",
     "description": "Không còn cảnh học sinh ngồi yên một chỗ dán mắt vào màn hình chiếc điện thoại di động trong các giờ giải lao, Trường THPT Nguyễn Thượng Hiền (TP.HCM) đã biến 45 phút ra chơi thành...",
     "source_entity": "Những ngôi trường không điện thoại: 45 phút ra chơi hạnh phúc",
@@ -49,7 +73,7 @@
     }
   },
   {
-    "id": "rss-tuoitre_giaoduc-14",
+    "id": "rss-tuoitre_giaoduc-33",
     "title": "Báo Tuổi Trẻ và các trường đại học mở rộng hợp tác, gắn đào tạo với thực tiễn",
     "description": "Không chỉ tạo cơ hội cho sinh viên trải nghiệm môi trường báo chí, báo Tuổi Trẻ và các trường đại học còn hướng đến hợp tác chuyên môn, đóng góp cho xã hội....",
     "source_entity": "Báo Tuổi Trẻ và các trường đại học mở rộng hợp tác, gắn đào tạo với thực tiễn",
@@ -74,7 +98,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-17",
+    "id": "rss-thanhnien_gioitre-24",
     "title": "TP.HCM n&oacute;ng 34 độ, giới trẻ vẫn rủ nhau đi c&agrave; ph&ecirc; nướng marshmallow &#039;đ&oacute;n đ&ocirc;ng&#039;",
     "description": "Giữa thời tiết n&oacute;ng bức ở TP.HCM, những qu&aacute;n c&agrave; ph&ecirc; nướng marshmallow, mochi trong kh&ocirc;ng gian gợi cảm gi&aacute;c m&ugrave;a đ&ocirc;ng đang thu h&...",
     "source_entity": "TP.HCM n&oacute;ng 34 độ, giới trẻ vẫn rủ nhau đi c&agrave; ph&ecirc; nướng marshmallow &#039;đ&oacute;n đ&ocirc;ng&#039;",
@@ -99,7 +123,7 @@
     }
   },
   {
-    "id": "rss-thanhnien_gioitre-25",
+    "id": "rss-thanhnien_gioitre-32",
     "title": "Lan tỏa t&igrave;nh hữu nghị, đo&agrave;n kết thanh ni&ecirc;n Việt Nam",
     "description": "Từ những giai điệu nghệ thuật đến c&aacute;c hoạt động giao lưu, trải nghiệm v&agrave; hợp t&aacute;c thực tiễn, Li&ecirc;n hoan thanh ni&ecirc;n Việt Nam - Campuchia - L&agrave;o ...",
     "source_entity": "L&agrave;o",
@@ -124,12 +148,12 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-5",
-    "title": "Trải nghiệm “hộ chiếu giao thông”",
-    "description": "Trải nghiệm “hộ chiếu giao thông”&nbsp;&nbsp;VOV Giao Thông...",
-    "source_entity": "VOV Giao Thông",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMmpsN2M0TUZIRWdSVjRoX3ZMemNITWp5d0RNRGdlVlpMRl83MUhvajVvbFVKbzZpSGtmMFpFMVc1MjljZFZEMElFZHFURTlfdWx5d1FRQUFleDFzeVVIOWZlWTRhbF9OT3VNSGloc0ozcUstZlJWa015R2ZpcUlENHktQQ?oc=5",
-    "event_date": "2026-11-13T09:48:00.000Z",
+    "id": "rss-q_lehoi-8",
+    "title": "TPHCM tổ chức nhiều hoạt động văn hóa, nghệ thuật đặc sắc dịp 24/11",
+    "description": "TPHCM tổ chức nhiều hoạt động văn hóa, nghệ thuật đặc sắc dịp 24/11&nbsp;&nbsp;Báo Sức khỏe & Đời sống...",
+    "source_entity": "Báo Sức khỏe & Đời sống",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnQxbU1JU3BVR2JBVVFsOHVKeUhIVWhGSzBzNUxJUmFTLTZLd000aG54a1MxQlF6RDliYTRXMHBHckExVG9mS0huVFVKci1HdjVUSi1rUFViN3E1TW56ZVBBSU1tcVl4TDhkZU0yeFVncmE4bXlkRE9Na0QyNmU4U1dzMl9HdF9NWmtNZHZNbE8yRF8yTGE4MkUwTy1WSW42WmRJcVh5UlFmV3hXWUF6WVFRclU4dw?oc=5",
+    "event_date": "2026-11-24T00:00:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -137,25 +161,25 @@
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": false,
+      "hasTemporal": true,
       "hasLocation": false,
-      "isInteractive": true,
+      "isInteractive": false,
       "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Date",
-        "Missing_Location"
+        "Missing_Location",
+        "Not_an_Interactive_Event"
       ],
       "platform": "Web"
     }
   },
   {
-    "id": "rss-q_ngayhoi-0",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự ngày hội Đại đoàn kết tại TP.HCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự ngày hội Đại đoàn kết tại TP.HCM&nbsp;&nbsp;Báo Thanh Niên...",
-    "source_entity": "Báo Thanh Niên",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHBJdklVYm0tSko3VnRadzFZcElfenpsUTRBRFUzUE44X3ZmcnoxN01fRzUwcGNRcHBJWVh2a2lNbHlLR291MjRGR2dQaHdnck9icUlzTmhfd3dvbUdVMHpNbUUtRFZOdHJsQ1ItckZhWERiUGRXSnhOOENTeGVucTNYMTNXS0pUNVlzUHAyczZmdnRWT3ZReUptOGdfX2ZhZGFrUUFsTDZYT2VNSjBxXw?oc=5",
-    "event_date": "2026-11-10T08:12:00.000Z",
+    "id": "rss-q_ngayhoi-1",
+    "title": "Trao yêu thương, tiếp sức học sinh trong Ngày hội Đại đoàn kết tại xã Minh Thạnh",
+    "description": "Trao yêu thương, tiếp sức học sinh trong Ngày hội Đại đoàn kết tại xã Minh Thạnh&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
+    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZGbDVyUkREaDdVdnNCdjFEOUdoLXcxRE01NkRXcUEyN295R0dXcVg4YlcwU2t6MlNQQzNuNlFHa1IxSHVDcEEzcy1NODltd29uR3p0a3FMX0hpUjVpQ3lTdlZ1Zi1qVUxFTHRkQWx3a095QVdmTUp6aWZOUDNkb3Nid18ybUJxODh0SXlpTkQ5enpGckNyd1hJZ1RzSElnQmgzTk1IWlY2RTRDYmlTeUZmQUZYX19fc3Q0?oc=5",
+    "event_date": "2026-11-12T06:56:28.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -175,82 +199,7 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-2",
-    "title": "Chủ tịch Quốc hội dự Ngày hội Đại đoàn kết toàn dân tộc tại TPHCM",
-    "description": "Chủ tịch Quốc hội dự Ngày hội Đại đoàn kết toàn dân tộc tại TPHCM&nbsp;&nbsp;Báo Dân trí...",
-    "source_entity": "Báo Dân trí",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0did0MwZ0lKeFZiNnVjbmpzVFAxNHVPbF80aDdNZWRCMTU5Wm5hZDZ3QkxRekRlLUx6cmgtLWxzMUVTLVVxNzFfSEl6VWdiZ2Nhc0V3X1F1WEtvaXpMZlJYbFBvUzBUVHZvR3RUZ1Exdy1uOERaeERzcDVvY2NrTFdCR3ROclFzLTBUMlRua3R4NnZoblNNS3NRSHFnb1B0a3I3ajhrV1A4SUp0T29sbngya0x6MWZo?oc=5",
-    "event_date": "2026-11-10T08:43:12.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-3",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết tại TP.HCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết tại TP.HCM&nbsp;&nbsp;Dân tộc và Phát triển...",
-    "source_entity": "Dân tộc và Phát triển",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamNWUllmUEIzRGwwT0RVbG1nOGhJcllsaGxoNVJYNWVueUVQWnZRM1c4emU0azBFekNveWJWNU5ZLXpXR1Y2aDhwbXNyQWRnSER3RVV6ZThzR3FfOGlmNVVxQmVUd0RjVmx1NkNWeWtUbTZFYU9vTzlEWnM0eERrWmpfZExHQXk4elI1V25MQkpiM3VDRXZpWEF2bkE2Wlc5SzZHZHRneUJWeWVJWS13eF9xV1dZby01?oc=5",
-    "event_date": "2026-11-10T08:59:01.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-4",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội Đại đoàn kết tại TPHCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội Đại đoàn kết tại TPHCM&nbsp;&nbsp;dangcongsan.vn...",
-    "source_entity": "dangcongsan.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmxBbE9hQUdqYjNaM3B5eVA2NUljT1g1TVc3T01sanhxYjA3T2J1djE4OF92WFdrQlVUZllweU95UFFCcFlfRC0yVmdYSjFEUWNReGpQdzJGbGRTWVY5bnAwT3o2NkJ0Z2pjd1hteGtoallKRVdYQy1PYUo1NUhHalF5NE1Md2pmOFNHeWhqc2s3cmhqQmJqYWVCVGcwNExrUWFFdDlMZ0tTLVBxOGU2V01nQnpiQUpUM0JiUERnU0ZhbjQ?oc=5",
-    "event_date": "2026-11-10T11:01:37.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-7",
+    "id": "rss-q_ngayhoi-5",
     "title": "Hai ngày lan tỏa hành động xanh tại TPHCM",
     "description": "Hai ngày lan tỏa hành động xanh tại TPHCM&nbsp;&nbsp;Laodong.vn...",
     "source_entity": "Laodong.vn",
@@ -276,12 +225,12 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-8",
-    "title": "TPHCM: Nhiều địa phương tổ chức Ngày Văn hóa Việt Nam và Ngày hội Đại đoàn kết toàn dân tộc năm 2026",
-    "description": "TPHCM: Nhiều địa phương tổ chức Ngày Văn hóa Việt Nam và Ngày hội Đại đoàn kết toàn dân tộc năm 2026&nbsp;&nbsp;BÁO SÀI GÒN GIẢI PHÓNG...",
-    "source_entity": "BÁO SÀI GÒN GIẢI PHÓNG",
-    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRDNoZUNxdVBmYVQ0OFZtQ0c0NWFXalM1LU16MmpfaU1RVFVsdUNFeXNRTzlXeUFkSm5EWkhMWjhZQjBRWHllM0txdXFvc2tnZk0zczFWU0tCRHRYTXNHMGdyTXUtZHJMc0dxZzY1dFVXbktvRDZ5SC16S05oVjlGQ2FuTWQxYlktd3N1MHF2N0ZGUm12WmhwWkQ0ZEZ1bXQtYUNpRDBXV3E3X3ExbTBzLUhSZGpFRWNhRmJ0cGxFc2RDYkxxNHJZNVc1UFpyV3dKYm1hWkZB?oc=5",
-    "event_date": "2026-11-11T04:30:05.000Z",
+    "id": "rss-q_ngayhoi-7",
+    "title": "TPHCM: Ngày hội Đại đoàn kết gắn với chăm lo đời sống người dân",
+    "description": "TPHCM: Ngày hội Đại đoàn kết gắn với chăm lo đời sống người dân&nbsp;&nbsp;Báo Đại Đoàn Kết...",
+    "source_entity": "Báo Đại Đoàn Kết",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOUV0a2N0VFlubmpFNE1JbUV2Y09QYVYyWnBSOFo3X29ma3AycW1YaFVnNVhkdlkwdE9UWjY1anUxUXpYc2FDSEdBbWFLcWh1eEZPVVhsbWdqYnhxdWhtR1JXblM3NERpYlJObWtCSUZrZjY2bnA1QUQ3eGhRZW94ZUhQVm5LbkNfcWVHWkhKNGRMM28?oc=5",
+    "event_date": "2026-11-12T04:59:41.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -302,63 +251,12 @@
     }
   },
   {
-    "id": "rss-q_ngayhoi-9",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc ở TPHCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc ở TPHCM&nbsp;&nbsp;Báo Tiền Phong...",
-    "source_entity": "Báo Tiền Phong",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXJGc1NZT3pDQVp3cXZ1U19TR3BZcnJvQnpYRHBOTktGaXE0S0ZURlEyZjhFM0E4eUZMd1pMMEcydmxYWnk2Z0ZHVVM5TlZPaVhOQkhsLXVhNGIza3kySXBiZF9SMUo4QThIUmxUaEQ3SkFjNTNoMS1UZkFRc1NJTlJ1WkJKUVFDZml1SW1vLUd4a0FTN1ExXzBLYThGb2trck5NMFBISHVfYUhPTDhwOHp2c3A0QQ?oc=5",
-    "event_date": "2026-11-10T07:08:43.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": false,
-      "isInteractive": true,
-      "score": 40,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date",
-        "Missing_Location"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-22",
-    "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc tại TPHCM",
-    "description": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Ngày hội đại đoàn kết toàn dân tộc tại TPHCM&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGpyZldFZThucWpYQm15ZTliRmxDYXdrVGdwSmU4LTdQVnFNYjNTY09fUmtRSmc1cUNhRWFweHpLTXFxZWxVNVplaUNyOEZLUmFrTnJTWkRPX3pBclBFd0VTeERWY3FkOExzSUhEUkVKQno2MXVDcE4teEI0NDhDLTc4cVo2c09aVGFWZ3BDSjFfWVJDODlDclU5ekRSVWFlS2hjYW5n?oc=5",
-    "event_date": "2026-11-10T14:51:18.000Z",
-    "location": "TP. Hồ Chí Minh",
-    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
-    "age_category": "Web",
-    "category": "Lễ hội & Sự kiện",
-    "checklist": {
-      "isSafe": true,
-      "isAgeAppropriate": false,
-      "hasTemporal": false,
-      "hasLocation": true,
-      "isInteractive": true,
-      "score": 60,
-      "failures": [
-        "No_Age_Tag",
-        "Missing_Date"
-      ],
-      "platform": "Web"
-    }
-  },
-  {
-    "id": "rss-q_ngayhoi-23",
+    "id": "rss-q_ngayhoi-21",
     "title": "Phó bí thư Thành ủy Văn Thị Bạch Tuyết: Đóng góp bền bỉ của người dân vun đắp, lan tỏa giá trị đẹp của TP.HCM",
-    "description": "Phó bí thư Thành ủy Văn Thị Bạch Tuyết: Đóng góp bền bỉ của người dân vun đắp, lan tỏa giá trị đẹp của TP.HCM&nbsp;&nbsp;Vietnam.vn...",
-    "source_entity": "Vietnam.vn",
-    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZU9tSzI5Z0JYb29RRkh3ZXEzTy0wanB1VmxfNnlSeGRsdTgyT2Z2OVhPdndKU1FKREhkdGlwVUdjTEZqX1UzZ0JOdTRNMVB0b2MyZ0dvVFZQeXVpOFF1YTBlYjItMUF0bVRiYlFmVTlmeDVDdlRIR0NOZ05UWXpUTXh0NWItOXp0eUdEVHRuU2JmdWx5Y1VhZ2diTDZidzNobFRYMFVTdFpBNW16V0g0dWRVNlMtQ2FDaHA1cTh4VXVmY0F5Nm9PNGlB?oc=5",
-    "event_date": "2026-11-12T18:27:44.000Z",
+    "description": "Phó bí thư Thành ủy Văn Thị Bạch Tuyết: Đóng góp bền bỉ của người dân vun đắp, lan tỏa giá trị đẹp của TP.HCM&nbsp;&nbsp;Báo Tuổi Trẻ...",
+    "source_entity": "Báo Tuổi Trẻ",
+    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQm1IcXVrNk0zd0VVMDBrYlRzNjVaTkVFWndnZERvNDZWR0hwTnZqTl9UaUF0Vmt1TG90b01FSUJsNzVELUtaUXc0ZzJ1dUN2emx2MUIzYXF4Tk42aDVCblp3UzRRaGhoOWkwTXF0SE4tdUFDV0JZdDZMaHd3R0RhNWxMUmo0a2RxWTljYnBGOFRmMEtXREpFdFBkcG4zOEpmMHZtNlI2c1NyT25kVmNVRTdwcGpwZDhBd0tCbTZuZDJ3Q1pSQ3g5NXpJYlk3UDR6emhUS0k0aThka2xPVWVOY2tn?oc=5",
+    "event_date": "2026-11-12T13:23:00.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -379,12 +277,37 @@
     }
   },
   {
-    "id": "rss-q_lehoi-7",
-    "title": "TPHCM tổ chức nhiều hoạt động văn hóa, nghệ thuật đặc sắc dịp 24/11",
-    "description": "TPHCM tổ chức nhiều hoạt động văn hóa, nghệ thuật đặc sắc dịp 24/11&nbsp;&nbsp;Báo Sức khỏe & Đời sống...",
-    "source_entity": "Báo Sức khỏe & Đời sống",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnQxbU1JU3BVR2JBVVFsOHVKeUhIVWhGSzBzNUxJUmFTLTZLd000aG54a1MxQlF6RDliYTRXMHBHckExVG9mS0huVFVKci1HdjVUSi1rUFViN3E1TW56ZVBBSU1tcVl4TDhkZU0yeFVncmE4bXlkRE9Na0QyNmU4U1dzMl9HdF9NWmtNZHZNbE8yRF8yTGE4MkUwTy1WSW42WmRJcVh5UlFmV3hXWUF6WVFRclU4dw?oc=5",
-    "event_date": "2026-11-24T00:00:00.000Z",
+    "id": "rss-q_ngayhoi-23",
+    "title": "TP.HCM đẩy mạnh lấy mẫu ADN để đưa liệt sĩ về với gia đình",
+    "description": "TP.HCM đẩy mạnh lấy mẫu ADN để đưa liệt sĩ về với gia đình&nbsp;&nbsp;Báo Xây dựng...",
+    "source_entity": "Báo Xây dựng",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0dNUDcwQUZ4bE1NcVdmX3V2Wi03Q3JTekZnWEZuZmEtT1ktZEM2Y19NUDM3UXVGN0tiMXg2OGNzR2JaRDRuVzBDMzJQRzBTbHB1Q29hYjU5QUJfcjdFVUoyUWlTZHh2enJ2MF85QTJockpZQTdXcjktMkgwa0lNT0E4MEJYeHQtbnEzWV9uc3lqM05pMlRZdU9PYVdFOW1Eb2owaw?oc=5",
+    "event_date": "2026-11-15T04:11:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": true,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 60,
+      "failures": [
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-24",
+    "title": "Liên khu phố 6 – 8 (Phường Tây Thạnh, TP.HCM): lan tỏa sức mạnh đại đoàn kết từ những việc làm thiết thực",
+    "description": "Liên khu phố 6 – 8 (Phường Tây Thạnh, TP.HCM): lan tỏa sức mạnh đại đoàn kết từ những việc làm thiết thực&nbsp;&nbsp;Tạp chí Doanh nghiệp & Kinh tế xanh...",
+    "source_entity": "Tạp chí Doanh nghiệp & Kinh tế xanh",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1pZS0tiY19mNkR5QnZidzh4R2pWZWRxTGRudlFFZVFYcTVNT19CbG9fQWVvcHo1NUtMLXFVS1F2a2Frc3RXUVNSbDRFaF9vMmxNQ3h5UW0xb05IaWNuaHZZRmFma29IMUlGajF3cVhrLU9jSHJGb1g3R3M4Qko2UEhmNzlONFozSTM5ZGxkalBOTGxrZWpZYjg1WGVxTk1nTjNQZDhXSFNHVUZuTDkyNzQyYlZldmlnNlBGR0NQTzE0TkJWTTVZSmpJRWdTLXE0a1R6YktnN0RBUzA?oc=5",
+    "event_date": "2026-11-12T08:52:01.000Z",
     "location": "TP. Hồ Chí Minh",
     "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
     "age_category": "Web",
@@ -392,13 +315,89 @@
     "checklist": {
       "isSafe": true,
       "isAgeAppropriate": false,
-      "hasTemporal": true,
-      "hasLocation": false,
+      "hasTemporal": false,
+      "hasLocation": true,
       "isInteractive": false,
       "score": 40,
       "failures": [
         "No_Age_Tag",
-        "Missing_Location",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_ngayhoi-28",
+    "title": "Mừng Ngày Văn hóa Việt Nam, TP.HCM bắn pháo hoa nghệ thuật, trình diễn 3D mapping",
+    "description": "Mừng Ngày Văn hóa Việt Nam, TP.HCM bắn pháo hoa nghệ thuật, trình diễn 3D mapping&nbsp;&nbsp;Vietnam.vn...",
+    "source_entity": "Vietnam.vn",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmdrbmpiRGpnWllxMHA4ZlM3cHZXN1lNMG5HbzljWVFBS2FIUEpzckRrcU02VG5jc09ESUJUSVE3ZmlVMDloekVQTGQtdlZvdWlWVE81am5qSWlCRzNxSWZEaWlSU0RsaUNpVnEyMTdTVXdlNUQ1ZFI3X29fTDY4U3ZIVTVoWFdGQllfdkR0WTFZRmFKeEQxenVhSW9idXJlTUhvZg?oc=5",
+    "event_date": "2026-11-13T03:26:45.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Cộng đồng & Mặc định",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
+        "Not_an_Interactive_Event"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-3",
+    "title": "Đúng 10h ngày 15/11, Thảo Cầm Viên tổ chức một sự kiện đặc biệt, ai đến cũng có quà",
+    "description": "Đúng 10h ngày 15/11, Thảo Cầm Viên tổ chức một sự kiện đặc biệt, ai đến cũng có quà&nbsp;&nbsp;CafeF...",
+    "source_entity": "CafeF",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnJMbDZkNFRGd1JGZk9SampKbTlXdFl3Z1ZGZVFFaENRVy10MGdVUzlONHduN3F0X2F1MExZT1ZfQ0JmY0s2Z2tDZ0FyOU1vc0lJWnJhbXV0OUxOYXI5M3lLRHBvMmViVlhzbXd1WndGa0dCbFdiV2FfX3NrUW9ZWjRURXZ5cFpzS2U4LUY1UDQwVlpQaVVTckw1SVg3cjhrTy1CVjVESjBaZHJhS25BY1g5XzUtSk1IMi1MZ2pR?oc=5",
+    "event_date": "2026-11-15T00:00:00.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": true,
+      "hasLocation": true,
+      "isInteractive": true,
+      "score": 80,
+      "failures": [
+        "No_Age_Tag"
+      ],
+      "platform": "Web"
+    }
+  },
+  {
+    "id": "rss-q_thaocamvien-26",
+    "title": "162 năm rực rỡ của Thảo Cầm Viên",
+    "description": "162 năm rực rỡ của Thảo Cầm Viên&nbsp;&nbsp;Znews...",
+    "source_entity": "Znews",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDdyTWFpc1ZfVFhkdURNRS1ETEJ4QlpWSzFDdU44YjFuTTNkNnlJOU5BVVF6T01qVWN2Z3Fub3B1V1hsSmUyV2d3NXZhTGs5SXRLVUcza3EtT0hfVnY0R1hKZk5SXzMzQ0wxTEJlaGpHVGNXWXFjRHVPb0ZZSjgydDB5QVpiUQ?oc=5",
+    "event_date": "2026-11-15T02:15:59.000Z",
+    "location": "TP. Hồ Chí Minh",
+    "image_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&q=80",
+    "age_category": "Web",
+    "category": "Vui chơi & Dã ngoại",
+    "checklist": {
+      "isSafe": true,
+      "isAgeAppropriate": false,
+      "hasTemporal": false,
+      "hasLocation": true,
+      "isInteractive": false,
+      "score": 40,
+      "failures": [
+        "No_Age_Tag",
+        "Missing_Date",
         "Not_an_Interactive_Event"
       ],
       "platform": "Web"
