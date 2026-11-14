@@ -1,3254 +1,6 @@
 {
-  "runs": 239,
+  "runs": 240,
   "exceptions": [
-    {
-      "timestamp": "2026-11-12T06:27:37.189Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.197Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.224Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.401Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.428Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.593Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.633Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 80): Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.797Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.807Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.837Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.933Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:37.999Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.008Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.041Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.140Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.201Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 60): No_Age_Tag, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.217Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.245Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.348Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.404Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.419Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.450Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.560Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.607Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.621Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.655Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.768Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.809Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.822Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.859Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:38.975Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.012Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.024Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.063Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.183Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.214Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.226Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.268Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.391Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.416Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.433Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.472Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.598Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.619Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.635Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.677Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.806Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.821Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.836Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:39.881Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.014Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.027Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.038Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.085Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.222Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.229Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.254Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.289Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.431Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.455Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.494Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.534Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.634Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.666Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.698Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.871Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:40.903Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.104Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.107Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.311Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.515Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.536Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.720Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.742Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.925Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:41.948Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:42.154Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:42.362Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:42.569Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:42.774Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:42.980Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:43.390Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:43.596Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:43.801Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:44.007Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:44.213Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:44.419Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:44.625Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:44.832Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:45.038Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:45.244Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:45.450Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 0): Safety_Violated, No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:45.656Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:45.862Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:46.068Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:46.406Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-12T06:27:47.408Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:46:59.703Z",
-      "type": "ENDPOINT_ERROR",
-      "provider": "eva_lamme",
-      "issue": "Network Error: Request failed with status code 404",
-      "context": "",
-      "status": "action_required"
-    },
-    {
-      "timestamp": "2026-11-13T05:46:59.988Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.102Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.206Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.252Z",
-      "type": "FILTER_DROP",
-      "provider": "q_goethe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.255Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.295Z",
-      "type": "FILTER_DROP",
-      "provider": "q_workshop",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.308Z",
-      "type": "FILTER_DROP",
-      "provider": "q_tiniworld",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.322Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.329Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lespace",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.333Z",
-      "type": "FILTER_DROP",
-      "provider": "q_americancenter",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.334Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.337Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.339Z",
-      "type": "FILTER_DROP",
-      "provider": "q_britishcouncil",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.342Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.343Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.347Z",
-      "type": "FILTER_DROP",
-      "provider": "q_nhathieunhi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.350Z",
-      "type": "FILTER_DROP",
-      "provider": "q_muaroi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.354Z",
-      "type": "FILTER_DROP",
-      "provider": "q_aeonmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.365Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.366Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.372Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.374Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.375Z",
-      "type": "FILTER_DROP",
-      "provider": "q_khoatumuahe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.376Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.401Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.404Z",
-      "type": "FILTER_DROP",
-      "provider": "q_workshop",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.409Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.412Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.414Z",
-      "type": "FILTER_DROP",
-      "provider": "q_goethe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.431Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.433Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.436Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vienbaotang",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.438Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.497Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.510Z",
-      "type": "FILTER_DROP",
-      "provider": "q_muaroi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.513Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.515Z",
-      "type": "FILTER_DROP",
-      "provider": "q_aeonmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.519Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.520Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.524Z",
-      "type": "FILTER_DROP",
-      "provider": "q_nhathieunhi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.542Z",
-      "type": "FILTER_DROP",
-      "provider": "q_khoatumuahe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.545Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.546Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.548Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.549Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.552Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.555Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.561Z",
-      "type": "FILTER_DROP",
-      "provider": "q_workshop",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.563Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.586Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vienbaotang",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.593Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.601Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.613Z",
-      "type": "FILTER_DROP",
-      "provider": "q_goethe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.650Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.655Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.667Z",
-      "type": "FILTER_DROP",
-      "provider": "q_muaroi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.674Z",
-      "type": "FILTER_DROP",
-      "provider": "q_aeonmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.678Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.682Z",
-      "type": "FILTER_DROP",
-      "provider": "q_nhathieunhi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.684Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.694Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.699Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vienbaotang",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.708Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.709Z",
-      "type": "FILTER_DROP",
-      "provider": "q_workshop",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.710Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.712Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.714Z",
-      "type": "FILTER_DROP",
-      "provider": "q_khoatumuahe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.715Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.719Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.720Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.744Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.763Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.794Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.796Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.817Z",
-      "type": "FILTER_DROP",
-      "provider": "q_muaroi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.833Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.836Z",
-      "type": "FILTER_DROP",
-      "provider": "q_aeonmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.840Z",
-      "type": "FILTER_DROP",
-      "provider": "q_nhathieunhi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.843Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.848Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.850Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.858Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.873Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.874Z",
-      "type": "FILTER_DROP",
-      "provider": "q_workshop",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.875Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.876Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.877Z",
-      "type": "FILTER_DROP",
-      "provider": "q_khoatumuahe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.879Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vienbaotang",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.880Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.881Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.897Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.898Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:00.946Z",
-      "type": "FILTER_DROP",
-      "provider": "q_aeonmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.086Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.091Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.102Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.111Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.113Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.118Z",
-      "type": "FILTER_DROP",
-      "provider": "q_muaroi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.119Z",
-      "type": "FILTER_DROP",
-      "provider": "q_aeonmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.124Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.125Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.127Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vienbaotang",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.130Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.134Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.135Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.137Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.138Z",
-      "type": "FILTER_DROP",
-      "provider": "q_nhathieunhi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.139Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.140Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.142Z",
-      "type": "FILTER_DROP",
-      "provider": "q_khoatumuahe",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.189Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.206Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.214Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.215Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.277Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.281Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.283Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vienbaotang",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.284Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.289Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.291Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.293Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.295Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.302Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.306Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.311Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.346Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.366Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.368Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.382Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.426Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.431Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vienbaotang",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.442Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.449Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.452Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.453Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.454Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.465Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.498Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.504Z",
-      "type": "FILTER_DROP",
-      "provider": "q_takashimaya",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.519Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.522Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.523Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.527Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.568Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.592Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.593Z",
-      "type": "FILTER_DROP",
-      "provider": "q_vincom",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.613Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.627Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.630Z",
-      "type": "FILTER_DROP",
-      "provider": "q_idecaf",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.650Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lopnghethuat",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.678Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.692Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.693Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.703Z",
-      "type": "FILTER_DROP",
-      "provider": "q_duongsach",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.704Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.718Z",
-      "type": "FILTER_DROP",
-      "provider": "q_crescentmall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.732Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.737Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.777Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.785Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.788Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.830Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.852Z",
-      "type": "FILTER_DROP",
-      "provider": "q_lehoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.869Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.895Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:01.951Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.034Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Missing_Location",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.135Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.166Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.382Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.453Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.478Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.480Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.484Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.587Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.597Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.625Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.626Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.628Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.634Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.635Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.721Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.764Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.801Z",
-      "type": "FILTER_DROP",
-      "provider": "q_gigamall",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.802Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.804Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.812Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.832Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.864Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.879Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.963Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.977Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:02.994Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.009Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.027Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.039Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.053Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.123Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.126Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.159Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.198Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.222Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.243Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.245Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.285Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.287Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.325Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.362Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.429Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.445Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.452Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.458Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.501Z",
-      "type": "FILTER_DROP",
-      "provider": "q_chaybogiadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.571Z",
-      "type": "FILTER_DROP",
-      "provider": "q_sukien",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.602Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.658Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.673Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.689Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.711Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.771Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.847Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.865Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.888Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.901Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:03.926Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.002Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.071Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.080Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.103Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.132Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.171Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.226Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.278Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.308Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.318Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.363Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.393Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.413Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.485Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.533Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.561Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.595Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.643Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.648Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.693Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.720Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.743Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.748Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.872Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.898Z",
-      "type": "FILTER_DROP",
-      "provider": "q_ngayhoi",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.899Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.963Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:04.986Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.103Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.106Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.123Z",
-      "type": "FILTER_DROP",
-      "provider": "q_thaocamvien",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.178Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.313Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.335Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.394Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.521Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.566Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.610Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.728Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.785Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.802Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.826Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:05.936Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.014Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.032Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.041Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.143Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.257Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.262Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 60): No_Age_Tag, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.311Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.351Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.473Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.502Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.558Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.689Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.738Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.765Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.906Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.969Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 20): Safety_Violated, No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:06.972Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.122Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.188Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.198Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.339Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.394Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.429Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.554Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.602Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.659Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.771Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.810Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.890Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:07.987Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.017Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.078Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.136Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.203Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.224Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.310Z",
-      "type": "FILTER_DROP",
-      "provider": "afamily_mebe",
-      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.367Z",
-      "type": "FILTER_DROP",
-      "provider": "tuoitre_giaoduc",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.419Z",
-      "type": "FILTER_DROP",
-      "provider": "vne_giadinh",
-      "issue": "Date Expired",
-      "context": "",
-      "status": "noise_metric"
-    },
-    {
-      "timestamp": "2026-11-13T05:47:08.431Z",
-      "type": "FILTER_DROP",
-      "provider": "thanhnien_gioitre",
-      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
-      "context": "",
-      "status": "noise_metric"
-    },
     {
       "timestamp": "2026-11-13T05:47:08.635Z",
       "type": "FILTER_DROP",
@@ -4000,11 +752,3259 @@
       "issue": "Date Expired",
       "context": "",
       "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:49.783Z",
+      "type": "ENDPOINT_ERROR",
+      "provider": "eva_lamme",
+      "issue": "Network Error: Request failed with status code 404",
+      "context": "",
+      "status": "action_required"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:49.864Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.085Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.168Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.304Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.410Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.522Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.528Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.553Z",
+      "type": "FILTER_DROP",
+      "provider": "q_nhathieunhi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.560Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.587Z",
+      "type": "FILTER_DROP",
+      "provider": "q_khoatumuahe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.589Z",
+      "type": "FILTER_DROP",
+      "provider": "q_britishcouncil",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.592Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.596Z",
+      "type": "FILTER_DROP",
+      "provider": "q_americancenter",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.604Z",
+      "type": "FILTER_DROP",
+      "provider": "q_workshop",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.614Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.620Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.629Z",
+      "type": "FILTER_DROP",
+      "provider": "q_aeonmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.631Z",
+      "type": "FILTER_DROP",
+      "provider": "q_goethe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.635Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.639Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.649Z",
+      "type": "FILTER_DROP",
+      "provider": "q_tiniworld",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.651Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.657Z",
+      "type": "FILTER_DROP",
+      "provider": "q_muaroi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.660Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.662Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.676Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.689Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.709Z",
+      "type": "FILTER_DROP",
+      "provider": "q_nhathieunhi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.712Z",
+      "type": "FILTER_DROP",
+      "provider": "q_workshop",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.727Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lespace",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.740Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.742Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.746Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.748Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.762Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.764Z",
+      "type": "FILTER_DROP",
+      "provider": "q_khoatumuahe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.778Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.781Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.783Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.785Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.789Z",
+      "type": "FILTER_DROP",
+      "provider": "q_aeonmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.791Z",
+      "type": "FILTER_DROP",
+      "provider": "q_goethe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.800Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.803Z",
+      "type": "FILTER_DROP",
+      "provider": "q_duongsach",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.819Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.821Z",
+      "type": "FILTER_DROP",
+      "provider": "q_muaroi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.824Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.851Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.858Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.861Z",
+      "type": "FILTER_DROP",
+      "provider": "q_nhathieunhi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.868Z",
+      "type": "FILTER_DROP",
+      "provider": "q_workshop",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.881Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.890Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.904Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lespace",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.911Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.914Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.923Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.925Z",
+      "type": "FILTER_DROP",
+      "provider": "q_khoatumuahe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.934Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.936Z",
+      "type": "FILTER_DROP",
+      "provider": "q_aeonmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.940Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.947Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.951Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.955Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.958Z",
+      "type": "FILTER_DROP",
+      "provider": "q_duongsach",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.961Z",
+      "type": "FILTER_DROP",
+      "provider": "q_goethe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.963Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.968Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:50.984Z",
+      "type": "FILTER_DROP",
+      "provider": "q_muaroi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.022Z",
+      "type": "FILTER_DROP",
+      "provider": "q_nhathieunhi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.027Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.030Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.036Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.053Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.069Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.073Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.075Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.081Z",
+      "type": "FILTER_DROP",
+      "provider": "q_khoatumuahe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.083Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.092Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.095Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lespace",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.097Z",
+      "type": "FILTER_DROP",
+      "provider": "q_aeonmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.105Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.109Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.111Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.113Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.116Z",
+      "type": "FILTER_DROP",
+      "provider": "q_goethe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.176Z",
+      "type": "FILTER_DROP",
+      "provider": "q_duongsach",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.186Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.189Z",
+      "type": "FILTER_DROP",
+      "provider": "q_muaroi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.192Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.200Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.203Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.205Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.239Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.252Z",
+      "type": "FILTER_DROP",
+      "provider": "q_nhathieunhi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.271Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.273Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.303Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.305Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.307Z",
+      "type": "FILTER_DROP",
+      "provider": "q_aeonmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.310Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.312Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.313Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.318Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.321Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.323Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.335Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.343Z",
+      "type": "FILTER_DROP",
+      "provider": "q_duongsach",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.354Z",
+      "type": "FILTER_DROP",
+      "provider": "q_muaroi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.355Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.416Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.426Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.432Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.455Z",
+      "type": "FILTER_DROP",
+      "provider": "q_aeonmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.458Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.466Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.468Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.470Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.473Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.488Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.490Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.492Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.494Z",
+      "type": "FILTER_DROP",
+      "provider": "q_duongsach",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.511Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.520Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.559Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.579Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.596Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.602Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.606Z",
+      "type": "FILTER_DROP",
+      "provider": "q_aeonmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.612Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.619Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vincom",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.621Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.623Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.631Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.639Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.645Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.652Z",
+      "type": "FILTER_DROP",
+      "provider": "q_duongsach",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.656Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.665Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.667Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 60): No_Age_Tag, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.674Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.678Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.718Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.734Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.761Z",
+      "type": "FILTER_DROP",
+      "provider": "q_vienbaotang",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.763Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.776Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.778Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.793Z",
+      "type": "FILTER_DROP",
+      "provider": "q_takashimaya",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.806Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.817Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.819Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.825Z",
+      "type": "FILTER_DROP",
+      "provider": "q_idecaf",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.839Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.858Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.869Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.906Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.909Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.915Z",
+      "type": "FILTER_DROP",
+      "provider": "q_crescentmall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.930Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.970Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.981Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:51.989Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.020Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.022Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.054Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.076Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.082Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.122Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.129Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.135Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lehoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.144Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.156Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.176Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.178Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.221Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.235Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.245Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.266Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.295Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.305Z",
+      "type": "FILTER_DROP",
+      "provider": "q_lopnghethuat",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.315Z",
+      "type": "FILTER_DROP",
+      "provider": "q_gigamall",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.362Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.386Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.395Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.397Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.413Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.418Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.476Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.513Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.515Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.548Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.550Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.582Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.632Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.634Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.708Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.713Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.733Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.736Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.757Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.790Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.865Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.868Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.873Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.894Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.942Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:52.951Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.011Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.013Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.023Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.060Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.087Z",
+      "type": "FILTER_DROP",
+      "provider": "q_thaocamvien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.112Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.163Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.167Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.169Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.184Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.255Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.324Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.351Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 60): No_Age_Tag, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.371Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.387Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.473Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.486Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.500Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.540Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.591Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.605Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.618Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.678Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.744Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.773Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.799Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.823Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.825Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.830Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.887Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.910Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.960Z",
+      "type": "FILTER_DROP",
+      "provider": "q_sukien",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.965Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:53.998Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.041Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.073Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.076Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.209Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.236Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.240Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.243Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.260Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.315Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.397Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.400Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.479Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.488Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.538Z",
+      "type": "FILTER_DROP",
+      "provider": "q_chaybogiadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.545Z",
+      "type": "FILTER_DROP",
+      "provider": "q_ngayhoi",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.554Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.701Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.733Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.794Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.922Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:54.991Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.048Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Missing_Location",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.142Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.236Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.287Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.362Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.481Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.526Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.584Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.726Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.805Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:55.971Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.010Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.025Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.216Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.246Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.461Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.464Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.515Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.683Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.713Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.829Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.901Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:56.969Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.120Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.225Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.338Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.470Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.489Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.556Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.731Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.734Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.775Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.976Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.985Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:57.993Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.211Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.218Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.230Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.429Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.460Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.487Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.648Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.706Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.732Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.748Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.867Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.949Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:58.976Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.086Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.192Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.221Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.305Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.435Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 60): No_Age_Tag, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.466Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.523Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.678Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.711Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.742Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.921Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.955Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:37:59.959Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.164Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): Safety_Violated, No_Age_Tag, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.177Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.200Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.395Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.406Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.445Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.593Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.614Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.650Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.694Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.832Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.893Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:00.939Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.051Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.135Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.184Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.270Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 60): No_Age_Tag, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.379Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.429Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.489Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.622Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.677Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.707Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.865Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.923Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:01.925Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Semantic Drop (Score: 80): Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.122Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.143Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.175Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.362Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.380Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.420Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.455Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.581Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.623Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.664Z",
+      "type": "FILTER_DROP",
+      "provider": "thanhnien_gioitre",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.800Z",
+      "type": "FILTER_DROP",
+      "provider": "vne_giadinh",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:02.868Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:03.110Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:03.355Z",
+      "type": "FILTER_DROP",
+      "provider": "tuoitre_giaoduc",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:03.409Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:04.233Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:06.207Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:08.133Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:08.975Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:09.886Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:10.741Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:12.037Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:12.769Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:13.189Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:15.079Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:15.938Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:17.853Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:18.768Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:19.581Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:21.413Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:22.298Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:23.151Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): Safety_Violated, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:23.980Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:24.947Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:25.821Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:27.713Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:28.592Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:29.930Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:30.813Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:32.888Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:34.830Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 60): Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:35.758Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:36.880Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:38.900Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:39.293Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:40.030Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 40): No_Age_Tag, Missing_Date, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:40.475Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:42.245Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:43.339Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:44.187Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:45.059Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Semantic Drop (Score: 20): No_Age_Tag, Missing_Date, Missing_Location, Not_an_Interactive_Event",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:45.842Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
+    },
+    {
+      "timestamp": "2026-11-14T05:38:46.797Z",
+      "type": "FILTER_DROP",
+      "provider": "afamily_mebe",
+      "issue": "Date Expired",
+      "context": "",
+      "status": "noise_metric"
     }
   ],
   "last_audit": {
-    "date": "2026-11-13T05:47:20.352Z",
-    "processed": 18,
+    "date": "2026-11-14T05:38:46.801Z",
+    "processed": 12,
     "failed": 1,
     "health": "DEGRADED"
   }
